@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 8</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 8</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="224-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-f47571"><!-- l1d45q8 -->
+            <head xml:id="D78nca-f47571-Hd1e108">Quaestio 8</head>
+            <head xml:id="D78nca-f47571-Hd1e111" type="question-title">
+      utrum 
+      cuiuslibet contradictionis de 
+      futuro contingenti alteram partem determinate esse 
+      veram deus distincte cognoscat
+    </head>
+            <p xml:id="D78nca-f47571-d1e114">
+               <lb ed="#P" n="25"/>VIso de veritate de 
+      <lb ed="#P" n="26"/>terminata alterius partis contradictionis de 
+      <lb ed="#P" n="27"/>futuro contingenti stando precise 
+      <lb ed="#P" n="28"/>in lumine rationum naturalium 
+      <lb ed="#P" n="29"/>videndum est quid de eodem tenem 
+      <lb ed="#P" n="30"/>dum sit secundum veritatem fide 
+      <lb ed="#P" n="31"/>catholice. Et primo quero vtrum 
+      <lb ed="#P" n="32"/>cuiuslibet contradictionis de 
+      <lb ed="#P" n="33"/>futuro contingenti alteram partem determinate esse 
+      <lb ed="#P" n="34"/>veram deus distincte cognoscat
+    </p>
+            <p xml:id="D78nca-f47571-d1e138">
+      quod non: quia aut hoc 
+      <lb ed="#P" n="35"/>ciret per determinationem causarum ex quibus 
+      depen<lb ed="#P" n="36" break="no"/>debit talis effectus et hoc non: quia intellectus eius 
+      vi<lb ed="#P" n="37" break="no"/>lesceret accipiendo scientiam ab aliis: et quia queritur 
+      <lb ed="#P" n="38"/>per quid sciet illam determinationem causarum que est 
+      <lb ed="#P" n="39"/>causa futurorum contingentium: aut hoc sciret 
+      <lb ed="#P" n="40"/>quia talis veritas naturaliter representatur in essentia 
+      <lb ed="#P" n="41"/>diuina et hoc non: quia quicquid in diuina essentia 
+      relu<lb ed="#P" n="42" break="no"/>cet et repraesentatur non per determinationem divine voluntatis  
+      <lb ed="#P" n="43"/>est necessarium: quia naturali necessitate repraesentatur: aut per 
+      deter<lb ed="#P" n="44" break="no"/>minationem voluntatis divine cum prima ratio voluntas di 
+      <lb ed="#P" n="45"/>uina non determinat homines esse peccaturos contingen 
+      <lb ed="#P" n="46"/>tie sit libertas diuine voluntatis. Si autem deus non co 
+      <lb ed="#P" n="47"/>gnoscat mala futura per determinationem divine volunta 
+      <lb ed="#P" n="48"/>tis: igitur nec bona futura vel alia indifferentia: quia 
+      <lb ed="#P" n="49"/>equalis differentia est in istis et in illis.
+    </p>
+            <p xml:id="D78nca-f47571-d1e173">
+      ¶ Contra 
+      <ref xml:id="D78nca-f47571-Rd1e175">Au<lb ed="#P" n="50" break="no"/>gu. 5. de. ci. dei cap. 9.</ref> 
+               <quote xml:id="D78nca-f47571-Qd1e180" source="http://scta.info/resource/adcd-l5-d1e699@106-115">confiteri esse deum et negare 
+      pre<lb ed="#P" n="51" break="no"/>scium futurorum apertissima insania est</quote>.
+    </p>
+            <p xml:id="D78nca-f47571-d1e187">
+      ¶ Item. 15. tri. 
+      <lb ed="#P" n="52"/>cap. 7. preterita et futura sunt deo cuncta presentia 
+      <lb ed="#P" n="53"/>et vno conspectu sibi presto sunt vniuersa: sciendum 
+      <lb ed="#P" n="54"/>yer quamuis apud omnem catholicum pars quaestionis affirma 
+      <lb ed="#P" n="55"/>tiua videatur firmiter tenenda: tamen: quia aliqui doctores theo 
+      <lb ed="#P" n="56"/>ogi visi sunt illam negare praepre difficultates inde consequentes 
+      <lb ed="#P" n="57"/>ideo ad questionem respondeosub duplici conclusionem 
+    </p>
+            <p xml:id="D78nca-f47571-d1e203">
+               <lb ed="#P" n="58"/>¶ Prima conclusio est secundum veritatem fidei catholice ponem 
+      <lb ed="#P" n="59"/>dum est contradictionis de futuro contingenti vnam 
+      <lb ed="#P" n="60"/>partem determinate esset veram et alteram partem demen 
+      <lb ed="#P" n="61"/>trabilem determinate esse falsam. probatur de aliqua con 
+      <lb ed="#P" n="62"/>tradictione de futuro contingenti: ita est igitur de 
+      <lb ed="#P" n="63"/>qualibet: quia eadem ratio est. antecedens probatur primo omnes 
+      <lb ed="#P" n="64"/>rticuli catholice fidei sunt determinato veri et opposita 
+      <lb ed="#P" n="65"/>sunt determinata falsa: sed aliquis articulus est propositio 
+      <lb ed="#P" n="66"/>de futuro contingenti vel sic fore sicut fore significatur per illam patet 
+      <!--459.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>articulus enim est quod omnes resurgemus et quod christus venturus est iudex 
+      <lb ed="#P" n="68"/>vinorum et mortuorum. Item omnis propositio scripta in textu 
+      sa<lb ed="#P" n="69" break="no"/>cri canonis est determinate vera secundum sensum quo affirmatur 
+      <lb ed="#P" n="70"/>et intenditur in sacra scriptura. sed multe pro positiones 
+      <lb ed="#P" n="71"/>de futuro contigenti sunt huiusmodi ergo. probatur actuum 
+      <lb ed="#P" n="72"/>primo sic veniet quemadmodum vidistis eum. etc. et apo. 
+      <lb ed="#P" n="73"/>l3. absterget deus omnem lachrimam. etc. sequitur scribe 
+      <lb ed="#P" n="74"/>quia hec verba fidelissima sunt et vera. vnde aliter librum 
+      <lb ed="#P" n="75"/>prophetales fuissent pro magna parte non veri 
+      quan<lb ed="#P" n="76" break="no"/>do primo conditi sunt.
+    </p>
+            <p xml:id="D78nca-f47571-d1e251">
+      ¶ Item ecclesia non artat nos 
+      <lb ed="#P" n="77"/>ad credendum determinate nisi determinate verum nec 
+      <lb ed="#P" n="78"/>ad determinate dissentiendum nisi determinate falsum 
+      <lb ed="#P" n="79"/>sed ecclesia artat fideles ad determinate et absolute 
+      <lb ed="#P" n="80"/>credendum quasdam propositiones de futuro et 
+      deter<lb ed="#P" n="81" break="no"/>minat hominem esse infidelem et hereticum qui dissentit 
+      <lb ed="#P" n="82"/>llis: igitur nisi assent vere ecclesia exigeret a nobis cre 
+      <lb ed="#P" n="83"/>dulitatem maiorem et magis determinatam quam debeatur ta 
+      <lb ed="#P" n="84"/>li propositioni de futuro.
+    </p>
+            <p xml:id="D78nca-f47571-d1e271">
+      ¶ Confirmatur fides heretico 
+      <lb ed="#P" n="85"/>tum tenentium opposita articulorum de futuro non esset 
+      <lb ed="#P" n="86"/>determinate falsa et erronea.
+    </p>
+            <p xml:id="D78nca-f47571-d1e278">
+      ¶ Item fides 
+      antiquo<lb ed="#P" n="87" break="no"/>rum patrum de christo venturo erat determinate vera: quia 
+      <lb ed="#P" n="88"/>in ea et per eam saluati sunt.
+    </p>
+            <p xml:id="D78nca-f47571-d1e285">
+      ¶ Item quod christus simpliciter 
+      affir<lb ed="#P" n="89" break="no"/>mauerat et monstrauerat determinate erat 
+      determi<lb ed="#P" n="90" break="no"/>nate verum: sed aliqua futura asserebat et monstrando 
+      <lb ed="#P" n="91"/>Math. 1. 4. amen amen dico vobis non praeteribit generatio 
+      <lb ed="#P" n="92"/>hec. etc. et Math. 26. amen dico tibi antequam gallus causatet 
+      <lb ed="#P" n="93"/>ter me negabis. etc. et Luce. 19. praedixit destructionem 
+      <lb ed="#P" n="94"/>hierlitum futuram per Ro.
+    </p>
+            <p xml:id="D78nca-f47571-d1e302">
+      ¶ Item sequitur quod dicta propheta 
+      <lb ed="#P" n="95"/>rum inspiratorum a spum sancto non magis essent vera quam 
+      <lb ed="#P" n="96"/>dicta prseudo prophetarum nec dicta istorum magis 
+      fal<lb ed="#P" n="97" break="no"/>sa quam dicta illorum. consequens est falsum: quia isti erant decepti 
+      <lb ed="#P" n="98"/>et decipiebant alios Eze. 23. et. 27. illi enim prohibebant fal 
+      <lb ed="#P" n="99"/>sa seu prophetabant falsa et mendacia.
+    </p>
+            <p xml:id="D78nca-f47571-d1e315">
+      ¶ Preterea modo est 
+      <lb ed="#P" n="100"/>articulus pariser .d. sic nulla propositio de futuro contingenti est 
+      <lb ed="#P" n="101"/>nunc de praesenti determinate vera conclusionem sic generaliter positam: in se 
+      <lb ed="#P" n="102"/>su quem facit reuoco tamquam erroneam et assero quod cuiusibet 
+      <lb ed="#P" n="103"/>contradictionis de futuro contingenti altera pars est determinate vera 
+    </p>
+            <p xml:id="D78nca-f47571-d1e326">
+               <lb ed="#P" n="104"/>¶ Secunda conclusio cuiuslibet contradictionis de futuro 
+      <lb ed="#P" n="105"/>contingenti deus alteram partem esse veram et alteram esse 
+      <lb ed="#P" n="106"/>determinate falsam cognouit ab eterno. probatur quia quicquid  
+      <lb ed="#P" n="107"/>facit deus ex tempore praeagnouit se facturum. vnde Aug. li. 
+      <lb ed="#P" n="108"/>de ci. 10. non est dicendum quod deus faciat ea quae prius 
+      nesci<lb ed="#P" n="109" break="no"/>set et ignoraret se facturum: quia nec hoc de homine artifi 
+      <lb ed="#P" n="110"/>ce vel sapiente diceretur.
+    </p>
+            <p xml:id="D78nca-f47571-d1e344">
+      ¶ Confirmatur eccle. 23. antequam 
+      <lb ed="#P" n="111"/>crearentur omnia sunt agnita sicut et post factum respicit 
+      <lb ed="#P" n="112"/>omnia hanc auctoritatem allegat Aug. 15. tri. c. 13. d. no 
+      <lb ed="#P" n="113"/>uit deus quid nobis necessrium sit priusquam petamus ab eo 
+      <lb ed="#P" n="114"/>nec ista ex aliquo tempore cognouit: sed futura omnia temporalia 
+      <lb ed="#P" n="115"/>atque in eis et quid et quando ab eo petituri fueramus et quos et 
+      <lb ed="#P" n="116"/>de quibus exauditurus vel non exauditurus esset siue initio anente 
+      <lb ed="#P" n="117"/>resciuit vniuersas autem creaturas non: quia sunt ideo no 
+      <lb ed="#P" n="118"/>uit. sed ideo sunt: quia nouit non enim nesciuit que fuerat 
+      <lb ed="#P" n="119"/>creaturus.
+    </p>
+            <p xml:id="D78nca-f47571-d1e366">
+      ¶ Item aliquos ab eterno elegit et praedesti 
+      <lb ed="#P" n="120"/>nauit ad glimam et alios quos peccatores praesciuit 
+      repro<lb ed="#P" n="121" break="no"/>pauit ad penam Ro. 8. quos praesciuit et praedestinauit. etc. no 
+      <lb ed="#P" n="122"/>uit et determinatum numerum electorum secundum Aug. de praede 
+      <lb ed="#P" n="123"/>stinatione sanctorum nouit et determinatum numerum amnorum quibus 
+      <lb ed="#P" n="124"/>quesque victurus est Iob. 14. breues dies hominis sunt nunerus 
+      <lb ed="#P" n="125"/>mensium eius apud te est. Item Io. 5. hoc autem dicebat tentans 
+      <lb ed="#P" n="126"/>tum ipse enim sciebat quid esset facturus et. c 18. iesu itaque sciens 
+      <lb ed="#P" n="127"/>omnia quae ventura erant super eum. etc. Item reuelat aliquae determi 
+      <lb ed="#P" n="128"/>nate et distincte per prophans.
+    </p>
+            <p xml:id="D78nca-f47571-d1e388">
+      ¶ Item si nouit quod .c. eueniet 
+      <lb ed="#P" n="129"/>vel quod non eueniet: sed non scit qua pars determinate sit veraset tantum 
+      <lb ed="#P" n="130"/>quod disiunctiva sit vera tunc non habet maiorem centitudinem defutu 
+      <lb ed="#P" n="131"/>ro contingenti quam homo quod deridet Boe. 5. de consola. prosa. 3. 
+      <lb ed="#P" n="132"/>primam conclusioem sequeretur quod ex non po¬ 
+    </p>
+            <p xml:id="D78nca-f47571-d1e400">
+               <lb ed="#P" n="133"/>¶ Contra itione et non euentu rei significate 
+      <!--460.xml-->
+      <pb ed="#P" n="225-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>posset argui propositio de futuro fuisse determinate fal 
+      <lb ed="#P" n="2"/>sa et affirmans illam posset argui fuisse determinate falsus 
+      <lb ed="#P" n="3"/>consequens est falsum probatur consequentia. primo: quia deus esset falsidicus et posset 
+      <lb ed="#P" n="4"/>argui falsitas: quia praedixit quadam fore quae non euenient. tum de 
+      <lb ed="#P" n="5"/>morte. Eze. Isa. xxxviii. tum de niniuitis Ione. 3. tum 
+      <lb ed="#P" n="6"/>de christo. Io. 7. ascendite vos ad dien festum hunc ego 
+      <lb ed="#P" n="7"/>autem non ascendam sequitur vt autem illi ascenderunt tunc et ipse ascen 
+      <lb ed="#P" n="8"/>dit ad dien festum etc.
+    </p>
+            <p xml:id="D78nca-f47571-d1e429">
+      ¶ Secundo christus potuisset dixisse et as 
+      <lb ed="#P" n="9"/>seruisse falsum et fuisse deceptus determinate errans 
+      pro<lb ed="#P" n="10" break="no"/>batio: quia multa futura praedixit. verbi gratia dixit Petro 
+      <lb ed="#P" n="11"/>terme negabis. tunc in tempore medio inter dictum christi et 
+      <lb ed="#P" n="12"/>negationem petriis / hec consequentia erat necessaria secundum te 
+      pe<lb ed="#P" n="13" break="no"/>trus non negabit. igitur christus dixit determinate falsu. et 
+      <lb ed="#P" n="14"/>antecedens erat possibile. igitur consequens per idem arguitur quod sacra 
+      <lb ed="#P" n="15"/>scriptura posset esse falsa: quia praedixit multa de futuro 
+      <lb ed="#P" n="16"/>verbi gratia: quod .c. cueniet tunc sic c. non eueniet. igitur proposi 
+      <lb ed="#P" n="17"/>tio de futuro prius hoc significans fuit determinate fal 
+      <lb ed="#P" n="18"/>sa consequentia tenet per te antecedens est possibile. igitur et consequens. 
+      <lb ed="#P" n="19"/>Tertio possibile esset aliquem esse beaium in celo: quia cre 
+      <lb ed="#P" n="20"/>didit determinate falsum / et quia discredidit determinate 
+      <lb ed="#P" n="21"/>verum possibile etiam esset nunc aliquem esse in inferno 
+      dam<lb ed="#P" n="22" break="no"/>natum: quia habuit fidem determinate veram. probatio: quia aliquis 
+      <lb ed="#P" n="23"/>saluatus est et meruit aliquam gratiam glurie: quia credidit re 
+      <lb ed="#P" n="24"/>surrectionem futuram et christum futurum et venturum ad iudicium 
+      <lb ed="#P" n="25"/>aliquis autem demeruit et est damnatus: quia credidit illa non fo 
+      <lb ed="#P" n="26"/>re possibile est autem illa non fore / simile argumentum facit 
+      <lb ed="#P" n="27"/>Anselmus. 2. Cur deus homo. ca. 16. quia vergo fuit 
+      munda<lb ed="#P" n="28" break="no"/>ta in fide passionis christi future postea vero necessario erat 
+      <lb ed="#P" n="29"/>illam fuisse mundatam in fide passionis christi. igitur necessi 
+      <lb ed="#P" n="30"/>erat tunc fidem eius fuisse veram. igitur tunc necesse erat christ 
+      <lb ed="#P" n="31"/>esse passurum pro futuro aut possibile erat / ipsam fuisse 
+      <lb ed="#P" n="32"/>mundatam ex fide determinate falsa.
+    </p>
+            <p xml:id="D78nca-f47571-d1e484">
+      ¶ Quarto proba 
+      <lb ed="#P" n="33"/>tur falsitas consequentis: quia si enuncians determinate 
+      <lb ed="#P" n="34"/>de futuro cotingenti arguitur dixisse determinate falsum 
+      <lb ed="#P" n="35"/>ex non positione et euentu rei significate. sequitur quod aliquis 
+      <lb ed="#P" n="36"/>esset falsus et pariurus sine peccato non tamen sufficienter 
+      <lb ed="#P" n="37"/>excusatus aut manens in gratia peccaret periurando vt 
+      fal<lb ed="#P" n="38" break="no"/>sidicus. probatio ponatur quod sortes heri existens in gratia 
+      iu<lb ed="#P" n="39" break="no"/>rauerit vel vouerit vel promisit se hodie facturum .a. bonum 
+      <lb ed="#P" n="40"/>vel cauere. b. malum. in multis enim casibus licitum est 
+      iu<lb ed="#P" n="41" break="no"/>rare et pone quod hodie committat .b. vel committat .a. non 
+      <lb ed="#P" n="42"/>tamen sufficienter excusatus: sed ex negligentia per defectum 
+      <lb ed="#P" n="43"/>diligentie debite tunc aut sortes heri peccauit aut non 
+      <lb ed="#P" n="44"/>si primum. igitur peccauit falsus et periurus manens in 
+      <lb ed="#P" n="45"/>gratia possibile enim est quod heri tota die stabat in gratia 
+      <lb ed="#P" n="46"/>quia adhuc poterat hodie promissa implere. Si secundum  
+      <lb ed="#P" n="47"/>igitur non peccauit cum tamen esset determinate falsidid 
+      <lb ed="#P" n="48"/>secundum te et iuramentum erat determinate falsum ergo erat 
+      <lb ed="#P" n="49"/>periurium sine peccato. 
+      <lb ed="#P" n="50"/>contra secundam conclusionem si deus ne 
+    </p>
+            <p xml:id="D78nca-f47571-d1e526">
+               <lb ed="#P" n="51"/>¶ Deindeuit deterinate .c. futurum esse suturi 
+      <lb ed="#P" n="52"/>aut igitur. c. ideo est futurum: quia deus scit .c. fore aut 
+      <lb ed="#P" n="53"/>econtra. ideo deus scit .c. fore: quia .c. est futurum. Si 
+      pri<lb ed="#P" n="54" break="no"/>mum. igitur peccata ideo sunt futura: quia deus scit illa 
+      <lb ed="#P" n="55"/>esse futura. igitur praescientia dei est causa et ratio quare 
+      <lb ed="#P" n="56"/>homines peccant: et ita peccata essent referenda in deum princip 
+      <lb ed="#P" n="57"/>liter. Si secundum. igitur .c. esse futurum praesupponitur et 
+      <lb ed="#P" n="58"/>preintelligitur divine scientie respectu .c. et .c. esse futu 
+      <lb ed="#P" n="59"/>rum non dependet a determinatione divine scientie vel vo 
+      <lb ed="#P" n="60"/>luntatis. igitur .c. esse futurum est necessarium et sortem 
+      <lb ed="#P" n="61"/>esse peccaturum: quia illud est necessario aliquale: quod ta 
+      <lb ed="#P" n="62"/>le est prius naturaliter seu secundum naturalem intelligen 
+      <lb ed="#P" n="63"/>tiam quam determinatio diuine voluntatis quae est prima ra 
+      <lb ed="#P" n="64"/>dix omnis contingentie. Secundo quod non est perfectionis non 
+      <lb ed="#P" n="65"/>est attribuendum deo ab eterno: sed cognoscere talis contradi 
+      <lb ed="#P" n="66"/>ctionis alteram partem determinate esse veram non est 
+      perfe<lb ed="#P" n="67" break="no"/>ctionis: probatio: quia cum possibile sit non eueuire illud igitur 
+      <!--460.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="68"/>possibile est deum non cognoscere ab eterno illud fore. igitur 
+      <lb ed="#P" n="69"/>tur possibile esset deum ab eterno carere quadam perfectio 
+      <lb ed="#P" n="70"/>ne quam habuit ab eterno.
+    </p>
+            <p xml:id="D78nca-f47571-d1e576">
+      ¶ Confirmatur hoc videtur 
+      de<lb ed="#P" n="71" break="no"/>rogare perfectioni divine scientie. probatio sicut potentia 
+      <lb ed="#P" n="72"/>ad posse sic scina ad nosse: sed si deus posset tantum in vnam 
+      <lb ed="#P" n="73"/>partem talis contradictionis determinate et non equaliter et 
+      indis<lb ed="#P" n="74" break="no"/>terenter in vtramque esset eius potentia limitata nec esset 
+      <lb ed="#P" n="75"/>ompatus. igitur pari ratione si eius scia est determinata ad 
+      <lb ed="#P" n="76"/>vnam partem contradictionis de futuro et non se habet secundum 
+      <lb ed="#P" n="77"/>scientiam indifferenter ad vtramque. sequitur quod eius scientia 
+      <lb ed="#P" n="78"/>est limitata nec est omni sciens.
+    </p>
+            <p xml:id="D78nca-f47571-d1e596">
+      ¶ Ad primum conceditur con 
+      <lb ed="#P" n="79"/>sequens sic quod ex non positione et euentu rei significate in 
+      <lb ed="#P" n="80"/>sensu quo significabatur fore per huiusmodi propositionem secundum 
+      <lb ed="#P" n="81"/>conuenientem et debitam intelligentiam et secundum quam illa 
+      affir<lb ed="#P" n="82" break="no"/>matio erat accipienda et interpretanda et ad quam conueni 
+      <lb ed="#P" n="83"/>enter erat refereda si vero res significata non euenit et 
+      <lb ed="#P" n="84"/>affirmatio conuenienter referebatur ad alium sensum secundum 
+      <lb ed="#P" n="85"/>quem sufficienter referebatur: negatur consequentia.
+    </p>
+            <p xml:id="D78nca-f47571-d1e615">
+      ¶ Ad primam 
+      <lb ed="#P" n="86"/>improbationem consequentis dicendum quod dictum Isale: im 
+      <lb ed="#P" n="87"/>mo dictum domini per vsaiam erat determinate verum secundum 
+      sen<lb ed="#P" n="88" break="no"/>sum in quo fiebat. Nam erat locutio comminatoria vel 
+      condi<lb ed="#P" n="89" break="no"/>tionalis puta nisi per pninam se emendaret Ezechias et 
+      <lb ed="#P" n="90"/>sic videtur intellexisse Ezechias conuertit se ad fletum et ora 
+      <lb ed="#P" n="91"/>tionem quibus impetrauit vite prolongationem.
+    </p>
+            <p xml:id="D78nca-f47571-d1e631">
+      ¶ Item secundum 
+      <lb ed="#P" n="92"/>glosam ibidem et secundum Gregorium. 12. mo. cap. ii. per hu 
+      <lb ed="#P" n="93"/>ius verba siginificabatur quod Ezechias per opera quae fecerat 
+      <lb ed="#P" n="94"/>longiorem non merebatur vitam vel quod secundum naturam vi 
+      <lb ed="#P" n="95"/>uere amplius non poterat: sed per lachrymas et orationem erat 
+      <lb ed="#P" n="96"/>mpetraturus.
+    </p>
+            <p xml:id="D78nca-f47571-d1e644">
+      ¶ Ad secundam probationem per idem secundum enim 
+      <lb ed="#P" n="97"/>glosam ibidem nequitia niniuitarum sic crescebat secundum vi 
+      <lb ed="#P" n="98"/>tam quam agebant vt quadragesimo die completo esset: 
+      <lb ed="#P" n="99"/>corum ciuitas destruenda. sed acturi penitentiam per 
+      mo<lb ed="#P" n="100" break="no"/>nitionem Ione erant consecuturi minam et verbum domini erat 
+      <lb ed="#P" n="101"/>intelligendum tanquam comminatorium vel conditionale. scilice 
+      <lb ed="#P" n="102"/>nisi pninam agerent et sic videntur niniuite recepisse illud 
+      <lb ed="#P" n="103"/>verbum: quia rex praecepit pninam agi. d. conuertatur vira via sua 
+      <lb ed="#P" n="104"/>mala quis scit si conuertatur et ignoscat deus etc. Ione. 3. 
+      <lb ed="#P" n="105"/>sic etiam videtur Ionas intellexisse verbum domini: quia vt habetur. c. 4 
+      <lb ed="#P" n="106"/>ait Ionas nunquid non hoc est verbum meum cum adhuo 
+      <lb ed="#P" n="107"/>essem in terra mea propter hoc praeoccupaui vt fugerem in ter 
+      <lb ed="#P" n="108"/>ris scio enim: quia tu deus clemens et misericors super etc. 
+    </p>
+            <p xml:id="D78nca-f47571-d1e673">
+               <lb ed="#P" n="109"/>¶ Item verbum domini erat verum in siginficatione alia secundum Au. xxi. 
+      <lb ed="#P" n="110"/>ci. c. xv. d. duobus modois poecitiores euertuntur aut sicut sodo 
+      <lb ed="#P" n="111"/>mitecum pro peccatis suis homines puniuntur aut sicu niniuite vt 
+      <lb ed="#P" n="112"/>ipsa pecca hominum penitendo destruantur factum est. igitur quod prae 
+      <lb ed="#P" n="113"/>dixit deus euersa est niniue quo mala erat et bona 
+      edifi<lb ed="#P" n="114" break="no"/>cata est qua non erat / stantibus enim menibus et domibus euer 
+      <lb ed="#P" n="115"/>titur ciuitas in perditis moribus. iuxta illud ad Rom. 5 
+      <lb ed="#P" n="116"/>vetus homo noster crucifixus est vt destruatur corpus peccati 
+    </p>
+            <p xml:id="D78nca-f47571-d1e693">
+               <lb ed="#P" n="117"/>¶ Ad aliam improbationem dictum christi erat verum 
+      simpli<lb ed="#P" n="118" break="no"/>citer et erat accipiendum secundum respectum ad alia verba 
+      praece<lb ed="#P" n="119" break="no"/>dentia ad quae erat responsiuum: christus enim non ascendit tunc nec 
+      <lb ed="#P" n="120"/>sicut qualiter et quando ascendere ipsum hortabantur quidam cognati 
+      <lb ed="#P" n="121"/>sui. inducebant enim iesum vt ad die festum ascenderet manife 
+      <lb ed="#P" n="122"/>ste cum discipuorum suorum commitiua. et sic seipsum magis 
+      ma<lb ed="#P" n="123" break="no"/>nifestaret et mundo notum faceret in illo die solemni mira 
+      <lb ed="#P" n="124"/>clsia faciendo ad maiorem gluriam sui capiendam: christus autem re 
+      <lb ed="#P" n="125"/>nuit taliter et ad hanc intentionem ascendem.
+    </p>
+            <p xml:id="D78nca-f47571-d1e715">
+      ¶ Item christus non ascen 
+      <lb ed="#P" n="126"/>dit primo die festo qui celebrior erat et de quo intendebant prin 
+      <lb ed="#P" n="127"/>cipaliter illi exhortatores: sed ascendit secundo die. dicitur enim quod is 
+      <lb ed="#P" n="128"/>sus mansit in galilea et post modum festo iam mediante ascen 
+      <lb ed="#P" n="129"/>dit iesus in templum. Ad secundam improbationem consequentis prin 
+      <lb ed="#P" n="130"/>cipalis. negatur consequentia Ad probationem dico quod in illo tempore mo 
+      <lb ed="#P" n="131"/>dio huiusmodi consequentia non erat simpliciter necessaria: quia / posito antecedente e 
+      <lb ed="#P" n="132"/>dictum christi specieali dei inspiratione et motione prolatum fuissetur 
+      <lb ed="#P" n="133"/>verum secundum aliquem sensum conuenientem in qua accipiebatur a christo 
+      <lb ed="#P" n="134"/>explicite vel implicite et virtualiter et ad quem referretur a deor 
+      <!--461.xml-->
+      <pb ed="#P" n="225-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>puta nisi speciali gratia et auxilio praeueniaris et si 
+      interro<lb ed="#P" n="2" break="no"/>geris cum timore mortis tibi imminentis non es nunc sic suf 
+      <lb ed="#P" n="3"/>ficienter firmatus charitate vt ex te possis prompte 
+      si<lb ed="#P" n="4" break="no"/>animam tuam ponere pro me vt dicis et vt putas aut etiam 
+      <lb ed="#P" n="5"/>multis aliis modois quibus diuina intelligentia poterat in 
+      <lb ed="#P" n="6"/>lud verbum adaptare significationi veraci. Talia enim si 
+      <lb ed="#P" n="7"/>gna ad quae deus speciealiter et supernaturaliter mouet sunt acci 
+      <lb ed="#P" n="8"/>pienda sub illis modificationibus et referenda sunt ad il 
+      <lb ed="#P" n="9"/>lum sensum quem deus adaptat et referendum dictat qui est i 
+      <lb ed="#P" n="10"/>ma veritas et regula omnis veritatis: immo omne aliud verum ed 
+      <lb ed="#P" n="11"/>est verum quo conformatur iudicio diuini intellectus et omnis pro 
+      <lb ed="#P" n="12"/>positio creata illi subordinatur et deseruit quo ad 
+      veri<lb ed="#P" n="13" break="no"/>dificationem vel falsidicationem et expositionem et inter 
+      <lb ed="#P" n="14"/>praetationem pro vt in sequentibus magis ostendetur.
+    </p>
+            <p xml:id="D78nca-f47571-d1e775">
+      ¶ Ad ter 
+      <lb ed="#P" n="15"/>tiam negatur consequentia si enim resurrectio mortuorum no foret ad 
+      <lb ed="#P" n="16"/>huc non est dicendum fidem illorum fuisse falsam simpliciter et pro 
+      <lb ed="#P" n="17"/>prie licet secundum apparentiam et similitudinem. ipse enim formali 
+      <lb ed="#P" n="18"/>ter et explicite vel habitualiter et virtualiter et implicite cre 
+      <lb ed="#P" n="19"/>diderunt sic resurrectionem futuram: quod deus poterat libe 
+      <lb ed="#P" n="20"/>re oppositum salua veritate sue intelligentie et quod deus qui est 
+      <lb ed="#P" n="21"/>prima veritas et infinite intelligentie potest saluare veritatem 
+      <lb ed="#P" n="22"/>dictorum suorum secundum modos varios tanquam habens primam 
+      <lb ed="#P" n="23"/>et plenam autentem interpretandi et exponendi et referendum 
+      <lb ed="#P" n="24"/>Ideo ratione huiusmodi fidei explicite vel implicite censenda 
+      <lb ed="#P" n="25"/>esset simpliciter vera omnis credulitas meritoria et deo acce 
+      <lb ed="#P" n="26"/>pta illorum iustorum qui crediderunt resurrectionem futuram: 
+      <lb ed="#P" n="27"/>multa enim dicta partialia secundum se sumpta et considerata 
+      <lb ed="#P" n="28"/>apparent falsa quae tamen relata ad aliud ad quod referenda sunt 
+      <lb ed="#P" n="29"/>censentur simpliciter vera / sicut etiam est de signis nostris 
+      <lb ed="#P" n="30"/>mentalibus.
+    </p>
+            <p xml:id="D78nca-f47571-d1e812">
+      ¶ Item quamuis iste qui credidit aliter fore quam 
+      <lb ed="#P" n="31"/>eueniet sit saluatus non ex hoc sequitur quod saluatus sit: quia cre 
+      <lb ed="#P" n="32"/>didit falsum et propter falsam fidem: sed saluatus est propter 
+      <lb ed="#P" n="33"/>merita: et quia in charitate decessit et erat rectus secundum vo 
+      <lb ed="#P" n="34"/>luntatem et credidit non aliter quam tunc teneretur: et quia obe 
+      <lb ed="#P" n="35"/>diuit diuino praecepto et ecclesie vt tunc debuit: econtra autem est 
+      <lb ed="#P" n="36"/>de alio damnato. multa autem concomitantur aliquid quae non sunt 
+      <lb ed="#P" n="37"/>propter quid illius.
+    </p>
+            <p xml:id="D78nca-f47571-d1e830">
+      ¶ Ad argumentum additum de Anselma 
+      <lb ed="#P" n="38"/>illud est argumentu disciplici ad quod respondet Anselmus: vide 
+      <lb ed="#P" n="39"/>tur tamen magister respondere ad argumentum quatinus suberat 
+      <lb ed="#P" n="40"/>diuine praeordinationi quod filius dei pateretur ad quam per consequentiam 
+      <lb ed="#P" n="41"/>necessariam sequitur christum pati. Sed quo ad veritatem et ne 
+      <lb ed="#P" n="42"/>cessitatem fidei praeterite dicendum est vt prius.
+    </p>
+            <p xml:id="D78nca-f47571-d1e843">
+      ¶ Ad quar 
+      <lb ed="#P" n="43"/>tam improbationem consequentis negatur consequentia ad 
+      probatio<lb ed="#P" n="44" break="no"/>nem dicendum / quod si sortes heri licite iurabat et hodie 
+      <lb ed="#P" n="45"/>non implet quod iurauit non tamen stat in eo nec sibi im 
+      <lb ed="#P" n="46"/>putabile est ad culpam tunc potest dici quod sortes heri non iu 
+      <lb ed="#P" n="47"/>rauit falsum: quia ex quo iustum et licitum erat iuramentum 
+      <lb ed="#P" n="48"/>dictum suum secundum legen dei erat accipiendum et interpretan 
+      <lb ed="#P" n="49"/>dum quod sic foret quantum posset / et quantum in ipso esset: vel secum 
+      <lb ed="#P" n="50"/>dum alias modificationes ad quas referendum erat secum 
+      <lb ed="#P" n="51"/>dum dictamen diuini intellectus. Si vero hodie peccat non 
+      <lb ed="#P" n="52"/>obseruando iuramentum tunc conceditur quod heri determina 
+      <lb ed="#P" n="53"/>te falsum dixit: tamen tunc non periurabat actualiter 
+      suppo<lb ed="#P" n="54" break="no"/>sito quod terminus pariuril inuoluat maliciam et circumstantiam 
+      <lb ed="#P" n="55"/>indebitam in sua significatione: cum ergo quaeritur an heri pec 
+      <lb ed="#P" n="56"/>cabat dico quod non. et cum dicitur quod erat periurus nega 
+      <lb ed="#P" n="57"/>tur contra hodie est reus periurii. igitur periurauit sed non 
+      <lb ed="#P" n="58"/>hodie: quia hodie non iurat nec dicit aliquod falsum vt 
+      <lb ed="#P" n="59"/>supponitur. igitur heri parturauit.
+    </p>
+            <p xml:id="D78nca-f47571-d1e882">
+      ¶ Confirmatur heri 
+      <lb ed="#P" n="60"/>turabat et falsum. igitur periurabat.
+    </p>
+            <p xml:id="D78nca-f47571-d1e887">
+      ¶ Responsio periu 
+      <lb ed="#P" n="61"/>rare vno modo dicitur falsum indebite iurare. vt de 
+      <lb ed="#P" n="62"/>praesenti vel praeterito. Alio modo temerarie iurare de fu 
+      <lb ed="#P" n="63"/>turo siue impleatur siue non. ex quo enim est iuramentum 
+      <lb ed="#P" n="64"/>temerarium et illicitum sequitur quod non sit implendum. igitur 
+      <lb ed="#P" n="65"/>tur censetur de iure tanquam non futurum. ideo interpre 
+      <lb ed="#P" n="66"/>tatiue censetur periurium.
+    </p>
+            <p xml:id="D78nca-f47571-d1e904">
+      ¶ Alio modo dicitur periurium 
+      <!--461.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>non obseruantia determinata iurati vel transgressio 
+      <lb ed="#P" n="68"/>indebita iuramenti vel macula et culpa ex huiusmodi 
+      trans<lb ed="#P" n="69" break="no"/>gressione / et sic in proposito sortes dicitur periurare tunc 
+      <lb ed="#P" n="70"/>quando committit vel omittit contra precedens iuramentum 
+      <lb ed="#P" n="71"/>hec enim commissio vel omissio imputatur ad culpam perturii. 
+    </p>
+            <p xml:id="D78nca-f47571-d1e922">
+               <lb ed="#P" n="72"/>¶ Aliter diceretur quod dictum hesternum incipit hodie de 
+      <lb ed="#P" n="73"/>nominari actu periurium denominatione extrinseca et heri erat 
+      <lb ed="#P" n="74"/>periurium in potentia et futuritionem 
+      <lb ed="#P" n="75"/>ad primum contra secundam conclusionem. pa 
+    </p>
+            <p xml:id="D78nca-f47571-d1e933">
+               <lb ed="#P" n="76"/>¶ Deindentet supra. dist. 3. quastione vlt.
+    </p>
+            <p xml:id="D78nca-f47571-d1e938">
+      ¶ Ad  
+      <lb ed="#P" n="77"/>secundum aliquid attribui deo vel conuenire intelligitur 
+      dupli<lb ed="#P" n="78" break="no"/>citer vel per modum enunciationis. scilicet tamquam predicatum enim 
+      <lb ed="#P" n="79"/>ciatum de hoc subiecto deus. Alio modo per modum 
+      idenm<lb ed="#P" n="80" break="no"/>ptitatis: quia est idem deo et deus est huiusmodi cuiusmodi 
+      <lb ed="#P" n="81"/>esse significatur per talem praedicationem.
+    </p>
+            <p xml:id="D78nca-f47571-d1e951">
+      ¶ Item aliquod attri 
+      <lb ed="#P" n="82"/>butum deo non esse perfectionis potest intelligi dupliciter. vno 
+      <lb ed="#P" n="83"/>modo: quia non infert illud cui attribuitur esse perfectius 
+      <lb ed="#P" n="84"/>quam si sibi non attribueretur. Sed eius contradictorium 
+      <lb ed="#P" n="85"/>et per oppositum illud diceretur esse perfectionis 
+      sim<lb ed="#P" n="86" break="no"/>pliciter quod vniuersaliter infert melius esse et perfectius 
+      <lb ed="#P" n="87"/>illud cui conuenit eo cui non conuenit aut inquam perfe 
+      <lb ed="#P" n="88"/>ctius simpliciter aut in eo quod tale vel quod infert aliquid 
+      <lb ed="#P" n="89"/>cui conuenit esse simpliciter perfectius omni eo cui 
+      re<lb ed="#P" n="90" break="no"/>pugnat vel cui non conuenit et sic negatur maior / sicut 
+      <lb ed="#P" n="91"/>enim aliquid attribuitur deo nouiter ex tempore et attri 
+      <lb ed="#P" n="92"/>buetur sibi in eternum quod sibi tamen non conueniebat 
+      <lb ed="#P" n="93"/>ab eterno vt creare .b. ita aliquid attribuitur deo ab 
+      <lb ed="#P" n="94"/>eterno per modum futuritionis: quod non attribuetur sibi 
+      <lb ed="#P" n="95"/>ineternum alio modo aliquid attributum dicitur non. scilice 
+      <lb ed="#P" n="96"/>esse producturum .b. esse perfectionis: quia infert imperfi 
+      <lb ed="#P" n="97"/>ctionem et carentiam perfectionis vel non supponit proper 
+      <lb ed="#P" n="98"/>fectione: et sic negatur minor / nec sequitur quod deus 
+      ca<lb ed="#P" n="99" break="no"/>reat aliqua perfectione quam habuisset: illa enim perfectio 
+      <lb ed="#P" n="100"/>manet: sed ipsa non manet indicium talis futuri. Scien 
+      <lb ed="#P" n="101"/>dum etiam quod supposito quod .b. erit: imperfectio esset in 
+      <lb ed="#P" n="102"/>deo non prescire .b. esse. Sciendum est quod quamuis prescire 
+      <lb ed="#P" n="103"/>hanc partem contradictionis de futuro veram esse non 
+      <lb ed="#P" n="104"/>sit perfectio simpliciter primo modo / tamen prescire 
+      <lb ed="#P" n="105"/>cuiuslibet contradictionis de futuro alteram partem 
+      <lb ed="#P" n="106"/>determinate esse veram est perfectionis simpliciter. 
+    </p>
+            <p xml:id="D78nca-f47571-d1e1008">
+               <lb ed="#P" n="107"/>¶ Ad confirmationem similitudo est quo ad vocalem 
+      <lb ed="#P" n="108"/>deriuationem non quo ad determinationem accipiendo 
+      <lb ed="#P" n="109"/>actualiter nosse ex vna parte et potentialiter 
+      produce<lb ed="#P" n="110" break="no"/>re ex alia. Sed si vtrumque accipiatur vniformiter secum 
+      <lb ed="#P" n="111"/>dum actum vel vtrumque secundum potentiam teneret simi 
+      <lb ed="#P" n="112"/>litudo.
+    </p>
+            <p xml:id="D78nca-f47571-d1e1025">
+      ¶ Ad rationem in praecipio quaestionis. patet. dist. 39. etc 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

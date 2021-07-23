@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="191-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-f26148"><!-- l1d42-44q2 -->
+            <head xml:id="D78nca-f26148-Hd1e108">Quaestio 2</head>
+            <head xml:id="D78nca-f26148-Hd1e111" type="question-title">
+      utrum per 
+      rationes humane 
+      philosophie capiendo humanam 
+      philosophiam pro illa quod 
+      humanus intellectus possit acquirere 
+      ex causis naturalibus cum 
+      influentia dei generali secluso super 
+      naturali dei auxilio facto per 
+      reuelationem interiorem vel exte 
+      riorem. utrum inqua per rationes humane philosoprhie possit 
+      sufficienter probari. Primum ens esse nobilitatis  
+      essentialis formaliter infinite.
+    </head>
+            <p xml:id="D78nca-f26148-d1e114">
+               <lb ed="#P" n="121"/>¶ Secunda questio 
+      <lb ed="#P" n="122"/>QUero secundo vtrum per 
+      ra<lb ed="#P" n="123" break="no"/>tiones humane 
+      phi<lb ed="#P" n="124" break="no"/>losophie capiendo humanam 
+      <lb ed="#P" n="125"/>philosophiam pro illa quod 
+      huma<lb ed="#P" n="126" break="no"/>nus intellectus possit acquirere 
+      <lb ed="#P" n="127"/>ex causis naturalibus cum 
+      influ<lb ed="#P" n="128" break="no"/>entia dei generali secluso super 
+      <lb ed="#P" n="129"/>naturali dei auxilio facto per 
+      re<lb ed="#P" n="130" break="no"/>uelationem interiorem vel exte 
+      <lb ed="#P" n="131" break="no"/>riorem. vtrum inqua per rationes humane philosoprhie possit 
+      <!--394.xml-->
+      <pb ed="#P" n="192-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sufficienter probari. Primum ens esse nobilitatis  
+      <lb ed="#P" n="2"/>essentialis formaliter infinite.
+    </p>
+            <p xml:id="D78nca-f26148-d1e151">
+      
+      Quod sic. quia in 
+      <lb ed="#P" n="3"/>finitas perfectionis non repugnat enti: cum sit gradus 
+      <lb ed="#P" n="4"/>summe perficiens entitatem. et quare intellectui non 
+      ap<lb ed="#P" n="5" break="no"/>paret repugnantia infiniti ad ens.
+    </p>
+            <p xml:id="D78nca-f26148-d1e160">
+      ¶ Contra non 
+      ar<lb ed="#P" n="6" break="no"/>gueretur nisi ex entibus secundis que sunt a primo 
+      <lb ed="#P" n="7"/>ente. et continentur in eo. et sunt ad ipsum vt ad finem 
+      <lb ed="#P" n="8"/>sed ex illis non arguitur: quia entia secunda sunt fi 
+      <lb ed="#P" n="9"/>nita. secundum perfectionem specialiter 
+      perfectio<lb ed="#P" n="10" break="no"/>nes specifice sunt finite secundum philosophos. igitur 
+      <lb ed="#P" n="11"/>tur.
+    </p>
+            <p xml:id="D78nca-f26148-d1e177">
+      ¶ Hic primo exponendum est ens simpliciter 
+      <lb ed="#P" n="12"/>infinitum secundum perfectionem essentialem. Si 
+      <lb ed="#P" n="13"/>autem exponatur quod est illud quod 
+      improportiona<lb ed="#P" n="14" break="no"/>biliter: id est vltra omnem proportionem finitam et 
+      <lb ed="#P" n="15"/>numerabilem excedit in perfectione essentiali quamcumque 
+      <lb ed="#P" n="16"/>perfectionem finitam hec expositio non videbitur 
+      suffi<lb ed="#P" n="17" break="no"/>ciens apud multos qui ponunt quantitates specificas 
+      <lb ed="#P" n="18"/>esse perfectionis finite et tamen indiuiduum huius 
+      <lb ed="#P" n="19"/>excedere indiuiduum illius vltra omnem proportio 
+      <lb ed="#P" n="20"/>nem numeralem secundum perfectionem essentialem 
+      <lb ed="#P" n="21"/>potest igitur sic dici quod ens simpliciter infinitum 
+      se<lb ed="#P" n="22" break="no"/>cundum perfectionem est quod 
+      improportionabili<lb ed="#P" n="23" break="no"/>ter et vltra omnem proportionem numeralem exce 
+      <lb ed="#P" n="24"/>dit in perfectione essentiali quemcunque gradum 
+      per<lb ed="#P" n="25" break="no"/>fectionis essentialis finitum etiam si in infinitum ascen 
+      <lb ed="#P" n="26"/>datur secundum gradus perfectionis alterius ratio 
+      <lb ed="#P" n="27"/>nis. eo modo quo humanitas excedit asinitatem. ita 
+      <lb ed="#P" n="28"/>quod si esset entitas excedens humanitatem proportio 
+      <lb ed="#P" n="29"/>nabiliter sicut humanitas excedit asinitatem et iterum 
+      <lb ed="#P" n="30"/>esset alia quantitas alterius rationis excedens illam 
+      <lb ed="#P" n="31"/>proportionabiliter et sic consequenter non deuenire 
+      <lb ed="#P" n="32"/>tur ad eque vel magis perfectum essentialiter. sicut 
+      <lb ed="#P" n="33"/>est illud quod ponitur infinitum simpliciter 
+      secun<lb ed="#P" n="34" break="no"/>dum perfectionem. vt ens infinitum secundum 
+      per<lb ed="#P" n="35" break="no"/>fectionem. dicatur. cui non potest equiparari secun 
+      <lb ed="#P" n="36"/>dum perfectionem quodcumque ens finitum acceptum 
+      <lb ed="#P" n="37"/>vel acceptibile secundum rem vel imaginationem 
+      <lb ed="#P" n="38"/>quantumcunque procedatur augendo vel 
+      multipli<lb ed="#P" n="39" break="no"/>cando finite 
+    </p>
+            <p xml:id="D78nca-f26148-d1e240">
+               <lb ed="#P" n="40"/>¶ Vel quia infinitum dicit negationem finiti 
+      po<lb ed="#P" n="41" break="no"/>test dici quod infinitum secundum perfectionem dicitur 
+      <lb ed="#P" n="42"/>quod non habet finitum gradum perfectionis sub en 
+      <lb ed="#P" n="43"/>te. sicut homo vel equus dicitur ens perfectionis fi 
+      <lb ed="#P" n="44"/>nite: vt infinitum exponatur per negationem finiti: 
+      <lb ed="#P" n="45"/>quod scilicet non est limitatum et terminatum secun 
+      <lb ed="#P" n="46"/>dum perfectionem essentialem sicut corpus pedale 
+      <lb ed="#P" n="47"/>est finitum et terminatum secundum quantitatem et 
+      <lb ed="#P" n="48"/>extensionem. et sicut binarius est quantum finitum 
+      <lb ed="#P" n="49"/>secundum multitudinem. et hic calor est ens finitum 
+      <lb ed="#P" n="50"/>et terminatum secundum intentionem et virtutem. 
+    </p>
+            <p xml:id="D78nca-f26148-d1e266">
+               <lb ed="#P" n="51"/>¶ Uel potest dici quod ens infinitum secundum perfe 
+      <lb ed="#P" n="52"/>ctionem dicitur quod se habet secundum perfectio 
+      <lb ed="#P" n="53"/>nem essentialem ad quamcunque perfectionem finitam 
+      <lb ed="#P" n="54"/>sicut multitudo infinita ad binarium secundum 
+      ra<lb ed="#P" n="55" break="no"/>tionem quantitatis discrete / et sicutlinea infinita ad  
+      <lb ed="#P" n="56"/>pedalem / vel eternitas ad horam secundum quanti 
+      <lb ed="#P" n="57"/>tatem: vel sicut linea ad punctum vel hora ad instans 
+      <lb ed="#P" n="58"/>secundum durationem.
+    </p>
+            <p xml:id="D78nca-f26148-d1e286">
+               <lb ed="#P" n="59"/>¶ Prima conclusio deus est ens forma 
+      <lb ed="#P" n="60" break="no"/>liter et simpliciter in 
+      <lb ed="#P" n="61"/>finitum secundum perfectionem et nobilitatem essen 
+      <lb ed="#P" n="62" break="no"/>tialem. probatur: quia ens est quo maius cogitari non 
+      <lb ed="#P" n="63"/>potest secundum Anselmum.
+    </p>
+            <p xml:id="D78nca-f26148-d1e299">
+      ¶ Item in Psal. ma 
+      <lb ed="#P" n="64"/>gnitudinis eius non est fiuis.
+    </p>
+            <p xml:id="D78nca-f26148-d1e304">
+      ¶ Item est intelligen 
+      <lb ed="#P" n="65"/>tie infinite. Psalmista. sapientie eius non est nume 
+      <lb ed="#P" n="66"/>rus. et quia intelligit infinita distincte et comprehen¬ 
+      <!--394.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>siue.
+    </p>
+            <p xml:id="D78nca-f26148-d1e318">
+      ¶ Item Sapientie septimo. Infinitus est the 
+      <lb ed="#P" n="68"/>saurus hominibus.
+    </p>
+            <p xml:id="D78nca-f26148-d1e323">
+      ¶ Item Damascenus libro pri 
+      <lb ed="#P" n="69"/>mo. c. 4. infinitus est deus et incomprehensibilis. et 
+      <lb ed="#P" n="70"/>taps. 12. deus totum ens in seipso comprehendit ve 
+      <lb ed="#P" n="71"/>lut quoddam pelagus substantie infinitum et 
+      inde<lb ed="#P" n="72" break="no"/>terminatum. 
+      <lb ed="#P" n="73"/>qua an hoc possit 
+      suffi<lb ed="#P" n="74" break="no"/>Sed inquirendum. cienter probari 
+      na<lb ed="#P" n="75" break="no"/>turali ratione. et an hoc sit tanquam probabilius ponendum 
+      <lb ed="#P" n="76"/>secundum philosophiam humanitus inuentam. et 
+      argui<lb ed="#P" n="77" break="no"/>tur a multis quod sic: primo deus intelligit simul actua 
+      <lb ed="#P" n="78"/>liter et distincte infinita intelligibilia. Igitur habet 
+      <lb ed="#P" n="79"/>formaliter infinitas intellectiones vel vnam infinitam 
+      <lb ed="#P" n="80"/>equiualentem infinitis / et per consequens est 
+      infini<lb ed="#P" n="81" break="no"/>tum. quia intelligere sic plura simul est maioris 
+      per<lb ed="#P" n="82" break="no"/>fectionis. Antecedens probatur: quia intelligit om 
+      <lb ed="#P" n="83"/>ne obiectum intelligibile. cum enim intellectus sit 
+      re<lb ed="#P" n="84" break="no"/>spectu omnis intelligibilis. ergo primus et perfectis 
+      <lb ed="#P" n="85"/>simus intellectus est respectu omnis intelligibilis et 
+      <lb ed="#P" n="86"/>non imperfecte vel confuse sicut visus respectu omnis 
+      <lb ed="#P" n="87"/>visibilis.
+    </p>
+            <p xml:id="D78nca-f26148-d1e367">
+      ¶ Secundo fic. appetitus creature 
+      ratio<lb ed="#P" n="88" break="no"/>nalis natus est beatificari et quietari et saciari in 
+      ali<lb ed="#P" n="89" break="no"/>quo obiecto et in aliquo bono: sed non in aliquo 
+      fini<lb ed="#P" n="90" break="no"/>to secundum perfectionem. igitur. maior. patet: quia 
+      <lb ed="#P" n="91"/>naturalis appetitus creature rationalis non est fru 
+      <lb ed="#P" n="92"/>stra. maxime secundum totam speciem et respectu 
+      <lb ed="#P" n="93"/>sui finis. Minor probatur: tum quia sicut experimur 
+      <lb ed="#P" n="94"/>appetitus rationalis inclinatur naturaliter ad 
+      desi<lb ed="#P" n="95" break="no"/>derandum et habendum bonum secundum 
+      perfectio<lb ed="#P" n="96" break="no"/>nem infinitum et comprehensiuum omnis boni 
+      fini<lb ed="#P" n="97" break="no"/>ti nec in minori terminatur appetitus noster. Nam 
+      <lb ed="#P" n="98"/>secundum Aristotelem primo politicorum. cap. 6. 
+      <lb ed="#P" n="99"/>Diuitie appetuntur in infinitum nec satiatur nec 
+      quie<lb ed="#P" n="100" break="no"/>tatur in eis appetitus. et pari ratione de quocunque 
+      <lb ed="#P" n="101"/>alio bono finito. Tum quia intellectus noster omni 
+      <lb ed="#P" n="102"/>finito natus est maius intelligore. igitur et appetitus 
+      <lb ed="#P" n="103"/>appetere et amare.
+    </p>
+            <p xml:id="D78nca-f26148-d1e404">
+      ¶ Tertio quod est tam bonum et 
+      <lb ed="#P" n="104"/>tam perfectum quod maius eo nec esse nec cogitari 
+      po<lb ed="#P" n="105" break="no"/>test est infinitum. deus est huiusmodi. vt probat 
+      An<lb ed="#P" n="106" break="no"/>selmus. igitur maior probatur quia omni finito 
+      po<lb ed="#P" n="107" break="no"/>test esse et cogitari maius absque repugnantia: quia fi 
+      <lb ed="#P" n="108"/>nito vtfinitum est potest fieri additio.
+    </p>
+            <p xml:id="D78nca-f26148-d1e417">
+      ¶ 
+      Confirma<lb ed="#P" n="109" break="no"/>tur eo quod est perfectissimum et eminentissimum ens 
+      <lb ed="#P" n="110"/>non contingit esse vel cogitari eminentius sine 
+      re<lb ed="#P" n="111" break="no"/>pugnantia manifesta. Sed omni finito contingit 
+      <lb ed="#P" n="112"/>esse vel cogitari eminentius absque repugnantia ma 
+      <lb ed="#P" n="113"/>nifesta. igitur nullum finitum ens est perfectissimum 
+      <lb ed="#P" n="114"/>ens. non dico perfectissimus homo vel 
+      perfectissi<lb ed="#P" n="115" break="no"/>mus angelus: sed perfectissimum ens. deus autem est 
+      <lb ed="#P" n="116"/>eminentissimum ens.
+    </p>
+            <p xml:id="D78nca-f26148-d1e437">
+      ¶ Quarto nulla imperfectio vel 
+      <lb ed="#P" n="117"/>conditio imperfectionis inest primo enti. cum sit ens 
+      sim<lb ed="#P" n="118" break="no"/>pliciter perfectissimum sed finitas est conditio 
+      im<lb ed="#P" n="119" break="no"/>perfectionis. probatur: quia finitum dicit limitatio 
+      <lb ed="#P" n="120"/>nem et artationem essentialis perfectionis. et 
+      quan<lb ed="#P" n="121" break="no"/>to aliquid est limitatius secundum aliquid. tanto est 
+      <lb ed="#P" n="122"/>imperfectius secundum illud. et tanto est propinqui 
+      <lb ed="#P" n="123"/>us non gradui vel infimo gradui.
+    </p>
+            <p xml:id="D78nca-f26148-d1e456">
+      ¶ Quinto 
+      condi<lb ed="#P" n="124" break="no"/>tio et differentia essendi que non est imperfectionis 
+      <lb ed="#P" n="125"/>nec apparet repugnare enti. attribuenda est primo 
+      <lb ed="#P" n="126"/>enti secundum actum vel potentiam: sed infinitas 
+      <lb ed="#P" n="127"/>perfectionis essentialis est huiusmodi: tum quia 
+      in<lb ed="#P" n="128" break="no"/>finitas videtur gradus vel differentia perfectior quam 
+      <lb ed="#P" n="129"/>finitas. Tum quia quantitati molis non repugnat 
+      <lb ed="#P" n="130"/>infinitas quantitatiua. igitur quantitati virtutis et 
+      <lb ed="#P" n="131"/>erfectionis non repugnat infinitas suo modo proportiona 
+      <lb ed="#P" n="132"/>biliter correspondens quia est nobilior differentia infinitatis: antecedens 
+      <!--395.xml-->
+      <pb ed="#P" n="192-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>probatur nam infinitas conuenit quantitati 
+      succes<lb ed="#P" n="2" break="no"/>siue conuenit etiam multitudini conuenit et continuo 
+      <lb ed="#P" n="3"/>infinitas secundum diuisionem.
+    </p>
+            <p xml:id="D78nca-f26148-d1e491">
+      ¶ Confirmatur com 
+      <lb ed="#P" n="4"/>uenit procedere in infinitum in descendendo et in di 
+      <lb ed="#P" n="5"/>minutione perfectionis: quia omni gradu finito per 
+      <lb ed="#P" n="6"/>fectionis dato contingit dare subduplum. igitur con 
+      <lb ed="#P" n="7"/>tingit procedere in infinitum in astendendo et in 
+      aug<lb ed="#P" n="8" break="no"/>mentatione perfectionis. quia hic processus est 
+      no<lb ed="#P" n="9" break="no"/>bilior et magis ad perfectionem vniuersi.
+    </p>
+            <p xml:id="D78nca-f26148-d1e507">
+      ¶ Sexto 
+      <lb ed="#P" n="10"/>singulare quod adequat et totaliter comprehendit pin 
+      <lb ed="#P" n="11"/>fectionem sue quidditatis specifice est infinitum. de 
+      <lb ed="#P" n="12"/>us est huiusmodi. quia quidditas deitatis non po 
+      <lb ed="#P" n="13"/>test multiplicari numeraliter sed hoc singulare est 
+      <lb ed="#P" n="14"/>totaliter sua quidditas. igitur. maior probatur: quia 
+      <lb ed="#P" n="15"/>singulare adequans et totaliter comprehendens 
+      per<lb ed="#P" n="16" break="no"/>fectionem quidditatis specifice inferioris esset infi 
+      <lb ed="#P" n="17"/>nitum. patet. si enim esset aliqua albedo adequans et 
+      <lb ed="#P" n="18"/>totaliter comprehendens perfectionem totius sper 
+      <lb ed="#P" n="19"/>ciei albedinis esset infinita: quia contineret 
+      formali<lb ed="#P" n="20" break="no"/>ter vel eminenter et equiualenter infinitos gradus 
+      <lb ed="#P" n="21"/>albedinis et omnem albedinem possibile. igitur multo magis 
+      <lb ed="#P" n="22"/>singulare adequans totaliter perfectionem nature perfectio 
+      <lb ed="#P" n="23"/>ris est infinitum.
+    </p>
+            <p xml:id="D78nca-f26148-d1e540">
+      ¶ Septimo. quod secundum per 
+      <lb ed="#P" n="24"/>fectionem excedit infinite et improportionabilite 
+      <lb ed="#P" n="25"/>quodlibet finitum est infinitum secundum perfectio 
+      <lb ed="#P" n="26"/>nem: Deus est huiusmodi: quia dato quocunque 
+      en<lb ed="#P" n="27" break="no"/>te finito secundo quantumcunque augeretur vel 
+      fie<lb ed="#P" n="28" break="no"/>ret sibi additio ad duplum vel ad quadruplum etc. 
+      <lb ed="#P" n="29"/>secundum perfectionem adhuc non adequaretur se 
+      <lb ed="#P" n="30"/>cundum perfectionem primo enti: quia dependeret 
+      <lb ed="#P" n="31"/>ab eo / et gratia eius esset vt finis propter quem. 
+    </p>
+            <p xml:id="D78nca-f26148-d1e560">
+               <lb ed="#P" n="32"/>¶ Octauo quod continet eminenter et perfectiona 
+      <lb ed="#P" n="33"/>liter perfectiones entium secundorum est infinitun 
+      <lb ed="#P" n="34"/>maxime si continet illas nobiliori modo quam si contino 
+      <lb ed="#P" n="35"/>ret formaliter vel quam contineantur ab entibus secun 
+      <lb ed="#P" n="36"/>dis. patet: quia ille sunt infinite actu vel potentia 
+      <lb ed="#P" n="37"/>deus est huiusmodi: tum quia omne ens secundum  
+      <lb ed="#P" n="38"/>natum est dependere essentialiter a primo secundum 
+      <lb ed="#P" n="39"/>quodlibet sui. tum quia primum est finis omnium 
+      <lb ed="#P" n="40"/>tum quia continet eminenter perfectionem entis se 
+      <lb ed="#P" n="41"/>cundi nobilissimi quod est primum causatum. et 
+      quo<lb ed="#P" n="42" break="no"/>est totaliter a primo ente. igitur pari ratione perfe 
+      <lb ed="#P" n="43"/>ctionem tertii entis: et sic consequenter.
+    </p>
+            <p xml:id="D78nca-f26148-d1e589">
+      ¶ Dicen 
+      <lb ed="#P" n="44"/>maior conceditur si essent infinite species entium se 
+      <lb ed="#P" n="45"/>cundorum: non autem si sint infinita entia secundam 
+      <lb ed="#P" n="46"/>eiusdem rationis possibilia: quilibet enim homo dici 
+      <lb ed="#P" n="47"/>tur continere perfectionem cuiuslibet asini quia par 
+      <lb ed="#P" n="48"/>eundem gradum perfectionis finitum quo 
+      quiddi<lb ed="#P" n="49" break="no"/>tas superior continet et excedit inferiorem continet 
+      <lb ed="#P" n="50"/>et excedit omnia indiuidua illius: nec est maioris per 
+      <lb ed="#P" n="51"/>fectionis sic excedere vnum vel continere quam omnia 
+      <lb ed="#P" n="52"/>Contra. quia primum ens videtur continere eminem 
+      <lb ed="#P" n="53"/>ter infinitas perfectiones specificas: quia pluralitas 
+      <lb ed="#P" n="54"/>specifica procedit in infinitum in numeris et figuris 
+      <lb ed="#P" n="55"/>et in actibus anime correspondentibus illis specie 
+      <lb ed="#P" n="56"/>bus numerorum et figurarum et in actibus rectis et 
+      <lb ed="#P" n="57"/>reflexis tam intellectus quam voluntatis 
+      <lb ed="#P" n="58"/>videtur quod non potest sufi 
+    </p>
+            <p xml:id="D78nca-f26148-d1e625">
+               <lb ed="#P" n="59"/>¶ Respondeo. ficienter probari pars at 
+      <lb ed="#P" n="60"/>firmatiua ratione naturali: et quod probabilior sit pars 
+      <lb ed="#P" n="61"/>negatiua in lumine naturali: probatur. quia non suf 
+      <lb ed="#P" n="62"/>ficienter probatur esse infinite potentie actiue vel est 
+      <lb ed="#P" n="63"/>fectiue. patet ex precedenti questione. igitur. nec suf 
+      <lb ed="#P" n="64"/>ficienter probatur esse infinite perfectionis essentia 
+      <lb ed="#P" n="65"/>lis. consequentia probatur: quia si nullius sit 
+      poten<lb ed="#P" n="66" break="no"/>tie motiue et effectiue vel si sit potentie effectiue fin 
+      <!--395.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>te. sequitur quod non est formaliter infinite perfectum 
+    </p>
+            <p xml:id="D78nca-f26148-d1e651">
+               <lb ed="#P" n="68"/>¶ Preterea non probatur sufficienter .b. intelligen 
+      <lb ed="#P" n="69"/>tiam secundam immediatam prime esse nobilitatis  
+      <lb ed="#P" n="70"/>formaliter infinite. igitur nec de prima intelligentia 
+      <lb ed="#P" n="71"/>consequentia probatur: quia non arguitur quin .b. 
+      <lb ed="#P" n="72"/>contineat et excedat omnia alia entia secunda. sicu 
+      <lb ed="#P" n="73"/>prima continet et excedit .b. igitur si ex continentia 
+      <lb ed="#P" n="74"/>aliorum non arguitur infinita perfectio in .b. sic con 
+      <lb ed="#P" n="75"/>tinente. sequitur quod nec arguitur ex contineutia aliqu 
+      <lb ed="#P" n="76"/>rum cum ipso .b. quia sola additio finiti non arguiti 
+      <lb ed="#P" n="77"/>nec facit de finito infinitum.
+    </p>
+            <p xml:id="D78nca-f26148-d1e675">
+      ¶ Preterea non suffi 
+      <lb ed="#P" n="78"/>cienter probatur primam intelligentiam excedere 
+      in<lb ed="#P" n="79" break="no"/>finite .b. secundam intelligentiam immediatam 
+      pri<lb ed="#P" n="80" break="no"/>me. igitur nec arguitur excedere infinite aliquod 
+      a<lb ed="#P" n="81" break="no"/>liud. consequentia patet: quia .b. est perfectionis fini 
+      <lb ed="#P" n="82"/>te. Antecedens probatur: quia non arguitur posse 
+      <lb ed="#P" n="83"/>esse medium gradum perfectionis inter primam et 
+      <lb ed="#P" n="84"/>b. et ita non arguitur primam distare infinite secundum 
+      per<lb ed="#P" n="85" break="no"/>fectionem ab ipso .b. et quia .b. continet et excedit quid 
+      <lb ed="#P" n="86"/>quid continetur et exceditur actu vel potentia a pri 
+      <lb ed="#P" n="87"/>ma intelligentia preter ipsum. .b.
+    </p>
+            <p xml:id="D78nca-f26148-d1e699">
+      ¶ Preterea aut 
+      <lb ed="#P" n="88"/>prima intelligentia poneretur intelligens et volens 
+      <lb ed="#P" n="89"/>et agens libere et contingenter vel naturali 
+      necessita<lb ed="#P" n="90" break="no"/>te. si secundum. igitur eum habeat velle et 
+      intellige<lb ed="#P" n="91" break="no"/>re distincte respectu omnium ex quo ponitur esse in 
+      <lb ed="#P" n="92"/>finite intelligentie et volitionis. sequitur quod omnia 
+      eue<lb ed="#P" n="93" break="no"/>nirent necessario et immutabiliter vel ineuitabiliter 
+      <lb ed="#P" n="94"/>si primum. igitur omnes fere difficultates que 
+      con<lb ed="#P" n="95" break="no"/>tingunt in lumine fidei nostre circa intelligere et 
+      vel<lb ed="#P" n="96" break="no"/>le diuinum respectu singularium presentium 
+      prete<lb ed="#P" n="97" break="no"/>ritorum et futurorum contingerent etiam 
+      philoso<lb ed="#P" n="98" break="no"/>phis vtentibus precise lumine naturali et omnia mi 
+      <lb ed="#P" n="99"/>racula essent concedenda quod non est probabile phlhe 
+      <lb ed="#P" n="100"/>losophis 
+      <lb ed="#P" n="101"/>in oppositum negatur antece 
+      <lb ed="#P" n="102"/>Ad primum. dens stando in lumine 
+      natu<lb ed="#P" n="103" break="no"/>rali. patet supra distinctione trigesima quinta 
+      que<lb ed="#P" n="104" break="no"/>stione tertia.
+    </p>
+            <p xml:id="D78nca-f26148-d1e738">
+      ¶ Ad secundum negatur minor in 
+      lu<lb ed="#P" n="105" break="no"/>mine naturali loquendo de appetiturationali 
+      confor<lb ed="#P" n="106" break="no"/>mi recte rationi naturaliter appetenti non de 
+      appe<lb ed="#P" n="107" break="no"/>titu qualicunque. multa enim appetimus communi 
+      <lb ed="#P" n="108"/>ter et ad appetendum naturaliter id est secundum 
+      dis<lb ed="#P" n="109" break="no"/>positionem naturalis complexionis inclinamur que 
+      <lb ed="#P" n="110"/>non sunt naturaliter possibilia: vt perpetuo viuere si 
+      <lb ed="#P" n="111"/>ne infirmitate et miseria vel pena quacumque. probatio 
+      <lb ed="#P" n="112"/>nes autem antecedentis procedunt de appetitu natu 
+      <lb ed="#P" n="113"/>rali / id est quo de facto appetimus secundum natu 
+      <lb ed="#P" n="114"/>ralem nostram dispositionem.
+    </p>
+            <p xml:id="D78nca-f26148-d1e762">
+      ¶ Ad tertium si 
+      ma<lb ed="#P" n="115" break="no"/>ior intelligitur quod nullum obiectum intelligibile 
+      po<lb ed="#P" n="116" break="no"/>test cogitari quod sit actu realiter maius: negatur ma 
+      <lb ed="#P" n="117"/>ior. et probatio assumit falsum. si vero intelligatur non 
+      <lb ed="#P" n="118"/>est possibilis cogitatio ex cuius veritate non seque 
+      <lb ed="#P" n="119"/>retur esse aliquid maius: negatur minor / immo seque 
+      <lb ed="#P" n="120"/>tur esse et non esse: maius de hoc supra dictum est di 
+      <lb ed="#P" n="121"/>stinctione secunda questione quarta.
+    </p>
+            <p xml:id="D78nca-f26148-d1e781">
+      ¶ Ad quartum 
+      <lb ed="#P" n="122"/>negatur minor si intelligatur vniuersaliter. ad probationem 
+      <lb ed="#P" n="123"/>limitatio citra gradum et terminum maiorem possibile est 
+      <lb ed="#P" n="124"/>proprie artatio et est conditio aliqualis imperfectio 
+      <lb ed="#P" n="125"/>nis et talis non est in primo ente: sed large sumendo li 
+      <lb ed="#P" n="126"/>mitationem vt opponitur infinito et interminato: 
+      <lb ed="#P" n="127"/>sic limitatum non dicit imperfectionem. sed esse 
+      li<lb ed="#P" n="128" break="no"/>mitatius aliquo dicit imperfectionem: quia dicit 
+      <lb ed="#P" n="129"/>elongationem a summo gradu et vltimo termino 
+      par<lb ed="#P" n="130" break="no"/>fectionis.
+    </p>
+            <p xml:id="D78nca-f26148-d1e803">
+      ¶ Ad quintum negatur minor in lumine 
+      <lb ed="#P" n="131"/>naturali. ad probationem primam non est imperfe 
+      <lb ed="#P" n="132"/>ctior differentia essendi secundum rei veritatem: 
+      <!--396.xml-->
+      <pb ed="#P" n="193-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sed tantum in apparentia et imaginatione et modo in  
+      <lb ed="#P" n="2"/>telligendi: i ta enim arguitur quod sit dare infinitum et 
+      <lb ed="#P" n="3"/>accidens infinitum.
+    </p>
+            <p xml:id="D78nca-f26148-d1e823">
+      ¶ Ad secundam si 
+      in<lb ed="#P" n="4" break="no"/>telligitur de infinitate quantitatiua extensiua et par 
+      <lb ed="#P" n="5"/>mansiua negatur assumptum. si de infinitate aliis mo 
+      <lb ed="#P" n="6"/>dis possibilibus negatur consequentia. Ad 
+      confir<lb ed="#P" n="7" break="no"/>mationem negatur consequentia
+    </p>
+            <p xml:id="D78nca-f26148-d1e834">
+      ¶ Ad sextum 
+      ne<lb ed="#P" n="8" break="no"/>gatur maio: quia secundum Philosophos quilibet 
+      <lb ed="#P" n="9"/>planeta sic adequat et quelibet intelligentia 
+      secun<lb ed="#P" n="10" break="no"/>da. si igitur illa quantitas sit unmaterialis vel non 
+      <lb ed="#P" n="11"/>multiplicabilis naturaliter secundum plura 
+      suppo<lb ed="#P" n="12" break="no"/>sita numero negatur maior. si vero sit numeraliter et 
+      <lb ed="#P" n="13"/>indiuidualiter multiplicabilis sic maior implicat im 
+      <lb ed="#P" n="14"/>possibile si sit cathegorica.
+    </p>
+            <p xml:id="D78nca-f26148-d1e852">
+      ¶ Ad septimum secun 
+      <lb ed="#P" n="15"/>dum aliquos negatur maior. potest tamen negari mi 
+      <lb ed="#P" n="16"/>nor. ad probationem l cet assumptum sit verum spe 
+      <lb ed="#P" n="17"/>cialiter de augmentatione non implicante contra 
+      <lb ed="#P" n="18"/>dictionem in lumine naturali non tamen probat pro 
+      <lb ed="#P" n="19"/>positum.
+    </p>
+            <p xml:id="D78nca-f26148-d1e865">
+      ¶ Ad octauum. si intelligitur de continen 
+      <lb ed="#P" n="20"/>tia virtuali quo modo sol continet generabilia et cor 
+      <lb ed="#P" n="21"/>ruptibilia / vel de continentia perfectionali quo 
+      mo<lb ed="#P" n="22" break="no"/>do humanitas dicitur continere perfectionem asini 
+      <lb ed="#P" n="23"/>et animalium inferiorum negatur maior. Ad 
+      proba<lb ed="#P" n="24" break="no"/>tionem assumptum est falsum de quidditatibus 
+      spe<lb ed="#P" n="25" break="no"/>cificis. si vero intelligitur de indiuiduis non probat 
+      <lb ed="#P" n="26"/>propositum: quia non est duplo maioris perfectio 
+      <lb ed="#P" n="27"/>nis continere taliter. 4. quam continere. 2.
+    </p>
+            <p xml:id="D78nca-f26148-d1e886">
+      ¶ Responsio 
+      <lb ed="#P" n="28"/>ibi posita conceditur in lumine naturali. ad improbi 
+      <lb ed="#P" n="29"/>tionem ille non sunt quidditates infinite realiter di 
+      <lb ed="#P" n="30"/>stincte specifice alia distinctione a quidditatibus nu 
+      <lb ed="#P" n="31"/>meralibus et figuralibus / de conceptibus autem 
+      in<lb ed="#P" n="32" break="no"/>tellectus nostri non est possibilis processus in 
+      infini<lb ed="#P" n="33" break="no"/>tum secundum species loquendo precise in pura ph 
+      <lb ed="#P" n="34"/>losophia: intellectus enim noster est virtutis finite et 
+      <lb ed="#P" n="35"/>non ponitur deum supernaturaliter ipsum adiuua 
+      <lb ed="#P" n="36"/>re per potentiam infinitam.
+    </p>
+            <p xml:id="D78nca-f26148-d1e908">
+      ¶ Ad argumentum in 
+      <lb ed="#P" n="37"/>principio questionis negatur antecedens. ad proba 
+      <lb ed="#P" n="38"/>tionem quedam repugnantie magis apparent et 
+      que<lb ed="#P" n="39" break="no"/>dam magis latent: sed per rationes a priori vel apo 
+      <lb ed="#P" n="40"/>steriori manifestantur. non enim intellectus nosten 
+      <lb ed="#P" n="41"/>statim cognoscit euidenter repugnare quecunque 
+      re<lb ed="#P" n="42" break="no"/>pugnant. infinitas etiam non est differentia estendum 
+      <lb ed="#P" n="43"/>secundum philosophos. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1645 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="68-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-e44139"><!-- l1d14q2 -->
+            <head xml:id="D78nca-e44139-Hd1e108">Quaestio 2</head>
+            <head xml:id="D78nca-e44139-Hd1e111" type="question-title">
+      utrum aliquam charitatem habere sit viatori 
+      necessarium ad salutem
+    </head>
+            <p xml:id="D78nca-e44139-d1e114">
+               <lb ed="#P" n="43"/>Supposito quod ad 
+      homi<lb ed="#P" n="44" break="no"/>inem esse dignum vita eterna requiratur secundum 
+      <lb ed="#P" n="45"/>leges dei ordinatas habere aliquam charita 
+      <lb ed="#P" n="46"/>tem: et quod ad eternam salutem consequendum 
+      <lb ed="#P" n="47"/>necessarium sit haberee aliquam charitatem.
+      <lb ed="#P" n="48"/>Queritur vtrum aliquam charitatem habere sit viatori neces 
+      <lb ed="#P" n="49" break="no"/>sarium ad salutem.
+    </p>
+            <p xml:id="D78nca-e44139-d1e132">
+      Quod sic. illud est necessarium ad 
+      <lb ed="#P" n="50"/>salutem sine quo seu qua circunscripto non consequitur 
+      <lb ed="#P" n="51"/>viator salutem. sed sine charitate infusa non conse 
+      <lb ed="#P" n="52"/>quitur: igitur. Contra. verum est quod nullam charitatem ha 
+      <lb ed="#P" n="53"/>bere est necessarium ad salutem: ergo falsum est quod 
+      ali<lb ed="#P" n="54" break="no"/>quam charitatem habere sit necessarium ad salutem: antecedens 
+      <lb ed="#P" n="55"/>probatur: quia illa est vniversalis cuius nulla singularis est 
+      fal<lb ed="#P" n="56" break="no"/>sa. patet per inductionem. hanc enim charitatem habere non 
+      <lb ed="#P" n="57"/>est necessarium ad salutem: et illam charitatem habere non est 
+      <lb ed="#P" n="58"/>necessarium ad salutem. similiter consequentia patet: quia ille videntur 
+      com<lb ed="#P" n="59" break="no"/>tradictorie sibi inuicem tanquam vniversalis negatiua et 
+      particu<lb ed="#P" n="60" break="no"/>laris affirmatiua.
+    </p>
+            <p xml:id="D78nca-e44139-d1e158">
+      ¶ In hac quaestione vt praemissum est 
+      <lb ed="#P" n="61"/>supponitur secundum leges dei positas: quod impossibile sit 
+      ho<lb ed="#P" n="62" break="no"/>minem saluari sine charitate infusa et gratia gratum faciete 
+      <lb ed="#P" n="63"/>et quod hec est impossibilis: sortes non habens gratiam est dignus vita 
+      <lb ed="#P" n="64"/>eterna.
+    </p>
+            <p xml:id="D78nca-e44139-d1e170">
+      ¶ Supposinitur et in ista quaestione siue sit verum siue 
+      <lb ed="#P" n="65"/>non quod quicuque latitudine charitatis et gratie data: minor 
+      <lb ed="#P" n="66"/>latitudo sufficeret ad salutem et ad esse iustum / et di¬ 
+      <!--146.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>gnum vita eterna. vel si gratia baptismalis sit determi 
+      <lb ed="#P" n="68"/>nata et minima latitudo gratie sufficiens ad salutem sup 
+      <lb ed="#P" n="69"/>ponitur quod quacumque tali gratia singulari signata / et demon 
+      <lb ed="#P" n="70"/>strata ipsa non necessario requiritur ad salutem quin alia similis./ 
+      <lb ed="#P" n="71"/>et equelis sufficeret ad salutem. Et his suppositis quaeritur 
+      <lb ed="#P" n="72"/>in de virtute seiumodis et ex formali significatione propositionis hec 
+      <lb ed="#P" n="73"/>propositiones sint vere charitas / vel aliqua charitas est necessaria 
+      <lb ed="#P" n="74"/>ad salutem consequendam: vel ad esse dignum salute cha 
+      <lb ed="#P" n="75"/>itatem vel aliquam charitatem habere requiritur: et est 
+      neces<lb ed="#P" n="76" break="no"/>sarium ad salutem consequendam. Et si dicitur quod facta 
+      <lb ed="#P" n="77"/>resolutione / et ex positione erit tandem disputatio de nomine 
+      <lb ed="#P" n="78"/>et significatione orationis. Dicendum quod quamuis propositio 
+      <lb ed="#P" n="79"/>vocalis significet ad placitum: tamen propositio mentalis signi 
+      <lb ed="#P" n="80"/>ficat naturaliter: et per consequens ex sua per se et naturali significatio 
+      <lb ed="#P" n="81"/>ne est determinate vera / vel determinate falsa. 
+      Sup<lb ed="#P" n="82" break="no"/>posita igitur significatione terminorum vocalium non est in 
+      <lb ed="#P" n="83"/>libertate hominis propositionem vocalem significare hoc 
+      <lb ed="#P" n="84"/>vel illud: et per consequens esse veram / vel falsam.
+    </p>
+            <p xml:id="D78nca-e44139-d1e220">
+      ¶ 
+      Pri<lb ed="#P" n="85" break="no"/>mo igitur inducentur rationes ad vtramque partem. secundo 
+      re<lb ed="#P" n="86" break="no"/>pondebitur ad quesitum.
+    </p>
+            <!-- article 1 ? -->
+            <p xml:id="D78nca-e44139-d1e229">
+               <lb ed="#P" n="87"/>¶ Quo ad primum Arguitur primo quod hec sit 
+      <lb ed="#P" n="88"/> vera / et concedenda
+      <lb ed="#P" n="89"/>Charitas est necessaria ad salutem: vel charitatem ha 
+      <lb ed="#P" n="90"/>bere requiritur et est necessarium ad dignitatem et conse 
+      <lb ed="#P" n="91"/>cutionem salutis: quia contradictoria est falsa. probo. nulla gratia 
+      <lb ed="#P" n="92"/>est necessaria ad salutem: igitur non solum sine gratia contingit hominem 
+      <lb ed="#P" n="93"/>saluari / et esse dignum salute: sed est contingit hominem saluari 
+      <lb ed="#P" n="94"/>et esse dignum salute sine gratia. consequens est falsum: quia supponitur quod 
+      <lb ed="#P" n="95"/>necessarium est huiusmodi ad salutem habere charitatem: et quod hec non est 
+      <lb ed="#P" n="96"/>pntingens homo sine gratia est dignus salute: sicut et falsum esset di 
+      <lb ed="#P" n="97"/>cere contingit sorte sine oculis esse videntem. consequentia probatur. tum / 
+      <lb ed="#P" n="98"/>quia consequens probatur per inductionem: sicut tu probas antecedens. contingit enim 
+      <lb ed="#P" n="99"/>hominem saluari samen hac gratia: et contingit hominem saluari sine 
+      <lb ed="#P" n="100"/>illa gratia. etc. et ita omnes singulares illius ster vere: et per consequens con 
+      <lb ed="#P" n="101"/>ossibiles: quia verum est compossibile vero. Tum quia singulares 
+      <lb ed="#P" n="102"/>puius vniversalis. Nulla gra necessaria est sorti ad salutem et 
+      <lb ed="#P" n="103"/>singulares huius vniversalis: contingit sortem sine omni gratia saluari 
+      <lb ed="#P" n="104"/>equipollent conuertibiliter: vt hec gratia .a. non est necessaria 
+      <lb ed="#P" n="105"/>sorti ad salutem: et contingit sortem saluari samen .a. gratia: tum 
+      <lb ed="#P" n="106"/>quia contingit hominem saluari samen eo quod non est necessarium nec 
+      <lb ed="#P" n="107"/>requisitum ad salutem: et sine omni eo quod est praeter necessarium ad 
+      sa<lb ed="#P" n="108" break="no"/>lutem.
+    </p>
+            <p xml:id="D78nca-e44139-d1e279">
+      ¶ Secundo nulla gratia est necessaria ad salutem: igitur 
+      nul<lb ed="#P" n="109" break="no"/>lam gratiam habendo potest quis saluari vel igitur nulla gratia 
+      <lb ed="#P" n="110"/>habita potest quis saluari: consequens est falsum. tum quia 
+      contradi<lb ed="#P" n="111" break="no"/>ctorium est verum scilicet aliquam gratiam habendo potest quis saluari. 
+      <lb ed="#P" n="112"/>tum quia aliquis puta sortes posset saluari nullam gratiam habendo 
+      <lb ed="#P" n="113"/>quod est falsum: quia non potest poni in esse sub eade forma 
+      prae<lb ed="#P" n="114" break="no"/>dicati. sicut etiam hec est impossibilis: nullum vel neutrum 
+      <lb ed="#P" n="115"/>oculum habendo potest sortes videre: consequentia principalis probatur 
+      <lb ed="#P" n="116"/>tum quia consequens probaretur per inductionem: sicut tu probas ans tum 
+      <lb ed="#P" n="117"/>quia ad singiulares antecedent sequuntur sigilulares consequentis: igitur ad il 
+      <lb ed="#P" n="118"/>lud antecedens sequitur illud consequens per illam regulam. quicquid antecedit ad 
+      <lb ed="#P" n="119"/>antecedens antecedit ad consequens vel quicquid sequitur ad consequens 
+      sequi<lb ed="#P" n="120" break="no"/>tur ad antecedens: sed propositio vniversalis sequitur ad suas singulares et 
+      e<lb ed="#P" n="121" break="no"/>contra. quod autem sinigiles illius antecedentis inferant sigulares illius 
+      <lb ed="#P" n="122"/>prasesentis patet: quia sequitur hec gratia non est necessaria ad salutem: igitur 
+      <lb ed="#P" n="123"/>hanc gratiam non habendo potest quis saluari: et sic de aliis. Ter 
+      <lb ed="#P" n="124"/>tio. si illa vniversalis negatiua foret vera: hoc maxime vide 
+      <lb ed="#P" n="125"/>retur propter illam inductionem: quia scilicet quelibet singularis diuisim / et 
+      <lb ed="#P" n="126"/>seorsum accepta est vera: sed hoc non valem. probatur multipliciter. 
+      <lb ed="#P" n="127"/>Primo sequitur quod in sensu compositionis hec pro 
+      <lb ed="#P" n="128"/>positio esset vera: omni gratia priuatus potest saluari. consequentia 
+      <lb ed="#P" n="129"/>patet: quia probabitur per inductionem. qualibet enim singu 
+      <lb ed="#P" n="130"/>laris seorsum accepta erit vera: et in sensu composi 
+      <lb ed="#P" n="131"/>tionis. si autem singulares sint vere: igitur et sunt compos 
+      <lb ed="#P" n="132"/>sibiles: quia nullum verum est in compossibile vero. Si autem 
+      <!--147.xml-->
+      <pb ed="#P" n="68-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>omnes singulares illius vniuersalis sunt vere in sensu 
+      <lb ed="#P" n="2"/>compositionis: igitur et vniuersalis est vera in sensu con 
+      <lb ed="#P" n="3"/>positionis: vt si singulares istius omnis homo sedens 
+      <lb ed="#P" n="4"/>potest ambulare forent vere in sensu compositionis 
+      <lb ed="#P" n="5"/>et ipsa vniuersalis similiter esset. probatur item consequentia: quia 
+      <lb ed="#P" n="6"/>singulares istius vniuersalis / nulla gratia est 
+      necessa<lb ed="#P" n="7" break="no"/>ria ad salutem: et singulares istius omni gratia 
+      priua<lb ed="#P" n="8" break="no"/>tus potest saluari in sensu etiam compositionis equipol 
+      <lb ed="#P" n="9"/>lent et conuertuntur: igitur et ille vniuersales equipollent: et 
+      <lb ed="#P" n="10"/>iuertuntur: sed falsitas consequentis probatur: quia hec esset 
+      pos<lb ed="#P" n="11" break="no"/>ibilis omni gratia priuatus saluatur vel est dignus sa 
+      <lb ed="#P" n="12"/>lute: cuius oppositum supponitur. Eorum enim 
+      que<lb ed="#P" n="13" break="no"/>sunt incompossibilia de inesse et de actu / si alterum 
+      <lb ed="#P" n="14"/>alteri attribuitur per enunciationem de possibili: sen 
+      <lb ed="#P" n="15"/>sus compositionis est falsus: vt album potest esse 
+      ni<lb ed="#P" n="16" break="no"/>grum. Eodem modo potest argui quod hec esset vera in sensu 
+      <lb ed="#P" n="17"/>compositionis / nullam gratiam habens potest esse dignus vi 
+      <lb ed="#P" n="18"/>ta aeterna. Tertio ex inductione in singularibus diuisim suf 
+      <lb ed="#P" n="19"/>ficienter infertur talis vniuersalis: sed quod illa vniuer 
+      <lb ed="#P" n="20"/>salis sit falsa in sensu compositionis probatur vt prius 
+      <lb ed="#P" n="21"/>imo quod sit etiam falsa in sensu diuisionis probatur: quia 
+      <lb ed="#P" n="22"/>eius contradi ctoria est vera etiam in sensu diuisio 
+      <lb ed="#P" n="23"/>nis scilicet aliquam gratiam habens potest esse dignus vita eterna. 
+      <lb ed="#P" n="24"/>Quod etiam ex huiusmodi inductione non infertur talis vni 
+      <lb ed="#P" n="25"/>uersasis in sensu diuisionis probatur: quia hoc oculo 
+      prim<lb ed="#P" n="26" break="no"/>uatus potest videre / et illo oculo priuatus potest vide 
+      <lb ed="#P" n="27"/>re: tamen falsum est quod omni oculo priuatus potest vide 
+      <lb ed="#P" n="28"/>re. vel quod sortes. nullo oculo habito potest videre et in sensu 
+      <lb ed="#P" n="29"/>diuisionis: quia a priuatione qua est cecitas non est 
+      nan<lb ed="#P" n="30" break="no"/>liter possibilis regressus ad habitum. ideo falsum est 
+      <lb ed="#P" n="31"/>in sensu etiam diuisionis quod homo cecus potest videre 
+      <lb ed="#P" n="32"/>loquendo de potentia naturali. Homo autem cecus et 
+      <lb ed="#P" n="33"/>omni oculo priuatus / vel nullum oculum habens. 
+      <lb ed="#P" n="34"/>conuertuntur. Secundo. quod huiusmodi inductio non inferat 
+      <lb ed="#P" n="35"/>illam vniuersalem: quia sequitur quod hec est possibilis 
+      <lb ed="#P" n="36"/>secundum leges ordinatas: Omni gratia priuatus est dignus 
+      <lb ed="#P" n="37"/>salute. consequens est falsum vt supponitur. Sicut etiam 
+      <lb ed="#P" n="38"/>hec non est possibilis: omni / vel vtroque oculo privatus 
+      <lb ed="#P" n="39"/>est videns. consequentia probatur: quia potest fieri similis 
+      indu<lb ed="#P" n="40" break="no"/>ctio quaelibet enim singularis per se accepta est possibilis 
+      <lb ed="#P" n="41"/>quia hec est possibilis hac gratia nunc priuatus est dignus vita eterna 
+      <lb ed="#P" n="42"/>et similiter hec est possib ilis: illa gratia nunc priuatus. etc. e 
+      <lb ed="#P" n="43"/>sic de singulis. Alla autem propositio vniuersalis esset 
+      <lb ed="#P" n="44"/>possibilis pari ratione: cuius omnes singulares seor 
+      <lb ed="#P" n="45"/>sum acceptabiles sunt possibiles. Si secundum te illa 
+      <lb ed="#P" n="46"/>est vera cuius omnes singulares sunt vere: quia non mi 
+      <lb ed="#P" n="47"/>nus ex possibilitate singularium infertur possibilitas 
+      <lb ed="#P" n="48"/>llius vniuersalis quam ex veritate veritas. Tertio. se 
+      <lb ed="#P" n="49"/>quitur quod hec est vera de inesse: omni gratia priuatus qui 
+      <lb ed="#P" n="50"/>dignus beatitudine. probo: quia quaelibet singularis seorsum 
+      <lb ed="#P" n="51"/>est vera scilicet hac gratia priuatus est dignus beatitudine: 
+      <lb ed="#P" n="52"/>illa gratia priuatus est dignus salute. etc. sed si illa 
+      vniuer<lb ed="#P" n="53" break="no"/>salis conceditur. Contra. tum quia eius contradictoria 
+      <lb ed="#P" n="54"/>est vera scilicet aliqua gratia priuatus non est dignus 
+      bea<lb ed="#P" n="55" break="no"/>titudine. Tum quia nullus omni gratia priuatus est dignus 
+      <lb ed="#P" n="56"/>peatitudine. Patet per inductionem Iste omni gratia 
+      <lb ed="#P" n="57"/>priuatus non est dignus beatitudine: ille omni gratia 
+      <lb ed="#P" n="58"/>priuatus. etc. Tum quia sequitur ideo aliquis dignus bea 
+      <lb ed="#P" n="59"/>tudine est omni gratia priuatus. Tum quia pari ratione hec 
+      <lb ed="#P" n="60"/>esset vera / omni vel vtroque oculo priuatus est videns: 
+      <lb ed="#P" n="61"/>et cum cecus et omni oculo priuatus conuertantur: sequitur 
+      <lb ed="#P" n="62"/>quod cecus est videns. Similiter omni gratia priuatus et existens in 
+      pec<lb ed="#P" n="63" break="no"/>cato mortali conuertantur: igitur hec esset vera: existens in 
+      <lb ed="#P" n="64"/>mortali est dignus beatitudine: tum quia hec esset vera. nul 
+      <lb ed="#P" n="65"/>lam gratiam habens est dignus beatitudine: quia nullam 
+      <lb ed="#P" n="66"/>gratiam habens / et omni gratia priuatus conuertuntur: igitur dignus 
+      <!--147.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>salute est nullam gratiam habens.
+    </p>
+            <p xml:id="D78nca-e44139-d1e490">
+      ¶ Quarto. si ex verita 
+      <lb ed="#P" n="68"/>te singularium diuisim sumptibilium infertur 
+      vni<lb ed="#P" n="69" break="no"/>uersalis: sequitur quod hec esset vera. nulla gratia priuatus 
+      <lb ed="#P" n="70"/>est dignus beatitudine: quia quaelibet singularis perse est vera. 
+      <lb ed="#P" n="71"/>siue singularis sumatur sic. hac gratia non priuatus est 
+      di<lb ed="#P" n="72" break="no"/>gnus beatitudine. siue sumatur sic. hac gratia priuatus 
+      <lb ed="#P" n="73"/>non est dignus beatitudine. Quod autem illa 
+      vniuersa<lb ed="#P" n="74" break="no"/>is negatiua sit falsa: patet: quia eius contradictoria 
+      <lb ed="#P" n="75"/>est vera scilicet aliqua gratia priuatus est dignus beatitudine 
+      <lb ed="#P" n="76"/>et quia ex illa sequitur ergo aliquis dignus beatitudine est 
+      <lb ed="#P" n="77"/>nulla gratia priuatus: igitur est habens omnem gratiam 
+    </p>
+            <p xml:id="D78nca-e44139-d1e515">
+               <lb ed="#P" n="78"/>¶ Quinto. sequitur quod hec esset vera. omnem gratiam habens 
+      <lb ed="#P" n="79"/>est dignus beatitudine: quia quaelibet singularis per se 
+      sum<lb ed="#P" n="80" break="no"/>pta est vera. Quod autem illa sit falsa patet: quia nullus habens 
+      <lb ed="#P" n="81"/>omnem gratiam est dignus beatitudine: cum nullus sit 
+      <lb ed="#P" n="82"/>habens omnem gratiam.
+    </p>
+            <p xml:id="D78nca-e44139-d1e528">
+      ¶ Sexto. sequitur quod iste sunt 
+      <lb ed="#P" n="83"/>simul vere: omni gratia priuatus est dignus beatitudi 
+      <lb ed="#P" n="84"/>ne: et omni gratia priuatus est indignus beatitudine: 
+      <lb ed="#P" n="85"/>quia vtriusque quaelibet singularis est vera: altera tamen vi 
+      <lb ed="#P" n="86"/>detur falsa: quia affirmant contraria praedicata de 
+      eo<lb ed="#P" n="87" break="no"/>dem subiecto vniuersaliter distributo: immo vtra quod 
+      <lb ed="#P" n="88"/>videtur falsa: quia vtriusque contradictoria est vera. hec 
+      <lb ed="#P" n="89"/>enim est vera pro sorte peccatore: aliqua gratia priuatus 
+      <lb ed="#P" n="90"/>non est dignus beatitudine. hec etiam propositio / aliquae 
+      <lb ed="#P" n="91"/>gratia priuatus non est indignus beatitudine est vera 
+      <lb ed="#P" n="92"/>pro platone existente in charitate. ipse enim est aliqua gratia 
+      <lb ed="#P" n="93"/>priuatus: quia alicuius gratie habet priuationem. Si enim 
+      <lb ed="#P" n="94"/>nullus habet gratie priuationem: igitur omnis gratie habet positionem 
+    </p>
+            <p xml:id="D78nca-e44139-d1e557">
+               <lb ed="#P" n="95"/>¶ Septimo. sequitur quod contrarie sunt simul vere 
+      <lb ed="#P" n="96"/>probatur de istis. omni gratia priuatus est dignus 
+      beati<lb ed="#P" n="97" break="no"/>tudine: et nulla gratia priuatus est dignus beatitudine 
+      <lb ed="#P" n="98"/>vtraque enim probata est esse vera per inductionem. 
+      pro<lb ed="#P" n="99" break="no"/>batur iterum de istis: cuiuslibet hominis asinus currit: et 
+      <lb ed="#P" n="100"/>lullius hominis asinus currit: omens enim singulares 
+      <lb ed="#P" n="101"/>erunt vere si quilibet homo habeat duos asinos: quo 
+      <lb ed="#P" n="102"/>rum vnus currat: et alius non currat. Eodem modo de istis 
+      <lb ed="#P" n="103"/>cuiuslibet hominis oculus est dexter et nullius hominis ocu 
+      <lb ed="#P" n="104"/>lus est dexter.
+    </p>
+            <p xml:id="D78nca-e44139-d1e581">
+      ¶ Octauo. sequitur quod vtraque pars contra 
+      <lb ed="#P" n="105"/>dictionis potest esse vera. probo: quia hec pars 
+      contradictio<lb ed="#P" n="106" break="no"/>nis potest esse vera: et illa pars contradictionis potest esse 
+      <lb ed="#P" n="107"/>tera igitur vtraque pars potest esse vera. qualibet enim singularis  
+      <lb ed="#P" n="108"/>est vera. igitur ambe singulares simul sunt vere: quia verum non est 
+      <lb ed="#P" n="109"/>incompossibile vero. sed falsitas consequentis probatur: quia cum 
+      <lb ed="#P" n="110"/>non sit propositio multiplex secundum compositionem et diuisionem 
+      <lb ed="#P" n="111"/>ponatur in esse.
+    </p>
+            <p xml:id="D78nca-e44139-d1e599">
+      ¶ Dicunt igitur aliqui quod hec vniversalis: 
+      nul<lb ed="#P" n="112" break="no"/>la gratia est necessaria ad salutem. non sufficienter infertur ex 
+      <lb ed="#P" n="113"/>hoc quod qualibet singularis determinata seorsum sumpta sit 
+      ve<lb ed="#P" n="114" break="no"/>ra: sed ad veritatem illius vniversalis negatiue requiritur quod 
+      proposi<lb ed="#P" n="115" break="no"/>tio negatiua de subiecto copulato ex omnibus indiui 
+      <lb ed="#P" n="116"/>duis sit vera: puta nec hanc gratiam / nec illam / nec illam 
+      <lb ed="#P" n="117"/>prere est necessarium ad salutem: quia ad veritatem 
+      particu<lb ed="#P" n="118" break="no"/>laris / vel indefinite affirmatiue opposite illi vniversali ne 
+      <lb ed="#P" n="119"/>gatiue sufficit quod propositio de subiecto disiuncto ex illis 
+      <lb ed="#P" n="120"/>indiuiduis sit vera: puta ad veritatem istius charitas vel 
+      <lb ed="#P" n="121"/>aliquae charitas est necessaria ad salutem: sufficit quod hecsit 
+      ve<lb ed="#P" n="122" break="no"/>ta: hanc gratiam vel illam vel illam habere est necessarium ad sa 
+      <lb ed="#P" n="123"/>lutem. patet in aliis propositionibus in quibus ponitur terminus 
+      <lb ed="#P" n="124"/>debiti et obligationis vel terminus promissionis / vel ter 
+      <lb ed="#P" n="125"/>minus praecepti vel monitionis. Et contingit quod propositio de ta 
+      <lb ed="#P" n="126"/>li disiuucto subiecto sit necessaria: et tamen nulla propositio 
+      <lb ed="#P" n="127"/>de determinata parte illius subiecti disiuncti sit necessaria: 
+      <lb ed="#P" n="128"/>quia verum est quod oculus dexter vel sinister requiritur ad videndum 
+      <lb ed="#P" n="129"/>et tamen dexter oculus non requiritur ad videndum nec sinister 
+      requi<lb ed="#P" n="130" break="no"/>ritur ad videndum. Consimiliter cum veritate huius charitas 
+      <lb ed="#P" n="131"/>requiritur / et est necessaria ad salutem: stat quod 
+      queli<lb ed="#P" n="132" break="no"/>bet determinate sumpta sit non necessario requisita¬ 
+      <!--148.xml-->
+      <pb ed="#P" n="69-r"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="D78nca-e44139-d1e654">
+               <lb ed="#P" n="1"/>¶ Ad hoc arguitur quarto principaliter per sacran scrip 
+      <lb ed="#P" n="2"/>turam. ad Hebre. 10. Patientia vobis necessaria 
+      <lb ed="#P" n="3"/>est vt facientes dei voluntatem etc. et Auce. 10. Porro 
+      <lb ed="#P" n="4"/>vnum est necessarium. et loquitur de gloria et beatitudine 
+      <lb ed="#P" n="5"/>eterna. et Gene. 42. Descendite et emite vobis 
+      ne<lb ed="#P" n="6" break="no"/>cessaria. sequitur de terra. Canaam venimus vt emamus 
+      <lb ed="#P" n="7"/>victui necessaria.
+    </p>
+            <p xml:id="D78nca-e44139-d1e673">
+      ¶ Quinto. oppositorum immediate 
+      <lb ed="#P" n="8"/>sicut vnum repugnat saluti. ita et reliquum est 
+      necessa<lb ed="#P" n="9" break="no"/>rium ad salutem. Sed esse in caritate et esse in 
+      morta<lb ed="#P" n="10" break="no"/>li sunt opposita immediata secundum leges ordinatas pro 
+      <lb ed="#P" n="11"/>statu praesenti. et esse in mortali repugnat saluti. igitur esse 
+      <lb ed="#P" n="12"/>in caritate est necessarium ad salutem.
+    </p>
+            <p xml:id="D78nca-e44139-d1e686">
+      ¶ Sexto. secundum 
+      <lb ed="#P" n="13"/>Arist. sicut conuertuntur propositiones de inesse. ita conuertum 
+      <lb ed="#P" n="14"/>tur ille de necessario. Ominis enim propositio vera / est 
+      conuerti<lb ed="#P" n="15" break="no"/>bilis aliqualiter. quia si praedicatum dicitur de subiecto su 
+      <lb ed="#P" n="16"/>iectum non negatur vniuersaliter de predicato nec econ 
+      <lb ed="#P" n="17"/>tra. Ille igitur de necessario sunt conuertibiles. et non 
+      <lb ed="#P" n="18"/>per oppositas regulas illis regulis quibus conuertun 
+      <lb ed="#P" n="19"/>tur ille de inesse. sed ista propositio homini digno vita 
+      <lb ed="#P" n="20"/>eterna inest caritas conuertitur in istam. Caritas inest 
+      <lb ed="#P" n="21"/>homini digno vita eterna. igitur hec propositio homini digno 
+      <lb ed="#P" n="22"/>vita eterna necessario inest caritas conuertitur in ist 
+      <lb ed="#P" n="23"/>Caritas inest necessario homini digno vita etern 
+      <lb ed="#P" n="24"/>sumendo conuersam in sensu compositionis que est 
+      ve<lb ed="#P" n="25" break="no"/>ra secundum alios vel ad hominis salutem necessario 
+      requis<lb ed="#P" n="26" break="no"/>ta est caritas. igitur caritas est requisita necessario ad hominis 
+      <lb ed="#P" n="27"/>salutem.
+    </p>
+            <p xml:id="D78nca-e44139-d1e721">
+      ¶ Septimo. aliquod necessario requisitum 
+      <lb ed="#P" n="28"/>ad salutem est gratiam habere. igitur aliquam gratiam habe 
+      <lb ed="#P" n="29"/>re vel aliquod habere gratiam est necessario requisitum 
+      <lb ed="#P" n="30"/>ad salutem. et per consequens alicuius caritatis habitio est 
+      ne<lb ed="#P" n="31" break="no"/>cessario requisita ad salutem. antecedens probatur. quia secundum te 
+      <lb ed="#P" n="32"/>necessario requiritur ad salutem aliquam caritatem habe 
+      <lb ed="#P" n="33"/>re. igitur necessario requisitum ad salutem est aliquam 
+      <lb ed="#P" n="34"/>girtam habere. igitur aliquod necessario requisitum 
+      <lb ed="#P" n="35"/>ad salutem est caritatem habere. consequentia principalis probatur 
+      <lb ed="#P" n="36"/>Primo per conuersionem particularis affirmatiue 
+      <lb ed="#P" n="37"/>Secundo: quia si aliquod necessario requisitum ad salutem sortis est 
+      <lb ed="#P" n="38"/>habere caritatem. quaero quid sit illud necessarium et necessa 
+      <lb ed="#P" n="39"/>rio requisitum illud erit aliquod singulariter 
+      demonstra<lb ed="#P" n="40" break="no"/>bile. iuxta modum arguendi aduersariorum. et illud erit 
+      <lb ed="#P" n="41"/>quoddam determinatum habere gratiam igitur quoddam 
+      sin<lb ed="#P" n="42" break="no"/>gulare et determinatum habere gratiam necessario est re 
+      <lb ed="#P" n="43"/>quisitum ad salutem sortis quod negas. igitur ex illa 
+      <lb ed="#P" n="44"/>quam concedis sequitur illa quam negas.
+    </p>
+            <p xml:id="D78nca-e44139-d1e760">
+      ¶ 
+      Confir<lb ed="#P" n="45" break="no"/>matur. cum dicis quod necessario requiritur ad salutem sor 
+      <lb ed="#P" n="46"/>tis / caritas vel caritatem habere. quero pro quo suppo 
+      <lb ed="#P" n="47"/>nit ly caritas non pro voce nec pro conceptu. Si pro si 
+      <lb ed="#P" n="48"/>gnificato per terminum et non pro omni singulari. igitur 
+      <lb ed="#P" n="49"/>pro aliquo singulari. igitur et si non omnis. tamen aliqu 
+      <lb ed="#P" n="50"/>gratia necessario requiritur ad salutem sortis.
+    </p>
+            <p xml:id="D78nca-e44139-d1e776">
+      ¶ Octa 
+      <lb ed="#P" n="51"/>uo: aliquam caritatem debet et tenetur habere sortes  
+      <lb ed="#P" n="52"/>ad hoc quod sit saluus. igitur aliqua gratia est ei necessa 
+      <lb ed="#P" n="53"/>ria ad salutem consequendam. consequentia probatur. quia illud est ne 
+      <lb ed="#P" n="54"/>cessarium quod est debitum de necessitate salutis 
+      <lb ed="#P" n="55"/>antecedens probatur. quia debet et tenetur aliquam gratiam habere 
+      <lb ed="#P" n="56"/>igitur aliquam gratiam debet et tenetur habere.
+    </p>
+            <p xml:id="D78nca-e44139-d1e792">
+      ¶ 
+      Respon<lb ed="#P" n="57" break="no"/>detur. negando antecedens. ad probationem negatur consequentia. sicut 
+      <lb ed="#P" n="58"/>non sequitur iste debet aliquem equum vel denarium. igitur 
+      <lb ed="#P" n="59"/>aliquem denarium debet. immo nullum denarium debet huiusmodi 
+      <lb ed="#P" n="60"/>enim termini habent vi confundendi et immobilitandem 
+      <lb ed="#P" n="61"/>terminum communem sequentem.
+    </p>
+            <p xml:id="D78nca-e44139-d1e806">
+      ¶ Contra: primo. quia 
+      obli<lb ed="#P" n="62" break="no"/>gatus posset veraciter dicere / nihil debeo: nihil 
+      pro<lb ed="#P" n="63" break="no"/>misi: nihil voui: michi nihil preceptum est / vel iniunctum 
+      <lb ed="#P" n="64"/>vel consultum / nullum bonum facere debeo.
+    </p>
+            <p xml:id="D78nca-e44139-d1e815">
+      ¶ Secundor: 
+      <lb ed="#P" n="65"/>sequitur quod sortes soluendo debitum non soluet 
+      debi<lb ed="#P" n="66" break="no"/>tum / et soluendo vel faciendo quod debetis / nec soluit 
+      <!--148.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>nec facit quod debet. probo. sortes non soluit creditori 
+      <lb ed="#P" n="68"/>nisi .b. denarium: sed b denarium non debet secundum te. igitur 
+      <lb ed="#P" n="69"/>soluit quod non debet / nec soluit debitum. Sed contra 
+      <lb ed="#P" n="70"/>quia omnis solutio est debiti solutio. dicitur enim relatiui 
+      <lb ed="#P" n="71"/>solutio respectu debiti. Sed illa traditio denarii est 
+      <lb ed="#P" n="72"/>solutio. quia non gratis datur nec est gratuita 
+      dona<lb ed="#P" n="73" break="no"/>tio. igitur est solutio debiti. et quia non esset obligationis 
+      <lb ed="#P" n="74"/>et debiti remotio nec esset quittatio et absolutio ab 
+      <lb ed="#P" n="75"/>obligatione.
+    </p>
+            <p xml:id="D78nca-e44139-d1e846">
+      ¶ Tertio. deus puniret hominem in praesenti 
+      <lb ed="#P" n="76"/>et in futuro pena quam homo non deberet et cuius non esset 
+      <lb ed="#P" n="77"/>debitor. quia punit hac .b. pena. et hanc non debet secundum 
+      <lb ed="#P" n="78"/>te. falsitas consequentis probatur. quia puniret hominem pena quam 
+      <lb ed="#P" n="79"/>homo non meruit: et cuius non esset reus. et qua non esset dignus 
+    </p>
+            <p xml:id="D78nca-e44139-d1e857">
+               <lb ed="#P" n="80"/>¶ Quarto. sortes debet tradere vel soluere 
+      dena<lb ed="#P" n="81" break="no"/>rium. igitur debitum est soluere denarium. igitur aliquod 
+      <lb ed="#P" n="82"/>debitum est tradere denarium. igitur per conuersionem 
+      <lb ed="#P" n="83"/>particularis affirmatiue. aliquod tradere denarium 
+      <lb ed="#P" n="84"/>est debitum. igitur aliqua traditio est debita: et tamen non 
+      <lb ed="#P" n="85"/>hec singularis / nec illa determinante.
+    </p>
+            <p xml:id="D78nca-e44139-d1e873">
+      ¶ Deinde. quoi 
+      <lb ed="#P" n="86"/>aliqua gratia singularis demonstrata: puta .b. sit 
+      neces<lb ed="#P" n="87" break="no"/>saria sorti ad salutem. probatur: quia illa gratia est 
+      necessa<lb ed="#P" n="88" break="no"/>ria sorti ad salutem quam sortes tenetur habere sub 
+      pe<lb ed="#P" n="89" break="no"/>na eterne damnationis. sed .b. caritas est huiusmodi: quia si sor 
+      <lb ed="#P" n="90"/>tes accepit .b. tenetur habere et conseruare illam non 
+      <lb ed="#P" n="91"/>minus quam non habitam procurare. nec potest eam non 
+      habe<lb ed="#P" n="92" break="no"/>re sine peccato mortali secundum leges positas.
+    </p>
+            <p xml:id="D78nca-e44139-d1e891">
+      ¶ Unte 
+      <lb ed="#P" n="93"/>de arguitur ad principale hoc modo. sicut ad salutem est 
+      <lb ed="#P" n="94"/>necessaria: et requiritur gratie habite conseruatio sic non 
+      <lb ed="#P" n="95"/>habite procuratio. Sed habita est necessaria. igitur non habita. 
+      <lb ed="#P" n="96"/>arguitur et probatur quod 
+    </p>
+            <p xml:id="D78nca-e44139-d1e903">
+               <lb ed="#P" n="97"/>¶ In oppositum contradictoria sit vera 
+      <lb ed="#P" n="98"/>scilicet nulla caritas est necessaria ad salutem. primo illa 
+      <lb ed="#P" n="99"/>vniuersalis est vera / cuius omnes singulares sunt vere: 
+      <lb ed="#P" n="100"/>et nulla singularis est falsa. sic est igitur minor proba 
+      <lb ed="#P" n="101"/>tur per inductionem: quia nec hec caritas .a. est nec essa 
+      <lb ed="#P" n="102"/>ria ad salutem: nec ista caritas .b. etc. Nec est 
+      possibi<lb ed="#P" n="103" break="no"/>lis instantia in aliqua singulari siue apud intellectum 
+      <lb ed="#P" n="104"/>humanum / siue intellectum angelicum / siue diuinum. probatur 
+      <lb ed="#P" n="105"/>iterum: quia aut omnes singulares illius vniuersalis sunt 
+      <lb ed="#P" n="106"/>vere et propositum / aut nulle sunt vere: sed omnes false. et 
+      <lb ed="#P" n="107"/>patet quod non aut alique vere et alique false. et tunc aut vni 
+      <lb ed="#P" n="108"/>ca est tantum falsa et scribatur hic / aut plures: et siue 
+      <lb ed="#P" n="109"/>finite / siue infinite. igitur due scribantur: igitur ille due 
+      <lb ed="#P" n="110"/>et patet quod non erit illas dare. Probatur iterum. deus videt 
+      <lb ed="#P" n="111"/>omnes singulares illius vniuersalis. et videt omnes esse 
+      <lb ed="#P" n="112"/>veras: quia si videt aliquam falsam scribat illam hic. sed 
+      <lb ed="#P" n="113"/>maior principalis probatur multipliciter: primo. quia aliter 
+      <lb ed="#P" n="114"/>perit vna species argumentationis. scilicet inductio. 
+      <lb ed="#P" n="115"/>Nulla enim inductio valebit virtute forme si cum veri 
+      <lb ed="#P" n="116"/>tate omnium singularium stat falsitas vniuersalis.
+    </p>
+            <p xml:id="D78nca-e44139-d1e949">
+      ¶ Item 
+      <lb ed="#P" n="117"/>pari facilitate negabitur omnis propositio vniuersalis / quamuis 
+      <lb ed="#P" n="118"/>non possit dari instantia in aliqua singulari: et concedam 
+      <lb ed="#P" n="119"/>tur omnes singulares tanquam vere et compossibiles in veri 
+      <lb ed="#P" n="120"/>tate. quia verum non est incompossibile vero. Item: impossibi 
+      <lb ed="#P" n="121"/>le est quod vniuersalis sit vera: et omnes eius singulares 
+      <lb ed="#P" n="122"/>sint false. igitur pari ratione. econtra impossibile est quod 
+      vni<lb ed="#P" n="123" break="no"/>uersalis sit falsa. et omnes eius singulares sint vere. antecedens 
+      <lb ed="#P" n="124"/>patet. quia vna sola sufficit singularis falsa. ad falsitatem 
+      <lb ed="#P" n="125"/>vniuersalis. consequentia patet. quia non plus repugnat veritas 
+      <lb ed="#P" n="126"/>vniuersalis falsitati vnius singularis quam falsitas vni 
+      <lb ed="#P" n="127"/>uersalis veritati omnium singularium.
+    </p>
+            <p xml:id="D78nca-e44139-d1e975">
+      ¶ Item. vniuersa 
+      <lb ed="#P" n="128"/>lis affirmatiua est vera. si omnes eius singulares sint 
+      ve<lb ed="#P" n="129" break="no"/>re. igitur pari ratione de vniuersali negatiua. antecedens patet. 
+      <lb ed="#P" n="130"/>quia non apparet instantia.
+    </p>
+            <p xml:id="D78nca-e44139-d1e984">
+      ¶ Item: secundum regulas philosophie 
+      <lb ed="#P" n="131"/>lpriorum. per dici de omni et dici de nullo: vniuersa 
+      <lb ed="#P" n="132"/>lis negatiua est vera. quando nihil est sumere sub subie¬ 
+      <!--149.xml-->
+      <pb ed="#P" n="69-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cto a quo non remoueatur praedicatum. Sicut vniuersa 
+      <lb ed="#P" n="2"/>lis affirmatiua est vera quando nihil est sumere sub 
+      sub<lb ed="#P" n="3" break="no"/>iecto de quo non dicatur predicatum.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1004">
+      ¶ Item: propositio 
+      <lb ed="#P" n="4"/>est vera si est ita in re. sicut ipsa significat. Sed si omnes 
+      <lb ed="#P" n="5"/>singulares sint vere. et si nihil est sumere sub 
+      subie<lb ed="#P" n="6" break="no"/>cto a quo non remoueatur predicatum. ita est in re 
+      si<lb ed="#P" n="7" break="no"/>cut illa negatiua significat. quia propositio vniuersalis 
+      <lb ed="#P" n="8"/>secundum dici de omni et dici de nullo non significat nisi quod 
+      <lb ed="#P" n="9"/>cuilibet singulari sumptibili sub subiecto conuenit 
+      <lb ed="#P" n="10"/>vel non conuenit predicatum.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1022">
+      ¶ Item. si illa vniuersalis 
+      <lb ed="#P" n="11"/>est falsa. igitur particularis ei contradictoria est 
+      ve<lb ed="#P" n="12" break="no"/>ra. igitur pro aliqua singulari: igitur aliqua 
+      singula<lb ed="#P" n="13" break="no"/>ris et eius contradictoria sunt simul vere. Uel argui 
+      <lb ed="#P" n="14"/>tur sic. Si nulla singularis est vera. igitur nulla 
+      par<lb ed="#P" n="15" break="no"/>ticularis correspondens est vera. igitur contradictoria 
+      <lb ed="#P" n="16"/>illius vniuersalis non est vera. igitur illa vniuersa 
+      <lb ed="#P" n="17"/>lis est vera.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1041">
+      ¶ Secundo principaliter probatur: illa vniuer 
+      <lb ed="#P" n="18"/>salis negatiua. sic omnis caritas est preter necessariam 
+      <lb ed="#P" n="19"/>ad salutem. igitur nulla caritas est necessaria ad salu 
+      <lb ed="#P" n="20"/>tem. consequentia patet: quia nulla caritas praeter necessariam ad salu 
+      <lb ed="#P" n="21"/>tem est necessaria ad salutem. antecedens probatur per 
+      indu<lb ed="#P" n="22" break="no"/>ctionem. vt supra. Si dicatur quod nulla gratia singularis  
+      <lb ed="#P" n="23"/>et signata et determinata et demonstrabilis seorsum et 
+      <lb ed="#P" n="24"/>diuisim est necessaria ad salutem. cum hoc tamen stat quod 
+      ab<lb ed="#P" n="25" break="no"/>solute et simpliciter caritas est necessaria ad salutem 
+    </p>
+            <p xml:id="D78nca-e44139-d1e1061">
+               <lb ed="#P" n="26"/>¶ Contra: nulla gratia singularis determinata et 
+      sigil<lb ed="#P" n="27" break="no"/>latim seorsum significabilis et demonstrabilis est 
+      ne<lb ed="#P" n="28" break="no"/>cessaria ad salutem. Sed omnis gratia est gratia singularis  
+      <lb ed="#P" n="29"/>determinate significabilis et demonstrabilis diuisim 
+      <lb ed="#P" n="30"/>per intellectum angelicum vel diuinum. immo per humanum 
+      <lb ed="#P" n="31"/>per dei speciale auxilium. quia deus omnes gratias videt 
+      di<lb ed="#P" n="32" break="no"/>stincte et determinate. igitur nulla gratia est necessaria 
+      <lb ed="#P" n="33"/>ad salutem.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1081">
+      ¶ Tertio. si due vniuersales contrarie sunt 
+      <lb ed="#P" n="34"/>simul false quelibet habet aliquam singularem veram: et 
+      <lb ed="#P" n="35"/>aliquam singularem falsam. Sed secundum te iste sunt ambe 
+      <lb ed="#P" n="36"/>false. omnis caritas est necessaria ad salutem. et nulla ca 
+      <lb ed="#P" n="37"/>ritas est necessaria ad salutem. igitur cuiuslibet est 
+      a<lb ed="#P" n="38" break="no"/>liqua singularis vera et aliqua singularis falsa. Sed 
+      <lb ed="#P" n="39"/>hoc est falsum. quia non contingit dare aliquam 
+      singula<lb ed="#P" n="40" break="no"/>rem illius vniuersalis affirmatiue veram nec aliquam 
+      <lb ed="#P" n="41"/>singularem illius vniuersalis negatiue falsam. maior 
+      <lb ed="#P" n="42"/>probatur. quia si omnes singulares huius vniuersalis sunt 
+      <lb ed="#P" n="43"/>vere: et omnes singulares vniuersalis contrarie sunt fal 
+      <lb ed="#P" n="44"/>se / non est ratio quare ille ambe vniuersales contrarie 
+      <lb ed="#P" n="45"/>dicantur simul false magisquam simul vere.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1110">
+      ¶ Quarto 
+      <lb ed="#P" n="46"/>terminis prime intentionis supponentibus 
+      persona<lb ed="#P" n="47" break="no"/>liter. si vniuersalis sit determinate falsa. et 
+      parti<lb ed="#P" n="48" break="no"/>cularis vel indefinita sumptibilis sub illa vniuersa 
+      <lb ed="#P" n="49"/>li sit determinate vera: sequitur quod aliqua singularis est 
+      <lb ed="#P" n="50"/>vera / et alia singularis est falsa determinate. Sed hec 
+      <lb ed="#P" n="51"/>est falsa. omnis gratia est necessaria ad salutem et 
+      per<lb ed="#P" n="52" break="no"/>te hec est vera aliqua gratia est necessaria ad salutem. 
+      <lb ed="#P" n="53"/>igitur erit dare singularem determinate veram: et 
+      ali<lb ed="#P" n="54" break="no"/>quam singularem determinate falsam quod est falsum 
+    </p>
+            <p xml:id="D78nca-e44139-d1e1132">
+               <lb ed="#P" n="55"/>¶ Quinto. si due subcontrarie sunt determinate 
+      si<lb ed="#P" n="56" break="no"/>mul vere. sequitur quod alique earum singulares ex eiisdem 
+      <lb ed="#P" n="57"/>terminis sunt simul determinate vere. veritas enim 
+      <lb ed="#P" n="58"/>particularis exigit veritatem alicuius singularis: sed 
+      <lb ed="#P" n="59"/>hec est determinate vera secundum te aliqua caritas est 
+      <lb ed="#P" n="60"/>necessaria ad salutem: et eius subcontraria est etiam 
+      de<lb ed="#P" n="61" break="no"/>terminate vera. scilicet aliqua caritas non est necessaria 
+      <lb ed="#P" n="62"/>ad salutem. quia sequitur ex singulari determinate vera 
+      <lb ed="#P" n="63"/>igitur sicut secunda habet singularem determinate veram 
+      <lb ed="#P" n="64"/>ita et prima.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1156">
+      ¶ Sexto. omne necessarium sorti ad sa 
+      <lb ed="#P" n="65"/>lutem potest nunc creari in sorte et dari sorti. a. deo et vi 
+      <lb ed="#P" n="66"/>deri ab intellectum angelico. Sed per te aliqua cari¬ 
+      <!--149.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>tas necessaria sorti ad salutem est necessaria sorti ad 
+      <lb ed="#P" n="68"/>salutem. igitur aliqua caritas necessaria sorti ad salu 
+      <lb ed="#P" n="69"/>tem potest nunc a deo creari in sorte et videri ab ange 
+      <lb ed="#P" n="70"/>lo. Conclusio est falsa. quia ponatur in esse. et sequitur 
+      <lb ed="#P" n="71"/>quod illa singularis demonstrata est necessaria ad salu 
+      <lb ed="#P" n="72"/>tem.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1181">
+      ¶ Septimo. omnis forma necessaria homini ad  
+      <lb ed="#P" n="73"/>salutem inest omnibus existentibus in statu salutis. Sed par 
+      <lb ed="#P" n="74"/>te caritas et aliqua caritas est necessaria homini ad  
+      <lb ed="#P" n="75"/>salutem. igitur aliqua caritas inest omnibus existentibus in 
+      <lb ed="#P" n="76"/>statu salutis. Conclusio est falsa. et non maior. quia si 
+      <lb ed="#P" n="77"/>quibusdam hominibus existentibus in statu salutis non inest 
+      <lb ed="#P" n="78"/>igitur non est necessaria illis homnibus ad salutem. igitur 
+      <lb ed="#P" n="79"/>non est simpliciter necessaria hominibus ad salutem. Quod autem 
+      <lb ed="#P" n="80"/>conclusio sit falsa probatur. quia omnis forma que inest 
+      <lb ed="#P" n="81"/>omnibus existentibus in statu salutis est in pluribus subie 
+      <lb ed="#P" n="82"/>ctis. sed aliqua caritas esset huiusmodi. igitur aliqua cari 
+      <lb ed="#P" n="83"/>tas est in pluribus subiectis. etc.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1207">
+      ¶ Confirmatur. si ali 
+      <lb ed="#P" n="84"/>qua caritas est necessaria homini ad salutem. igitur 
+      <lb ed="#P" n="85"/>aliqua caritas est necessaria omni homini ad salutem 
+      <lb ed="#P" n="86"/>consequentia patet. quia pari ratione sustinebitur et defendetur secunda 
+      <lb ed="#P" n="87"/>sicut prima. licet nulla singularis posset dari pro qua 
+      <lb ed="#P" n="88"/>verificetur. et contradictoria consequentis dicetur falsa. sicut 
+      <lb ed="#P" n="89"/>contradictoria antecedentis/ quamuis omnes singulares sint vere 
+      <lb ed="#P" n="90"/>falsitas consequentis patet. quia necessarium omni homini ad 
+      sa<lb ed="#P" n="91" break="no"/>lutem potest inesse simul. immo inest nunc simul omnibus iu 
+      <lb ed="#P" n="92"/>stis.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1229">
+      ¶ Octauo. omnis forma necessaria sorti ad 
+      salu<lb ed="#P" n="93" break="no"/>tem inest sorti quotienscumque sortes est in statu salu 
+      <lb ed="#P" n="94"/>tis. Sed per te aliqua caritas est necessaria sorti ad 
+      <lb ed="#P" n="95"/>salutem. igitur aliqua caritas inest sorti quotiense un 
+      <lb ed="#P" n="96"/>que sortes est vel fuit in statu salutis. Sed sortes he 
+      <lb ed="#P" n="97"/>ri et hodie fuit in statu salutis. igitur aliqua caritas 
+      <lb ed="#P" n="98"/>heri fuit et est hodie in sorte. consequens est falsum. quia nul 
+      <lb ed="#P" n="99"/>la caritas quae fuit heri in sorte est hodie in eo. quia sup 
+      <lb ed="#P" n="100"/>ponitur in tempore medio peccasse mortaliter et supponitur 
+      <lb ed="#P" n="101"/>non redire eadem caritas numero.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1251">
+      ¶ Nono. si nega 
+      <lb ed="#P" n="102"/>tur quod nulla caritas est necessaria ad salutem. hoc esset 
+      <lb ed="#P" n="103"/>quia male videtur sonare in fide et videtur equipolle 
+      <lb ed="#P" n="104"/>re isti vel eam inferre. possibile est aliquem saluari 
+      si<lb ed="#P" n="105" break="no"/>ne caritate et gratia. sed hoc non valet. quia eque male 
+      vi<lb ed="#P" n="106" break="no"/>detur sonare ista indefinita. caritas non est necessaria 
+      <lb ed="#P" n="107"/>ad salutem. et eque videtur equipollere isti vel eam in 
+      <lb ed="#P" n="108"/>ferre. contingit hominem saluari sine caritate. et tamen 
+      <lb ed="#P" n="109"/>oportet illam concedere tanquam veram. quia indefinita et 
+      par<lb ed="#P" n="110" break="no"/>ticularis sequitur ex singulari. et ad eius veritatem 
+      <lb ed="#P" n="111"/>sufficit veritas vnius singularis.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1275">
+      ¶ Decimo. si ista 
+      <lb ed="#P" n="112"/>vniversalis negatiua negatur hoc videtur. quia ipsa ad sui verita 
+      <lb ed="#P" n="113"/>tem exigit non solum quod quelibet singularis seorsum 
+      <lb ed="#P" n="114"/>et sigillatim accepta sit vera. sed etiam quod negatiua de 
+      <lb ed="#P" n="115"/>subiecto copulato ex omnibus indiuiduis caritatis fo 
+      <lb ed="#P" n="116"/>ret vera. puta quod foret verum quod nec hec gratia / nec illa 
+      <lb ed="#P" n="117"/>gratia. et sic de singulis est necessaria ad salutem que ne 
+      <lb ed="#P" n="118"/>garetur. sed hoc non valet. quia aut hoc non requiritur / 
+      <lb ed="#P" n="119"/>aut si requiritur reperitur in proposito. Quod autem non re 
+      <lb ed="#P" n="120"/>quiratur videtur primo. quia ad veritatem vniuersalis 
+      <lb ed="#P" n="121"/>affirmatiue non requiritur veritas propositionis 
+      affirma<lb ed="#P" n="122" break="no"/>tiue de subiecto copulato ex omnibus indiuiduis. vt ad  
+      <lb ed="#P" n="123"/>veritatem huius: omnis homo est animal non requiritur quod 
+      <lb ed="#P" n="124"/>hic et ille: et ille homo sit animal. quia hoc est falsum. cum nul 
+      <lb ed="#P" n="125"/>lum animal sit hic et ille / et ille homo. igitur pari ratione 
+      <lb ed="#P" n="126"/>de vniuersali negatiua. Secundo. hec est vera: nullus homo 
+      <lb ed="#P" n="127"/>est populus vel congregatio hominum. quia omnes 
+      singu<lb ed="#P" n="128" break="no"/>lares sunt vere et non requiritur veritas talis 
+      nega<lb ed="#P" n="129" break="no"/>tiue de subiecto copulato. puta hic et ille / et ille 
+      ho<lb ed="#P" n="130" break="no"/>mo non sunt populus. quia hoc est falsum. Ulterius 
+      <lb ed="#P" n="131"/>quamuis illud requireretur adhuc stat propositum. quia in pro 
+      <lb ed="#P" n="132"/>posito talis negatiua de subiecto copulato est vera 
+      <!--150.xml-->
+      <pb ed="#P" n="70-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>duta: nec hec gratia / nec illa / nec illa / nec illa. et sic de 
+      <lb ed="#P" n="2"/>singulis: est necessaria ad salutem. Sequitur enim ex 
+      <lb ed="#P" n="3"/>ypothetica copulatiua ex propositionibus singularibus. pro 
+      <lb ed="#P" n="4"/>batur iterum. quia si aliquod predicatum vere negatur de 
+      <lb ed="#P" n="5"/>pluribus indiuiduis seorsum sumptis per propositio 
+      <lb ed="#P" n="6"/>nem ypotheticam copulatiuam ex pluribus cathegori 
+      <lb ed="#P" n="7"/>cis: et tamen non vere negatur de subiecto copulato 
+      <lb ed="#P" n="8"/>composito ex illis indiuiduis. sequitur quod illud predicatum 
+      <lb ed="#P" n="9"/>vere affirmatur de composito et aggregato ex illis in 
+      <lb ed="#P" n="10"/>diuiduis. vt si hic homo non est populus: nec ille homo 
+      <lb ed="#P" n="11"/>est populus. etc. et tamen falsum sit quod hic et ille / et ille 
+      <lb ed="#P" n="12"/>homo non sunt populus. etc. Sequitur quod populus 
+      ve<lb ed="#P" n="13" break="no"/>re affirmatur de aggregato ex hoc et illo et illo 
+      ho<lb ed="#P" n="14" break="no"/>mine. ergo consimiliter in proposito. si verum est quod 
+      <lb ed="#P" n="15"/>hec gratia non est necessaria ad salutem. et quod illa gratia non 
+      <lb ed="#P" n="16"/>est necessaria ad salutem. etc. et tamen est falsum quod nec 
+      <lb ed="#P" n="17"/>illa nec illa gratia est necessaria ad salutem. sequitur quod ag 
+      <lb ed="#P" n="18"/>gregatum ex hac et illa et illa et illa gratia. etc. est 
+      neces<lb ed="#P" n="19" break="no"/>sarium ad salutem quod est falsum magisquam de gratia sin 
+      <lb ed="#P" n="20"/>gulari.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1373">
+      ¶ Undecimo. si hec sit vera / caritas est 
+      ne<lb ed="#P" n="21" break="no"/>cessaria ad salutem hoc videtur. quia ad eius veritatem 
+      <lb ed="#P" n="22"/>sufficit quod propositio affirmatiua de subiecto disiuncto con 
+      <lb ed="#P" n="23"/>posito ex indiuiduis caritatis sit vera. puta quod hec 
+      <lb ed="#P" n="24"/>vel illa / vel illa. caritas est necessaria ad salutem: sed  
+      <lb ed="#P" n="25"/>hoc non valet primo: quia non sufficit. secundo. quia si 
+      suffi<lb ed="#P" n="26" break="no"/>cit. adhuc habetur propositum. Primum probatur. quia hec 
+      <lb ed="#P" n="27"/>esset concedenda. aliquis homo fuit ab eterno vel erit 
+      <lb ed="#P" n="28"/>ineternum. sicut ista ab eterno fuit aliquis homo. et quod 
+      ali<lb ed="#P" n="29" break="no"/>qua dies erit post omnem dien sicut et post omnem dien erit 
+      <lb ed="#P" n="30"/>aliqua dies supposita eternitate mundi. et quod aliquis 
+      <lb ed="#P" n="31"/>homo fuit tota die in foro. sicut tota die fuit in fo 
+      <lb ed="#P" n="32"/>ro aliquis homo. Et quod aliqua magnitudo est minor omni 
+      <lb ed="#P" n="33"/>magnitudine / sicut econuerso. quia dicetur quod veritas 
+      <lb ed="#P" n="34"/>illius propositionis de disiuncto subiecto sufficit nec oportet 
+      <lb ed="#P" n="35"/>dare singularem aliquam.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1409">
+      ¶ Item. pari ratione concedendum 
+      <lb ed="#P" n="36"/>esset quod aliqua singularis et determinata caritas 
+      seor<lb ed="#P" n="37" break="no"/>sum diuisim et sigillatim significabilis et demonstra 
+      <lb ed="#P" n="38"/>bilis est necessaria ad salutem. quia dicetur quod talis de dis 
+      <lb ed="#P" n="39"/>luncto subiecto est vera et sufficit. Secundum probatur. 
+      <lb ed="#P" n="40"/>Talis enim affirmatiua de disiuncto subiecto 
+      compo<lb ed="#P" n="41" break="no"/>sito ex illis singularibus videtur falsa in proposito. quia 
+      <lb ed="#P" n="42"/>contradictoria est vera scilicet negatiua de subiecto copu 
+      <lb ed="#P" n="43"/>lato composito ex partibus illius subiecti disiuncti. 
+      <lb ed="#P" n="44"/>Sed hoc non: nec illa / neque illa gratia est necessaria ad 
+      <lb ed="#P" n="45"/>salutem. vt probatum est.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1433">
+      ¶ Item: illa affirmatiua de 
+      dis<lb ed="#P" n="46" break="no"/>luncto subiecto infert in proposito ypotheticam 
+      disium<lb ed="#P" n="47" break="no"/>ctiuam. quia licet ad propositionem vniuersalem de predicato 
+      <lb ed="#P" n="48"/>disiuncto non sequatur affirmatiua disiunctiua vt li 
+      <lb ed="#P" n="49"/>cet non sequatur omnis propositio est vera vel falsa. igitur omnis 
+      <lb ed="#P" n="50"/>propositio est vera / vel omnis propositio est falsa. Tamen ad pro 
+      <lb ed="#P" n="51"/>positionem singularem affirmatiuam de subitanto disiuncto 
+      <lb ed="#P" n="52"/>sequitur disiunctiua ex / eisdem terminis. patet inducendo. etc. 
+      <lb ed="#P" n="53"/>questionem. magis conso 
+    </p>
+            <p xml:id="D78nca-e44139-d1e1453">
+               <lb ed="#P" n="54"/>¶ Respondeo au nat reguliscommunibus 
+      <lb ed="#P" n="55"/>logicorum quod si sit enunciatio de actu exercito. hec est 
+      <lb ed="#P" n="56"/>vera de virtute sermodis et ex forma enunciationis. Nul 
+      <lb ed="#P" n="57"/>la caritas est necessaria ad salutem consequendam. et quo 
+      <lb ed="#P" n="58"/>particularis / vel indefinita contradictoria est falsa 
+      <lb ed="#P" n="59"/>in sensu quem facit ex propria et formali significationem 
+      <lb ed="#P" n="60"/>Sed sensus in quo communiter fit et accipitur est ve 
+      <lb ed="#P" n="61"/>rus. scilicet quod non est possibile aliquem saluari sine carita 
+      <lb ed="#P" n="62"/>te. et quia loquendum est vt plures. et senciendum vt pauci. 
+      <lb ed="#P" n="63"/>ideo concedendo vniuersalem illam negatiuam esse 
+      ve<lb ed="#P" n="64" break="no"/>ram. et eius contradictoriam esse falsam.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1479">
+      ¶ Ad primum 
+      <lb ed="#P" n="65"/>in oppositum negatur consequentia. sumendo consequens in sensu 
+      con<lb ed="#P" n="66" break="no"/>positionis quem sensum solum videtur habere. quia ter 
+      <!--150.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>minus potentie praeponitur terminis incompossibilibus 
+      <lb ed="#P" n="68"/>sicut dicendo. contingit et possibile est hominem sedentem 
+      <lb ed="#P" n="69"/>ambulare. tamen in sensu diuisionis conceditur quod hominem 
+      <lb ed="#P" n="70"/>sine gratia contigit saluari: et quod peccator priuatus carita 
+      <lb ed="#P" n="71"/>te potest habere gratiam et salutem consequi.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1501">
+      ¶ Ad primam 
+      <lb ed="#P" n="72"/>probationem consequentie. dicendum quod illa inductio peccat par 
+      <lb ed="#P" n="73"/>figuram dictionis procedendo a pluribus determinatis 
+      <lb ed="#P" n="74"/>ad vnam. sicut si argueretur sic. materia potest esse sine .a 
+      <lb ed="#P" n="75"/>forma. materia potest esse sine .b. forma. etc. ergo mate 
+      <lb ed="#P" n="76"/>ria potest esse sine forma. vel tu potes esse albus sine. a. 
+      <lb ed="#P" n="77"/>albedine: ettu potes esse albus sine b albedine etc. igitur 
+      <lb ed="#P" n="78"/>tur tu potes esse albus sine albedine vel hoc 
+      conti<lb ed="#P" n="79" break="no"/>nuum potest esse diuisum in .a. puncto. et potest esse 
+      <lb ed="#P" n="80"/>diuisum in b. puncto et sic de singulis. igitur potest esse 
+      <lb ed="#P" n="81"/>diuisum in omni puncto. hec cousequentia non valet. et 
+      <lb ed="#P" n="82"/>ratio est. quia singulares sunt vere pro diuersis. immo infini 
+      <lb ed="#P" n="83"/>tis potentiis ad infinitos actus quarum singule sunt 
+      <lb ed="#P" n="84"/>ad singulos actus seorsum terminabiles. et quilibet 
+      <lb ed="#P" n="85"/>seorsum est ad actum proprium complete terminabilem. sed  
+      <lb ed="#P" n="86"/>in conclusione ly potest non stat confuse virtute alicuius 
+      <lb ed="#P" n="87"/>distributionis affirmatiue praecedentis. ideo si conclusio 
+      <lb ed="#P" n="88"/>foret vera. ly potest staret pro aliqua determinata poten 
+      <lb ed="#P" n="89"/>tia ad vnum vel quasi ad vnum actum simplicem vel aggregatum 
+      <lb ed="#P" n="90"/>totalem complete terminabilem. et hoc requiritur ad eius ve  
+      <lb ed="#P" n="91"/>ritatem. ideo non valet consequentia. quia alia potentia notatur in 
+      <lb ed="#P" n="92"/>conclusione ab illis que notantur in premissis 
+      singu<lb ed="#P" n="93" break="no"/>laribus. Consimiliter potest dici de termino significan 
+      <lb ed="#P" n="94"/>te actum ad quem intelligitur illa potentia. qui terminus 
+      <lb ed="#P" n="95"/>determinat terminum potentie. non enim tenetur confu 
+      <lb ed="#P" n="96"/>se immobiliter in conclusione: sed determinate per consi 
+      <lb ed="#P" n="97"/>milem defectum peccat / inductio probans quod aliqua 
+      ma<lb ed="#P" n="98" break="no"/>gnitudo est vel potest esse minor omni maguitudine / vel 
+      <lb ed="#P" n="99"/>quod aliqua dies erit / vel potest esse post omnem diem. et tamen non 
+      <lb ed="#P" n="100"/>peccat inductio que probat quod omni magnitudine est 
+      <lb ed="#P" n="101"/>aliqua minor. Consimiliter in proposito non potest assigna 
+      <lb ed="#P" n="102"/>ri talis defectus in inductione probante illam 
+      vniuer<lb ed="#P" n="103" break="no"/>salem negatiuam. inde est quod veritas talis propositionis 
+      af<lb ed="#P" n="104" break="no"/>firmatiue de possibili que est vniuersalis ex parte praedi 
+      <lb ed="#P" n="105"/>cati infert vniuersalem de inesse et de actu in eisdem 
+      <lb ed="#P" n="106"/>terminis esse possibile. sed cum est vniuersalis a parte 
+      <lb ed="#P" n="107"/>subiecti. et ly potest tenetur confuse. tunc non infert illam 
+      <lb ed="#P" n="108"/>de inesse et de actu correspondentem esse possibile vt veritas 
+      <lb ed="#P" n="109"/>huius in omni signo potest hoc continuum diuidi. non 
+      in<lb ed="#P" n="110" break="no"/>fert hanc essepossibile in omni signo hoc continuum est 
+      <lb ed="#P" n="111"/>diuisum vel diuiditur. inde etiam sequitur quod si illa de 
+      <lb ed="#P" n="112"/>possibili sit vera in qua ly potest tenetur determinate 
+      <lb ed="#P" n="113"/>et precedit distributionem. tunc potest reduci illa potentia 
+      <lb ed="#P" n="114"/>ad actum simpliciter. non autem in alio casu. quia si 
+      reduce<lb ed="#P" n="115" break="no"/>retur ad actum / notaretur quod esset aliqua vna potentia 
+      <lb ed="#P" n="116"/>ad vnum actum simplicem vel compositum totalem perfe 
+      <lb ed="#P" n="117"/>cte terminabilem. in ista autem vniuersali de possibili non 
+      <lb ed="#P" n="118"/>notabatur talis potentia: sed quasi infinite potentie 
+      <lb ed="#P" n="119"/>ad infinitos actus quarum quibusdam reductis ad actum 
+      <lb ed="#P" n="120"/>necesse est infinitas non esse reductas. et quarum redu 
+      <lb ed="#P" n="121"/>ctionem necesse est esse permixtam potentie posteriori. 
+    </p>
+            <p xml:id="D78nca-e44139-d1e1612">
+               <lb ed="#P" n="122"/>¶ Ad secundam probationem consequentie licet quelibet. 
+      singula<lb ed="#P" n="123" break="no"/>ris huius equipolleat secundum conuertentiam alicui singu 
+      <lb ed="#P" n="124"/>lari sumptibili ex illa secunda propositione. non tamen sequitur 
+      <lb ed="#P" n="125"/>illas propositiones esse conuertibiles. quia secunda non est proprie 
+      <lb ed="#P" n="126"/>propositio vniuersalis sed singularis. Et si sit vniuersalis 
+      <lb ed="#P" n="127"/>ex parte predicati. tamen singulares eius quae equipollent 
+      <lb ed="#P" n="128"/>singularibus prime non inferunt illam secundam. hec enim 
+      <lb ed="#P" n="129"/>inductio non valet. contingit sortem esse dignum beati 
+      <lb ed="#P" n="130"/>tudiue sine .a. gratia et contingit ipsum esse dignu 
+      beatitu<lb ed="#P" n="131" break="no"/>dine sine .b. gratia. etc. igitur contingit ipsum esse dignum bea 
+      <lb ed="#P" n="132"/>titudine sine omni gratia.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1639">
+      ¶ Ad tertia. illud no infert 
+      <!--151.xml-->
+      <pb ed="#P" n="70-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ippositum. vel etiam illud est falsum. si sumatur vt equiu 
+      <lb ed="#P" n="2"/>tet isti possibile est quod homo saluetur non habens aliquod 
+      <lb ed="#P" n="3"/>accidens preter necessarium ad salutem. hec etiam non potest 
+      <lb ed="#P" n="4"/>esse possibilis. iste homo est dignus salute et omni 
+      for<lb ed="#P" n="5" break="no"/>ma priuatur que non est necessaria ad salutem.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1659">
+      ¶ Ad  
+      <lb ed="#P" n="6"/>secundum. negatur consequentia. plus enim importat consequens. et plus 
+      <lb ed="#P" n="7"/>exigit ad sui veritatem quam antecedens. exigit enim non solum quod 
+      <lb ed="#P" n="8"/>copulatiua composita ex cathegoricis singularibus/ 
+      <lb ed="#P" n="9"/>sit vera: sed etiam quod vera sit propositio de subiecto copulato 
+      <lb ed="#P" n="10"/>ex singularibus omnibus. puta dicendo gratiam non 
+      ha<lb ed="#P" n="11" break="no"/>bendo hanc et illam gratiam non habendo. et sic de singu 
+      <lb ed="#P" n="12"/>lis. potes tu saluari que est falsa. eodem modo de iste 
+      <lb ed="#P" n="13"/>nullum vel neutrum oculum habendo tu potes videre
+    </p>
+            <p xml:id="D78nca-e44139-d1e1679">
+      ¶ Con 
+      <lb ed="#P" n="14"/>tra. ita dicetur de ista propositione. nulla gratia est tibi ne 
+      <lb ed="#P" n="15"/>cessaria ad salutem quod ad sui veritatem exigit quod neque 
+      <lb ed="#P" n="16"/>hec gratia nec illa gratia. etc. est necessaria ad salutem seu quo 
+      <lb ed="#P" n="17"/>non hanc gratiam habere: nec illam gratiam habere. etc 
+      <lb ed="#P" n="18"/>est tibi necessarium ad salutem. et cum omnis propositio de no 
+      <lb ed="#P" n="19"/>cessario contineat virtualiter et implicite vnam de impossi 
+      <lb ed="#P" n="20"/>bili / vel possibili dicetur quod hec negatiua. nulla gratia 
+      <lb ed="#P" n="21"/>est necessaria ad salutem denotat quod hanc gratiam et illam 
+      <lb ed="#P" n="22"/>et illam. etc. non habendo non est impossibile. sed est possi 
+      <lb ed="#P" n="23"/>bile te saluari. Potest dici quod iste sunt simpliciter false. cum 
+      <lb ed="#P" n="24"/>nulla gratia potest saluari in sensu compositionis nulla gratia 
+      <lb ed="#P" n="25"/>habita vel nullam gratiam habendo tu potes saluari. quia 
+      <lb ed="#P" n="26"/>implicite sunt ibi due propositiones. et ita est ibi vna copu 
+      <lb ed="#P" n="27"/>latiua composita ex vna vniuersali negatiua. et ex vna 
+      <lb ed="#P" n="28"/>affirmatiua quod declaratur primo. quia hec est vna 
+      pro<lb ed="#P" n="29" break="no"/>positio affirmatiua singularis tu potes saluari. et in 
+      <lb ed="#P" n="30"/>illa totali propositione hoc remanet affirmatum. igitur cum 
+      il<lb ed="#P" n="31" break="no"/>la totalis propositio non sit pure affirmatiua et singularis  
+      <lb ed="#P" n="32"/>sequitur quod preter illam singularem affirmatiuam 
+      impli<lb ed="#P" n="33" break="no"/>cat vnam negatiuam non singularem. Item aliqua 
+      indu<lb ed="#P" n="34" break="no"/>ctio potest fieri sub illa totali propositione: sed non fit 
+      indu<lb ed="#P" n="35" break="no"/>ctio sub subiecto vel predicato huius propositionis: tum po 
+      <lb ed="#P" n="36"/>tes saluari. igitursub predicato vel subiecto alterius 
+      <lb ed="#P" n="37"/>propositionis que scilicet implicatur in hoc quod dicitur nullam gra 
+      <lb ed="#P" n="38"/>tiam habendo seu nulla gratia habita. cum igitur illa pro 
+      <lb ed="#P" n="39"/>positio sit virtualiter / et implicite due propositiones videtur 
+      <lb ed="#P" n="40"/>iportare et ad sui veritatem exigere quod stante veritate 
+      <lb ed="#P" n="41"/>huius vniuersalis negatiue. nullam gratiam habes 
+      possi<lb ed="#P" n="42" break="no"/>bile sit simul stare quod tu es dignus vita eterna. non sic 
+      <lb ed="#P" n="43"/>autem de ista. Nulla gratia est necessaria ad salutem. immo 
+      <lb ed="#P" n="44"/>est vna propositio vniuersalis negatiua cuius omnes singu 
+      <lb ed="#P" n="45"/>lares sunt vere. et cuius contradictoria est propositio particu 
+      <lb ed="#P" n="46"/>laris per se vna falsa.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1753">
+      ¶ Ad primam probationem consequentiae. 
+      <lb ed="#P" n="47"/>inductio illa peccaret procedendo a pluribus 
+      determi<lb ed="#P" n="48" break="no"/>natis ad vnum. quia in premissis sumuntur quasi varie 
+      <lb ed="#P" n="49"/>potentie singulares et proprie ad varios actus in commu 
+      <lb ed="#P" n="50"/>sequente autem vna potentia ad vnum actum simplicem vel 
+      <lb ed="#P" n="51"/>compositum perfecte terminabilem. sicut quelibet singu 
+      <lb ed="#P" n="52"/>laris. in hac enim propositione. nullam gratiam habendo tu po 
+      <lb ed="#P" n="53"/>tes saluari. ly potest non tenetur confuse et immobiliter. 
+      <lb ed="#P" n="54"/>quia non procedit distributio vniuersalis affirmatiua. qua 
+      <lb ed="#P" n="55"/>habeat hanc virtutem. et ideo varitas illius propositionis 
+      <lb ed="#P" n="56"/>inferret propositionem vniuersalem negatiuam de inesse. et 
+      de<lb ed="#P" n="57" break="no"/>actu corrudentem esse possibile. et ad sufficientem 
+      indu<lb ed="#P" n="58" break="no"/>ctionem illius vniuersalis exigeretur quod omnes singulares deo 
+      <lb ed="#P" n="59"/>inesse et de actu essent simul possibiles et compossibiles 
+      <lb ed="#P" n="60"/>sic quod possibile foret omnes illas esse simul veras. et ista ma 
+      <lb ed="#P" n="61"/>gis apparent in propositionibus in quibus ponitur hoc signum 
+      <lb ed="#P" n="62"/>neutrum vel vterque. vt dicendo neutrum oculum 
+      haben<lb ed="#P" n="63" break="no"/>do vel vtroque oculo carendo tu potes videre. quia 
+      <lb ed="#P" n="64"/>vtrumque et neutrum videntur signa magis collectia quam di 
+      <lb ed="#P" n="65"/>stributiua per similem defectum peccat inductio probans 
+      <lb ed="#P" n="66"/>antc de inesse. nullam grati a imh abendo vel nulla gratia 
+      <!--151.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>habita est quis dignus salute. arguendo sic. hanc gra 
+      <lb ed="#P" n="68"/>tiam non habendo est quis dignus salute et illam gratiam 
+      <lb ed="#P" n="69"/>non habendo est quis dignus salute. et sic de singulis 
+      <lb ed="#P" n="70"/>igitur nullam gratiam habendo est quis dignus salute. 
+    </p>
+            <p xml:id="D78nca-e44139-d1e1812">
+               <lb ed="#P" n="71"/>¶ Ad secundam probationem consequentie. dicendum quod singulares 
+      <lb ed="#P" n="72"/>consequentis que sequuntur ad singulares antecedentis non sunt sin 
+      <lb ed="#P" n="73"/>gulares sufficienter inferentes illud consequens. Non enim 
+      <lb ed="#P" n="74"/>sequitur hanc gratiam non habendo tu potes saluari: et 
+      <lb ed="#P" n="75"/>illam gratiam non habendo. etc. ergo nullam gratiam haben 
+      <lb ed="#P" n="76"/>do tu potes saluari. consequens igitur non est proprie et simpliciter 
+      <lb ed="#P" n="77"/>propositio vniuersalis sicut antecedens. sed est propositio composita 
+      <lb ed="#P" n="78"/>ex vniuersali et singulari et magis ex forma 
+      enunciam<lb ed="#P" n="79" break="no"/>di dicenda est singularis quam vniuersalis et singulares 
+      <lb ed="#P" n="80"/>sumptibiles ex illa que conuertuntur cum singularibus 
+      <lb ed="#P" n="81"/>antecedentis non inferunt illam totalem propositionem compositam.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1838">
+      ¶ Cit 
+      <lb ed="#P" n="82"/>ca igitur has propositiones de gerundiuo et ablatiuo abso 
+      <lb ed="#P" n="83"/>luto nullam albedinem habendo vel nulla albedine ha 
+      <lb ed="#P" n="84"/>bita. sortes potest esse albus / vel potest currere.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1848">
+      ¶ Scien 
+      <lb ed="#P" n="85"/>dum quod talis propositio potest habere sex sensus / siue sex ex 
+      <lb ed="#P" n="86"/>ponentes. Primo potest exponi vt equiualet tali copu 
+      <lb ed="#P" n="87"/>latiue. sortes nullam albedinem habet et potest esse albus / 
+      <lb ed="#P" n="88"/>vel potest currere. et sic est vera. et similiter ista: nullam 
+      <lb ed="#P" n="89"/>gratiam habendo sortes potest esse dignus salute. et ita 
+      <lb ed="#P" n="90"/>in aliis supposito quod a priuatione talis actus / posset 
+      <lb ed="#P" n="91"/>fieri mutatio ad habitum. ideo in hoc sensu hec est na 
+      <lb ed="#P" n="92"/>turaliter falsa. nullum oculum habendo tu potes vide 
+      <lb ed="#P" n="93"/>re.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1870">
+      ¶ Secundo. modo. vt equiualet temporali. scilicet quando 
+      sor<lb ed="#P" n="94" break="no"/>tes nullam albedinem habet sortes potest esse allbus. et sic 
+      <lb ed="#P" n="95"/>est vera in sensu diuisionis. quia eo tempore quo sortes 
+      <lb ed="#P" n="96"/>est omni albedine priuatus ipse habet potentiam ad 
+      <lb ed="#P" n="97"/>albedinem recipiendam.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1881">
+      ¶ Tertio modo. vt notetur esse 
+      <lb ed="#P" n="98"/>possibilis hec copulatima. sortes nullam habet albe 
+      <lb ed="#P" n="99"/>dinem. et sortes est albus: vel quod possibilis sit proposi 
+      <lb ed="#P" n="100"/>tio de praedicato copulato ex duabus partibus de inesse 
+      <lb ed="#P" n="101"/>vel quod vera sit illa de possibili de predicato 
+      copula<lb ed="#P" n="102" break="no"/>to. puta quod hec sit vera. sortes potest nullam albedinem 
+      <lb ed="#P" n="103"/>habendo esse albus. et sic est falsa. quia cum predicatum ap 
+      <lb ed="#P" n="104"/>pellet suam formam ad veritatem illius exigeretur quod esset 
+      <lb ed="#P" n="105"/>possibilis illa de inesse stante formaliter omni eo quod 
+      se<lb ed="#P" n="106" break="no"/>quitur terminum potentie.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1903">
+      ¶ Quarto. vt equiualet 
+      <lb ed="#P" n="107"/>ypothetice proprie et formaliter conditionali. puta isti 
+      <lb ed="#P" n="108"/>si sortes nullam albedinem haberet sortes potest esse albus 
+      <lb ed="#P" n="109"/>vel posset currere. et sic est falsa. sed in hoc sensu 
+      so<lb ed="#P" n="110" break="no"/>let dici quod nullo impedimento interueniente sol potest il 
+      <lb ed="#P" n="111"/>luminare et oculus sanus videre vel passtuo presen 
+      <lb ed="#P" n="112"/>te actiuum potest agere.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1919">
+      ¶ Quinto modo. vt equiualet com 
+      <lb ed="#P" n="113"/>ditionali non proprie et formaliter conditionali. sed implici 
+      <lb ed="#P" n="114"/>te et indirecte. puta isti quamuis sortes nullam habet al 
+      <lb ed="#P" n="115"/>bedinem. sortes posset esse albus vel esse currens. Et 
+      <lb ed="#P" n="116"/>iste sensus equiualet isti conditionali negatiue non 
+      se<lb ed="#P" n="117" break="no"/>quitur. si nullam albedinem haberet quod non posset esse 
+      al<lb ed="#P" n="118" break="no"/>pus vel currens. et sic negatur in sensu compositionis. sed 
+      <lb ed="#P" n="119"/>in sensu diuisionis conceditur. sensus autem compositionis ma 
+      <lb ed="#P" n="120"/>gis exprimitur / si compositum ex gerundiuo et ablatiuo 
+      <lb ed="#P" n="121"/>absoluto ponatur post verbum potentie quasi ex par 
+      <lb ed="#P" n="122"/>te predicati. dicendo sic. sortes potest esse dignus salu 
+      <lb ed="#P" n="123"/>te nullam gratiam habendo. et quamuis nullam gratiam 
+      habe<lb ed="#P" n="124" break="no"/>ret.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1948">
+      ¶ Sexto. vt equiualet cuidam cathegorice de 
+      <lb ed="#P" n="125"/>subiecto composito et modificato. puta isti / sortes nul 
+      <lb ed="#P" n="126"/>lam albedinem habens potest esse albus. vel potest esse currens. 
+      <lb ed="#P" n="127"/>et sic negatur in sensu compositionis / nec inductio est sul 
+      <lb ed="#P" n="128"/>ficiens.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1960">
+      ¶ Circa huiusmodi propositiones de gerundiuis / vel abla 
+      <lb ed="#P" n="129"/>tiuis abiolutis dubium que sit contradictoria istius 
+      <lb ed="#P" n="130"/>nullam albedinem habendo / vel nulla albedine habita 
+      <lb ed="#P" n="131"/>sortes potest esse albus / vel potest esse currens: vel 
+      nul<lb ed="#P" n="132" break="no"/>lum oculum seu neutrum habendo tu potes videre. Si 
+      <!--152.xml-->
+      <pb ed="#P" n="71-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>primo dicitur quod ista / aliquam albedinem habendo / 
+      sor<lb ed="#P" n="2" break="no"/>tes potest esse albus. Contra. quia contradictorie 
+      es<lb ed="#P" n="3" break="no"/>sent simul vere. patet in istis. nullum pedem habendo / tu 
+      <lb ed="#P" n="4"/>potes videre aliquem pedem habendo tu potes videre 
+      <lb ed="#P" n="5"/>quia tu potes videre cum nullo pede. et potes videre cum 
+      <lb ed="#P" n="6"/>aliquo pede.
+    </p>
+            <p xml:id="D78nca-e44139-d1e1991">
+      ¶ Item. contradictorie essent simul false. 
+      <lb ed="#P" n="7"/>vt nullam albedinem habendo. angelus potest esse albus. 
+      <lb ed="#P" n="8"/>aliquam albedinem habendo angelus potest esse albus 
+      <lb ed="#P" n="9"/>Si secundo. dicitur quod contradictoria prime est ista aliquan 
+      <lb ed="#P" n="10"/>albedinem non habendo sortes potest esse albus.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2002">
+      ¶ 
+      Con<lb ed="#P" n="11" break="no"/>tra. Tum quia ambe sunt negatiue et se habent vt vniuer 
+      <lb ed="#P" n="12"/>salis negatiua et particularis negatiua Tum. quia con 
+      <lb ed="#P" n="13"/>tradictorie essent simul vere. vt in istis nullum pedem 
+      <lb ed="#P" n="14"/>habendo tu potes videre aliquem pedem non habendo 
+      <lb ed="#P" n="15"/>tu potes videre.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2015">
+      ¶ Si tertio. dicitur quod contradictoria 
+      <lb ed="#P" n="16"/>prime est ista. aliquam albedinem habendo sortes non potest 
+      <lb ed="#P" n="17"/>esse albus. Contra. quia vtraque contradictoria esset: 
+      <lb ed="#P" n="18"/>simul falsa. vt neutrum oculum habendo tu potes vide 
+      <lb ed="#P" n="19"/>re. et alterum oculum habendo tu non potes videre: vel 
+      <lb ed="#P" n="20"/>nullum pedem habendo tu vides aliquem pedem habendo 
+      <lb ed="#P" n="21"/>tu non vides: posito quod simul videas et habeas pedes 
+    </p>
+            <p xml:id="D78nca-e44139-d1e2031">
+               <lb ed="#P" n="22"/>¶ Si quarto. dicitur quod ista: aliquam albedinem non habe 
+      <lb ed="#P" n="23"/>do. sortes non potest esse albus. Contra. quia est particula 
+      <lb ed="#P" n="24"/>ris negatiua que non contradicit vniuersali negatiue 
+      <lb ed="#P" n="25"/>vel est composita ex duplici particulari negatiua / aut 
+      <lb ed="#P" n="26"/>si dicatur quod est affirmatiua propter duplicem negatio 
+      <lb ed="#P" n="27"/>nem. sequitur quod equiualet isti / aliquam: albedinem 
+      <lb ed="#P" n="28"/>habendo: sortes potest esse albus que non contradicit 
+      pri<lb ed="#P" n="29" break="no"/>me. vt probatum est.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2051">
+      ¶ Item: aliquid idem negatur in vtra 
+      <lb ed="#P" n="30"/>que. igitur non contradicunt. quia quicquid negat negatiua 
+      <lb ed="#P" n="31"/>affirmabat contradictoria.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2059">
+      ¶ Item: possunt simul esse 
+      <lb ed="#P" n="32"/>false. vt nullum pedem habendo tu vides et aliquem 
+      pe<lb ed="#P" n="33" break="no"/>dem non habendo tu non vides.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2066">
+      ¶ Si quinto dicatur 
+      <lb ed="#P" n="34"/>quod ista. non nullam albedinem habendo. sortes potest esse 
+      <lb ed="#P" n="35"/>albus. Contra. quia nonnullus et aliquis equipollent 
+      <lb ed="#P" n="36"/>igitur reuertitur in primum modum.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2075">
+      ¶ Responsio. vt eius 
+      <lb ed="#P" n="37"/>exponens est copulatiua / eius contradictoria est disium 
+      <lb ed="#P" n="38"/>ctiua composita ex contradictoriis partium copulatiue 
+      <lb ed="#P" n="39"/>vt contradictoria huius nullum oculum habendo tu potes 
+      <lb ed="#P" n="40"/>videre. vt equiualet copul atiue est ista aut aliquem 
+      <lb ed="#P" n="41"/>oculum habes / aut tu non potes videre. Si vero sumi 
+      <lb ed="#P" n="42"/>tur vt equipollet propositioni de extremo copulato. dicen 
+      <lb ed="#P" n="43"/>dum est proportionabiliter. Si vero sumatur secundum 
+      <lb ed="#P" n="44"/>sensum in quo implicite est temporalis. sic contradicto 
+      <lb ed="#P" n="45"/>ria eius videtur ista / nonnullum oculum habendo potes 
+      <lb ed="#P" n="46"/>videre. vt ly non neget totalem propositionem temporalem 
+      <lb ed="#P" n="47"/>et tunc non equiualet isti / aliquem oculum habendo tu 
+      <lb ed="#P" n="48"/>potes videre. sed isti non quando nullum oculum habes tu po 
+      <lb ed="#P" n="49"/>tes videre.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2106">
+      ¶ Consimiliter. dicendum. si sumatur vt 
+      <lb ed="#P" n="50"/>implicite equiualens conditionali proprie vel 
+      impro<lb ed="#P" n="51" break="no"/>prie / vel vt notatur esse possibilis illa copulatiua com 
+      <lb ed="#P" n="52"/>posita ex duplici cathegorica de inesse / vel quod possibi 
+      <lb ed="#P" n="53"/>lis sit propositio de copulato predicato ex duabus par 
+      <lb ed="#P" n="54"/>tibus de inesse. Conuenientius tamen assignatur contra 
+      <lb ed="#P" n="55"/>dictoria explicando sensum: et exponentem cui 
+      equi<lb ed="#P" n="56" break="no"/>ualet. vt autem equiualet isti cathegorice. nullum oculum 
+      <lb ed="#P" n="57"/>habens potest videre. queritur que sit eius 
+      contradicto<lb ed="#P" n="58" break="no"/>ria.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2128">
+      ¶ Si primo: dicitur quod ista / aliquem oculum habens potest 
+      <lb ed="#P" n="59"/>videre. Contra. quia contradictorie essent simul vere 
+      <lb ed="#P" n="60"/>vt nullam albedinem habens potest videre. aliquam albed 
+      <lb ed="#P" n="61"/>nem habens potest videre. Si secundo. dicitur quod ista / ali 
+      <lb ed="#P" n="62"/>quem oculum habens non potest videre.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2139">
+      ¶ Contra: contra 
+      <lb ed="#P" n="63"/>dictorie in casu essent simul vere. vt nullam 
+      albedi<lb ed="#P" n="64" break="no"/>nem habens potest currere / aliquam albedinem habens non 
+      <lb ed="#P" n="65"/>potest currere. prima est vera pro homine nigro sano. se 
+      <lb ed="#P" n="66"/>cunda est vera: pro albo infirmo vel sine pedibus.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2151">
+      ¶ Si 
+      <!--152.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>tertio. dicitur quod ista / aliquem oculum non habens potest vi 
+      <lb ed="#P" n="68"/>dere. Contra. quia vtraque est equa liter negatiua. et vi 
+      <lb ed="#P" n="69"/>dentur se habere vt vniuersalis negatiua et particu 
+      <lb ed="#P" n="70"/>laris negatiua.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2167">
+      ¶ Item: contradictorie essent simul 
+      ve<lb ed="#P" n="71" break="no"/>re. vt nullum pedem habens potest videre. et aliquem pedem 
+      <lb ed="#P" n="72"/>non habens potest videre. Si quarto. dicitur quod ista 
+      ali<lb ed="#P" n="73" break="no"/>quem oculum non habens potest videre. Contra. quia est negati 
+      <lb ed="#P" n="74"/>ua. vel si sit affirmatiua equiualet isti / aliquem oculum 
+      <lb ed="#P" n="75"/>habens potest videre. que non contradicit prime. vt pro 
+      <lb ed="#P" n="76"/>batum est.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2183">
+      ¶ Item. contradictorie essent simul vere. 
+      <lb ed="#P" n="77"/>scilicet nullum pedem habens videt. aliquem pedem non habens 
+      <lb ed="#P" n="78"/>non videt.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2190">
+      ¶ Si quinto. dicitur quod ista / nullum oculum habens 
+      <lb ed="#P" n="79"/>non potest videre. Contra. quia vtraque est 
+      vniuersa<lb ed="#P" n="80" break="no"/>lis negatiua.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2197">
+      ¶ Item. contradictorie essent simul vere 
+      <lb ed="#P" n="81"/>vt nullum pedem habens videt. et nullum pedem habens 
+      <lb ed="#P" n="82"/>non videt. patet: quia si duorum pedibus carentium. vnus sit 
+      <lb ed="#P" n="83"/>videns / et alius non sit videns.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2206">
+      ¶ Eodem modo potest 
+      <lb ed="#P" n="84"/>queri de contradictoria istius / oni gratia priuatus potest 
+      <lb ed="#P" n="85"/>esse dignus vita ererna vel omni oculo priuatus potest 
+      <lb ed="#P" n="86"/>videre. Si dicitur quod ista aliquo oculo priuatus non 
+      <lb ed="#P" n="87"/>potest videre. Contra: quiua contradictorie essent simul 
+      <lb ed="#P" n="88"/>vere. vt omni albedine priuatus potest videre et videt. 
+      <lb ed="#P" n="89"/>et aliqua albedine priuatus non videt nec potest videre 
+      <lb ed="#P" n="90"/>hec enim est vera pro sorte ceco nigro / vel etiam albo 
+    </p>
+            <p xml:id="D78nca-e44139-d1e2225">
+               <lb ed="#P" n="91"/>¶ Si dicitur quod ista aliquo oculo non priuatus potest 
+      vi<lb ed="#P" n="92" break="no"/>dere.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2232">
+      ¶ Contra. quia contradictorie essent simul vere 
+      <lb ed="#P" n="93"/>vt omni albedine priuatus currit. et aliqua albedine 
+      <lb ed="#P" n="94"/>non priuatus currit. Ex hoc patet quod contradictoria istius 
+      <lb ed="#P" n="95"/>cuiuslibet contradictionis altera pars est vera non est 
+      <lb ed="#P" n="96"/>ista: alicuius contradictionis altera pars non est vera 
+      <lb ed="#P" n="97"/>quia vt runque est verum. Similiter contradictoria istius / 
+      cu<lb ed="#P" n="98" break="no"/>iuslibet hominis asinus currit. non est ista alicuius hominis 
+      <lb ed="#P" n="99"/>asinus non currit: quia possunt simul esse vere. prima 
+      <lb ed="#P" n="100"/>enim est vera / si quilibet homo habet aliquem asinum cur 
+      <lb ed="#P" n="101"/>rentem. Et secunda est vera. si sortes habet plures ast 
+      <lb ed="#P" n="102"/>nos. quorum vnus currat et alius non currat. Similiter 
+      <lb ed="#P" n="103"/>de contradictoria istius / cuiuslibet hominis alter oculus 
+      <lb ed="#P" n="104"/>est dexter. Si dicitur quod contradictoria eius est ista. non 
+      <lb ed="#P" n="105"/>cuiuslibet hominis oculus est dexter. Contra. quia contra 
+      <lb ed="#P" n="106"/>dictorie erunt simul vere. quia prima est vera. sed quod 
+      se<lb ed="#P" n="107" break="no"/>cunda sit vera. arguitur quod sic. sit .b. oculus capre dexter 
+      <lb ed="#P" n="108"/>tunc sic .b. oculus est dexter .b. oculus est non cuiusli 
+      <lb ed="#P" n="109"/>bet hominis alter oculus. igitur non cuiuslibet hominis alier 
+      <lb ed="#P" n="110"/>oculus est dexter. Idem arguitur. si .b. sit aliquis ocu 
+      <lb ed="#P" n="111"/>lus dexter singularis hominis. Similiter sit .b. hec propositio 
+      <lb ed="#P" n="112"/>sortes est homo. tunc sic .b. est vera. b est non cuiuslibet 
+      <lb ed="#P" n="113"/>contradictionis: altera pars igitur non cuiuslibet 
+      con<lb ed="#P" n="114" break="no"/>tradictionis altera pars est vera. non videtur valere 
+      <lb ed="#P" n="115"/>discursus nisi vt conclusio est particularis affirmati 
+      <lb ed="#P" n="116"/>ua de parte subiecti negatiua. Potest dici quod ista propositio 
+      <lb ed="#P" n="117"/>nullum oculum habens potest videre. vel nullam 
+      albedi<lb ed="#P" n="118" break="no"/>nem habens potest videre est indefinita et affirmatiua 
+      <lb ed="#P" n="119"/>de parte subiecti vniuersali negatiua. ideo eius con 
+      <lb ed="#P" n="120"/>tradictoria erit ista nullum nullam albedinem habens potest 
+      <lb ed="#P" n="121"/>videre. et contradictoria istius / aliquam albedinem non 
+      <lb ed="#P" n="122"/>habens potest videre / est ista nullum aliquam albedinem 
+      <lb ed="#P" n="123"/>non habens potest videre: et proportionabiliter de istius con 
+      <lb ed="#P" n="124"/>tradictoria. omnemialbedinem habens potest videre. et con 
+      <lb ed="#P" n="125"/>tradictoria istius. nullam albedinem habens non potest vt 
+      <lb ed="#P" n="126"/>dere / est ista. omne nullam albedinem habens potest vide 
+      <lb ed="#P" n="127"/>re. Similiter hec propositio / omni. albedine priuatus potest 
+      <lb ed="#P" n="128"/>videre de principali compositione est indefinita 
+      affir<lb ed="#P" n="129" break="no"/>matiua de parte subiecti vniuersali affirmatiua: et 
+      <lb ed="#P" n="130"/>de parte negatiua implicite. et contradictoria eius est 
+      <lb ed="#P" n="131"/>nullus omni albedine priuatus potest videre. et quod non 
+      <lb ed="#P" n="132"/>sint simpliciter vniuersales. probatur. quia contrarie vniuer 
+      <!--153.xml-->
+      <pb ed="#P" n="71-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sales essent simu l vere: et etiam contradictorie. patet in 
+      <lb ed="#P" n="2"/>istis. nullum vel neutrum pedem habendo aliquis potest vt 
+      <lb ed="#P" n="3"/>dere et vtrunque pedem habendo potest aliquis videre: 
+      <lb ed="#P" n="4"/>vel aliquem pedem habendo potest aliquis videre: vel vtrum 
+      <lb ed="#P" n="5"/>que oculum habendo potest aliquis audire. et neutrum ocu 
+      <lb ed="#P" n="6"/>lum habendo potest aliquis audire.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2341">
+      ¶ Item 
+      contradi<lb ed="#P" n="7" break="no"/>ctoria istius / cuiuslibet contradictionis altera parsi 
+      <lb ed="#P" n="8"/>vel aliqua pars est vera est ista / alicuius contradicti 
+      <lb ed="#P" n="9"/>onis neutra vel nulla / vel non altera / vel non aliqua 
+      <lb ed="#P" n="10"/>pars est vera. Et contradictoria istius / cuiuslibet ho 
+      <lb ed="#P" n="11"/>minis alter vel aliquis oculus est dexter / est ista: ab 
+      <lb ed="#P" n="12"/>cuius hominis neuter vel nullus vel non alter oculus est 
+      <lb ed="#P" n="13"/>dexter.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2359">
+      ¶ Item contradictoria istius. cuiuslibet contra 
+      <lb ed="#P" n="14"/>dictionis vtraque pars est vera / non est ist a / alicuius con 
+      <lb ed="#P" n="15"/>tradictionis vtraque pars non est vera. quia ambe sum 
+      <lb ed="#P" n="16"/>fimul false. sed ista: alicuius contradictionis non vtraque 
+      <lb ed="#P" n="17"/>pars est vera. Et contradictoria istius. cuiuslibet 
+      con<lb ed="#P" n="18" break="no"/>tradictionis altera pars non est vera: non est ista / 
+      ali<lb ed="#P" n="19" break="no"/>cuius contradictionis altera pars est vera. quia ambe 
+      <lb ed="#P" n="20"/>sunt vere. sed ista alicuius contradictionis vtraque pars 
+      <lb ed="#P" n="21"/>est vera.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2379">
+      ¶ Item. contradictori a istius: nullius contra 
+      <lb ed="#P" n="22"/>dictionis altera pars est vera / est ista: alicuius contra 
+      <lb ed="#P" n="23"/>dictionis altera proars est vera. et consimiliter de con 
+      <lb ed="#P" n="24"/>tradictoria istius. nullius hominis alter oculus est 
+      dex<lb ed="#P" n="25" break="no"/>ter. Contra. Sequitur quod in casu contradictorie esseni 
+      <lb ed="#P" n="26"/>simul vere. probo: pone quod sortes habeat asinum qui 
+      <lb ed="#P" n="27"/>currat. et .b. sit aliquis asinus currens. qui tamen nullius 
+      <lb ed="#P" n="28"/>hominis sit. tunc hec est vera. alicuius hominis asinus currit 
+      <lb ed="#P" n="29"/>et hec erit simul vera. nullius hominis asinus currit. probo: 
+      <lb ed="#P" n="30"/>quia .b. currit: sed .b. est nullius hominis asinus. ergo nulli 
+      <lb ed="#P" n="31"/>hominis asinus currit. Eodem modo probatur: quod iste 
+      <lb ed="#P" n="32"/>sunt simul vere. nullius hominis oculus est dexter. et 
+      ali<lb ed="#P" n="33" break="no"/>cuius hominis oculus est dexter. Prima enim probatur 
+      <lb ed="#P" n="34"/>quia sit .b. oculus dexter capre. et potest argui vt prius. 
+      Respon<lb ed="#P" n="35" break="no"/>sio. hec propositio / nullius hominis oculus / vel .b. oculus est 
+      <lb ed="#P" n="36"/>dexter potest sumi vt est vniuersalis negatiua et vt et 
+      <lb ed="#P" n="37"/>singulares sunt iste. huius hominis nullus oculus est deter 
+      <lb ed="#P" n="38"/>ter. vel non est dexter oculus. et illius hominis non est dex 
+      <lb ed="#P" n="39"/>ter oculus. etc. et sic est falsa. nec in isto sensu inferter 
+      <lb ed="#P" n="40"/>aliter potest sumi vt est indefinita vel singularis 
+      affir<lb ed="#P" n="41" break="no"/>matiua de parte subiecti vniuersali negatiua. et sic 
+      <lb ed="#P" n="42"/>potest esse vera et sic infertur per dictum sillogismum: sed tum 
+      <lb ed="#P" n="43"/>contradictoria eius non est ista: alicuius hominis oculus 
+      <lb ed="#P" n="44"/>est dexter: sed ista nullum ens nullius hominis oculus est 
+      <lb ed="#P" n="45"/>pexter que est falsa.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2434">
+      ¶ Deinde dubiu / que sint 
+      sin<lb ed="#P" n="46" break="no"/>gulares sumende sub hac propositione. Nulla gratia habi 
+      <lb ed="#P" n="47"/>ta aliquis est dignus beatitudine vel potest esse dignus 
+      <lb ed="#P" n="48"/>beatitudine.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2444">
+      ¶ Dicendum quod non est proprie propositio vni 
+      <lb ed="#P" n="49"/>iersalis sed particularis de parte subiecti vniuersa 
+      <lb ed="#P" n="50"/>liter negata. Si tamen sumatur singulares sub 
+      illa<lb ed="#P" n="51" break="no"/>non sunt sumende iste. hac gratia habita aliquis non 
+      <lb ed="#P" n="52"/>est dignus beatitudine. et illa gratia habita. etc. quia in istis 
+      <lb ed="#P" n="53"/>singularibus non negatur singulariter quod in ista vni 
+      <lb ed="#P" n="54"/>uersali negabatur vniuersaliter: et in qualibet 
+      singu<lb ed="#P" n="55" break="no"/>lari negatur singulariter vel particulariter quod in 
+      <lb ed="#P" n="56"/>illa vniuersali non negabatur nec vniuersaliter nec per 
+      <lb ed="#P" n="57"/>ticulari er. et quia contingit aliquam talem esse veram. cui 
+      <lb ed="#P" n="58"/>omnes tales singulares sunt false. probatur. si nullus 
+      <lb ed="#P" n="59"/>asinus currat et sortes sit videns hec est vera. nullo 
+      <lb ed="#P" n="60"/>asino currente sortes est videns. et tamen hec sunt 
+      fal<lb ed="#P" n="61" break="no"/>se hoc asino currente: sortes non est videns illo 
+      asi<lb ed="#P" n="62" break="no"/>no currente sortes non est videns. etc. Sed 
+      singula<lb ed="#P" n="63" break="no"/>res sumptibiles sub propositione predicta. sunt iste hac. 
+      <lb ed="#P" n="64"/>gratia non habita aliquis viator est dignus beatitudine 
+      <lb ed="#P" n="65"/>Et illa gratia non habita aliquis est dignus 
+      beatitu<lb ed="#P" n="66" break="no"/>dine. etc. Et vt inductio valeat exigitur quod omnes sin¬ 
+      <!--153.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>gulares vt rificentur pro eodem viatore. et quod ly aliquis 
+      <lb ed="#P" n="68"/>dignus stet determinate pro eodem in omnibus singularis 
+      <lb ed="#P" n="69"/>bus. nec aliter proprie sunt singulares illius. nec ab 
+      <lb ed="#P" n="70"/>inferunt illam. Est enim implicite et virtualiter 
+      singula<lb ed="#P" n="71" break="no"/>ris vel particularis. quia eius veritas infert quod sortes vel 
+      <lb ed="#P" n="72"/>aliquis nulla gratia habita est vel potest esse dignus beati 
+      <lb ed="#P" n="73"/>ludine. etc.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2505">
+      ¶ Item. singulares illius / nullam gratiam ha 
+      <lb ed="#P" n="74"/>pens potest esse dignus vita eterna non sunt iste: hanc 
+      <lb ed="#P" n="75"/>gratiam habens non potest esse dignus vita eterna. etc. quia 
+      <lb ed="#P" n="76"/>aliqua talis est vera cuius multe tales singulares sunt 
+      <lb ed="#P" n="77"/>false. vt hec est vera pro sorte sedente vidente sine 
+      pe<lb ed="#P" n="78" break="no"/>dibus: nullum pedem habens potest videre et ista similiter 
+      <lb ed="#P" n="79"/>hunc pedem habens non potest videre est falsa pro 
+      plato<lb ed="#P" n="80" break="no"/>ne vidente et habente pedes singulares. igitur illius 
+      <lb ed="#P" n="81"/>sunt iste / hanc gratiam non habens est dignus salute. et 
+      <lb ed="#P" n="82"/>illam gratiam non habens. etc. ita quod ly non habens stet 
+      <lb ed="#P" n="83"/>determinate pro eodem singulari. ad hoc vt ex talibus 
+      <lb ed="#P" n="84"/>singularibus inferatur talis vniuersalis.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2531">
+      ¶ Item. sin 
+      <lb ed="#P" n="85"/>gulares istius. nullius contradictionis altera pars est 
+      <lb ed="#P" n="86"/>vera. vel nullius hominis aliquis oculus est dexter non 
+      <lb ed="#P" n="87"/>sunt iste: huius contradictionis altera pars non est 
+      <lb ed="#P" n="88"/>vera: vel huius hominis aliquis oculus non est 
+      dex<lb ed="#P" n="89" break="no"/>ter. quia proponum contrariarum singulares de eodem subie 
+      <lb ed="#P" n="90"/>cto contradicunt. Sed singulares huius vniuersalis / cum 
+      <lb ed="#P" n="91"/>uslibet contradictionis altera pars est vera erit ista 
+      <lb ed="#P" n="92"/>huius contradictionis altera pars est vera / que non 
+      <lb ed="#P" n="93"/>contradicit isti huius contradictionis: altera pars 
+      <lb ed="#P" n="94"/>non est vera. quia sunt simul vere. huius enim contradictio 
+      <lb ed="#P" n="95"/>nis altera pars est falsa non vera. singulares igitur 
+      <lb ed="#P" n="96"/>predicte propositionis sunt huius contradictionis / altera 
+      <lb ed="#P" n="97"/>vel non aliqua vel nulla vel neutra pars est vera. etc 
+      <lb ed="#P" n="98"/>Eodem modo singulares istius: nullius hominis asinus 
+      <lb ed="#P" n="99"/>currit. non sunt iste: huius hominis asinus non currit. et il 
+      <lb ed="#P" n="100"/>lius hominis asinus non currit. etc. quia contrarie essent si 
+      <lb ed="#P" n="101"/>mul vere. scilicet iste cuiuslibet hominis asinus currit. et nul 
+      <lb ed="#P" n="102"/>lius hominis asinus currit. quia cuiuslibet istarum omnes 
+      <lb ed="#P" n="103"/>singulares essent equaliter et vniformiter vere. 
+      suppo<lb ed="#P" n="104" break="no"/>sito quod quilibet homo habeat duos asinos quorum vnus 
+      <lb ed="#P" n="105"/>currat et non alter. Sed singulares sunt iste. huius ho 
+      <lb ed="#P" n="106"/>minis non asinus vel nullus asinus currit. etc.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2581">
+      ¶ Ad  
+      <lb ed="#P" n="107"/>tertiam rationem principalem negatur minor. ad primam 
+      pro<lb ed="#P" n="108" break="no"/>bationem negatur consequentia. sicut in sensu compositionis hec est 
+      <lb ed="#P" n="109"/>falsa. Omni albedine priuatus potest esse albus. Ad pri 
+      <lb ed="#P" n="110"/>mam probationem consequentie. licet illa propositio de possibili non 
+      <lb ed="#P" n="111"/>sit proprie vniuersalis: sed de parte subiecti vniuersa 
+      <lb ed="#P" n="112"/>li. tamen eo modo quo potest dici vniuersalis: dicendum quod ad 
+      <lb ed="#P" n="113"/>inferendum illam de possibili in sensu compositionis non suf 
+      <lb ed="#P" n="114"/>ficit quod quelibet illarum singularium sit vera. et quod omnes ta 
+      <lb ed="#P" n="115"/>les singulares de possibili simul sint vere. et per consequens 
+      <lb ed="#P" n="116"/>compossibiles in veritate. Sed cum hoc exigitur quod omnes 
+      <lb ed="#P" n="117"/>singulares de inesse et de actu correspondentes sini 
+      <lb ed="#P" n="118"/>possibiles coniuncti et collectiue. vt sit possibile omns 
+      <lb ed="#P" n="119"/>illas esse simul veras. sensus enim componis circa talem 
+      <lb ed="#P" n="120"/>propositionem attenditur penes possibilitatem propositionis 
+      <lb ed="#P" n="121"/>vniuersalis de inesse et de actu correspondentis. possibi 
+      <lb ed="#P" n="122"/>litas autem talis vniuersalis propositionis de inesse exigit quod 
+      <lb ed="#P" n="123"/>omnes singulares de inesse sint possibiles et 
+      compossibi<lb ed="#P" n="124" break="no"/>les in veritate.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2623">
+      ¶ Dicendum igitur quod illa inductio pro 
+      <lb ed="#P" n="125"/>bans sensum compositionis peccat per figuram dictio 
+      <lb ed="#P" n="126"/>nis procedendo a pluribus determinatis ad vnum et 
+      <lb ed="#P" n="127"/>mutando suppositionem Cum enim dicitur hac gratia .a. pri 
+      <lb ed="#P" n="128"/>patus esse potest dignus salute si sit vera in sensu com 
+      <lb ed="#P" n="129"/>positionis. ly dignus non potest stare pro dignitate 
+      se<lb ed="#P" n="130" break="no"/>cundum .a. gratiam: sed secundum alias gratias. et per consequens ly potest 
+      <lb ed="#P" n="131"/>non stat pro potentia ad dignitatem pro .a. et secundum .a. sed se 
+      <lb ed="#P" n="132"/>cundum aliquam gratiam. Et cum vltra dicitur quod illa gratia .b. 
+      <!--154.xml-->
+      <pb ed="#P" n="72-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>priuatus potest esse dignus salute si sit vera in sensu 
+      <lb ed="#P" n="2"/>compositionis. ly dignus non potest stare pro dignitate secundum 
+      <lb ed="#P" n="3"/>gratiam .b. secundum quam nec stabat in priori singulari. et sic 
+      <lb ed="#P" n="4"/>de aliis singularibus. et ita in illis singularibus non 
+      <lb ed="#P" n="5"/>stat pro dignitate secundum vnam gratiam / nec pro potentia 
+      <lb ed="#P" n="6"/>ad dignitatem secundum vnam gratiam. Ad hoc autem quod illa 
+      <lb ed="#P" n="7"/>propositio que infertur foret vera. scilicet omni gratia priuatus / potest 
+      <lb ed="#P" n="8"/>esse dignus salute exigeretur quod esset vera. pro dignitate se 
+      <lb ed="#P" n="9"/>cundum aliquam vnam gratiam. et pro potentia aliqua vna de 
+      <lb ed="#P" n="10"/>terminata ad dignitatem secundum vnam gratiam. quia ly potest 
+      <lb ed="#P" n="11"/>non tenetur confuse et immobiliter intali negatiua. 
+    </p>
+            <p xml:id="D78nca-e44139-d1e2673">
+               <lb ed="#P" n="12"/>¶ Ex his patet quod in sensu compositionis hec est falsa. cum 
+      <lb ed="#P" n="13"/>nulla gratia / vel sine omni gratia / vel sine gratia potest quis 
+      <lb ed="#P" n="14"/>saluari. sicut et ista. aliquis potest saluari sine omni gratia 
+      <lb ed="#P" n="15"/>nec inductio valet propter causas dictas. Ad aliam 
+      <lb ed="#P" n="16"/>probationem consequentie dictum est supra. Ad secundam probationem 
+      <lb ed="#P" n="17"/>minoris. negatur consequentia. sicut nec hec est possibilis omni 
+      <lb ed="#P" n="18"/>ratia priuatus habet gratiam. Ad probationem patet supra. 
+      <lb ed="#P" n="19"/>Non enim sufficit quod quelibet singularis de inesse sit 
+      <lb ed="#P" n="20"/>possibilis sed exigitur quod omnes de inesse simul sint 
+      possi<lb ed="#P" n="21" break="no"/>biles et compossibiles collectiue. ita vt sit possibile quod 
+      <lb ed="#P" n="22"/>omnes ille simul sint vere: sumendo singulares Iro 
+      <lb ed="#P" n="23"/>eodem subiecto priuato determinate. ita quod singulares 
+      <lb ed="#P" n="24"/>omnes ille equipolleant propositioni de subiecto copula 
+      <lb ed="#P" n="25"/>to ex omnibus singularibus gratiis in respectu ad idem 
+      <lb ed="#P" n="26"/>subiectum demonstratum. aliter enim non sunt proprie 
+      sin<lb ed="#P" n="27" break="no"/>gulares illius sufficientes ad inferendum illam: vel 
+      di<lb ed="#P" n="28" break="no"/>ceretur quod hec propositio omni gratia priuatus est dignus bea 
+      <lb ed="#P" n="29"/>titudine potest accipi vt est indefinita vel particularis  
+      <lb ed="#P" n="30"/>vel etiam singularis de parte subiecti vniuersali. et tunc 
+      <lb ed="#P" n="31"/>ly priuatus supponit determinate pro aliquo 
+      singula<lb ed="#P" n="32" break="no"/>ri ad hoc quod sit vera. et infert istam. igitur aliquis omni 
+      <lb ed="#P" n="33"/>gratia priuatus est dignus beatitudine. et aliquis digni 
+      <lb ed="#P" n="34"/>beatitudine est omni gratia priuatus. aliter potest sumi vt 
+      <lb ed="#P" n="35"/>sit vniuersalis. et sic ly priuatus et ly dignus stant 
+      con<lb ed="#P" n="36" break="no"/>fuse et immobiliter. nec sequitur quod aliquis dignus 
+      bea<lb ed="#P" n="37" break="no"/>titudine est omni gratia priuatus. Similiter. videtur de 
+      <lb ed="#P" n="38"/>ista: omnem gratiam habens est dignus beatitudine. vt 
+      <lb ed="#P" n="39"/>enim est indefinita est falsa. quia inferret quod aliquis 
+      ha<lb ed="#P" n="40" break="no"/>bens omnem gratiam est dignus beatitudine. vt autem est 
+      <lb ed="#P" n="41"/>vniuersalis concederetur vt ly habens teneatur 
+      con<lb ed="#P" n="42" break="no"/>fuse et immobiliter. Sic autem non videtur proprie sumi 
+      <lb ed="#P" n="43"/>nec in isto sensu communiter fieri et accipi. Ad tertiam 
+      <lb ed="#P" n="44"/>probationem minoris. patet ex dictis. Ad quartam. nega 
+      <lb ed="#P" n="45"/>consequentia ad probationem. illa non est proprie vniuersalis: sed 
+      <lb ed="#P" n="46"/>particularis et indefinita de parte subiecti 
+      vniuer<lb ed="#P" n="47" break="no"/>sali negatiua. nec ille singulares sufficiunt ad infe 
+      <lb ed="#P" n="48"/>rendum talem propoaitionem. in subiecto enim implicatur du 
+      <lb ed="#P" n="49"/>lex negatio equiualens vni affirmationi. scilicet isti aliquis 
+      <lb ed="#P" n="50"/>habens omnem gratiam vel ad inferendum illam propositionem 
+      <lb ed="#P" n="51"/>requiritur quod omnes iste singulares sint vere / pro eodem 
+      <lb ed="#P" n="52"/>subiecto singulari demonstrato per ly priuatus. vt di 
+      <lb ed="#P" n="53"/>cendo hac gratia non priuatus est dignus beatitudine. et 
+      <lb ed="#P" n="54"/>illa gratia idem non priuatus. etc. Si igitur demonstretur 
+      <lb ed="#P" n="55"/>ille qui est peccator. omnes singulares sunt false. si de 
+      <lb ed="#P" n="56"/>monstret hominem iustum vna singularis erit falsa.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2774">
+      ¶ Ad  
+      <lb ed="#P" n="57"/>quintum patet ex dictis.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2779">
+      ¶ Ad sextum. proprie loquendo il 
+      <lb ed="#P" n="58"/>le sunt subcontrarie simul vere. nec ille proprie 
+      enun<lb ed="#P" n="59" break="no"/>ciant predicata contraria de eodem subiecto 
+      distribu<lb ed="#P" n="60" break="no"/>to: sed de subiecto indefinite sumpto pro diuersis. 
+      li<lb ed="#P" n="61" break="no"/>cet quedam pars subiecti sit distributa vniuersaliter 
+      <lb ed="#P" n="62"/>Quod autem additur contradictorias illarum esse simul veras. 
+      <lb ed="#P" n="63"/>negatur. quia non debite accipiuntur. etc.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2795">
+      ¶ Ad septimum 
+      <lb ed="#P" n="64"/>negatur conequentia. Ad primam probationem. vtraque illarum est 
+      <lb ed="#P" n="65"/>falsa. nec sunt proprie contrarie sed indefinite. non de 
+      <lb ed="#P" n="66"/>eodem omnino subiecto. quia signum est ibi pars subiecti non 
+      <!--154.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>distributiuum principalis subiecti. Ad secundam hec est 
+      <lb ed="#P" n="68"/>falsa. nullius hominis oculus est dexter. et ista in casuar 
+      <lb ed="#P" n="69"/>gumenti nullius hominis asinus currit / nec singulares 
+      <lb ed="#P" n="70"/>illius sufficienter inferentes illam accipiuntur 
+      debi<lb ed="#P" n="71" break="no"/>to modo. quia sic accipiende sunt huius hominis non est 
+      <lb ed="#P" n="72"/>aliquis oculus dexter. quia illa equiualet isti / nullus ho 
+      <lb ed="#P" n="73"/>mo habet aliquem oculum dextrum. ex qua sequitur quod huius 
+      <lb ed="#P" n="74"/>hominis nullus est oculus est dexter.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2826">
+      ¶ Ad octauu. ne 
+      <lb ed="#P" n="75"/>gatur consequentia. ad probationem: inductio peccat modo su 
+      <lb ed="#P" n="76"/>pradicto supposito quod ly vtraque sumatur vt sit signum 
+      <lb ed="#P" n="77"/>collectiuum non vt distributiuum diuisiue. illa enim ad sui 
+      <lb ed="#P" n="78"/>veritatem exigit quod ambe correspondentes de inesse possunt 
+      <lb ed="#P" n="79"/>simul esse vere collectiue: et est processus a pluribus de 
+      <lb ed="#P" n="80"/>terminatis ad vnum. et similis defectus non reperitur 
+      <lb ed="#P" n="81"/>in proposito. vnde hec consequentia non valet. hic homo non est 
+      <lb ed="#P" n="82"/>multitudo hominem nec ille homo nec ille. etc. igitur am 
+      <lb ed="#P" n="83"/>bo vel omnes non sunt multitudo hominum: sed bene sequi 
+      <lb ed="#P" n="84"/>tur. igitur nullus homo est multitudo hominum.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2850">
+      ¶ Ad quan 
+      <lb ed="#P" n="85"/>tam rationem principalem. dicendum quod sensus in quo fiunt 
+      <lb ed="#P" n="86"/>ille propositiones. et quem intendit scriptura verus est et ve  
+      <lb ed="#P" n="87"/>ra est scriptura in sensu litterali quem intendit. sed non 
+      <lb ed="#P" n="88"/>vbique in scriptura obseruantur huiusmodi apices et 
+      stri<lb ed="#P" n="89" break="no"/>cte reguleartis logice tradite a philosophis. vnde Math. ip 
+      <lb ed="#P" n="90"/>Cect vident: surdi audiunt. etc. nec in communi sermo 
+      <lb ed="#P" n="91"/>ne a doctoribus seruantur. Sensus igitur quem inten 
+      <lb ed="#P" n="92"/>dunt ille auctoritates est ille qui est communis vtrique 
+      <lb ed="#P" n="93"/>parti aduersariorum in hac questione.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2872">
+      ¶ Ad quintum 
+      <lb ed="#P" n="94"/>proprie loquendo oppositio illa est signorum predicabi 
+      <lb ed="#P" n="95"/>lium. ideo ly esse in caritate et esse in peccato 
+      suppo<lb ed="#P" n="96" break="no"/>nunt simpliciter. et ly necessarium stat pro necessitate verifi 
+      <lb ed="#P" n="97"/>cationis. et sic conceditur quod esse in caritate est 
+      neces<lb ed="#P" n="98" break="no"/>sarium ad salutem id est hoc praedicabile esse in caritate non 
+      <lb ed="#P" n="99"/>potest falsificari de existente in statu salutis et non est 
+      con<lb ed="#P" n="100" break="no"/>tra propositum. Si quis vero accipiat esse in caritate 
+      <lb ed="#P" n="101"/>et esse in mortali personaliter et significatiue. sic 
+      nega<lb ed="#P" n="102" break="no"/>tur minor. quia non est aliqua caritas: nec est aliquod 
+      pec<lb ed="#P" n="103" break="no"/>catum mortale que sic sint opposita immediate quod 
+      ne<lb ed="#P" n="104" break="no"/>cesse sit sortem habere illam vel esse in illo peccato aut in 
+      <lb ed="#P" n="105"/>maiori. diceretur quod sufficit vt sicut vnum repugnat 
+      sa<lb ed="#P" n="106" break="no"/>luti. ita necessarium est reliquum. licet reliquum non sit ne 
+      <lb ed="#P" n="107"/>cessarium. Et ratio est. quia quodlibet peccatum seorsum ad 
+      <lb ed="#P" n="108"/>ceptibile repugnat saluti. sed non qualibet caritas seor 
+      <lb ed="#P" n="109"/>sum acceptibilis est necessaria: nec requiritur ad salu 
+      <lb ed="#P" n="110"/>tem sic ad esse album omnis nigredo repugnat. sed non 
+      <lb ed="#P" n="111"/>omnis albedo requiritur ad esse album.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2915">
+      ¶ Ad sextum. 
+      li<lb ed="#P" n="112" break="no"/>cet propositiones de necessario habeant conuersionem sibi con 
+      <lb ed="#P" n="113"/>uenientem. non tamen eo modo quo accipitur in argumen 
+      <lb ed="#P" n="114"/>to. patet in multis exemplis. quia hec propositio aliquod 
+      al<lb ed="#P" n="115" break="no"/>bum est quantum conuertitur in istam: aliquod quantum est 
+      <lb ed="#P" n="116"/>album. et tamen ista: aliquod album necessario est quantum non 
+      <lb ed="#P" n="117"/>conuertitur in istam: aliquod quantum est necessario 
+      al<lb ed="#P" n="118" break="no"/>bum. Similiter: aliquod quantum est contingenter album 
+      <lb ed="#P" n="119"/>et tamen falsum est quod aliquod album sit contingenter quan 
+      <lb ed="#P" n="120"/>tum.
+    </p>
+            <p xml:id="D78nca-e44139-d1e2937">
+      ¶ Item. hec propositio aliquid habens .b. gradum 
+      <lb ed="#P" n="121"/>gratie vel equalem est dignus beatitudine conuertitur 
+      <lb ed="#P" n="122"/>in istam: aliquis dignus beatitudine habet .b. gradum 
+      <lb ed="#P" n="123"/>gratie vel equalem. tamen hec propositio aliquis habens: b. vel 
+      <lb ed="#P" n="124"/>equalem est necessario dignus beatitudine non 
+      conuerti<lb ed="#P" n="125" break="no"/>tur in istam: aliquis dignus beatitudine necessario 
+      ha<lb ed="#P" n="126" break="no"/>bet .b. vel equalem. et intelliguntur hec propositiones de 
+      ne<lb ed="#P" n="127" break="no"/>cessitate cum suppositione constantie subiecti. 
+      Simi<lb ed="#P" n="128" break="no"/>liter. ominis habens quattuor denarios habet duos: 
+      con<lb ed="#P" n="129" break="no"/>uertitur in istam. aliquis habens duos denarios est 
+      <lb ed="#P" n="130"/>habens quattuor. et tamen non sequitur omnis habens quat 
+      <lb ed="#P" n="131"/>tuor necessario habet duos. igitur aliquis habens 
+      <lb ed="#P" n="132"/>duos necessario habet quattuor. Dicendum igitur quod 
+      <!--155.xml-->
+      <pb ed="#P" n="72-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>hec propositio viatori dignosalute necessaria est gratia 
+      <lb ed="#P" n="2"/>aliqua vel ad esse dignum salute necessaria est gratia ali 
+      <lb ed="#P" n="3"/>qua habet sic conuerti: illud cui necessaria est gratia ali 
+      <lb ed="#P" n="4"/>qua. est viator dignus salute: vel est esse dignum salu 
+      <lb ed="#P" n="5"/>te. cum enim dicitur / cuilibet viatori ad salutem necessa 
+      <lb ed="#P" n="6"/>rium est habere caritatem vel necessaria est caritas 
+      ali<lb ed="#P" n="7" break="no"/>qua. quicquid sequitur ly cuilibet viatori / setenet ex 
+      <lb ed="#P" n="8"/>parte predicati. patet. si sub illa vniuersali fiat sillogis 
+      <lb ed="#P" n="9"/>mus in prima figura. Terminus etiam necessitatis se 
+      <lb ed="#P" n="10"/>tenet ex parte praedicati. quia ex parte copule vel 
+      extre<lb ed="#P" n="11" break="no"/>mi. ideo debet poni a parte subiecti in conuertente¬ 
+    </p>
+            <p xml:id="D78nca-e44139-d1e2996">
+               <lb ed="#P" n="12"/>¶ Ad septimum. negatur consequentia sumendo propositiones de 
+      <lb ed="#P" n="13"/>actu exercito. ad primam probationem consequentie non est proprie 
+      <lb ed="#P" n="14"/>conuersio particularis affirmatiue. quia licet in forma 
+      <lb ed="#P" n="15"/>enunciandi et in figura loquendi videatur antecedens esse 
+      pro<lb ed="#P" n="16" break="no"/>positio particularis affirmatiua. tamen implicite et equiualeuter 
+      <lb ed="#P" n="17"/>est vniuersalis affirmatiua. et ly habere gratiam stat con 
+      <lb ed="#P" n="18"/>fuse et immobiliter. quia equiualet isti verum est nec potest 
+      <lb ed="#P" n="19"/>esse falsum. supposita constantia subiecti quod omnis via 
+      <lb ed="#P" n="20"/>tor dignus salute habet gratiam. Ad secundam 
+      probatio<lb ed="#P" n="21" break="no"/>nem. dicendum quod non contingit dare tale singulare signi 
+      <lb ed="#P" n="22"/>ficatum pro quo supponat. quia illa propositio est virtualiter 
+      <lb ed="#P" n="23"/>et implicite vniuersalis non particularis. Si autem fiat 
+      <lb ed="#P" n="24"/>transitus de actu exercito ad actum signatum et assigna 
+      <lb ed="#P" n="25"/>re velit quis singulare pro quo verificatur. sic 
+      dicen<lb ed="#P" n="26" break="no"/>do quod istud verum. scilicet viator habet gratiam requiritur ad 
+      <lb ed="#P" n="27"/>hoc verum / viator est dignus salute.
+    </p>
+            <p xml:id="D78nca-e44139-d1e3033">
+      ¶ Ad 
+      confirma<lb ed="#P" n="28" break="no"/>tionem. ly caritas stat pro significatis sed confuse et 
+      in<lb ed="#P" n="29" break="no"/>mobiliter. sicut ista: omnis dignus salute habet carita 
+      <lb ed="#P" n="30"/>tem.
+    </p>
+            <p xml:id="D78nca-e44139-d1e3042">
+      ¶ Ad octauum. conceditur responsio ibi posita. ad 
+      pri<lb ed="#P" n="31" break="no"/>mam iprobationem. negatur consequentia. quia ille propositiones 
+      fal<lb ed="#P" n="32" break="no"/>se sunt in sensu quo fiunt et accipiuntur coiter. quia 
+      sen<lb ed="#P" n="33" break="no"/>sus est. non debeo aliquid id est non sum debitor / non sum 
+      <lb ed="#P" n="34"/>obligatus / non compromini. etc. vel potest dici quod in istis 
+      nichi<lb ed="#P" n="35" break="no"/>debeo / nihil promisi. etc. potest esse negatio debiti et obl 
+      <lb ed="#P" n="36"/>gationis et promissionis simpliciter et absolute: et sic negen 
+      <lb ed="#P" n="37"/>tur. in hoc sensu solent accipi. alio modo. non vt 
+      ne<lb ed="#P" n="38" break="no"/>gatur obligatio simpliciter. sed vt negetur respectu 
+      ali<lb ed="#P" n="39" break="no"/>cuius determinati singularis obligatio. et vt negatur 
+      <lb ed="#P" n="40"/>illud quod affirmatur in ista. aliquod tale ens debeo et 
+      <lb ed="#P" n="41"/>sic concederentur. sed non est vsus earum in hoc sensu. Ad  
+      <lb ed="#P" n="42"/>secundam negatur consequentia. quia soluere debitum est tollere 
+      obli<lb ed="#P" n="43" break="no"/>gationem per traditionem et est tradere aliquod eorum 
+      <lb ed="#P" n="44"/>ad quorum obligabatur alterum seu aliquod. Ad probatio 
+      <lb ed="#P" n="45"/>nem consequentie. non sequitur. igitur soluit quod non debet. quia 
+      li<lb ed="#P" n="46" break="no"/>cet .b. denarium determinate non debeat. tamen debet .b. 
+      <lb ed="#P" n="47"/>vel. c. vel. d. etc. vt est de disiuncto extremo. vel quia licet 
+      <lb ed="#P" n="48"/>non deberet .b. in nunero tamen debet .b. in specie / vel in tali 
+      <lb ed="#P" n="49"/>genere et per cuiuslibet traditionem soluitur 
+      obliga<lb ed="#P" n="50" break="no"/>tio et debitum vel simpliciter / vel quo ad aliquid / vel potest 
+      <lb ed="#P" n="51"/>dici quod soluit determinate et in singulari id quod non in 
+      <lb ed="#P" n="52"/>singulari debet: sed quod debet in specie et indeterminate 
+      <lb ed="#P" n="53"/>Ad tertiam negatur consequentia. quia contingit quod huiusmodi pens 
+      <lb ed="#P" n="54"/>est debitor et reus et illius pene similiter. quia hec pena potest 
+      <lb ed="#P" n="55"/>a deo iuste exigi et infligi. tamen sic est illarum debitor 
+      <lb ed="#P" n="56"/>quod non collectiue sed diuisiue. ita quod vna soluta interdum 
+      <lb ed="#P" n="57"/>liberatur ab omnium consimilium obligatione. negatur etiam 
+      <lb ed="#P" n="58"/>consequentia. quia hec propositio iste punitur pena quam non debet. 
+      ac<lb ed="#P" n="59" break="no"/>cipitur in hoc sensu iste punitur pena et non debet pu 
+      <lb ed="#P" n="60"/>niritali et tanta. Ad quartam: negatur illa vltima conequentia 
+      <lb ed="#P" n="61"/>nec est proprie conuersio particularis affirmatiue ca 
+      <lb ed="#P" n="62"/>chegorice et simpliciter. quia in ista aliquod debitum est tra 
+      <lb ed="#P" n="63"/>dere denarium. ly tradere denarium stat confuse et equi 
+      <lb ed="#P" n="64"/>ualet propositioni de disiuncto praedicato. ideo habet conuer 
+      <lb ed="#P" n="65"/>ti per aliquam de disiuncto subiecto. Sic aliquod 
+      trade<lb ed="#P" n="66" break="no"/>te hunc vel tradere: illum vel illum. etc. denarium est debitum 
+      <!--155.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>Vel conuertitur sic. tradere denarium est eorum quorum 
+      <lb ed="#P" n="68"/>est debitum ad alterum vel quorum est disiunctiue debi 
+      <lb ed="#P" n="69"/>tum. Uel potest dici quod illa propositio conuertenda est 
+      impro<lb ed="#P" n="70" break="no"/>pria et trumcata: et in forma illa est falsa. quia nullum est 
+      <lb ed="#P" n="71"/>debitum quod sit tradere denarium. sed sensus in quo fit vel 
+      <lb ed="#P" n="72"/>rus est et habet resolui et exponi. ita vt ly debitum se 
+      <lb ed="#P" n="73"/>teneat ex parte predicati. sic aliquis est debitor 
+      tra<lb ed="#P" n="74" break="no"/>dere denarium.
+    </p>
+            <p xml:id="D78nca-e44139-d1e3144">
+      ¶ Ad vltimum. conceditur conclusio in 
+      ca<lb ed="#P" n="75" break="no"/>su quo post perditionem illius gratie. et post incursum rea 
+      <lb ed="#P" n="76"/>tus mortis eterne non potest talis per aliam caritatem 
+      re<lb ed="#P" n="77" break="no"/>surgere: et fieri dignus salute. aliter maior est falsa 
+      <lb ed="#P" n="78"/>Argumentum etiam non videtur ad intentionem questio 
+      <lb ed="#P" n="79"/>nis. quia queritur an quocumque viatore demonstrato. verum 
+      <lb ed="#P" n="80"/>sit quod aliqua caritas est illi necessaria ad salutem. Ad  
+      <lb ed="#P" n="81"/>formam additam conceditur maior. si sic accipiatur sicut 
+      <lb ed="#P" n="82"/>habite gratie necessaria est conseruatio. sic necessaria 
+      <lb ed="#P" n="83"/>est non habite procuratio. aliter negatur.
+    </p>
+            <p xml:id="D78nca-e44139-d1e3167">
+      ¶ Ad 
+      argu<lb ed="#P" n="84" break="no"/>mentum in principio questionis. si minor debite suma 
+      <lb ed="#P" n="85"/>tur erit falsa. scilicet caritas est illud sine quo non potest quis 
+      <lb ed="#P" n="86"/>consequi salutem. Si vero minor accipitur sic. sed si 
+      <lb ed="#P" n="87"/>ne caritate non potest homo consequi salutem. sic negatur 
+      <lb ed="#P" n="88"/>discursus. licet minor sit falsa in sensu diuisionis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

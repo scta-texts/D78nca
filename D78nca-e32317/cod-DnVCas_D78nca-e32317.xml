@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="50-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-e32317"><!-- l1d8q2 -->
+            <head xml:id="D78nca-e32317-Hd1e108">Quaestio 2</head>
+            <head xml:id="D78nca-e32317-Hd1e111" type="question-title">
+      utrum solus deus sit ens indiuisibile 
+      essentialiter summe simplex.
+    </head>
+            <p xml:id="D78nca-e32317-d1e114">
+               <lb ed="#P" n="85"/>Questio secunda. 
+      <lb ed="#P" n="86"/>go octa¬ 
+      <lb ed="#P" n="87"/>¶Secundo circa distinctionem uam 
+      <lb ed="#P" n="88"/>Quero vtrum solus deus sit ens indiuisibile 
+      <lb ed="#P" n="89"/>essentialiter summe simplex.
+    </p>
+            <p xml:id="D78nca-e32317-d1e127">
+      Quod non. quia 
+      ali<lb ed="#P" n="90" break="no"/>qua creatura est indiuisibilis omnino: vt anima 
+      <lb ed="#P" n="91"/>vel angelus. Contra: quia simplicitas est conditio 
+      perfec<lb ed="#P" n="92" break="no"/>tionis simpliciter: igitur in gradu summo reperitur solum in ente summe 
+      <lb ed="#P" n="93"/>perfecto quod est deus.
+    </p>
+            <p xml:id="D78nca-e32317-d1e138">
+      ¶ Notandum. simplicitas dicitur dupliciter 
+      <lb ed="#P" n="94"/>vno modo vtopponitur compositioni ex aliquibus intrinsecis. 
+      <lb ed="#P" n="95"/>alio modo vt opponitur componibilitati cum aliquo / vel aliquibus 
+      <lb ed="#P" n="96"/>siue vt pars cum alia parte: siue vt subiecitum cum forma: sic 
+      <lb ed="#P" n="97"/>entat diuisibile dicitur vnomodo inaliquae quae intrinsece continet. Alio 
+      <lb ed="#P" n="98"/>modo diuisibile ab aliquo cui est coniunctum sic et indiuisibile 
+      <lb ed="#P" n="99"/>dicitur vel in aliquao vel ab aliquo. Quod autem aliter sumitur simpli 
+      <lb ed="#P" n="100"/>citas vt opponitur compositioni cum aliquo patebit infra 
+    </p>
+            <p xml:id="D78nca-e32317-d1e157">
+               <lb ed="#P" n="101"/>¶ Item coponi cum aliquae sumitur proprie scilicet poni cum aliquo 
+      <lb ed="#P" n="102"/>tanquam pars cum parte ad constitutionem vnius entis toti 
+      <lb ed="#P" n="103"/>us: et sic accipitur in proposito. Alio modo large poni cum 
+      <lb ed="#P" n="104"/>aliquae siue tanquam pars ad constitutionem vnius entis totius 
+      <lb ed="#P" n="105"/>siue tanquam ens conceptum et additum enti per 
+      aggregatio<lb ed="#P" n="106" break="no"/>nem multitudinis: vt cum dico deus et lapis sut binarius 
+      <lb ed="#P" n="107"/>et sic non accipitur in praesenti quaestione cum fit sermo de simplici 
+      <lb ed="#P" n="108"/>tate opposita componibilitati cum aliqua.
+    </p>
+            <p xml:id="D78nca-e32317-d1e177">
+      ¶ Item compo 
+      <lb ed="#P" n="109"/>sitio ex aliquibus est duplex: quadam intengnalis et mauralis ex 
+      par<lb ed="#P" n="110" break="no"/>tibus quantitatis situ distinctis vel no se habentibus vt actus 
+      <lb ed="#P" n="111"/>et potentia vt due partes quantitatis vel materie vel al 
+      <lb ed="#P" n="112"/>bedinis et de inali compositione non quaeritur hic: quia de hac 
+      <lb ed="#P" n="113"/>dictum est in praecedenti quaestione. Alia est essentialis ex partibus 
+      <lb ed="#P" n="114"/>essentialibus: quarum altera se habet vt subiectum actuale 
+      <lb ed="#P" n="115"/>et inforabile. Alla vt actus informatiuus et perfectiuus 
+      <lb ed="#P" n="116"/>et de tali quaeritur hic.
+    </p>
+            <p xml:id="D78nca-e32317-d1e197">
+      ¶ Item deum componi cum aliquae tamquam partem 
+      <lb ed="#P" n="117"/>potest intelligi / vel vt substantia accidenti / vel vt forma subiec 
+      <lb ed="#P" n="118"/>to: vt anima intellectia corpori primo videbitur de affirma 
+      <lb ed="#P" n="119"/>tiua exponente quaestioem. 2o de negativa.
+    </p>
+            <p xml:id="D78nca-e32317-d1e206">
+      ¶ Quo ad primum 
+      <lb ed="#P" n="120"/>primo de simplicitate opposita compositioni ex aliquibus. 2o. 
+      <lb ed="#P" n="121"/>de opposita compostioni cum aliquo pro primo articulo. 
+    </p>
+            <p xml:id="D78nca-e32317-d1e213">
+               <lb ed="#P" n="122"/>Prima conclusio. Tamquam probabilius in lumine 
+      <lb ed="#P" n="123"/>naturali tenendum est deum non 
+      <lb ed="#P" n="124"/>esse compositum ex actu formali / et subiectiuo inforabili / et 
+      <lb ed="#P" n="125"/>perfectibili. probatur per multa media quibus arguitur in 
+      praece<lb ed="#P" n="126" break="no"/>denti. q. de simplicitate opposita compositioni ex partibus 
+      <lb ed="#P" n="127"/>quantitatis.
+    </p>
+            <p xml:id="D78nca-e32317-d1e229">
+      ¶ Preterea. deus haberet formaliter et intrinsece 
+      in<lb ed="#P" n="128" break="no"/>perfectionem: quia esset causatum a causis intrinsecis: quarum 
+      <lb ed="#P" n="129"/>altera esset subiectum possibile et perfectibilt per actum quo indige 
+      <lb ed="#P" n="130"/>ret.
+    </p>
+            <p xml:id="D78nca-e32317-d1e239">
+      ¶ Preterea. deus esset causatus effective: et per consequens fi 
+      <lb ed="#P" n="131"/>naliter: quia causatum a causis intrinsecis causatur a causis 
+      <lb ed="#P" n="132"/>extrinsecis. Causalitas enim intrinseca est posterior / et 
+      <!--111.xml-->
+      <pb ed="#P" n="50-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>presupponit extrinsecam. probo: quia est imperfectio et 
+      <lb ed="#P" n="2"/>habens necessario imperfectionem annexam: sed causalitas 
+      <lb ed="#P" n="3"/>per fectior est simpliciter prior: et quia informabile par 
+      <lb ed="#P" n="4"/>aliquem actum formalem non habet ex se actum illum: 
+      <lb ed="#P" n="5"/>sed est prius naturaliter illo actu: et ex se in potentia pas 
+      <lb ed="#P" n="6"/>siua respectu illius: igitur non habet actum illum nisi ab aliqui causa 
+      <lb ed="#P" n="7"/>effectiua reducente illam potentiam ad actum et vniente 
+      po<lb ed="#P" n="8" break="no"/>tentiam alicui actui siue illa causa sit illud subiectum: siue 
+      <lb ed="#P" n="9"/>ipsa forma / siue aliud. probatur iterum: quia ibi erit causalitas fi 
+      <lb ed="#P" n="10"/>nalis: quia partes sunt gratia totius compositi: et actus est fi 
+      <lb ed="#P" n="11"/>nis totius potentie: et forma est finis materie. 2. phisi. et 
+      <lb ed="#P" n="12"/>9. metha. si autem est ibi causalitas finalis. igitur et effectiua 
+    </p>
+            <p xml:id="D78nca-e32317-d1e278">
+               <lb ed="#P" n="13"/>¶ Preterea. deus non esset ens ex se formaliter necesse esse. 
+      <lb ed="#P" n="14"/>probo quia pars subiectiua inforabilis cum sit nam et origine 
+      <lb ed="#P" n="15"/>prior actu informante: et sic ex se in potentia passiua 
+      <lb ed="#P" n="16"/>ad illum non ei per se et ex se formaliter repugnat esse 
+      sub<lb ed="#P" n="17" break="no"/>priuatione talis actus.
+    </p>
+            <p xml:id="D78nca-e32317-d1e291">
+               <lb ed="#P" n="18"/>Secunda conclusio. Deus est ens summe 
+      sim<lb ed="#P" n="19" break="no"/>plex simplicitate oppo 
+      <lb ed="#P" n="20"/>sita compositioni ex quibuscumque partibus intinsecis. probatur 
+      <lb ed="#P" n="21"/>per <ref xml:id="D78nca-e32317-Rd1e301"><!-- possibly http://scta.info/resource/adcd-l11-d1e1578 book de civ dei, 11, c. 10 -->augu. dicentem. 9. de ciui. cap. 5.</ref> tres persone sunt 
+      <lb ed="#P" n="22"/>equeles propter suam simplicitatem quae in illa substantia est: 
+      <lb ed="#P" n="23"/>et idem declarat <ref xml:id="D78nca-e32317-Rd1e310"><!-- possibly he means the whole distinction; aug dcd appears in chapter 8 -->
+                  <name xml:id="D78nca-e32317-Nd1e313">magister</name> in hac. 8. distin</ref>
+            </p>
+            <p xml:id="D78nca-e32317-d1e318">
+      ¶ Item. <ref xml:id="D78nca-e32317-Rd1e320" target="http://scta.info/resource/adcd-l11-d1e1578@161-224">extra de 
+        <lb ed="#P" n="24"/>sum. tri. et fi. ca. c. firmiter.</ref> vbi dicitur <quote xml:id="D78nca-e32317-Qd1e325" source="http://scta.info/resource/nhyjhg-d1e51-d1e104@25-35">tres persone sunt vna 
+      es<lb ed="#P" n="25" break="no"/>sentia vna substantia / seu nam simplex omnino</quote>.
+    </p>
+            <p xml:id="D78nca-e32317-d1e331">
+      ¶ Preterea. 
+      <lb ed="#P" n="26"/>conditionum oppositarum aut neutra aut perfectior / et nobi 
+      <lb ed="#P" n="27"/>lior est deo tribuenda: sed simplicitas est conditio 
+      nobi<lb ed="#P" n="28" break="no"/>lior: quia compositio habet imperfectionem amnexam et dependentiam 
+      <lb ed="#P" n="29"/>ex intrinsecis imperfectionibus. hec ratio est <ref xml:id="D78nca-e32317-Rd1e341">ansel. monols. 17</ref> 
+               <lb ed="#P" n="30"/>dicentis <quote xml:id="D78nca-e32317-Qd1e347" source="http://scta.info/resource/adcmon-c18-d1e148@52-60">summum bonum est simplex</quote>. omne enim compositum vt sub 
+      <lb ed="#P" n="31"/>sistat indiget his ex quibus componitur et per illa est quicquid est 
+      <lb ed="#P" n="32"/>debet igitur illis quicquid est non econtra quia illa non per ipsum sunt 
+      <lb ed="#P" n="33"/>illud quod sunt: et idem ansel. de incarna. verbi. ca. 5. si deus 
+      <lb ed="#P" n="34"/>est compositus: aut nulla nam est simplex aut aliquae est praestam 
+      <lb ed="#P" n="35"/>tior na dei: illud enim quod non est dissolubile: nec re / nec 
+      im<lb ed="#P" n="36" break="no"/>tellectu: cuiusmodi est simplex non habens partes est praestantius 
+      <lb ed="#P" n="37"/>eo quod est dissolubile re vel intellectu: cuiusmodi est composi 
+      <lb ed="#P" n="38"/>tum habens partes.
+    </p>
+            <p xml:id="D78nca-e32317-d1e368">
+      ¶ Preterea commenta. 12 meth. comm. 37 
+      <lb ed="#P" n="39"/>primum mouens est infinite nobilitatis et simplicitatis et vnitatem 
+      <lb ed="#P" n="40"/>simplicitas non est perfectio simpliciter: igitur 
+      <lb ed="#P" n="41"/>Contra. non est ponenda in deo summo. antecedens pro 
+      <lb ed="#P" n="42"/>batur quia omne habens illam esset perfectius non habente. consequens est falsum 
+      <lb ed="#P" n="43"/>quia nec mam nec forma est perfector toto composito. vltima 
+      <lb ed="#P" n="44"/>onsequentia probatur primo: quia perfectio simpliciter est vbique perfectio sim 
+      <lb ed="#P" n="45"/>liciter: igitur dat esse perfectius simpliciter. et secundum ansel. monolis. 15. 
+      <lb ed="#P" n="46"/>omne tale quod per modum perfectionis deo attribuitur est in quolibet omni 
+      <lb ed="#P" n="47"/>non melius ipsum quam non ipsum. probatur iterum: quia si est perfectio sim 
+      <lb ed="#P" n="48"/>liciter. igitur quanto quid perfectius appropinquat et accedit ad di 
+      <lb ed="#P" n="49"/>ninam essentiam tanto plus participat de simplicitate: quia tan 
+      <lb ed="#P" n="50"/>to perfectius participat diuinas perfectiones. Scundo. in deo non 
+      <lb ed="#P" n="51"/>est summa vnitas: igitur nec summa simplicitas. consequentia probatur: 
+      <lb ed="#P" n="52"/>quia simplicitas est quaedam vnitas: et maior simplicitas est 
+      <lb ed="#P" n="53"/>maior vnitas. ergo summa et perfectissia vnitas est summa et per 
+      <lb ed="#P" n="54"/>fectissia simplicitas. antecedens probatur: quia vnitas et pluritas seu 
+      <lb ed="#P" n="55"/>multitudo opponuntur: igitur maior vnitas magis exclu 
+      <lb ed="#P" n="56"/>dit pluritatem et multitudinem: igitur summa vnitas excludit 
+      <lb ed="#P" n="57"/>omnimodam pluritatem. Iorma enim in summo gradu habita exclu 
+      <lb ed="#P" n="58"/>dit omnem gradum fore opposite: sed in deo est pluritas 
+      persona<lb ed="#P" n="59" break="no"/>rum et suppositorum realiter distinctorum. Tertio. deus non est 
+      <lb ed="#P" n="60"/>summe / et perfectissim quicquid habet: igitur non est summe simplex 
+      <lb ed="#P" n="61"/>consequentia patet per ang. 1. de tri. ca. 10. ex hoc enim 
+      pro<lb ed="#P" n="62" break="no"/>bat deum esse simplicem: quia est quicquid habet. antecedens probatur primo: quoi 
+      <lb ed="#P" n="63"/>diuina essentia habet ralsones: et non est summe ectm 
+      <lb ed="#P" n="64"/>eadem cullibet illarum: quia non formaliter nec eodem modo: nec ita 
+      <lb ed="#P" n="65"/>perfecte sicut essentia est eadem sibiipsi formaliter conuertibiliter 
+      <lb ed="#P" n="66"/>et indiuisibiliter. 2o. quia paiter non est quicquid habet: quia habet filium 
+      <!--111.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>et non est filius. vnde aug. 1. de ciui. dei. ca. 10. deus est quicquid 
+      <lb ed="#P" n="68"/>habet excepto eo quod relatiue dicitur. pitur. n. habet filium: et non est 
+      <lb ed="#P" n="69"/>filius. persona est non videtur equae simplex sicut essentia quae constituitur 
+      <lb ed="#P" n="70"/>ex essentia et proprietate tamquam principio communi et propriodistinctimo 
+      <lb ed="#P" n="71"/>quidam dicunt quod simplicitas non 
+      <lb ed="#P" n="72"/>12. 
+      <lb ed="#P" n="73"/>u primumest perfectio simpliciter: quia non 
+      vni<lb ed="#P" n="74" break="no"/>uersaliter illud plus participat de simplicitate quod magus 
+      <lb ed="#P" n="75"/>accedit ad deum et perfectius participat diuinam essentiam: sed 
+      <lb ed="#P" n="76"/>est modus perfectionis simpliciter. Est enim modus qui indifferen 
+      <lb ed="#P" n="77"/>ter respicit omne perfectionem simpliciter. Est enim modus iusti 
+      <lb ed="#P" n="78"/>cie et sapientie etc. sed hoc non valet: quia pari ratione 
+      actua<lb ed="#P" n="79" break="no"/>litas et necessitas essendi / et infinitas / et independentia et 
+      <lb ed="#P" n="80"/>multa huiusmodi dicerentur non esse perfectiones simpliciter sed mo 
+      <lb ed="#P" n="81"/>di perfectionum: quia sunt quasi determinationes 
+      <lb ed="#P" n="82"/>perfectionum / vel indistincta simpliciter in re: igitur 
+      <lb ed="#P" n="83"/>simplicitas diuina est perfectio simpier: et eque est distincta 
+      <lb ed="#P" n="84"/>ab essentia diuina: sicut potentia / vel sapientia. Hoc 
+      <lb ed="#P" n="85"/>autem praedicabile scilicet simplex est praedicabile perfectionis 
+      sim<lb ed="#P" n="86" break="no"/>liciter: quia non per se infert imperfectionem in eo cui attribuitur 
+      <lb ed="#P" n="87"/>immo infert illud non esse vniuersaliter perfectum / et vere 
+      <lb ed="#P" n="88"/>imperfectum cui deest.
+    </p>
+            <p xml:id="D78nca-e32317-d1e484">
+      ¶ Ad primum igitur negatur antecedens. ad 
+      pro<lb ed="#P" n="89" break="no"/>bationem negatur consequentia quo ad esse simpliciter et 
+      ab<lb ed="#P" n="90" break="no"/>solute perfectius: per idem arguitur quod esse intelligens et 
+      sci<lb ed="#P" n="91" break="no"/>ins non sit perfectio simpliciter: quia non vniversaliter magis intelligens 
+      <lb ed="#P" n="92"/>est simpliciter et absolute melior et perfectior. et sic de 
+      <lb ed="#P" n="93"/>quaelibet scientia vel virtute quae est alia perfectior. Similiter per idem argntr 
+      <lb ed="#P" n="94"/>quod viuere non est perfectio simpliciter: nisi omnis herba et omne 
+      <lb ed="#P" n="95"/>folium arborum sit ens simpliciter nobilius et perfectius quam sbiecta 
+      <lb ed="#P" n="96"/>solis. dicendum igitur non oportet quod sit simpliciter / et absolute perfe 
+      <lb ed="#P" n="97"/>ctius nisi ceteris paribus / vel nisi quae ad hanc conditionem: 
+      si<lb ed="#P" n="98" break="no"/>cut dictum est distin. 2. et. 3. q. 4. Unte ansel. monolis. 15. 
+      <lb ed="#P" n="99"/>Melius est esse sapientem quam non esse sapientem. Let enim 
+      iu<lb ed="#P" n="100" break="no"/>stus non sapiens sit melior quam sapiens non iustus. tamen non 
+      <lb ed="#P" n="101"/>sapiens foret melior si esset sapiens ceteris paribus 
+      <lb ed="#P" n="102"/>et idem ansel. de incarnatione verbi ca. 5. simplicia sunt 
+      prae<lb ed="#P" n="103" break="no"/>tantiora compositis quantum ad simplicitatem et composito 
+      <lb ed="#P" n="104"/>nem. iuxta hunc modum potest dici quod agens est praestantius 
+      pa<lb ed="#P" n="105" break="no"/>tiente quae ad conditionem actiui / et passiui. Non oportet igitur 
+      <lb ed="#P" n="106"/>quod omne illud cui conuenit .a. perfectio simpliciter sit simpliciter / et 
+      <lb ed="#P" n="107"/>absolute perfectius omni eo cui non conuenit: et ratio est: quia alter 
+      <lb ed="#P" n="108"/>qua conditio perfectionis simpliciter interdum repugnat alicui 
+      <lb ed="#P" n="109"/>nature causate et limitate cui non repugnat alia conditio 
+      <lb ed="#P" n="110"/>perfectionis simpliciter / et econtra de quadam alia creatura: et contingit 
+      <lb ed="#P" n="111"/>quod conditio perfectionis simpliciter quae conuenit huic creature 
+      <lb ed="#P" n="112"/>et non illi sit superior illa conditione quae econtra conuenit 
+      il<lb ed="#P" n="113" break="no"/>li et non isti creature. vel contigit quod plures alie conditiones 
+      <lb ed="#P" n="114"/>et rationes perfectionis simpliciter coueniunt illi alteri quae 
+      praepositio<lb ed="#P" n="115" break="no"/>derant illi conditioni perfectionis quae conuenit isti creature: 
+      <lb ed="#P" n="116"/>vt licet mam sit simplicior composito: tamen compositum est actu 
+      <lb ed="#P" n="117"/>aliud: et magis per se subsistens: et est finis gratia cuius 
+      <lb ed="#P" n="118"/>est mam et continet perfectionem materie et amplius.
+    </p>
+            <p xml:id="D78nca-e32317-d1e552">
+      ¶ Ad  
+      <lb ed="#P" n="119"/>secundum. sumendo vnitatem vt opponitur vel derogat plurali 
+      <lb ed="#P" n="120"/>tati essentiali aut cuicumque pralitati implicanti iperfec 
+      <lb ed="#P" n="121"/>tionem: tunc negatur antecedens quod vero opponitur vnitati 
+      suppo<lb ed="#P" n="122" break="no"/>sitorum negatur consequentia. vnde aug. 10. de ciui. deus non 
+      <lb ed="#P" n="123"/>ideo est simplex: quia trinitas / sed ideo est simplex: quia 
+      <lb ed="#P" n="124"/>est quicquid habet excepto quod relatiue dicitur. Nam peter habet 
+      fi<lb ed="#P" n="125" break="no"/>lium: et non est ipse filius: et filius habet patrem: et non est ipse 
+      <lb ed="#P" n="126"/>pitur.
+    </p>
+            <p xml:id="D78nca-e32317-d1e572">
+      ¶ Ad tertium. negatur antecedens accipiendo summe perfec 
+      <lb ed="#P" n="127"/>tissime pro eminentissimo gradu essendi hoc vel huiusmodi 
+      <lb ed="#P" n="128"/>non pro aggregatione omnis modi dicendi.
+    </p>
+            <p xml:id="D78nca-e32317-d1e579">
+      ¶ Ad primam  
+      <lb ed="#P" n="129"/>probationem. dicendum quod essentia licet aliquo mo 
+      <lb ed="#P" n="130"/>do essendi idem: non sit idem relationi: tamen est perfectis 
+      <lb ed="#P" n="131"/>sime idem: quia essentialiter / et infinite: nec est alius mo 
+      <lb ed="#P" n="132"/>dus identitatis in re perfectior realiter: licet sit aliquis 
+      <lb ed="#P" n="133"/>modus essendi idem excludens distinctionem huiusmodi: cuius 
+      <!--112.xml-->
+      <pb ed="#P" n="51-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>modi ponitur relationis ad essentiam.
+    </p>
+            <p xml:id="D78nca-e32317-d1e601">
+      ¶ Ad secundam 
+      pro<lb ed="#P" n="2" break="no"/>bationem. quamuis pater non sit quicquid habet per modum 
+      terminpro<lb ed="#P" n="3" break="no"/>ducti: nec filius sit quicquid habet per modum principii producentis 
+      <lb ed="#P" n="4"/>tamen non derogat eius simplicitati: quia non habet illud per 
+      mo<lb ed="#P" n="5" break="no"/>dum partis vel perfectionis essentialis sed per modum termin 
+      <lb ed="#P" n="6"/>vel principii originalis: sed si essentia haberet 
+      suppo<lb ed="#P" n="7" break="no"/>situm vel relationem: et non esset: ipsum derogaretur eius simpli 
+      <lb ed="#P" n="8"/>citati: quia identitati essentiali. 
+      <lb ed="#P" n="9"/>cpartem primi articuli. An de 
+      <lb ed="#P" n="10"/>Quo ad secum deus sit alteri componibilis. pri 
+      <lb ed="#P" n="11"/>mo videndum est si componibilis sit vt subiectum accidenti. se 
+      <lb ed="#P" n="12"/>cundo vt forma subiecto
+    </p>
+            <p xml:id="D78nca-e32317-d1e627">
+      ¶ Quo ad primum dico quod non: 
+      <lb ed="#P" n="13"/>probatur primo: quia deitas esset ens ex se imperfectum / et dimi 
+      <lb ed="#P" n="14"/>nutum: quia ens ex se perfectibile et actuabile per aliud tamquam 
+      <lb ed="#P" n="15"/>male subiectiuum et passiuum potentiale receptiuum act 
+      <lb ed="#P" n="16"/>et perfectionis cul esset componibilis.
+    </p>
+            <p xml:id="D78nca-e32317-d1e639">
+      ¶ Item in deo esset 
+      for<lb ed="#P" n="17" break="no"/>maliter aliquae imperfectio: quia accidens est perfectio diminuta 
+      <lb ed="#P" n="18"/>et ita primum non esset ens perfectissimum.
+    </p>
+            <p xml:id="D78nca-e32317-d1e646">
+      ¶ Preterea. natum 
+      <lb ed="#P" n="19"/>esset esse pars alterius vt compositi ex actuabili et actuatimo 
+      <lb ed="#P" n="20"/>igitur natum est excedi: quia pars est minor toto: et natum 
+      es<lb ed="#P" n="21" break="no"/>set esse gratia alterius: quia pars est propter esse totius.
+    </p>
+            <p xml:id="D78nca-e32317-d1e655">
+      ¶ Pre 
+      <lb ed="#P" n="22"/>terea. augu. s de tri. ca. 2o. Deo aliquid accidere non 
+      <lb ed="#P" n="23"/>potest.
+    </p>
+            <p xml:id="D78nca-e32317-d1e662">
+      ¶ Pretera. anselis. monolis. 2 4. concludi potest quia deus 
+      <lb ed="#P" n="24"/>nullius accidentis susceptibilis est.
+    </p>
+            <p xml:id="D78nca-e32317-d1e667">
+      ¶ Preterea aug. propter 
+      <lb ed="#P" n="25"/>hoc deus dicitur nam simplex cum non aliud sit habens aliud quod 
+      <lb ed="#P" n="26"/>hentur et cui non sit aliud aliquid habere quod possit amittere: si 
+      <lb ed="#P" n="27"/>cut vas liquorem aut corpus colorem aut aer lucem: au 
+      <lb ed="#P" n="28"/>anima sapientiam. nihil. ni. illorum est illud quod habet. hinc est quod priua 
+      <lb ed="#P" n="29"/>ri possunt rebus / quas habent: et in alios habitus / et qualitates 
+      virti<lb ed="#P" n="30" break="no"/>et est mutari.
+    </p>
+            <p xml:id="D78nca-e32317-d1e683">
+      ¶ Preterea. mgitur distin. ista. 8. ca. 6. et 
+      <lb ed="#P" n="31"/>7. dicit nefas est dicere quod deus subsistat accidentibus.
+    </p>
+            <p xml:id="D78nca-e32317-d1e689">
+      ¶ Con 
+      <lb ed="#P" n="32"/>tra hanc conclusionem sunt multe instantie: quae tangentur in que 
+      <lb ed="#P" n="33"/>stionibus sequentibus.
+    </p>
+            <p xml:id="D78nca-e32317-d1e696">
+      ¶ Deinde videndum est an deus sit compo 
+      <lb ed="#P" n="34"/>nibilis alteri vt forma subiecto informabili per dei 
+      <lb ed="#P" n="35"/>tatem. Et quo ad hoc primo videndum quid de hoc tamquam pro 
+      <lb ed="#P" n="36"/>babilius tenendum foret in lumine naturali. Et. 2o. quid secundum 
+      <lb ed="#P" n="37"/>veritatem simpliciter: Quo ad primum. aliqui probant primam 
+      intell<lb ed="#P" n="38" break="no"/>gentiam non esse formam alicuius corporis per informationem 
+      <lb ed="#P" n="39"/>ad constitutionem alicuius vnius totius ex infinitate 
+      perfe<lb ed="#P" n="40" break="no"/>ctionis et potentie in prima intelligentia. infinita enim po 
+      <lb ed="#P" n="41"/>tentia non potest esse forma magnitudinis infinite nec fini 
+      <lb ed="#P" n="42"/>te: sed hoc est probare per magis ignotum. illud etiam aliqui pro 
+      <lb ed="#P" n="43"/>bant ex immobilitate primi motoris: sed hec probatio non 
+      <lb ed="#P" n="44"/>valet: quia si prima intelligentia sit indiuisibilis / et inextensa 
+      <lb ed="#P" n="45"/>et sit forma informatiua per se primi celi: sicut anima intelle 
+      <lb ed="#P" n="46"/>ctiua ponitur forma corporis humani non mouebitur ad  
+      <lb ed="#P" n="47"/>motum celi: nec per se / nec per accidens: quia non fiet nouiter 
+      <lb ed="#P" n="48"/>praesens alicubi vbi non esset prius. si vero poneretur forma 
+      <lb ed="#P" n="49"/>alicuius planete: non magis moueretur per accidens quam si po 
+      <lb ed="#P" n="50"/>natur proprius motor illius planete praesens illi tantum. Aliter igitur pro 
+      <lb ed="#P" n="51"/>hac parte arguitur sic: si deus sit per se forma alicuius cor 
+      <lb ed="#P" n="52"/>poris per informationem: sequitur quod deus esset pars alicuius toti 
+      <lb ed="#P" n="53"/>consequens est falsum. tum quia esset aliquod ens perfectius deo: quia totum est 
+      <lb ed="#P" n="54"/>sentiale est perfectius sua parte: sicut totum quantitatiuum est quam 
+      <lb ed="#P" n="55"/>titatiue maius sua parte: et quia totum et perfectum idem. 3. phisi 
+      <lb ed="#P" n="56"/>co. igitur pars dicit imperefctionem et diminutionem. Tum quia deus 
+      <lb ed="#P" n="57"/>non esset actus purus quod est falsum. 12. metha. probatur consequentia quia per 
+      <lb ed="#P" n="58"/>tes sunt in potentia respectu esse totius 1 et. 2. phisi. et 7. 
+      <lb ed="#P" n="59"/>meth. tum quia dei esset causa finalis: quia pars est propter totum: et gratia 
+      <lb ed="#P" n="60"/>totius ad constituendum esse totius vt partes domus sunt propter esse 
+      <lb ed="#P" n="61"/>totius domus. ideo totum compositum per se fit vt terminus ad quem 
+      <lb ed="#P" n="62"/>non pars. consequentia probatur: quia subiectalis forma per se et essentialis 
+      <lb ed="#P" n="63"/>informans subientum substantiale est per se pars compositi ex actu 
+      <lb ed="#P" n="64"/>substantiali informante: et ex subiecto substantiali 
+      infor<lb ed="#P" n="65" break="no"/>mato. 5. metha. ca. de parte. pars dicitur in qua diui 
+      <lb ed="#P" n="66"/>ditur aut ex quibus componitur totum vt species id es forma 
+      <!--112.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>aut habens speciem id est formam. patet igitur consequentia: quia 
+      ali<lb ed="#P" n="68" break="no"/>ter negabitur de omni forma informante: immo de omni compo 
+      <lb ed="#P" n="69"/>nenti alterum quod fit pars: et ita de materia.
+    </p>
+            <p xml:id="D78nca-e32317-d1e781">
+      ¶ Preterea 
+      <lb ed="#P" n="70"/>conditio nobilior essendi est deo attribuenda: sed nobili 
+      <lb ed="#P" n="71"/>us est esse actum non miscibile / nec vnibile mali subiec 
+      <lb ed="#P" n="72"/>to per informationem. hoc enim implicat aliquam dependentiam 
+      <lb ed="#P" n="73"/>illius actus ad tale subiecntum per se informabile: et quia quanto 
+      <lb ed="#P" n="74"/>quod magis elongatur a mam vel potentia materiali et 
+      sub<lb ed="#P" n="75" break="no"/>iectiua: tanto est nobilius ceteris paribus
+    </p>
+            <p xml:id="D78nca-e32317-d1e797">
+      ¶ Preterea 
+      <lb ed="#P" n="76"/>hoc ponit commentator. 12. meth. commento. 36. dicens di 
+      <lb ed="#P" n="77"/>ctum est. 8. phi. quod mouens corpora celestia in nulla existit 
+      <lb ed="#P" n="78"/>materia: et quod est forma abstracta: et commento. 37. 
+      ari<lb ed="#P" n="79" break="no"/>sto. intendit quod prima substantia est forma simplex cui non 
+      <lb ed="#P" n="80"/>admiscetur mam. hoc est diffuse tractat commentator in deu 
+      <lb ed="#P" n="81"/>substantia orbis tractatu 1 et. 2. dicens quod corpus celeste in 
+      <lb ed="#P" n="82"/>diget virtute quae non sit corpus nec virtus in corpore 
+      <lb ed="#P" n="83"/>ad largiendum ipsi celo permanentiam eternam: sed in 
+      opposi<lb ed="#P" n="84" break="no"/>tum arguitur sic primo: sequitur quod esset dare subientum manle sine 
+      <lb ed="#P" n="85"/>forma. probo: quia si sit dare compositum ex duobus: quorum 
+      <lb ed="#P" n="86"/>alterum potest repariri per se possibile est per se reliquum 
+      reperi<lb ed="#P" n="87" break="no"/>ri: nisi forte sit compositio subiecte et accidentis. patet de vdromelle 
+      <lb ed="#P" n="88"/>composito ex aqua et melle: sed reperitur compositum ex subis 
+      <lb ed="#P" n="89"/>ctiuo mali et ex actu formali / et per te contigit reperire 
+      <lb ed="#P" n="90"/>actum et formam separatam a subiecto matali: igitur erit reperire 
+      <lb ed="#P" n="91"/>materiam absque forma. hoc est argumentum arist. 8. phi. 
+      <lb ed="#P" n="92"/>circa medium: et. 15. metha. et commentatoris ibidem com 
+      <lb ed="#P" n="93"/>mento. 35. per quod probant quod sit dare mouens immobile: quia 
+      <lb ed="#P" n="94"/>reperitur aliquid simul mouens et motum: et reperitur aliquid motum 
+      <lb ed="#P" n="95"/>no mouens: ergo est dare mouens non motum. 2o. quodcumque 
+      ce<lb ed="#P" n="96" break="no"/>lum aliud a primo celo est informatum aliquae intelligentia secunda / qua 
+      <lb ed="#P" n="97"/>est motrix illius celi: igitur primum caelum est informatum a prima 
+      <lb ed="#P" n="98"/>intelligentia. consequentia probatur pari ratione: quia sicut secunda itelli 
+      <lb ed="#P" n="99"/>gentia ad secundum celu sic prima ad primum. secundum enim arist. 12. 
+      <lb ed="#P" n="100"/>metha. prima substantia mouet primum mobile prima et simpli 
+      <lb ed="#P" n="101"/>ci latione. antecedens probatur: quia caelum est animatum / et viuum: sed non anima 
+      <lb ed="#P" n="102"/>et vita vegetatia vel sensitiua: igitur intellectia. Quod autem 
+      <lb ed="#P" n="103"/>celum sit viuum et animatum formaliter probo primo per arist. secundo 
+      <lb ed="#P" n="104"/>celi ca. 2o. caelum inquit est animatum / et habet in se principium sui 
+      mo<lb ed="#P" n="105" break="no"/>tus: quia habet dextrum et sinistrum quae non reperiuntur nisi in animatis  
+      <lb ed="#P" n="106"/>habentibus principium sui motus in se.
+    </p>
+            <p xml:id="D78nca-e32317-d1e867">
+      ¶ Item commentator. 12o. 
+      <lb ed="#P" n="107"/>metha. commento. 36. bnen apparet corpora celestia 
+      <lb ed="#P" n="108"/>esse animata: et quod non habent de virtutibus anime: nisi intellectum / et 
+      <lb ed="#P" n="109"/>virtutem desideratiuam.
+    </p>
+            <p xml:id="D78nca-e32317-d1e876">
+      ¶ Item secundo de anima commento. 20. 
+      <lb ed="#P" n="110"/>dict corpara celestia videntur intelligere: sed non nutriri: neque 
+      <lb ed="#P" n="111"/>sentire. et in de substantia orbis tractatu secundo vocat celum 
+      <lb ed="#P" n="112"/>animal celeste.
+    </p>
+            <p xml:id="D78nca-e32317-d1e886">
+      ¶ Confifatur. caelum et sol est ens nobilius yme 
+      <lb ed="#P" n="113"/>vel herba / vel folio arborum: igitur est viuum et animatum. antecedens pro 
+      <lb ed="#P" n="114"/>batur quia incorruptibile est nobilius corruptibili: et quia cor 
+      <lb ed="#P" n="115"/>pora celestia / et superiora sunt corpara noblissima. consequentia pro 
+      <lb ed="#P" n="116"/>batur primo: quia viuum et animatum est nobilius non viuo neque anima 
+      <lb ed="#P" n="117"/>to secundum aug. 15. de tri. c. 4 et de vera religione ante meditur 
+      <lb ed="#P" n="118"/>Quelibet viua substantia cuilibet non viue substantie 
+      na<lb ed="#P" n="119" break="no"/>ture lege praepositioitur. secundo quia viuum non est nisi a viuo. Unde 
+      <lb ed="#P" n="120"/>commentator. 12. methaph. commento. 26. ait corpora 
+      <lb ed="#P" n="121"/>celestia quia sunt principia animarum / et animatorum necesse 
+      <lb ed="#P" n="122"/>fuit vt essent animata: et vt principia eorum sicut corpus 
+      <lb ed="#P" n="123"/>et anima. et Augusti. de fide ad Petrum. deus naturali 
+      <lb ed="#P" n="124"/>ter vita est: quia si vita non esset / nec viuentia 
+      corpo<lb ed="#P" n="125" break="no"/>ra fecisset. Neque enim fecit viuentem nisi res viuens 
+    </p>
+            <p xml:id="D78nca-e32317-d1e917">
+               <lb ed="#P" n="126"/>¶ Tertio principaliter. prima causalitas formalis 
+      <lb ed="#P" n="127"/>et prima causalitas efficiens / et finalis coincidunt in idem 
+      <lb ed="#P" n="128"/>secundum commentatorem. 12. methaph. commento. 5. primum / 
+      <lb ed="#P" n="129"/>mouens quod declaratum est esse in scientia naturali est 
+      <lb ed="#P" n="130"/>principium substantie sensibilis secundum formam / et finem 
+      <lb ed="#P" n="131"/>Et infra. In hoc verificatur sermo alexandri quod prin 
+      <lb ed="#P" n="132"/>cipium formale / et finale / et mouens non sunt tria nunc 
+      <!--113.xml-->
+      <pb ed="#P" n="51-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ro: sed vnum subiecto tria in ratione. et commento. 25. 
+      <lb ed="#P" n="2"/>tres cause reducuntur in idem cum agens / et finis vnum 
+      <lb ed="#P" n="3"/>sunt cum forma. et quoniam primum mouens mouet ad omnes for 
+      <lb ed="#P" n="4"/>mas. manifestum est quod forma primi mouentis aliquo mo 
+      <lb ed="#P" n="5"/>do est omnis forme.
+    </p>
+            <p xml:id="D78nca-e32317-d1e952">
+      ¶ Respondeo. licet in lumine 
+      natura<lb ed="#P" n="6" break="no"/>li posset probabiliter poni primam intelligentiam esse 
+      <lb ed="#P" n="7"/>formam primi / et nobilissimi corporis: sicut anima 
+      intel<lb ed="#P" n="8" break="no"/>lectiua ponitur forma corporis humani tamen tamquam 
+      pro<lb ed="#P" n="9" break="no"/>babilius in lumine naturali ponenda est pars negati 
+      <lb ed="#P" n="10"/>ua.
+    </p>
+            <p xml:id="D78nca-e32317-d1e965">
+      ¶ Ad primum in oppositum. Illa persualio habet probabi 
+      <lb ed="#P" n="11"/>litatem: quando extremum ignobilius / et dependentius / vel 
+      <lb ed="#P" n="12"/>non minus dependens reperitur per se: ideo si est repe 
+      <lb ed="#P" n="13"/>rire motum non mouens: nec natum mouere magis 
+      <lb ed="#P" n="14"/>rationabile videtur quod sit dare mouens non motum: 
+      <lb ed="#P" n="15"/>sed materiale subiectiuum / et potentiale est ens imperfectius 
+      <lb ed="#P" n="16"/>et dependentius quam forma et actus: et accidens quam substantia 
+    </p>
+            <p xml:id="D78nca-e32317-d1e981">
+               <lb ed="#P" n="17"/>¶ Ad secundum. negatur antecedens capiendo proprie / et per se 
+      <lb ed="#P" n="18"/>informationem pro parte essentiali per se constitutiua 
+      <lb ed="#P" n="19"/>alicuius vnius totius compositi
+    </p>
+            <p xml:id="D78nca-e32317-d1e990">
+      ¶ Ad probationem. nega 
+      <lb ed="#P" n="20"/>tur quod celum sit animatum / vel viuum proprie et vniuoce 
+      <lb ed="#P" n="21"/>sicut animal dicitur animatum est etiam error pariser 
+      con<lb ed="#P" n="22" break="no"/>demnatus quod corpora celestia moueantur a principio in 
+      <lb ed="#P" n="23"/>trinseco: quod est animma: et quod moueantur per animam et per 
+      <lb ed="#P" n="24"/>virtutem appetitiuam sicut animal. Ad dictum commen 
+      <lb ed="#P" n="25"/>tatoris / et arist. dicendum quod celum dicitur apud eos anima 
+      <lb ed="#P" n="26"/>um large et equiuoce cum homine / vel animali non 
+      <lb ed="#P" n="27"/>tantum quia forme sint alterius rationis: sed quia 
+      mo<lb ed="#P" n="28" break="no"/>dus vnionis non est eiusdem generis. Unde com 
+      <lb ed="#P" n="29"/>mentator in de substantia orbis tractatu primo dicit quod 
+      <lb ed="#P" n="30"/>virtutes motrices caelorum non sunt forme in materiis  
+      <lb ed="#P" n="31"/>nec constituuntur pro substantia sua: sicut forme infe 
+      <lb ed="#P" n="32"/>tiores celi: igitur dicuntur a philosophis animati propter 
+      <lb ed="#P" n="33"/>appropriationem subiectalem intelligentie quae secundum eos et ap 
+      <lb ed="#P" n="34"/>propriata celo suo inseparabiliter et indiuisibiliter 
+      <lb ed="#P" n="35"/>sicut anima corpori / quod informat: et est quasi causa 
+      <lb ed="#P" n="36"/>determinans talem substantiam mobilis: et tales 
+      dis<lb ed="#P" n="37" break="no"/>positiones in celo suo sicut in inferioribus propter 
+      na<lb ed="#P" n="38" break="no"/>turam talis forme sunt tales dispositiones in cell 
+      <lb ed="#P" n="39"/>materia: et illa intelligentia est causa formalis et finalis 
+      <lb ed="#P" n="40"/>respectu celi / et suarum dispositionum tam qualitatum 
+      <lb ed="#P" n="41"/>quam quantitatum / et figure.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1041">
+      ¶ Ad confirmationem. Licet aliqui 
+      <lb ed="#P" n="42"/>negent antecedens: tamen potest negari consequentia accipiendo 
+      <lb ed="#P" n="43"/>in consequente viuum / et animatum formaliter / et proprie pro 
+      <lb ed="#P" n="44"/>eo quod est essentialiter anima et vita vel habens vitam vt partem 
+      <lb ed="#P" n="45"/>intrinsecam compositionis essentialis.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1052">
+      ¶ Ad primam 
+      <lb ed="#P" n="46"/>probationem consequentie Augustinus ibidem dicit quod vi 
+      <lb ed="#P" n="47"/>uentia non viuentibus incorruptibilia corruptibilibus 
+      <lb ed="#P" n="48"/>et inco. paralia / et spiritualia corporalibus / et inuisibilia vt 
+      <lb ed="#P" n="49"/>sibilibus praeponuntur. Si autem hoc dictum intelligitur vniversali 
+      <lb ed="#P" n="50"/>videtur includere repugnantiam: quia cum celum sit 
+      cor<lb ed="#P" n="51" break="no"/>poreum et visibile erit ignobilius spiritu bruti: et actu 
+      <lb ed="#P" n="52"/>anime nostre spirituali / et inuisibili erit etiam nobilius 
+      <lb ed="#P" n="53"/>quia incorruptibile. Similiter prima materia erit 
+      ignobi<lb ed="#P" n="54" break="no"/>lior quam actus intelligendi: quia corprea / et nobilior: quia 
+      <lb ed="#P" n="55"/>incorruptibilis. Potest igitur dici quod Aug. intendit viuum 
+      <lb ed="#P" n="56"/>esse nobilius non viuo id est viuere est conditio entis no 
+      <lb ed="#P" n="57"/>bilior quam quaeque conditio per se repugnans vite: et omne 
+      <lb ed="#P" n="58"/>viuum quatenus viuum: est nobilius non viuente sicut 
+      <lb ed="#P" n="59"/>supra dictum est de simplicitate et compositione: sic et 
+      <lb ed="#P" n="60"/>dependens: et causatum est secundum quod huiusmodi ignobilius 
+      <lb ed="#P" n="61"/>et inferius eo a quo causatur / et dependet: non tamen sim 
+      <lb ed="#P" n="62"/>liciter vniuersaliter. Patet de composito / et eius parte. Simililet 
+      <lb ed="#P" n="63"/>spirituale / quatenus spirituale / est nobilius 
+      corporali<lb ed="#P" n="64" break="no"/>vt sic: non tamen simpliciter et vniversaliter vt actus anime est ignobilior 
+      <lb ed="#P" n="65"/>substantia corporea: vel potest dici quod Augusti. intem 
+      <lb ed="#P" n="66"/>dit omne viuificans esse nobilius viuificato per ipsum quod 
+      <!--113.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>non est vita: nec per se viuens: vel quod corpus viuum et 
+      anima<lb ed="#P" n="68" break="no"/>tum melius est ipso non viuo nec animato / sed mortuo per se 
+      <lb ed="#P" n="69"/>parationem vite.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1111">
+      ¶ Ad secundam probationem consequentie. 
+      <lb ed="#P" n="70"/>non oportet quod qualibet causa effectiue concurrens ad viuum sit 
+      <lb ed="#P" n="71"/>viua. Conceditur tamen quod omne viuum productum est ab aliqua 
+      <lb ed="#P" n="72"/>causa immediata vel mediata propiqua vel remota par 
+      <lb ed="#P" n="73"/>ticulari vel vniuersali / siue sit viuum eiusdem rationis 
+      <lb ed="#P" n="74"/>siue intelligentia secunda siue intelligentia prima: et si 
+      cor<lb ed="#P" n="75" break="no"/>pora celestia possunt generare aliquod equalens semini 
+      <lb ed="#P" n="76"/>ex quo generantur animalia per putrefactionem videtur quod in 
+      cau<lb ed="#P" n="77" break="no"/>sando viuum possunt interdum equiualere actio eiusdem ra 
+      <lb ed="#P" n="78"/>tionis cum animali producto.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1133">
+      ¶ Ad tertium. Non accipitur 
+      <lb ed="#P" n="79"/>ibi causa formalis proprie quae est pars essentialis 
+      intrin<lb ed="#P" n="80" break="no"/>sece compositiua: quia deus non est sic causa formalis 
+      <lb ed="#P" n="81"/>omnium vt sit pars omnium compositorum. Dicitur igitur forma 
+      <lb ed="#P" n="82"/>vel causa formalis in quadam similitudine et proportione 
+      <lb ed="#P" n="83"/>sicut enim exemplar ad cuius similitudinem formatur res artificia 
+      <lb ed="#P" n="84"/>lis dicitur forma illius vt in artificialibus fusibilibus 
+      <lb ed="#P" n="85"/>et consequenter exemplar in mente artificis dicitur forma rei 
+      <lb ed="#P" n="86"/>artificiate quia ad eius similitudinem formatur et deterinatur talis: ita 
+      <lb ed="#P" n="87"/>quia deus est ars prima continens eminenter ydeas omnis 
+      quid<lb ed="#P" n="88" break="no"/>ditatum dicitur forma omnis: ita quod hec causalitas formalis in 
+      <lb ed="#P" n="89"/>primo non videtur nisi quaedam specificatio causalitatis 
+      ef<lb ed="#P" n="90" break="no"/>fectiue in primo: vel secundum quosdam deus dicitur causa 
+      for<lb ed="#P" n="91" break="no"/>malis: non quia sit forma informans / sed quia est forma omnia 
+      <lb ed="#P" n="92"/>formans secundum exemplar formalis intelligentie et artis prime 
+      <lb ed="#P" n="93"/>vnde aug. 2. de ci. dici vltra medium. Coficitur itaque vt 
+      cor<lb ed="#P" n="94" break="no"/>pus et aimmus forma quaedam immutabili / et semper manente. 
+      <lb ed="#P" n="95"/>formantur: cui forme dictum est / mutabis eos: et mutabum 
+      <lb ed="#P" n="96"/>tur: tu autem idem ipse es. 
+      <lb ed="#P" n="97"/>rr an catholi¬ 
+    </p>
+            <p xml:id="D78nca-e32317-d1e1177">
+               <lb ed="#P" n="98"/>¶ Deinde hidendum elt ce ioquendo 
+      <lb ed="#P" n="99"/>concedendum sit deum posse informare materiam vel 
+      enti<lb ed="#P" n="100" break="no"/>tatem creatam. Et dicunt aliqui quod sic. probatur. quicquid est 
+      perfe<lb ed="#P" n="101" break="no"/>ctionis in creatura attribuendum est primo enti: sub modo 
+      <lb ed="#P" n="102"/>tamen perfecto / et non limitato circumscripta et abstracta impe 
+      <lb ed="#P" n="103"/>fectione: sed in forma creata perfectionis est quod actuat et per 
+      <lb ed="#P" n="104"/>ficit materiam dando ei esse actuale determinatum et termi 
+      <lb ed="#P" n="105"/>nando eius dependentiam. hoc enim prouenit ex communicabilitate 
+      <lb ed="#P" n="106"/>ue perfectionis. licet dependentia a subiecto sit imperfectio 
+      <lb ed="#P" n="107"/>igitur abstrahendo prima rationem et conditionem a secunda poterit 
+      <lb ed="#P" n="108"/>deo attribui quod sit actus perficiens materiam: licet non depen 
+      <lb ed="#P" n="109"/>dens ab ea.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1206">
+      ¶ Confirmatur: quia si dictus modus arguendi 
+      <lb ed="#P" n="110"/>non valeat: et dicatur quod causare in fluxu formali semper includit 
+      <lb ed="#P" n="111"/>imperfectionem: sequitur quod non erit via probandi quacumquod 
+      causa<lb ed="#P" n="112" break="no"/>litatem in deo. probo: quia omnis modus calitatis in creatura 
+      <lb ed="#P" n="113"/>est imperfectus / et limitatus et necessario annexus dependentie 
+      <lb ed="#P" n="114"/>et cuidam deficientie a perfecta causalitate: et ita dicetur quod non 
+      <lb ed="#P" n="115"/>potest attribui deo: quia habet necessario imperfectionem 
+      anne<lb ed="#P" n="116" break="no"/>casa et vltra perit via arguendi: aliquam perfectionem simpliciter 
+      <lb ed="#P" n="117"/>in deo ex creaturis: quia quaelibet eiusmodi in creaturis est 
+      <lb ed="#P" n="118"/>potentialis / et limitata vt sapientia bonitas. Secundo. dei 
+      <lb ed="#P" n="119"/>tas est in christo vnita humanitati per informationem: igitur pa 
+      <lb ed="#P" n="120"/>ri ratione foret vnibilis informatiue cuidam alteri 
+      crea<lb ed="#P" n="121" break="no"/>ture. antecedens probatur. aliter christus deus et homo non esset vnum per se 
+      <lb ed="#P" n="122"/>continens deitatem et humanitatem conillud symboli. Sicut 
+      <lb ed="#P" n="123"/>anima rationalis et caro vnus est homo: ita deus et homo vnus est christus  
+    </p>
+            <p xml:id="D78nca-e32317-d1e1240">
+               <lb ed="#P" n="124"/>¶ Dico in oppositum quod deitas non potest actuare per veram et 
+      <lb ed="#P" n="125"/>propriam informationem aliquam entitatem creatam. et secundo 
+      <lb ed="#P" n="126"/>quod in christo non informat humanitatem.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1249">
+      ¶ Primum probatur 
+      <lb ed="#P" n="127"/>omo: quia hoc repugnat divine perfectioi et immensita 
+      <lb ed="#P" n="128"/>ti quod sit pars vt probatum est supra. 
+    </p>
+            <p xml:id="D78nca-e32317-d1e1256">
+               <lb ed="#P" n="129"/>¶ Preterea. hoc repugnat summe divine 
+      actuali<lb ed="#P" n="130" break="no"/>tati: est enim actus purus. pars autem est in potentia ad  
+      <lb ed="#P" n="131"/>esse totius: et omnis forma vnibilis materie tantum 
+      partici<lb ed="#P" n="132" break="no"/>pat de potentialitate quantum de vnibilitate ad materiam 
+      <!--114.xml-->
+      <pb ed="#P" n="52-r"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="D78nca-e32317-d1e1274">
+               <lb ed="#P" n="1"/>¶ Preterea. repugnat summe perfecte simplicitati quia esse 
+      <lb ed="#P" n="2"/>coponibile subiecto vt pars constitutiua totius composi 
+      <lb ed="#P" n="3"/>ti repugnat perfecte simplicitati secundum Magi. lib. 1. 
+      <lb ed="#P" n="4"/>senten. distin. 8. et. 19. c. 5. Si dicitur quod non 
+      compo<lb ed="#P" n="5" break="no"/>nit / nec constituit aliquod ens totum compositum 
+      <lb ed="#P" n="6"/>Contra. materia non est nata informare illa forma cum 
+      <lb ed="#P" n="7"/>qua non est nata componere aliquod totum.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1292">
+      ¶ Item 
+      pa<lb ed="#P" n="8" break="no"/>ri ratione negabitur omnis compositio essentialis ex 
+      mate<lb ed="#P" n="9" break="no"/>ria et forma: diceretur enim quod sufficit informatio et actua 
+      <lb ed="#P" n="10"/>tio sine compositione tertie entitatis ad hoc quod fit cali 
+      <lb ed="#P" n="11"/>dum vel ignis: sicut ad hoc quod deus sit homo: et homo 
+      <lb ed="#P" n="12"/>deus.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1305">
+      ¶ Item potest dici quod vna persona informat / et actu 
+      <lb ed="#P" n="13"/>at aliam quia coicat sibi esse essentiale sine compositio 
+      <lb ed="#P" n="14"/>ne.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1313">
+      ¶ Preterea repugnat divine / et summe 
+      spiritua<lb ed="#P" n="15" break="no"/>litati et immaterialitati: quia esset forma materialis non 
+      <lb ed="#P" n="16"/>pure / et summe immaterialis / sed vnibil materie per 
+      <lb ed="#P" n="17"/>inforationem
+    </p>
+            <p xml:id="D78nca-e32317-d1e1322">
+      ¶ Preterea. creatura esset ompres: et posset 
+      <lb ed="#P" n="18"/>creare: quia operationes quarum forma informans est prin 
+      <lb ed="#P" n="19"/>cipium attribuitur subiecto.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1329">
+      ¶ Preterea. anima generaret fi 
+      <lb ed="#P" n="20"/>rium et spiraret . scilicet quia informaretur patere et filio
+    </p>
+            <p xml:id="D78nca-e32317-d1e1334">
+      ¶ Preterea 
+      <lb ed="#P" n="21"/>in diuinis non esset aliqua persona. probo: quia substecta quae nata 
+      <lb ed="#P" n="22"/>est informare materiam non est suppositum vel persona. ideo 
+      <lb ed="#P" n="23"/>enim anima separata non ponitur persona. 3. senten. distin. 
+      <lb ed="#P" n="24"/>30. ca. 2
+    </p>
+            <p xml:id="D78nca-e32317-d1e1345">
+      ¶ Confirmatur. Angelus non potest informare ma 
+      <lb ed="#P" n="25"/>teriam: igitur nec deitas. Consequentia patet: quia perfectionis 
+      <lb ed="#P" n="26"/>est in angelo quod sit forma immaterialis non vnibilis ma 
+      <lb ed="#P" n="27"/>terie per informationem Antecedens patet: quia non esset persona 
+      <lb ed="#P" n="28"/>magis quam anima intellectiua.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1356">
+      ¶ Preterea hoc videtur quod 
+      <lb ed="#P" n="29"/>informatio non est imperfectionis: sed perfectionis: quia est da 
+      <lb ed="#P" n="30"/>re et commicare esse actuale: et perfectionem: sed hoc non va 
+      <lb ed="#P" n="31"/>let: quia pari ratione dicetur quod potest substare forme accidem 
+      <lb ed="#P" n="32"/>tali / vel substantiali materiali: et sustentare ipsam. ita 
+      <lb ed="#P" n="33"/>enim dicetur quod sustentare accidens est terminare eius 
+      de<lb ed="#P" n="34" break="no"/>pendentiam. hoc autem est falsum. patet distin. ista octaua 
+    </p>
+            <p xml:id="D78nca-e32317-d1e1373">
+               <lb ed="#P" n="35"/>¶ Confirmatur. pari ratione deus poterit esse causa ma 
+      <lb ed="#P" n="36"/>terialis: quia causalitas materialis esset terminare 
+      depen<lb ed="#P" n="37" break="no"/>dentiam forme
+    </p>
+            <p xml:id="D78nca-e32317-d1e1382">
+      ¶ Preterea. deus poterit informare na 
+      <lb ed="#P" n="38"/>turam accidentalem. probatur: quia eadem est ratio negandi de 
+      <lb ed="#P" n="39"/>omni essentia creata: et quia deus posset assumere vnam 
+      <lb ed="#P" n="40"/>qualitatem in vnitatem suppositi secundum aduersarium 
+      <lb ed="#P" n="41"/>et hoc non est nisi per informationem secundum eundem sed 
+      <lb ed="#P" n="42"/>consequens est falsum: quia maioris imperfectionis et indignitatis  
+      <lb ed="#P" n="43"/>videtur in deo quod informet accidens: et quod accidens sit sub 
+      <lb ed="#P" n="44"/>iectum diuinitatis quam quod diuintas sustentet inherentiam et 
+      de<lb ed="#P" n="45" break="no"/>pendentiam accidentis: quia ex vna parte accidens sustentaret 
+      <lb ed="#P" n="46"/>divinitatem et deitas haberet accidens quasi pro 
+      funda<lb ed="#P" n="47" break="no"/>mento sustentante: ex alia autem parte econtra. Si etiam 
+      <lb ed="#P" n="48"/>deitas potest informare accidens: ergo potest informare 
+      odi<lb ed="#P" n="49" break="no"/>um dici / et miseriam dyaboli.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1411">
+      ¶ Preterea. subiectum 
+      crea<lb ed="#P" n="50" break="no"/>tum finitum non potest informari forma infinita 
+      crea<lb ed="#P" n="51" break="no"/>ta: vt nunc supponitur: igitur nec infinita increata: quia 
+      <lb ed="#P" n="52"/>hec infinitas est in infinitum maior / et magis 
+      impropor<lb ed="#P" n="53" break="no"/>tionata.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1422">
+      ¶ Preterea. anima asini non potest informare ani 
+      <lb ed="#P" n="54"/>mam huomidnis: nec asinitas humanitate: igitur nec essentia 
+      <lb ed="#P" n="55"/>diuina. Consequentia patet: quia est magis improportio 
+      <lb ed="#P" n="56"/>nata Antecedens probatur: quia si asinitas vel anima asini formaliter 
+      <lb ed="#P" n="57"/>niuit vita / et anima ronali: ergo est anim al rationale: igitur est 
+      <lb ed="#P" n="58"/>homo / et asinus et animal irrationale et rationale. Respondet 
+      <lb ed="#P" n="59"/>aduersarius quod quamuis anima intellectiua possit esse forma 
+      <lb ed="#P" n="60"/>asini vt materie: tamen illud resultans non esset homo 
+      <lb ed="#P" n="61"/>quia nihil resultaret: sicut ex deitate et entitate 
+      crea<lb ed="#P" n="62" break="no"/>ta per informationem ei vnita non resultaret tertium ens 
+    </p>
+            <p xml:id="D78nca-e32317-d1e1444">
+               <lb ed="#P" n="63"/>¶ Contra responsionem arguitur primo. Aut 
+      informa<lb ed="#P" n="64" break="no"/>tio sufficit ad hoc quod illud sit homo et asinus: aut hoc 
+      <lb ed="#P" n="65"/>non: sed requiritur tertia entitas resultans. si primum: 
+      <lb ed="#P" n="66"/>stat ratio praecedens. si secundum / cum ex xeo et creatura non 
+      <!--114.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>resultat huiusmodi tertia entitas. secundum te sequitur quod 
+      vnio<lb ed="#P" n="68" break="no"/>ne informata humanitatis a deitate non erit deus ho 
+      <lb ed="#P" n="69"/>mo: nec homo deus: nec idem deus homo. 
+    </p>
+            <p xml:id="D78nca-e32317-d1e1466">
+               <lb ed="#P" n="70"/>¶ Item si non sit aliqua tertia entitas frustra 
+      po<lb ed="#P" n="71" break="no"/>nitur informatio. Causa enim vnitatis compositi est: quia 
+      <lb ed="#P" n="72"/>hoc est actus / et illud potentia. 7. metha.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1476">
+      ¶ Item sicut 
+      <lb ed="#P" n="73"/>dicis deitatem informare: quia informare est perfectionis 
+      <lb ed="#P" n="74"/>cum sit dare et comnicare esse: ita perfectionis erit dare esse 
+      <lb ed="#P" n="75"/>tertie entitati totali resultanti. perfectionis enim est in forma 
+      <lb ed="#P" n="76"/>quod dat esse actuale: non tantum esse materie: sed tertie en 
+      <lb ed="#P" n="77"/>titati resultanti: et quod dat esse hominem: et constituit in esse 
+      <lb ed="#P" n="78"/>totali et perfecto.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1492">
+      ¶ Item. vel in ceteris compositis natu 
+      <lb ed="#P" n="79"/>ralibus ex forma sustantiali informante: et subiecto infor 
+      <lb ed="#P" n="80"/>mato resultat aliquod tertium ens: aut non. si secundum igitur 
+      <lb ed="#P" n="81"/>sicut in aliis informatio absque huiusmodi tertio resultam 
+      <lb ed="#P" n="82"/>te sufficit ad hoc quod constitutum sit asinus / vel equus. 
+      <lb ed="#P" n="83"/>ita in proposito illud erit homo / et asinus. Si primum: igitur 
+      <lb ed="#P" n="84"/>pari ratione in proposito et si non in proposito: magister nec in 
+      <lb ed="#P" n="85"/>aliis: quia eque vere et perfecte et per se informat / et actuat 
+      <lb ed="#P" n="86"/>hic et ibi: et quia in aliis saluabitur: quod per informationem 
+      <lb ed="#P" n="87"/>hoc est homo vel ignis sine tertio resultante: sicut per 
+      <lb ed="#P" n="88"/>te saluatur quod christus est dens et homo propter informationem 
+      <lb ed="#P" n="89"/>absque tertio resultante
+    </p>
+            <p xml:id="D78nca-e32317-d1e1518">
+      ¶ Pretera. ad principale sequi 
+      <lb ed="#P" n="90"/>tur quod quodliet potest informare quodlibet. probo: quia non 
+      mi<lb ed="#P" n="91" break="no"/>nus improportionatur essentia creata essentie create in quo 
+      <lb ed="#P" n="92"/>ad informationem quam essentie create. Consequens est 
+      <lb ed="#P" n="93"/>falsum. probatur primo: materia posset informare formam 
+      <lb ed="#P" n="94"/>et ita materia esset forma et subiectum / et materia esset 
+      <lb ed="#P" n="95"/>forma et actus. materia etiam posset informare accidens 
+      <lb ed="#P" n="96"/>et ita accidens esset subiectum substantie. Similiter 
+      mate<lb ed="#P" n="97" break="no"/>ria posset informare materiam: et forma formam siue 
+      <lb ed="#P" n="98"/>eiuidem rationis siue alterius: et quodlibet accidens a quoli 
+      <lb ed="#P" n="99"/>bet accidente posset informari. igitur et nunc de facto se 
+      in<lb ed="#P" n="100" break="no"/>uicem informant ista: quia sunt simul sibi inuicem praesentia 
+      <lb ed="#P" n="101"/>et vnita situ / et subiecto. quid enim requiritur antecedenter 
+      <lb ed="#P" n="102"/>informationi: ex quo hoc natum est informare illud.  
+    </p>
+            <p xml:id="D78nca-e32317-d1e1549">
+               <lb ed="#P" n="103"/>¶ Item. frustra disponitur materia in generatione: et 
+      fru<lb ed="#P" n="104" break="no"/>stra corrumperentur dispositiones contrarie: quia 
+      mate<lb ed="#P" n="105" break="no"/>ria sub quibuscumque dispositionibus natum esset informa 
+      <lb ed="#P" n="106"/>ri a quacumque forma: et vltra calor poterit informare 
+      <lb ed="#P" n="107"/>frigiditatem.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1562">
+      ¶ Item. ex quolet cum quolet natum esset 
+      <lb ed="#P" n="108"/>fieri per se vnum ex quo quodlibet natum est informare 
+      quod<lb ed="#P" n="109" break="no"/>licet: et ita hircoceruus non erit figmentum impossibile: 
+      <lb ed="#P" n="110"/>quia nomine hircocerui intelligitur compositum quatenus ex cor 
+      <lb ed="#P" n="111"/>pore equi et anima asini / et caput leonis / seu bouis: sed  
+      <lb ed="#P" n="112"/>ex istis poterit fieri vnum tanquam ex partibus 
+      integrali<lb ed="#P" n="113" break="no"/>ius vel essentialibus. si quodlibet natum est componere cum 
+      <lb ed="#P" n="114"/>quolet et vnire per informationem.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1580">
+      ¶ Secunda propositio 
+      <lb ed="#P" n="115"/>Quod in christo diuina essentia non informat humanitatem 
+      <lb ed="#P" n="116"/>nec animam / et corpus: et primo quod non informat corpus 
+      <lb ed="#P" n="117"/>quia in triduo mortis corpus christi sepultum vere et rea 
+      <lb ed="#P" n="118"/>liter viueret: immo in infinitum magis et perfectius viueret 
+      <lb ed="#P" n="119"/>quam corpus nostrum viuat nunc per animam. Consequens est 
+      <lb ed="#P" n="120"/>falsum: quia vere erat mortuum et simpliciter vita priuatum 
+      <lb ed="#P" n="121"/>et quia consequenter corpus non intelligeret et fruere 
+      <lb ed="#P" n="122"/>tur deo quia viueret formaliter vita intellectiua: que est 
+      <lb ed="#P" n="123"/>vera beatitudo formaliter. Consequentia probatur mul 
+      <lb ed="#P" n="124"/>tipliciter. Nam quod informatur vita perfecta est formaliter 
+      <lb ed="#P" n="125"/>etquens. si enim vita imperfecta / et diminuta informans dat 
+      <lb ed="#P" n="126"/>propter informationem suo subiecto viuere vt anima 
+      <lb ed="#P" n="127"/>nostra corpori: igitur multo magis vita perfecta scilicet diui 
+      <lb ed="#P" n="128"/>na eque vere / et perfecte informans aliquod subiectum 
+      <lb ed="#P" n="129"/>dabit illi viuere formaliter. 
+    </p>
+            <p xml:id="D78nca-e32317-d1e1616">
+               <lb ed="#P" n="130"/>¶ Confirmatur. si albedo propter informationem dat for 
+      <lb ed="#P" n="131"/>maliter esse album / et calor esse calidum: igitur quod  
+      <lb ed="#P" n="132"/>est vita essentialiter dabit per informationem esse viuum. 
+      <!--115.xml-->
+      <pb ed="#P" n="52-v"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="D78nca-e32317-d1e1632">
+               <lb ed="#P" n="1"/>¶ Item anima perfectius viuificaret quam deitas: quia dat 
+      for<lb ed="#P" n="2" break="no"/>maliter et immediate corpori prius non viuo viuere: et 
+      <lb ed="#P" n="3"/>ita vita finita perfectius viuificaret quam vita infinita sup 
+      <lb ed="#P" n="4"/>posita eque perfecta informatione a vita infinita: ex quo 
+      <lb ed="#P" n="5"/>ltra sequitur quod corpus magis perficitur ex informatione sui 
+      <lb ed="#P" n="6"/>per animam quam ex informatione per deitatem.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1648">
+      ¶ Item si in 
+      <lb ed="#P" n="7"/>formare per se ab eo quod est essentialiter vita non sufficit 
+      <lb ed="#P" n="8"/>ad viuere: igitur informatio corporis ab anima non 
+      suf<lb ed="#P" n="9" break="no"/>ficit ad corpus viuere: sed requiritur alia habitudo: igitur sta 
+      <lb ed="#P" n="10"/>bit informatio corporis ab anima absque hoc quod corpus vi 
+      <lb ed="#P" n="11"/>uat.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1661">
+      ¶ Item vel impedimentum esset ex parte forme 
+      infor<lb ed="#P" n="12" break="no"/>mantis: vel ex parte corporis informati. Non primum  
+      <lb ed="#P" n="13"/>quia illa est essentialiter vita: igitur quantum est ex se potest 
+      viuifica<lb ed="#P" n="14" break="no"/>re illud quod informat. Non secundum: quia corpus est viuifi 
+      <lb ed="#P" n="15"/>cabile a vita creata si informatur ab ea.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1672">
+      ¶ Item. aut 
+      <lb ed="#P" n="16"/>ad hoc quod vita det formaliter esse viuum et vitale subiento quod 
+      <lb ed="#P" n="17"/>informat praexigitur vita in illo subiecto: vel non. Si 
+      <lb ed="#P" n="18"/>secundum: igitur non est ratio quare corpus illud tunc non viueret 
+      <lb ed="#P" n="19"/>Si primum / contra: quia corpori non praehabenti vitam anima 
+      <lb ed="#P" n="20"/>per informationem dat simpliciter viuere.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1685">
+      ¶ Item dum anima 
+      <lb ed="#P" n="21"/>christi erat iuncta corpori eius: aut deitas informans cor 
+      <lb ed="#P" n="22"/>pus dabat corpori viuere formaliter aut non. si primum 
+      <lb ed="#P" n="23"/>igitur in triduo ex quo remanebat informatio corporis 
+      <lb ed="#P" n="24"/>a deitate per aduersarium. Deitas enim informando non 
+      <lb ed="#P" n="25"/>dependet ab anima: igitur nec in viuificando. si secundum / igitur nec 
+      <lb ed="#P" n="26"/>totum viuebat vita quae deus est: nec etiam anima: igitur fru 
+      <lb ed="#P" n="27"/>stra ponitur huiusmodi informatio. Et vltra quod non est vi 
+      <lb ed="#P" n="28"/>uificabile ab .a. vita non est informabile ab .a. vita: 
+      <lb ed="#P" n="29"/>sicut quod non est calefactibile vel dealbabile non 
+      <lb ed="#P" n="30"/>est informabile a calore / vel albedine. 
+    </p>
+            <p xml:id="D78nca-e32317-d1e1710">
+               <lb ed="#P" n="31"/>¶ Item diuintas informans illud corpus dabat illi 
+      corpo<lb ed="#P" n="32" break="no"/>ri esse deum per aduersarium: quia si deitas vniretur lapidei 
+      <lb ed="#P" n="33"/>per informationem: ille lapis esset deus omnipotens per ad 
+      <lb ed="#P" n="34"/>uersarium. si autem dat illi corpori esse deum omnipotentem 
+      <lb ed="#P" n="35"/>ergo esse deum viuum et intelligentem / et econtra. si non 
+      <lb ed="#P" n="36"/>dat illi esse viuum vel vitale: igitur nec esse substantiam nec 
+      <lb ed="#P" n="37"/>esse deum.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1728">
+      ¶ Deinde probatur quod deitas in christo non infor 
+      <lb ed="#P" n="38"/>mabat per se et vere animam christi: quia anima rationalis non potest 
+      <lb ed="#P" n="39"/>informari anima asini vel angelo: igitur nec deitate: quia ma 
+      <lb ed="#P" n="40"/>ior est improportio / et maior independentia ex parte dei 
+      <lb ed="#P" n="41"/>antecedens probatur: quia idem animal esset homo / et asinus / 
+      <lb ed="#P" n="42"/>et animal rationale / et irrationale: et quia vnum corpus 
+      <lb ed="#P" n="43"/>non est natum informari alio corpore: nec vna 
+      ma<lb ed="#P" n="44" break="no"/>teria per aliam: igitur nec forma specifica et vltima est infor 
+      <lb ed="#P" n="45"/>mabilis per aliam formam specificam / et vltimam: igitur 
+      <lb ed="#P" n="46"/>nec per diuinam.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1750">
+      ¶ Preterea. aut possibile est quod deitas 
+      <lb ed="#P" n="47"/>informet animam absque immutatione anime vitali et perceptiua 
+      <lb ed="#P" n="48"/>aut non. si secundum / contra: quia per aduersarium habitudo 
+      infor<lb ed="#P" n="49" break="no"/>mationis et habitudo vitalis immutationis sunt 
+      habitudi<lb ed="#P" n="50" break="no"/>nes distincte et conuertibiliter separabiles inter etiam 
+      ea<lb ed="#P" n="51" break="no"/>dem extrema. si primum. igitur possibile est quod anima viuat 
+      <lb ed="#P" n="52"/>vita quae deus est: et non cognoscat cognitione quae deus 
+      <lb ed="#P" n="53"/>est: cum tamen deus sit essentialiter cognitio: sicut est 
+      <lb ed="#P" n="54"/>essentialiter vita: et cum cognitio diuina eque perfecte in 
+      <lb ed="#P" n="55"/>formet illam animam: sicut vita diuina: quia sunt ide.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1772">
+      ¶ Dein 
+      <lb ed="#P" n="56"/>de quod non informabat in christo humanitatem probatur. 
+      <lb ed="#P" n="57"/>aut huiusmodi informatio est vnio hypostatica / et assumptio 
+      <lb ed="#P" n="58"/>humanitatis in vnitatem suppositi / et vnio humanitatis  
+      <lb ed="#P" n="59"/>supposito filii determinate / aut non. si primum / contra: 
+      <lb ed="#P" n="60"/>quia informatio materie a forma creata non est aliqua 
+      <lb ed="#P" n="61"/>vnio hypostatica nec informatio corparis nostri ab anima 
+      <lb ed="#P" n="62"/>vel anime ab actu intelligendi. nec talis forma est suppo 
+      <lb ed="#P" n="63"/>sitans illud subiectum: quia secundum aduersarium tale assumptum 
+      <lb ed="#P" n="64"/>a verbo est deus: licet non ex vi vnionis ad personam vt sic: 
+      <lb ed="#P" n="65"/>sed ex vi vnionis ad deitatem vt formam. secundum ipsum 
+      <lb ed="#P" n="66"/>etiam non per hoc quod humanitas vnitur hypostasi verbi vni 
+      <!--115.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>tur deitati: cum vnlo ad deitatem formaliter sumpta 
+      <lb ed="#P" n="68"/>sit incomparabiliter perfectior: quia per eam communicatur 
+      <lb ed="#P" n="69"/>plenitudo deitatis secundum omnem perfectionem essentialem 
+      <lb ed="#P" n="70"/>vt dicitur: igitur vnio hypostatica ad verbum est alia ab infor 
+      <lb ed="#P" n="71"/>matione a deitate. si detur secundum. contra: aut ex vi vnio 
+      <lb ed="#P" n="72"/>nis hypostatice circumscribendo informationem deus esset 
+      <lb ed="#P" n="73"/>omo / et homo deus: aut non. si primum / igitur frustra ad 
+      <lb ed="#P" n="74"/>ditur illa habitudo / et vnio informationis. si secundum / igitur 
+      <lb ed="#P" n="75"/>circumscri pta illa informatione deus non esset homo: 
+      <lb ed="#P" n="76"/>nec homo esset deus: et tamen essent idem suppositaliter / et 
+      <lb ed="#P" n="77"/>personaliter: et humanitas esset assumpta a verbo in 
+      <lb ed="#P" n="78"/>vnitatem persone. Et vltra si ex vi informationis cir 
+      <lb ed="#P" n="79"/>cumscribendo aliam vnionem deus est homo: igitur frustra ad 
+      <lb ed="#P" n="80"/>ditur vnio hypostatica.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1833">
+      ¶ Preterea. sequitur quod humani 
+      <lb ed="#P" n="81"/>tas esset deus: quia deitas dat esse ei quod informat et 
+      essen<lb ed="#P" n="82" break="no"/>tia diuina dabit esse deum / vel ens diuinum. respondet aduer 
+      <lb ed="#P" n="83"/>sarius concedendo consequens. ponit enim quod tale vnitum deitati pr 
+      <lb ed="#P" n="84"/>informationem est deus: et quia deitas potest statin quamcumque 
+      <lb ed="#P" n="85"/>entitate creatam inforare: ideo quicumque entitate creata de 
+      <lb ed="#P" n="86"/>monstrata / possibile est quod hoc sit deus. Et si arguitur quod tunc 
+      <lb ed="#P" n="87"/>humanitas esset deitas: quia quod est deus est deitas.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1851">
+      ¶ Rspon 
+      <lb ed="#P" n="88"/>det quod talis nam creata erit deus: sed non erit diuinitas 
+      <lb ed="#P" n="89"/>et quolibet res quae est essenaliter deus sit diuintas. nec est verum quod quolibet 
+      <lb ed="#P" n="90"/>res quae est deus sit deitas / licet qualibet res quae est essenaliter deus sit dei 
+      <lb ed="#P" n="91"/>tas. Res autem creata vnita deitati per informationem non est 
+      <lb ed="#P" n="92"/>deus essenaliter. sicut igitur aliquid est homo per vnionem ad huma 
+      <lb ed="#P" n="93"/>nitatem: quod tamen non est humanitas: vt in verbo: ita aliquid 
+      <lb ed="#P" n="94"/>est deus per vnionem ad diuinitatem. quod tamen non est deitas 
+    </p>
+            <p xml:id="D78nca-e32317-d1e1870">
+               <lb ed="#P" n="95"/>¶ Contra. Si humanitas est deus: sequitur quod sunt 
+      plu<lb ed="#P" n="96" break="no"/>res dii essentialiter distincti. probo: quia aliquis est deus qui 
+      <lb ed="#P" n="97"/>est essentialiter deitas: et aliquis erit deus distinctus esse 
+      <lb ed="#P" n="98"/>tialiter ab illa deitate: igitur due essentie et nature to 
+      <lb ed="#P" n="99"/>taliter diuerse in nullo connicantes secundum identitatem: quarum 
+      <lb ed="#P" n="100"/>quaelibet est realiter deus: igitur duo dii essentialiter distincti 
+    </p>
+            <p xml:id="D78nca-e32317-d1e1886">
+               <lb ed="#P" n="101"/>¶ Dices sicut in quodam loco iste doctor videtur dicere quod 
+      <lb ed="#P" n="102"/>non sunt plures dii: quorum quilibet sit essentialiter deus: sed  
+      <lb ed="#P" n="103"/>vnus est essentialiter deus: et alius accidentaliter 
+      partici<lb ed="#P" n="104" break="no"/>patiue: sicut secundum Boetium. 3o. de consolatione prosa 
+      <lb ed="#P" n="105"/>10. dicit sicut adoptione iusticie iusti / et sapientie sapi 
+      <lb ed="#P" n="106"/>entes sumus. ita deitatem adeptos deosfieri necesse 
+      <lb ed="#P" n="107"/>est: sed nam quidem vnus participatiue vero nihil prohibet 
+      <lb ed="#P" n="108"/>esse quamplurimos. contra: cum dicis quod humanitas est deus: aut 
+      <lb ed="#P" n="109"/>intelligis quod est deus vere et realiter / et proprie quo vere 
+      <lb ed="#P" n="110"/>et realiter / et proprie est vnita deitati: et quomodo verum est quod 
+      <lb ed="#P" n="111"/>filius dei est homo aut solum large per quandam 
+      similitudi<lb ed="#P" n="112" break="no"/>nem / et transsumptionem quo omnes beati: immo omnes iusti 
+      <lb ed="#P" n="113"/>dicuntur dii: iuxtra illud prales. Ego dixi dii estis. si secundum: sic 
+      <lb ed="#P" n="114"/>non est dubium. Nec est ad propositum: quia in ratione prin 
+      <lb ed="#P" n="115"/>cipali infertur quod humanitas esset vere deus. Et quia 
+      huma<lb ed="#P" n="116" break="no"/>nitas est deitas large / et improprie: sicut quolibet beatus dici 
+      <lb ed="#P" n="117"/>tur deus large / et improprie: et tamen iste doctor concedit quod est 
+      <lb ed="#P" n="118"/>deus: et negat quod sit deitas et quia humanitas secundum ipsum est de 
+      <lb ed="#P" n="119"/>us ex vi informationis a deitate: sed esse deum large 
+      <lb ed="#P" n="120"/>et transsumptiue non exigit informationem: igitur non habet 
+      <lb ed="#P" n="121"/>intelligere secundo modo. si autem primo modoigitur realiter et pro 
+      <lb ed="#P" n="122"/>prie veraciter erunt duo dii essentialiter distinet vtom.
+    </p>
+            <p xml:id="D78nca-e32317-d1e1936">
+      ¶ 
+      Con<lb ed="#P" n="123" break="no"/>firmatur. Deus est deitas: deus est humanitas per te: igitur 
+      <lb ed="#P" n="124"/>humanitas est deitas si sillogismus valet: igitur conclu 
+      <lb ed="#P" n="125"/>sio est concedenda: si non valet igitur ly deus in maiore / et 
+      <lb ed="#P" n="126"/>in minore stat pro alio et alio: aut igitur pro alio essen 
+      <lb ed="#P" n="127"/>tialiter: et ita sunt vere plures dii essentialiter distincti 
+      <lb ed="#P" n="128"/>aut pro alio suppositaliter: igitur humanitas est suppositum 
+      <lb ed="#P" n="129"/>diuinum aliud a verbo: et consequeter aliquod suppositum 
+      <lb ed="#P" n="130"/>erit deus quod non est. Nec pater / nec filius / nec . sclict Pro 
+      <lb ed="#P" n="131"/>patur consequentia quia si humanitas esset suppositum verbi: cum super 
+      <lb ed="#P" n="132"/>positum verbi sit deitas: igitur humanitas esset deitas 
+      <!--116.xml-->
+      <pb ed="#P" n="53-r"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="D78nca-e32317-d1e1967">
+               <lb ed="#P" n="1"/>¶ Preterea. cum dicis quod humanitas est deus / aut ly deus 
+      <lb ed="#P" n="2"/>stat pro aliqua persona diuina / aut pro nulla. Si primum 
+      <lb ed="#P" n="3"/>non nisi pro filio. ergo humanitas est deus qui est ver 
+      <lb ed="#P" n="4"/>bum diuinum: sed hec est deitas. ergo humanitas esset 
+      <lb ed="#P" n="5"/>diuinitas. Si secundum: igitur est aliquis verus deus qui 
+      <lb ed="#P" n="6"/>nec est trinitas / nec aliqua persona in trinitate quia 
+      <lb ed="#P" n="7"/>essentialiter est deus nec trinus personaliter nec est aliquod 
+      <lb ed="#P" n="8"/>suppositum diuinum quod est falsum. et vltra omnis vnio 
+      <lb ed="#P" n="9"/>que dat humanitati esse deum dat humanitati esse filium 
+      <lb ed="#P" n="10"/>dei. igitur si humanitas ex vi vnionis est deus sequitur 
+      <lb ed="#P" n="11"/>quod est filius dei et verbum diuinum. igitur est deitas
+    </p>
+            <p xml:id="D78nca-e32317-d1e1993">
+      ¶ Preterea 
+      <lb ed="#P" n="12"/>in christo non est aliquis homo qui sit humanitas et aliquis alius homo qui 
+      <lb ed="#P" n="13"/>non sit humanitas alioquin essent ibi duo homines. igitur 
+      <lb ed="#P" n="14"/>non est ibi aliquis deus qui sit deitas et aliquis deus qui non sit diu 
+      <lb ed="#P" n="15"/>nitas. alioquin erunt ibi duo dii.
+    </p>
+            <p xml:id="D78nca-e32317-d1e2004">
+      ¶ Preterea. esset aliquis 
+      <lb ed="#P" n="16"/>vere et proprie deus compositus ex corpore et anima. et igno 
+      <lb ed="#P" n="17" break="no"/>bilior angelo et qui esset creatura et econtra. consequens est fal 
+      <lb ed="#P" n="18" break="no"/>sum. et contra <ref xml:id="D78nca-e32317-Rd1e2012">magistrum. 3o. senten. dist. 2. cap. 2o.</ref> vbi 
+      <lb ed="#P" n="19"/>magister probat quod deus non est creatura nec econtra cuius 
+      <lb ed="#P" n="20"/>vna probatio est. quia deus est simplicis nature et non co 
+      <lb ed="#P" n="21"/>posite cui nihil accidit. et ca 1. Neque debet dici nec 
+      <lb ed="#P" n="22"/>concedi christum esse creaturam. et allegat Aug 1 de 
+      tri<lb ed="#P" n="23" break="no"/>cap. 16 quia omina per ipsum facta sunt. vnde liquido 
+      <lb ed="#P" n="24"/>apparet non esse factum per quod omnia facta sunt et 
+      <lb ed="#P" n="25"/>si factus non est creatura non est. Ad hoc etiam addu 
+      <lb ed="#P" n="26" break="no"/>cit Ambrosium. quod filius dei non debet dici creatura. si 
+      <lb ed="#P" n="27"/>autem humanitas non est filius dei. igitur nec est deus. 
+      <lb ed="#P" n="28"/>ibidem etiam multa adducit ad probandum quod esse factum 
+      <lb ed="#P" n="29"/>nullo modo est attribuendum deo: sed esse factum hominem 
+      <lb ed="#P" n="30"/>vt factura attribuatur humanitati / non autem deo.
+    </p>
+            <p xml:id="D78nca-e32317-d1e2043">
+      ¶ Pre 
+      <lb ed="#P" n="31" break="no"/>terea. aut creatura posset creare. aut aliquis deus 
+      <lb ed="#P" n="32"/>non est ompstus. immo est impotens creare. videtur igitur 
+      <lb ed="#P" n="33"/>dicendum quod humanitas in christo non est deus nec deitas 
+      <lb ed="#P" n="34"/>sed homo est deus et diuinitas. quia ly homostat pro 
+      <lb ed="#P" n="35"/>verbo vnito humanitati. sicut dicendo album est 
+      sub<lb ed="#P" n="36" break="no"/>stantia / ly album stat pro substantia vnita albedini cum 
+      <lb ed="#P" n="37"/>autem dicit quod ibi est aliquid quod est homo et non est huma 
+      <lb ed="#P" n="38" break="no"/>nitas. igitur ibi est aliquid quod est deus et non est deitas 
+      <lb ed="#P" n="39"/>negatur consequentia. quia cum dicitur esse ibi aliquis homo qui non 
+      <lb ed="#P" n="40"/>est humanitas homo non dicitur natura composita ex cor 
+      <lb ed="#P" n="41" break="no"/>pore et anima. Sed homo ibi dicitur habens humanita 
+      <lb ed="#P" n="42" break="no"/>tem sibi vnitam hypostatice vel vt suppositatam in ipso et 
+      <lb ed="#P" n="43"/>per ipsum vel homo dicitur suppositans humanitatem. 
+      <lb ed="#P" n="44"/>ideo nullus est ibi homo qui sit humanitas. sed tantum ibi 
+      <lb ed="#P" n="45"/>est homo qui est verbum et filius dei: sed ibi est deus quia 
+      <lb ed="#P" n="46"/>est diuinitas qui et est suppositum diuinum nec est ibi alius 
+      <lb ed="#P" n="47"/>deus qui non sit deitas. quia deus non dicitur aliquid quod 
+      <lb ed="#P" n="48"/>sit vnitum diuinitati vel creatura vnita deitati vel su 
+      <lb ed="#P" n="49" break="no"/>scepta a deitate: sed dicitur deus essentia diuina et sup 
+      <lb ed="#P" n="50"/>positum diuinum / sicut homo dicitur albus et humanitas 
+      <lb ed="#P" n="51"/>dicitur alba. quia vnitur albedini vt forme: sed albedo 
+      <lb ed="#P" n="52"/>non dicitur homo nec humanitas licet vniatur homini 
+      <lb ed="#P" n="53"/>vel humanitati. Dices christus non diceretur vniuoce homo/ 
+      <lb ed="#P" n="54"/>cum aliis. quia quilibet alius homo est humanitas. christus autem 
+      <lb ed="#P" n="55"/>non sed est vnitus humanitati. Respondeo. licet non omnino 
+      <lb ed="#P" n="56"/>vniformiter. tamen dicitur vniuoce homo. quia humanitas se 
+      <lb ed="#P" n="57" break="no"/>cundum quam formaliter est homo est omnino eiusdem 
+      ratio<lb ed="#P" n="58" break="no"/>nis cum humanitate secundum quam petrus est homo. potest et 
+      <lb ed="#P" n="59"/>assignari aliud quid nomins commune dictum de christoraliis 
+      <lb ed="#P" n="60"/>vniuoce. scilicet hoc disiunctum entitas ex corpre et anima 
+      <lb ed="#P" n="61"/>ratioali vel substantificans et suppositans huiusmodi entitatem 
+      <lb ed="#P" n="62"/>quo probatur deum posse 
+      infor<lb ed="#P" n="63" break="no"/>Ad primum mare materiam. quia quicquid est per 
+      <lb ed="#P" n="64" break="no"/>fectionis in creatura attribuendum est deo. etc. Per 
+      <lb ed="#P" n="65"/>idem arguitur quod deo conuenit causalitas cause materia 
+      <lb ed="#P" n="66" break="no"/>lis et influere in fluxum materiali et quod potest esse subiectum 
+      <!--116.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>forme materialis et accidentalis substantans illam et 
+      <lb ed="#P" n="68"/>terminans dependentiam inherentie. Per iidem etiam 
+      ar<lb ed="#P" n="69" break="no"/>guitur quod deus potest supplere omnem causalitatem cause 
+      <lb ed="#P" n="70"/>formalis secunde. et per consequens dare formaliter esse album si 
+      <lb ed="#P" n="71" break="no"/>cut potest supplere causalitatem cuiuslibet cause 
+      effe<lb ed="#P" n="72" break="no"/>ctiue secunde. dico igitur quod informare necessario et per 
+      <lb ed="#P" n="73"/>se includit imperfectionem. quia compositionem vt ex parte essen 
+      <lb ed="#P" n="74" break="no"/>tiali vel componibilitatem vt partis essentialis. 
+      causali<lb ed="#P" n="75" break="no"/>tas enim formalis est causalitas intrinseca et est per se 
+      <lb ed="#P" n="76"/>primo respectu compositi vt effectus correspondentis. 
+      im<lb ed="#P" n="77" break="no"/>cludit etiam potentialitatem ad esse perfectius. et per se 
+      <lb ed="#P" n="78"/>ordinari ad alterum vt finem. scilicet ad esse totius. et ita 
+      de<lb ed="#P" n="79" break="no"/>rogat perfecte actualitati et summe perfectioni dero 
+      <lb ed="#P" n="80" break="no"/>gat etiam perfecte spaumalitati et immaterialitati quae est 
+      <lb ed="#P" n="81"/>conditio perfectionis simpliciter. illa enim entitas non est pu 
+      <lb ed="#P" n="82" break="no"/>re spumalis et immaterialis que est vnibilis per se mate 
+      <lb ed="#P" n="83" break="no"/>rie vt actus informans. derogat etiam perfecte 
+      sub<lb ed="#P" n="84" break="no"/>sistentie personali et suppositali.
+    </p>
+            <p xml:id="D78nca-e32317-d1e2167">
+      ¶ Ad confirmationem 
+      <lb ed="#P" n="85"/>negatur consequentia. per idem enim arguit. quod quodlibet attribu 
+      <lb ed="#P" n="86"/>tum creature potest attribui deo vel nullum. dico igitur 
+      <lb ed="#P" n="87"/>quod quedam praedicationes inferunt imperfectionem ex sua 
+      <lb ed="#P" n="88"/>ratione formali. etiam abstrahendo a limitatione. quedam 
+      <lb ed="#P" n="89"/>autem non. queant sint huiusmodi vel illius modi. de quibusdam 
+      <lb ed="#P" n="90"/>est magis notum et de quibusdam minus notum. esse enim 
+      <lb ed="#P" n="91"/>ens / et substantiam et vitam et intellectum. notum est etiam 
+      <lb ed="#P" n="92"/>apud philosophos non per se necessario inferre imperfectio 
+      <lb ed="#P" n="93" break="no"/>nem. quia etiam attribuitur deo. intelligere autem 
+      singula<lb ed="#P" n="94" break="no"/>ria distincte et agere contingenter et libere extra se / et 
+      <lb ed="#P" n="95"/>causare an necessario inferunt imperfectionem non est 
+      <lb ed="#P" n="96"/>notum in lumine naturali. Cum multi philosophi hoc 
+      nega<lb ed="#P" n="97" break="no"/>uerunt de deo. sed notum est satis in lumine fidei. de 
+      <lb ed="#P" n="98"/>quibusdam vero magis dubium est etiam in lumine fidei. 
+      <lb ed="#P" n="99"/>et de illis videndum est secundum ea que nota sunt in lumi 
+      <lb ed="#P" n="100" break="no"/>ne naturali et que nobis tradita sunt a sanctis. 
+      Di<lb ed="#P" n="101" break="no"/>ces ergo quod tam ex dictis philosophorum quam sanctorum quam ex his 
+      <lb ed="#P" n="102" break="no"/>que ex se magis probabilia sunt ostenditur sufficienter quod 
+      <lb ed="#P" n="103"/>esse actum informatiuum materie est imperfectionis. cu 
+      <lb ed="#P" n="104"/>phbuli etiam hoc negarunt de intelligentiis. Ad secundum ne 
+      <lb ed="#P" n="105"/>gatur antecedens. Ad probationem non est intelligenda 
+      simili<lb ed="#P" n="106" break="no"/>tudo quo ad informationem. sed sicut per vnionem 
+      com<lb ed="#P" n="107" break="no"/>petentem anime et corpori fit homo sic per vnionem compe 
+      <lb ed="#P" n="108"/>tentem deitati et humanitati fit christus qui est deus et homo 
+      <lb ed="#P" n="109"/>videtur tamen quod nomen christi interdum accipitur pro filio dei 
+      <lb ed="#P" n="110"/>incarnato et humanitati vnito et humanitatem suppo 
+      <lb ed="#P" n="111"/>sitante vt in simbolo. Est ergo fides recta vt creda 
+      <lb ed="#P" n="112"/>mus et. confiteamur. quia dominus deus noster iesus christus dei fi 
+      <lb ed="#P" n="113"/>lius deus et homo est. interdum autem pro humanitate vt cum 
+      <lb ed="#P" n="114"/>dicitur minor patre. interdum autem pro collecto ex vtraque 
+      <lb ed="#P" n="115"/>natura vt illud simboli. Perfectus deus perfectus homo 
+      <lb ed="#P" n="116"/>ex anima rationali et humana carne subsistens. et infra nam 
+      <lb ed="#P" n="117"/>sicut anima rationalis. etc. 
+      <lb ed="#P" n="118"/>principalis. est videre 
+      <lb ed="#P" n="119"/>Secundus aritulud denegatiua exponente 
+      <lb ed="#P" n="120"/>questionem. scilicet an nihil aliud a deo sit summe simplex 
+      <lb ed="#P" n="121"/>Prima propositio. nulla creatura est summe simplex per 
+      <lb ed="#P" n="122"/>negatione omnimode tam compositionis ex aliquibus quam 
+      compo<lb ed="#P" n="123" break="no"/>nibilitatis cum aliquo. probatur. quia vel est substantia vel 
+      <lb ed="#P" n="124"/>accidens. Si secundum: igitur componibile substantie. Si pri 
+      <lb ed="#P" n="125"/>mum: igitur est substantia composita ex materia et 
+      for<lb ed="#P" n="126" break="no"/>ma / vel materia / vel forma materialis / vel si sit 
+      sub<lb ed="#P" n="127" break="no"/>stantia immaterialis vt substantia angelica ipsa est 
+      su<lb ed="#P" n="128" break="no"/>sceptiua accidentis. quia cognitionis et dilectionis tam inordi 
+      <lb ed="#P" n="129"/>nate quam ordinate. cum enim omne intelligibile possit an 
+      <lb ed="#P" n="130"/>gelus intelligere. sequitur quod esset essentialiter notitia 
+      di<lb ed="#P" n="131" break="no"/>tincta infinitorum et esset essentialiter beatus vel essen 
+      <lb ed="#P" n="132"/>tialiter mi ser vel non posset absolute esse miser / vel 
+      <!--117.xml-->
+      <pb ed="#P" n="53-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>beatus. Item ad hoc est Aug. 5. de. tri. et allegatur hic 
+      <lb ed="#P" n="2"/>dist. 8. c. 3o. et. 4.
+    </p>
+            <p xml:id="D78nca-e32317-d1e2284">
+      ¶ Secunda propositio. aliqua creatura est 
+      <lb ed="#P" n="3"/>simplex per absolutam indiuisibilitatem et per carentiam 
+      <lb ed="#P" n="4"/>partium intrinsece componentium. probatur de angelo / et 
+      <lb ed="#P" n="5"/>anima intellectiua. quia si componitur ex pluribus que 
+      <lb ed="#P" n="6"/>sunt .a. et b. aut .a. igitur componitur ex pluribus / aut non. 
+      <lb ed="#P" n="7"/>Si secundum propositum. Si primum: quaeritur vt prius / aut 
+      <lb ed="#P" n="8"/>erit status ad eliquid creatum. sic simplex vel anima 
+      <lb ed="#P" n="9"/>componitur ex infinitis distinctis ex natura rei. et est 
+      <lb ed="#P" n="10"/>diuisibilis in infinitum sicut linea vel albedo.
+    </p>
+            <p xml:id="D78nca-e32317-d1e2304">
+      ¶ Pre 
+      <lb ed="#P" n="11"/>terea. magister de spum et anima. c. 14. anime essentia no 
+      <lb ed="#P" n="12"/>diuiditur per partes cum sit simplex et indiuidua. et i 
+      <lb ed="#P" n="13"/>aliquando partes habere dicitur ratione potius 
+      similitu<lb ed="#P" n="14" break="no"/>dinis quam veritatis compositionis intelligendum est. simplex 
+      <lb ed="#P" n="15"/>enim substantia: sed vna eadem. quia substantia diuersa sor 
+      <lb ed="#P" n="16"/>titur vocabula secundum naturales potentias que non 
+      <lb ed="#P" n="17"/>sunt aliud quam ipsa. 
+      <lb ed="#P" n="18"/>primo. per auctoritatem Aug. 2. de cir 
+      <lb ed="#P" n="19"/>Contra. ui. dei. cap. 10. est solum bonum simplex 
+      <lb ed="#P" n="20"/>quod est deus et ob hoc solum incommutabile est ab hoc 
+      <lb ed="#P" n="21"/>bono creata sunt alia bona: sed non simplicia. et ob 
+      <lb ed="#P" n="22"/>hoc mutabilia. Item. 5. c. 5 de trini. creatura nulle 
+      <lb ed="#P" n="23"/>modo vere est simplex. Et infra. creatura spaiumalis 
+      <lb ed="#P" n="24"/>sicut est anima quidam comparatione corporis simplicior 
+      <lb ed="#P" n="25"/>sine autem comparatione corporis multipex est ipsa non 
+      <lb ed="#P" n="26"/>simplex. ni hil enim simplex mutabile est. omnis autem 
+      crea<lb ed="#P" n="27" break="no"/>tura est mutabilis. Secundo. nulla creatura est pura po 
+      <lb ed="#P" n="28"/>tentia nec purus actus cum non sit deus. igitur est 
+      con<lb ed="#P" n="29" break="no"/>posita ex actu et potentia. Tertio. secundum Boetium. in 
+      <lb ed="#P" n="30"/>omni creatura differt quo est et quod est. et pro hoc est articu 
+      <lb ed="#P" n="31"/>lus quod aliquid citra deum sit ita simplex quod non habeat quo et 
+      <lb ed="#P" n="32"/>quod est error. Item alius articulus quod substantie se 
+      <lb ed="#P" n="33"/>parate sunt sua essentia. quia in eis idem est quod est. et in 
+      <lb ed="#P" n="34"/>quod est error. Quarto. impossibile esset vnam animi 
+      <lb ed="#P" n="35"/>intellectiuam esse nobiliorem alia in substantialibus et 
+      <lb ed="#P" n="36"/>naturalibus. consequentia patet. quia in his que sunt eiusdem rationis 
+      <lb ed="#P" n="37"/>si quodlibet sit simplex et indiuisibile vnum non est essen 
+      <lb ed="#P" n="38"/>tialiter perfectius alio. vt vnus punctus alio puncto 
+      <lb ed="#P" n="39"/>consequens est falsum. quia secundum articulum parisien. quod antemia christi 
+      <lb ed="#P" n="40"/>non esset nobilior anima Iude. error non autem videtur 
+      <lb ed="#P" n="41"/>articulus intelligi de maiori nobilitate in 
+      acciden<lb ed="#P" n="42" break="no"/>tibus. quia de hoc non videtur dubium. igitur de 
+      <lb ed="#P" n="43"/>naturalibus et substantialibus. 
+      <lb ed="#P" n="44"/>n a 
+      <lb ed="#P" n="45"/>Aug. loquitur de perfecta sim 
+      <lb ed="#P" n="46"/>cad primum. plicitate opposita tam compositioni 
+      <lb ed="#P" n="47"/>ex aliquibus quam componibilitate cum aliquo per modum 
+      par<lb ed="#P" n="48" break="no"/>tis integralis vel essentialis seu per modum subiecti 
+      <lb ed="#P" n="49"/>vel forme. vnde probat quod anima non est vere simplex 
+      <lb ed="#P" n="50"/>sed multiplex per hocquod aliud est in ea cupiditas aliud 
+      <lb ed="#P" n="51"/>timor aliud tristicia aliud leticia. etc. et secundum ista mi 
+      <lb ed="#P" n="52"/>tabilis est sicut subiectum secundum formas quibus afficiter 
+      <lb ed="#P" n="53"/>et cum quibus componitur in. 2. de ciui. dei. ca. 7. 
+      pro<lb ed="#P" n="54" break="no"/>bat dei simplicitatem per hoc quod est quicquid habet. cor 
+      <lb ed="#P" n="55"/>pus aut habet colorem et non est color. et aer lucem et non 
+      <lb ed="#P" n="56"/>est lux. etc. igitur simplicitas est cum ens non habet 
+      for<lb ed="#P" n="57" break="no"/>maliter et intrinsece plura ex quibus essentialiter inte 
+      <lb ed="#P" n="58"/>gratur. nec habet multiplicitatem formarum et differentiari 
+      <lb ed="#P" n="59"/>quibus afficiatur. Ad secundum. concedo quod nulla 
+      <lb ed="#P" n="60"/>creatura que est simpliciter in actu est potentia pura po 
+      <lb ed="#P" n="61"/>negationem actualis existentie. est tamen pura potentia ad 
+      <lb ed="#P" n="62"/>non esse actus per negationem necessarie actualitatis  
+      <lb ed="#P" n="63"/>nulla igitur creatura est purus actus per negationem 
+      <lb ed="#P" n="64"/>potentie ad esse et non esse et per negationem potentie 
+      <lb ed="#P" n="65"/>ad aliqunam perfectionem participandam et ad priuatio 
+      <lb ed="#P" n="66"/>nem illius et per negationem potentie ad informari vel 
+      <lb ed="#P" n="67"/>informare subiectiue. tamen aliqua creatura est purus 
+      <!--117.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="68"/>actus per negationem materialis et potentialis subie 
+      <lb ed="#P" n="69"/>ctiui ex quo intrinsece componatur sed est forma tantum 
+      <lb ed="#P" n="70"/>aliquae etiam creatura est purus actus per negationem pure positioali 
+      <lb ed="#P" n="71"/>tatis ad esse actu secundum aliquam sui partem. quia aliquae creatu 
+      <lb ed="#P" n="72"/>ra sic est pure in actu quod nihil eius est solum in positiona. immo quod 
+      <lb ed="#P" n="73"/>libet eius est in actu simpliciter. si igitur consequens accipitur 
+      pro<lb ed="#P" n="74" break="no"/>prie negatur consequentia. si large / conceditur consequens. omnis enim cre 
+      <lb ed="#P" n="75"/>atura potest dici quasi composita ex actu et potentia / in  
+      <lb ed="#P" n="76"/>hoc quod est actu et habet simpliciter potentiam ad non esse 
+      <lb ed="#P" n="77"/>et ex eo quod habet actu aliquam perfectionem et est in po 
+      <lb ed="#P" n="78"/>tentia ad carentiam illius et est in potentia ad aliam 
+      per<lb ed="#P" n="79" break="no"/>fectionem vel conditionem perfectionis amplioris. et 
+      <lb ed="#P" n="80"/>ita potest dici quasi composita ex perfectione et imperfecti 
+      <lb ed="#P" n="81"/>one. Ad tertium per quod et quo non intelligitur 
+      sub<lb ed="#P" n="82" break="no"/>iectum materiale informabile et actus formalis in 
+      <lb ed="#P" n="83"/>formanst anquam res distincte ex quibus intrinsece con 
+      <lb ed="#P" n="84"/>ponatur oi s creatura. quia omnis forma esset composita ex 
+      <lb ed="#P" n="85"/>materia et forma. et iterum illa forma ex alia materia et 
+      <lb ed="#P" n="86"/>alia forma in infinitum. intelligitur ergo quod circa omnem 
+      <lb ed="#P" n="87"/>creaturam maxime substantialem est reperire distincte 
+      <lb ed="#P" n="88"/>quod est natum perfici et quo formaliter natum est perfici 
+      <lb ed="#P" n="89"/>vt circa angelum est dare illud quod intelligit et vult scilicet 
+      <lb ed="#P" n="90"/>suam substantiam et est dare aliud quo formaliter 
+      intelli<lb ed="#P" n="91" break="no"/>git vt vult. scilicet actum quem causat vel recipit et quo 
+      <lb ed="#P" n="92"/>perficitur. intelligitur igitur quod circa omnem creatus 
+      <lb ed="#P" n="93"/>ram specialiter substantialem est reperire distincte quod 
+      <lb ed="#P" n="94"/>natum est agere vel pati / et quo natum est agere vel pa 
+      <lb ed="#P" n="95"/>ti. vnde articulus procedit contra errorem quorumdam dicen 
+      <lb ed="#P" n="96"/>tium quod intelligentie sunt per suam substantiam 
+      intell<lb ed="#P" n="97" break="no"/>gentes et volentes nec sunt in potentia ad recipiendum 
+      <lb ed="#P" n="98"/>aliquam perfectionem accidentalem. vnde articulus im 
+      <lb ed="#P" n="99"/>mediate precedens secundum articulum supra allegatum est 
+      <lb ed="#P" n="100"/>iste quod substantie separate a materia habent bonum quod euo 
+      <lb ed="#P" n="101"/>eis possibile cum producuntur nec desiderant aliquid quo 
+      <lb ed="#P" n="102"/>carent error.
+    </p>
+            <p xml:id="D78nca-e32317-d1e2510">
+      ¶ Ad quartum. sine assertione vel praeiui 
+      <lb ed="#P" n="103"/>dicio alterius sententie potest dici quod ille articulus com 
+      <lb ed="#P" n="104"/>muniter non allegatur ad intentionem conditoris 
+      ar<lb ed="#P" n="105" break="no"/>ticuli. non enim videtur fuisse intentio magistrorum in de 
+      <lb ed="#P" n="106"/>terminatione illius articuli diffinire et determinare 
+      <lb ed="#P" n="107"/>quod anima intellectiua vel essentia angelica componatur 
+      <lb ed="#P" n="108"/>ex partibus essentialibus realiter distinctis siue ille res 
+      <lb ed="#P" n="109"/>dicantur materia et forma siue actus et potentia siue 
+      <lb ed="#P" n="110"/>esse essentie et esse existentie / aut quod potentie anime que di 
+      <lb ed="#P" n="111"/>cuntur intelligentia / voluntas / et memoria sunt accidem 
+      <lb ed="#P" n="112"/>tia realiter distincta ab essentia anime sibi inherentia et 
+      <lb ed="#P" n="113"/>concreata et ratione istorum accidentium anima christi est nobilior 
+      <lb ed="#P" n="114"/>anima iude / aut quod anima inteliectiua vel angelus 
+      consti<lb ed="#P" n="115" break="no"/>tuatur materialiter intrinsece ex quibusde formalitatibus 
+      <lb ed="#P" n="116"/>distinctis ex natura rei. tamen cum identitate reali. oppo 
+      <lb ed="#P" n="117"/>situm enim istorum trium semper senserunt plures magistre 
+      <lb ed="#P" n="118"/>et doctores parisien. et tam predicta quam eorum opposita 
+      <lb ed="#P" n="119"/>possunt teneri salua fide et moribus. licet multi 
+      alle<lb ed="#P" n="120" break="no"/>gent illum articulum ad probandum aliquod predictorum. 
+      <lb ed="#P" n="121"/>Dicunt igitur aliqui ad argumentum negando consequentiam et 
+      <lb ed="#P" n="122"/>consequens. quia quamuis anima intellectiua vel angelus sit 
+      essen<lb ed="#P" n="123" break="no"/>tialiter simplex et indiuisibilis per carentiam 
+      quorum<lb ed="#P" n="124" break="no"/>cunque realiter inclusorum essentialiter vel ex natura rei 
+      <lb ed="#P" n="125"/>distinctorum. tamen stat infra eandem speciem vnam 
+      essen<lb ed="#P" n="126" break="no"/>tiam esse formaliter et intrinsece nobiliorem alia. sicut 
+      <lb ed="#P" n="127"/>etiam ponendo quod intentio forme non fiat per 
+      compositio<lb ed="#P" n="128" break="no"/>nem graduum: sed quod gradus intensior sit eque simplex 
+      <lb ed="#P" n="129"/>sicut remissior. Sed non videtur hic fuisse intentio ar 
+      <lb ed="#P" n="130"/>ticuli. quia non videtur magistros velle nos 
+      arta<lb ed="#P" n="131" break="no"/>re ad tenendum hoc ideo potest dici sine praeiudicio. quod vt 
+      <lb ed="#P" n="132"/>patet ex multis articulis praecedentibus et sequentibus. arti 
+      <lb ed="#P" n="133"/>culus ille et praecedens procedunt ex intentione contra operi¬ 
+      <!--118.xml-->
+      <pb ed="#P" n="54-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nionem commentatoris. et contra quedam consequentia ad opinio 
+      <lb ed="#P" n="2"/>nem commentatoris ponentis quod intellectus non est per se 
+      <lb ed="#P" n="3"/>forma corporis humani: sed mediante operatione fan 
+      <lb ed="#P" n="4"/>tasie et anime sensitiue copulatur nobis vt motor 
+      <lb ed="#P" n="5"/>sicut intelligentia secunda copulatur orbi. et consequeter quod huiusmod 
+      <lb ed="#P" n="6"/>intellectus est vnus numero respectu omnium hominum et quod 
+      <lb ed="#P" n="7"/>est eternus ingenerabilis et incorruptibilis. et consequeter quia intelle 
+      <lb ed="#P" n="8"/>ctiones vniuersales in eo formaliter existentes vel eedem realiter 
+      <lb ed="#P" n="9"/>sue subitentie sunt eterne et incorruptibiles et per consequens intelle 
+      <lb ed="#P" n="10"/>ctus sortis non est perfectior intellectu platonis nec 
+      <lb ed="#P" n="11"/>substantialiter nec accidenaliter sed actu intellectiones et scien 
+      <lb ed="#P" n="12"/>tie ac virtutes. quia talis differentia non est in intelligen 
+      <lb ed="#P" n="13"/>tiis separatis nisi sit specifica. quod igitur vnus homo 
+      di<lb ed="#P" n="14" break="no"/>citur magis intelligens et sciens quam alter non est ex hoc 
+      <lb ed="#P" n="15"/>quod intellectus vnius hominis sit perfectior intellectu al 
+      <lb ed="#P" n="16"/>terius hominis. vel quod intellectus huius hominis habeat in 
+      <lb ed="#P" n="17"/>se formaliter plures vel perfectiones intellectiones vel 
+      <lb ed="#P" n="18"/>habitus vel species quam intellectus alterius hominis: sed quod 
+      <lb ed="#P" n="19"/>fantasia huius hominis est melior / et melius operatur quam 
+      <lb ed="#P" n="20"/>fantasia alterius hominis. ideo intellectus copulatur 
+      <lb ed="#P" n="21"/>perfectius isti quam illi sicut motor. Dicendum igitur quod 
+      <lb ed="#P" n="22"/>articulus condemnat solum opinionem dicentem quod inter rti 
+      <lb ed="#P" n="23"/>nales animas hominum no sit diuersitas nobilitatis  
+      <lb ed="#P" n="24"/>nec diuersitas substantialis nec diuersitas 
+      proprieta<lb ed="#P" n="25" break="no"/>tum naturalium / et perfectionum accidentalium forma 
+      <lb ed="#P" n="26"/>lium nisi forent ille diuerse anime.
+    </p>
+            <p xml:id="D78nca-e32317-d1e2643">
+      ¶ Sexto. quia si hoc 
+      <lb ed="#P" n="27"/>esset verum sequeretur quod anima vnius hominis non esset no 
+      <lb ed="#P" n="28"/>bilior anima alterius hominis secundum aliquam perfectionem 
+      <lb ed="#P" n="29"/>naturalem vel acquisitam vel supernaturaliter infusam 
+      <lb ed="#P" n="30"/>et quod anima christi non esset sic nobilior anima iude / nisi esset 
+      <lb ed="#P" n="31"/>alterius speciei. Quod autem hec sit intentio articuli. proba 
+      <lb ed="#P" n="32"/>tur per praecedentes et sequentes. nam multi articuli praece 
+      <lb ed="#P" n="33"/>dentes procedunt immediate contra varia dicta commen 
+      <lb ed="#P" n="34"/>tatoris de intellectu humano inter quos articulus 
+      <lb ed="#P" n="35"/>immediate precedens articulum allegatum dicit sic. quod intel 
+      <lb ed="#P" n="36"/>lectus agens sit quedam substantia separata super 
+      <lb ed="#P" n="37"/>rior ad intellectum possibilem. et quod secundum substantiam 
+      <lb ed="#P" n="38"/>et operationem est separatus a corpore nec est forma 
+      <lb ed="#P" n="39"/>corporis humani error. et postea immediate sequitur 
+      <lb ed="#P" n="40"/>articulus allegatus in proposito quod inconueniens est po 
+      <lb ed="#P" n="41"/>nere aliquos intellectus nobiliores aliis cum ista diuer 
+      <lb ed="#P" n="42"/>sitas non possit esse a parte corporum oportet quod sit a 
+      par<lb ed="#P" n="43" break="no"/>te intelligentiarum et sic anime nobiles et ignobiles essent 
+      <lb ed="#P" n="44"/>necessario diuersarum specierum sicut intelligentie et 
+      <lb ed="#P" n="45"/>ror. quia sic anima christi non esset nobilior anima iude. At 
+      <lb ed="#P" n="46"/>ticulus autem immediate sequens est iste quod intellectu 
+      <lb ed="#P" n="47"/>speculatiuus simpliciter est eternus et incorruptibilis 
+      <lb ed="#P" n="48"/>respectu vero hominis corrumpitur corruptis fantasma 
+      <lb ed="#P" n="49"/>tibus in eo error. Item. alius articulus quod nos peius 
+      <lb ed="#P" n="50"/>et melius intelligimus. hoc prouenit ex intellectu pas 
+      <lb ed="#P" n="51"/>siuo quem dicunt esse potentiam sensitiuam error. quia hoc 
+      <lb ed="#P" n="52"/>ponit intellectum vnum in omnibus aut equalitatem in omni 
+      <lb ed="#P" n="53"/>bus animabus. Item alius articulus dicit quod 
+      intelle<lb ed="#P" n="54" break="no"/>ctus potest transire de corpore in corpus. ita quod succest 
+      <lb ed="#P" n="55"/>siue sit motor diuersorum corporum error / et multi 
+      ali<lb ed="#P" n="56" break="no"/>sunt ad idem contra opinionem commentatoris. Ad 
+      for<lb ed="#P" n="57" break="no"/>mam igitur rationis si intelligitur quod vna anima non sit 
+      no<lb ed="#P" n="58" break="no"/>bilior altera in perfectionibus naturaliter acquisibili 
+      <lb ed="#P" n="59"/>bus vel proprietatibus seu habilitatibus et ydoneitatib 
+      <lb ed="#P" n="60"/>ad operandum in diuersis hominibus vel perfectionibu 
+      <lb ed="#P" n="61"/>adeo infusis / siue gratuitis. et sic negatur consequentia. Si 
+      <lb ed="#P" n="62"/>autem intelligitur de pura essentia et quidditate anime ab 
+      <lb ed="#P" n="63"/>soluta et circumscripto omni accidente et corpore respe 
+      <lb ed="#P" n="64"/>ctu ad aliud. conceditur conequentia. Ad improbationem. articul 
+      <lb ed="#P" n="65"/>non fertur directe et primo super hoc quod anima christ 
+      <lb ed="#P" n="66"/>non sit nobilior anima iude / sed super hoc nulla substan¬ 
+      <!--118.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>tia spiritualis intellectualis est perfectior altera 
+      ni<lb ed="#P" n="68" break="no"/>si sit alterius speciei. quia non multipliciter numeratur secundum 
+      <lb ed="#P" n="69"/>corpora. quia non informat corpus. Ex hoc enim infert 
+      <lb ed="#P" n="70"/>articulus quod anima christi non esset perfectior anima iude 
+      <lb ed="#P" n="71"/>quod reputandum est manifeste esse falsum apud omnem 
+      <lb ed="#P" n="72"/>catholicum.
+    </p>
+            <p xml:id="D78nca-e32317-d1e2751">
+      ¶ Tertia propositio. solus deus est perfecte et 
+      <lb ed="#P" n="73"/>summe simplex. patet ex probatione prime conclusionis 
+      <lb ed="#P" n="74"/>et per Aug. vbi supra. Ad argumentum in principio 
+      <lb ed="#P" n="75"/>questionis factum patet ex dictis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

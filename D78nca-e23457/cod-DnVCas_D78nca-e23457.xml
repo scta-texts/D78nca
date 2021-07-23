@@ -1,0 +1,2045 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="36-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-e23457"><!-- l1d2-3q3 -->
+            <head xml:id="D78nca-e23457-Hd1e108">Quaestio 3</head>
+            <head xml:id="D78nca-e23457-Hd1e111" type="question-title">
+      utrum 
+      scientia per quam ex creaturis 
+      scimus deum esse habeat pro 
+      obiecto per se scibili solam conclusionem 
+      demonstratam
+    </head>
+            <p xml:id="D78nca-e23457-d1e114">
+               <lb ed="#P" n="56"/>¶ Sequitur tertia quaestio secunde distinctionis. 
+      <lb ed="#P" n="57"/>TErtio circa predi 
+      <lb ed="#P" n="58"/>ctas distinctiones Quero vtrum 
+      <lb ed="#P" n="59"/>scientia per quam ex creaturis 
+      sci<lb ed="#P" n="60" break="no"/>mus deum esse habeat pro obiec 
+      <lb ed="#P" n="61" break="no"/>to per se scibili solam conclusionem 
+      <lb ed="#P" n="62"/>demonstratam:
+    </p>
+            <p xml:id="D78nca-e23457-d1e132">
+      Quod sic: quia scier 
+      <lb ed="#P" n="63"/>tia est habitus conclusionis demon 
+      <lb ed="#P" n="64"/>strate. Scina enim est obiecti sci 
+      <lb ed="#P" n="65"/>bilis demonstrati sed nihil demonstratur nisi conclu¬ 
+      <!--83.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="66"/>sio.
+    </p>
+            <p xml:id="D78nca-e23457-d1e148">
+      ¶ Contra. Nullum ens contingens et in libertate no 
+      <lb ed="#P" n="67"/>stra positum est per se obiectiue scitum: quia scientia est 
+      <lb ed="#P" n="68"/>eternorum et necessariorum. 9. et hicorum. sed conclusio de 
+      <lb ed="#P" n="69"/>monstrationis est ens contingens in libertate nostra: quia 
+      <lb ed="#P" n="70"/>est propositio libere formata ab anima nostra: igitur
+    </p>
+            <p xml:id="D78nca-e23457-d1e160">
+               <lb ed="#P" n="71"/>Prima conclulid Nullius scientie 
+      secun<lb ed="#P" n="72" break="no"/>dum quam formaliter sci 
+      <lb ed="#P" n="73"/>mus quod deus est: vel quod deus est bonus obiectum per eam scitum est con 
+      <lb ed="#P" n="74"/>clusio demonstrationis et conformiter de consimilibus scientiis de 
+      <lb ed="#P" n="75"/>rebus extra. probatur. illud est obiectiue scitum cui ob 
+      <lb ed="#P" n="76"/>iectiue assentitur assensu scientifico: et quod obiective iu 
+      <lb ed="#P" n="77"/>dicatur iudicio scientifico: sed hoc est non propositio 
+      <lb ed="#P" n="78"/>sed significatum per eam: vt probatur quastione praecedenti 
+      <lb ed="#P" n="79"/>Et confirmatur. sicut opinio / et fides vel assensus dya 
+      <lb ed="#P" n="80"/>lecticus ad conclusionem sillogismi dyalectici: vel ad 
+      <lb ed="#P" n="81"/>propositionem dyalecticam / et probabilem. ita assensus scien 
+      <lb ed="#P" n="82"/>tificus ad conclusionem sillogismi demonstratiui: sed  
+      <lb ed="#P" n="83"/>ille assensus non habet pro per se obiecto propositionem 
+      <lb ed="#P" n="84"/>et conclusionem dyalecticam. sed eius significatum. probo: 
+      <lb ed="#P" n="85"/>quia cum credo vel opinor probabiliter quod mundus 
+      ha<lb ed="#P" n="86" break="no"/>buit initium: assensus fertur directe super obiecta intel 
+      <lb ed="#P" n="87"/>ligibilia extra animam: que sunt actu / vel potentia / vel 
+      <lb ed="#P" n="88"/>que fuerunt / aut qua erunt: et non super actus meos: quia 
+      <lb ed="#P" n="89"/>de illis non minus certus sum quam de actibus meis cum 
+      <lb ed="#P" n="90"/>demonstro.
+    </p>
+            <p xml:id="D78nca-e23457-d1e206">
+      ¶ Preterea. dubitatio qua dubito an 
+      <lb ed="#P" n="91"/>astra sint paria: non habet pro per se obiecto dubitabili 
+      <lb ed="#P" n="92"/>actum mentis mee: sed obiectum intelligibile extra mo 
+      <lb ed="#P" n="93"/>igitur. Consimiliter de scientia quae scio binarium esse parem. 
+      <lb ed="#P" n="94"/>antecedens patet. Dubito enim de paritate astrorum / qua et ideo de 
+      <lb ed="#P" n="95"/>nocte: non de his quae sunt in anima mea per se et primo¬ 
+    </p>
+            <p xml:id="D78nca-e23457-d1e219">
+               <lb ed="#P" n="96"/>¶ Preterea sicut se habet scire / vel ignorare hunc trian 
+      <lb ed="#P" n="97"/>gulum habere tres ad hanc propositionem singularem. hic 
+      <lb ed="#P" n="98"/>triangulus habet tres: sic ignorare / vel scire quod omnis 
+      <lb ed="#P" n="99"/>triangulus habet tres ad hanc propositionem vuiuersalem 
+      <lb ed="#P" n="100"/>sed illa ignorantia / vel noticia / vel scientia opposita 
+      <lb ed="#P" n="101"/>est per se et directe obiectiue non respectu propositionis 
+      <lb ed="#P" n="102"/>singularis: sed super rem singularem extra demonstra 
+      <lb ed="#P" n="103"/>bilem: quia dubito vel scio hunc triangulum demonstratum 
+      <lb ed="#P" n="104"/>et noticia intuitiua sensitiua cognitum habere. 3
+    </p>
+            <p xml:id="D78nca-e23457-d1e241">
+      ¶ 
+      Pre<lb ed="#P" n="105" break="no"/>terea scibile quod scio per .b. scinam ponitur abique 
+      ope<lb ed="#P" n="106" break="no"/>re intellectus mei: nec dependet ab anima mea: igitur non 
+      <lb ed="#P" n="107"/>est conclusio formabilis per animam meam. Antecedens patet. Scio 
+      <lb ed="#P" n="108"/>enim quod omnis triangulus habet tres: et omnis 
+      tri<lb ed="#P" n="109" break="no"/>angulus haberet tres: etiam si anima mea non esset. 
+    </p>
+            <p xml:id="D78nca-e23457-d1e254">
+               <lb ed="#P" n="110"/>¶ Confirmatur. Scibile quod scio praecedit scientiam me 
+      <lb ed="#P" n="111"/>am. Non enim produco ipsum: nec dependet a scientia 
+    </p>
+            <p xml:id="D78nca-e23457-d1e261">
+               <lb ed="#P" n="112"/>¶ Preterea per se obiectiue scitum per .b. scientiam meam 
+      <lb ed="#P" n="113"/>non est conclusio vel propositio anime tue: et formata per te: igitur 
+      <lb ed="#P" n="114"/>nec est conclusio anime mee: antecedens patet: quia nihil cogito de te 
+      <lb ed="#P" n="115"/>vel tuis actibus. consequentia probatur: quia propositio mea / et propositio tua sunt 
+      <lb ed="#P" n="116"/>omnino eiusdem rationis. Noticia autem scientifica est respe 
+      <lb ed="#P" n="117"/>ctu omnis eiusdem rationis specifice.
+    </p>
+            <p xml:id="D78nca-e23457-d1e278">
+      ¶ Preterea non idem 
+      <lb ed="#P" n="118"/>sciretur demonstrative a me / et ab alio: nec ego scirem idem 
+      <lb ed="#P" n="119"/>scibile obiectiue hodie et heri: nec idem esset scitum 
+      <lb ed="#P" n="120"/>a deo et a me: quia actus diuini intellectus non est actus 
+      <lb ed="#P" n="121"/>mei intellectus.
+    </p>
+            <p xml:id="D78nca-e23457-d1e289">
+      ¶ Preterea. impossibile esset idem 
+      <lb ed="#P" n="122"/>obiectiue esse scitum ab vno demonstratiue: et ab 
+      a<lb ed="#P" n="123" break="no"/>lio esse ignoratum vel dubitatum / vel dyalectice 
+      <lb ed="#P" n="124"/>ompinatum / et creditum. Consequentia patet: quia non ha 
+      <lb ed="#P" n="125"/>bent easdem nec consimiles propositiones mentales. 
+      <lb ed="#P" n="126"/>et apprehensiones complexas. Consequens est fal 
+      <lb ed="#P" n="127"/>sum: quia angelus scit demonstratiue aliqua / quae igno 
+      <lb ed="#P" n="128"/>ramus / vel dubitamus.
+    </p>
+            <p xml:id="D78nca-e23457-d1e307">
+      ¶ Preterea. idem est 
+      obie<lb ed="#P" n="129" break="no"/>ctiue quesibile ante demonstrationem / et obiectiue 
+      <lb ed="#P" n="130"/>scitum post demonstrationem.
+    </p>
+            <p xml:id="D78nca-e23457-d1e314">
+      ¶ Sed obiectiue 
+      <lb ed="#P" n="131"/>quesibile / et quesitum non est conclusio demonstra 
+      <!--84.xml-->
+      <pb ed="#P" n="37-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tionis sed significatum per eam. igitur. maior patet 
+      <lb ed="#P" n="2"/>idem enim est quesibile prius quaesitum et postea scitum. 
+      alio<lb ed="#P" n="3" break="no"/>quin non cessaret nec terminaretur questio et dubita 
+      <lb ed="#P" n="4"/>tio. ideo .2. poste. questiones sunt equales numero 
+      <lb ed="#P" n="5"/>his que vere scimus. minor patet. cum enim quero an 
+      lu<lb ed="#P" n="6" break="no"/>na sit ecclipsabilis. et quare et qualiter quero de 
+      obie<lb ed="#P" n="7" break="no"/>ctis extra non de actibus anime vel tue vel mee.
+    </p>
+            <p xml:id="D78nca-e23457-d1e340">
+      ¶ Con 
+      <lb ed="#P" n="8"/>firmatur. cum dicitur quod idem est ante demonstrationem 
+      <lb ed="#P" n="9"/>quesitum et dubium quod post demonstrationem est 
+      cer<lb ed="#P" n="10" break="no"/>tum et scitum. vel intelligitur quod propositio mentalis que 
+      <lb ed="#P" n="11"/>prius erat dubia et ineuidens: postea fit clara et 
+      eui<lb ed="#P" n="12" break="no"/>dens. et patet quod non. quia eadem apprehensio semper est 
+      vni<lb ed="#P" n="13" break="no"/>formiter representatiua sui obiecti. si intelligitur de 
+      <lb ed="#P" n="14"/>eius significato habetur propositum.
+    </p>
+            <p xml:id="D78nca-e23457-d1e358">
+      ¶ Preterea. omnino 
+      <lb ed="#P" n="15"/>impossibile est principia demonstrationis esse vera / quin 
+      <lb ed="#P" n="16"/>scibile ponatur. Sed non est omnino necesse tunc conclusio 
+      <lb ed="#P" n="17"/>nem poni. quia cum sit quedam tertia propositio realiter posterior 
+      <lb ed="#P" n="18"/>premissis: possunt sine contradictione formari 
+      prin<lb ed="#P" n="19" break="no"/>cipia in intellectu et non formabitur conclusio. quia deus 
+      <lb ed="#P" n="20"/>non concurret effectiue.
+    </p>
+            <p xml:id="D78nca-e23457-d1e375">
+      ¶ Preterea. principia demono 
+      <lb ed="#P" n="21"/>strationis non causant directe et primo notitiam scien 
+      <lb ed="#P" n="22"/>tificam illius tanquam obiectiue sciti et scientifice 
+      osten<lb ed="#P" n="23" break="no"/>si quod non apprehenditur nec repraesentatur per ipsa 
+      pri<lb ed="#P" n="24" break="no"/>cipia. signum enim mentale non facit intellectui eui 
+      <lb ed="#P" n="25"/>dentiam per se et directe de eo quod non significat nec 
+      <lb ed="#P" n="26"/>repraesentat. Sed conclusio demonstrationis est huiusmodi. 
+      pro<lb ed="#P" n="27" break="no"/>bo. quia praecise praemisse et conclusio sunt tres propositiones et 
+      <lb ed="#P" n="28"/>qualitates mentales. quarum vna non magis est appre 
+      <lb ed="#P" n="29"/>hensio alterius quam econtra. nec vna habet aliam pro per 
+      <lb ed="#P" n="30"/>se obiecto magis quam econtra: patet quia propositiones vo 
+      <lb ed="#P" n="31"/>cales vel scripte illis subordinate in significando non 
+      <lb ed="#P" n="32"/>ignificant seinuicem. Similiter volitiones illis 
+      apprehensio<lb ed="#P" n="33" break="no"/>nibus conformes non se habent inuicem sicut obiectum 
+      <lb ed="#P" n="34"/>et volitio.
+    </p>
+            <p xml:id="D78nca-e23457-d1e408">
+      ¶ Preterea. illius tanquam obiectiue scibilis 
+      <lb ed="#P" n="35"/>et scientifice cogniti non est scientia pro quo non sup 
+      <lb ed="#P" n="36"/>ponunt termini conclusionis demonstrate. immo nec 
+      ali<lb ed="#P" n="37" break="no"/>quis terminus demonstrationis. sed potius illius pro 
+      <lb ed="#P" n="38"/>quo supponunt. sed non suppponunt pro conclusione 
+      <lb ed="#P" n="39"/>nec pro aliqua parte eius. Cu enim concluditur quod omnis 
+      <lb ed="#P" n="40"/>triangulus habet tres nec subiectum nec predicatum 
+      <lb ed="#P" n="41"/>supponunt materialiter et simpliciter sed personaliter pro si 
+      <lb ed="#P" n="42"/>gnificato. similiter etiam de premissis
+    </p>
+            <p xml:id="D78nca-e23457-d1e428">
+      ¶ Preterea. si scien 
+      <lb ed="#P" n="43"/>tia per demonstrationem acquisita sit conclusio demodo 
+      <lb ed="#P" n="44"/>strationis. aut igitur intellectus demonstrans quati 
+      <lb ed="#P" n="45"/>nus demonstrans et sciens vtitur illa conclusione pro 
+      <lb ed="#P" n="46"/>seipsa sistendo in ea aut non: sed ex ea procedit ad 
+      ob<lb ed="#P" n="47" break="no"/>iectum extra et vtitur ea tamquam signo pro significato vel 
+      <lb ed="#P" n="48"/>teriori. Si primum contra. tum quia coclusiones demonstra 
+      <lb ed="#P" n="49"/>tionis essent false. Tum quia nihil omnino sciremus de rebus 
+      <lb ed="#P" n="50"/>extra nec de numeris nec de figuri nec mediate nec 
+      <lb ed="#P" n="51"/>mediate. sed tantum de accidentibus anime. Si secundum 
+      <lb ed="#P" n="52"/>igitur intellectus vt sciens vtitur illa vt signo pro alio 
+      <lb ed="#P" n="53"/>vt obiecto et mediante illa tenditur in obiecta extrinseca 
+      <lb ed="#P" n="54"/>tanquam super vltimate scita. igitur sunt obiectiue sci 
+      <lb ed="#P" n="55"/>bilia. igitur frustra ponitur illud ens in anima pro 
+      obiecti<lb ed="#P" n="56" break="no"/>ue scito secundum illam scientiam. Sufficienter enim sustino 
+      <lb ed="#P" n="57"/>bitur generatio scientie posito vnico scibili. et quia ratio 
+      <lb ed="#P" n="58"/>nes alterius partis eque possunt induci vt in pluri 
+      <lb ed="#P" n="59"/>bus contra positionem ponentem extrinseca obiecta 
+      <lb ed="#P" n="60"/>esse scibilia mediate sicut si immediate.
+    </p>
+            <p xml:id="D78nca-e23457-d1e470">
+      ¶ Preterea 
+      <lb ed="#P" n="61"/>si scientia negatur esse obiectorum intelligibilium extra 
+      <lb ed="#P" n="62"/>tanquam obiectiue scibilium. aut hoc esset quia res extra sunt 
+      <lb ed="#P" n="63"/>singulares. aut quia corruptibiles. sed hoc non valet 
+      <lb ed="#P" n="64"/>quia non minus ita est de actibus anime que sunt variabiles 
+      <lb ed="#P" n="65"/>secundum libertatem nostram. Si dicas sunt vniuersales in 
+      <lb ed="#P" n="66"/>repraesentando.
+    </p>
+            <p xml:id="D78nca-e23457-d1e486">
+      ¶ Contra. igitur non deseruiunt scientie nisi 
+      <!--84.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>vt signa. igitur non pro se sed principaliter pro 
+      significa<lb ed="#P" n="68" break="no"/>tis nec sciens vt sciens vtitur illis / nisi tanquam signis 
+      <lb ed="#P" n="69"/>pro alio vt obiectiue repraesentato. igitur sciens vt sciens 
+      <lb ed="#P" n="70"/>fertur super obiecta extra vt obiecta vltimate 
+      scibi<lb ed="#P" n="71" break="no"/>lia. Item propositio vocalis et propositio scripta essent per se 
+      <lb ed="#P" n="72"/>et directe obiecta scibilia sicut actus mentis.
+    </p>
+            <p xml:id="D78nca-e23457-d1e506">
+      ¶ Pre 
+      <lb ed="#P" n="73"/>terea. sit .a. hec conclusio mentalis demonstrationis 
+      <lb ed="#P" n="74"/>dinarius est par / vel omnis triangulus hebet tres. tunc 
+      <lb ed="#P" n="75"/>sic. scientia que habet a. pro per se obiecto non videtur 
+      <lb ed="#P" n="76"/>nisi scientia per quam formaliter sciretur. quod .a. proposi 
+      <lb ed="#P" n="77"/>tio est vera et necessaria vel demonstrabilis vel 
+      con<lb ed="#P" n="78" break="no"/>formis rei extra vel aliquid simile. Sed scientia non est 
+      <lb ed="#P" n="79"/>formaliter scina per quam per se et directe scitur quod omnis 
+      trian<lb ed="#P" n="80" break="no"/>gulus habet tres. immo sunt diuerse apprehensiones i. 
+      <lb ed="#P" n="81"/>et propositiones et eis correspondent diuersi assensus alterius 
+      <lb ed="#P" n="82"/>rationis. vt probatur questione praecedenti. vna enim est 
+      prior<lb ed="#P" n="83" break="no"/>et causalis respectu alterius. igitur. primum assumptum 
+      <lb ed="#P" n="84"/>patet. quia notitia que habet .a. per se pro obiecto / aut est 
+      <lb ed="#P" n="85"/>simplex apprehensio ipsius .a. quo modo simplici 
+      intelli<lb ed="#P" n="86" break="no"/>gentia potest apprehendi aliquod totum / et talis non erit 
+      <lb ed="#P" n="87"/>scientifica. quia non veridica nec falsidica. aut est 
+      ap<lb ed="#P" n="88" break="no"/>prehensio enunciatiua alicuius de .a. et veridica et tunc 
+      <lb ed="#P" n="89"/>non erit nisi apprehensio quod .a. est vera vel conformis 
+      <lb ed="#P" n="90"/>rei extra vel huiusmodi.
+    </p>
+            <p xml:id="D78nca-e23457-d1e549">
+      ¶ Preterea. conclusio demostratio 
+      <lb ed="#P" n="91"/>nis mentalis est scientia actualis seu notitia 
+      scienti<lb ed="#P" n="92" break="no"/>fica. igitur non est obiectum scitum per se per huiusmodi 
+      de<lb ed="#P" n="93" break="no"/>monstrationem. antecedens probatur. quia habita sola demonstra 
+      <lb ed="#P" n="94"/>tione euidente habetur scientia. quia demonstratiue 
+      <lb ed="#P" n="95"/>cognoscere est scire et demonstratio diffinitur quod est sil 
+      <lb ed="#P" n="96"/>logismus faciens scire. et est sillogismus in quem haben 
+      <lb ed="#P" n="97"/>do scimus. et quia habito sillogismo dialectico habetur 
+      <lb ed="#P" n="98"/>opinio. igitur proportionabiliter in proposito. igitur scien 
+      <lb ed="#P" n="99"/>tia est conclusio demonstrationis vel principium. sed non 
+      <lb ed="#P" n="100"/>est principium cum sit indemonstrabile: igitur est conclu 
+      <lb ed="#P" n="101"/>sio demonstrationis. patet etiam. quia conclusio demonstrati 
+      <lb ed="#P" n="102"/>onis est quedam apprehensio complexa et non reducitur ad  
+      <lb ed="#P" n="103"/>aliud genus cognitionis quam scientie. consequentia principalis 
+      <lb ed="#P" n="104"/>probatur: quia scientia et scibile et scitum per illam non 
+      vni<lb ed="#P" n="105" break="no"/>uersaliter sunt idem. probatur multipliciter. Primo. quia 
+      <lb ed="#P" n="106"/>ego et tu scimus idem scibile. et tamen non eadem est scientia 
+      <lb ed="#P" n="107"/>mea et tua. Item. scibile precedit scientiam et non desinit 
+      <lb ed="#P" n="108"/>desinente scientia. quia est necessarium et eternum. 96. ethi. 
+      <lb ed="#P" n="109"/>tis in praedicamentis scibile sublatum simul aufert scientiam 
+      <lb ed="#P" n="110"/>non econtra. Item. 5. et. 9. metha. Scientia et scibile se 
+      <lb ed="#P" n="111"/>habent vt mensura et mensurabile. Item. ars et artificia 
+      <lb ed="#P" n="112"/>le non sunt idem. igitur nec scientia et scibile. Item du 
+      <lb ed="#P" n="113"/>bitatio et dubitabile vel obiectiue dubitatum non sunt 
+      <lb ed="#P" n="114"/>dem nec questio et obiectum quesibile. igitur nec scien 
+      <lb ed="#P" n="115"/>tia et scibile. Item scientia dei qua scit omnem 
+      triangu<lb ed="#P" n="116" break="no"/>um habere tres distinguitur ab isto scibili. quia si est 
+      <lb ed="#P" n="117"/>eadem isti scibili. igitur et cuilibet. quia deus per eandem 
+      <lb ed="#P" n="118"/>scientiam scit omne scibile. igitur omnia scibilia sunt in se 
+      <lb ed="#P" n="119"/>formaliter idem quod est falsum.
+    </p>
+            <p xml:id="D78nca-e23457-d1e614">
+      ¶ Preterea. idem 
+      sci<lb ed="#P" n="120" break="no"/>bile est scitum actualiter per actuale notitiam scientificam 
+      <lb ed="#P" n="121"/>et scitum habitualiter per habitum scientificum. idem enim sci 
+      <lb ed="#P" n="122"/>mus habitualiter quod actu speculando scimus actua 
+      <lb ed="#P" n="123"/>liter: sed conclusio demonstrationis non est scibile scitum 
+      <lb ed="#P" n="124"/>obiectiue per se et directe habitualiter per habitum scien 
+      <lb ed="#P" n="125"/>tificum causatum perus demonstrationem huiusmodi. probo. 
+      <lb ed="#P" n="126"/>fabitus ille per se et directe semper inclinaret prime 
+      <lb ed="#P" n="127"/>ad speculandum et cogitandum priores apprehensiones 
+      <lb ed="#P" n="128"/>complexas. consequens est falsum. quia talis habitus inclinat 
+      <lb ed="#P" n="129"/>primo ad speculandum omnem triangulum habere tres 
+      <lb ed="#P" n="130"/>et nulla fit cogitatio de prioribus apprehensionibus 
+      <lb ed="#P" n="131"/>nisi forte interdum per accidens mediante recordationem 
+      <lb ed="#P" n="132"/>reflexiua actuum preteritorum. consequentia patet. quia habitus scienti 
+      <!--85.xml-->
+      <pb ed="#P" n="37-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ficus per se et directe inclinat ad speculandum scibile 
+      <lb ed="#P" n="2"/>cuius est primo scientia et cuius erat actualis scientia 
+      <lb ed="#P" n="3"/>et actus ex quibus generatus est. idem enim obiectiue sci 
+      <lb ed="#P" n="4"/>bile est scitum per actus sequentes habitum scientificum 
+      <lb ed="#P" n="5"/>et per actus precedentes generantes illum. sed sequentes 
+      <lb ed="#P" n="6"/>non habent priores pro obiectis. igitur
+    </p>
+            <p xml:id="D78nca-e23457-d1e664">
+               <lb ed="#P" n="7"/>Secunda conclusio. Nulla notitia 
+      intelle<lb ed="#P" n="8" break="no"/>ctiua naturaliter 
+      acquisi<lb ed="#P" n="9" break="no"/>ta est formaliter intuitiua notitia suiipsius. probo. aliter 
+      <lb ed="#P" n="10"/>sequeretur quod omnis recordans se cogitasse de lapide vel 
+      <lb ed="#P" n="11"/>albedine certius absque discursu inquisitiuo recorda 
+      <lb ed="#P" n="12"/>retur se tunc cognouisse et cogitasse cogitationes. conse 
+      <lb ed="#P" n="13"/>quens est contra experientiam. certum enim modo est mi 
+      <lb ed="#P" n="14"/>hi ine heri cogitasse tali hora de lapide: sed dubito 
+      <lb ed="#P" n="15"/>tunc an cogitarem actualiter cogitationes meas. immo cre 
+      <lb ed="#P" n="16"/>do oppositum. consequentia probatur. quia si heri per aliquem actum 
+      <lb ed="#P" n="17"/>cognoscebam plura. vnum distincte et clare et perfecte 
+      <lb ed="#P" n="18"/>Alterum autem indistincte et imperfecte et obscure nunc 
+      <lb ed="#P" n="19"/>virtute speciei vel habitus remanentis non minus eu 
+      <lb ed="#P" n="20"/>denter potero recordari me cognouisse illud quod 
+      <lb ed="#P" n="21"/>primo et immediate et clare et distincte cognoui quam id quod 
+      <lb ed="#P" n="22"/>mediate et obscure et confuse.
+    </p>
+            <p xml:id="D78nca-e23457-d1e701">
+      ¶ Preterea. sequitur quod 
+      <lb ed="#P" n="23"/>nullus mediante specie vel habitu remanente poterit 
+      <lb ed="#P" n="24"/>exire in notitiam abstractiuam obiecti extra prius co 
+      <lb ed="#P" n="25"/>gniti quin simul directe cogitet actus suos preteri 
+      <lb ed="#P" n="26"/>tos. consequens est contra experientiam. probatio consequentie. quia habi 
+      <lb ed="#P" n="27"/>tus per se et primo inclinat in notitiam illorum obiecto 
+      <lb ed="#P" n="28"/>rum quorum per se et primo erant notitie illi actus 
+      <lb ed="#P" n="29"/>ex quibus generatus est. ergo etc.
+    </p>
+            <p xml:id="D78nca-e23457-d1e719">
+               <lb ed="#P" n="30"/>Tertia conclusio. quamuis omnis notitia 
+      intel<lb ed="#P" n="31" break="no"/>iectugntri esset forma 
+      <lb ed="#P" n="32"/>liter notitia intuitiua suiipsius et per consequens quamuis 
+      apprae<lb ed="#P" n="33" break="no"/>hensio complexa que est conclusio mentalis demonstra 
+      <lb ed="#P" n="34"/>tionis esset notitia intuitiua suiipsius adhuc obie 
+      <lb ed="#P" n="35"/>ctiue scibile quod primo et directe scitur mediante huiusmodi 
+      <lb ed="#P" n="36"/>demonstratione non est conclusio illius demonstratio 
+      <lb ed="#P" n="37"/>nis. probatur. sit a. notitia scientifica que est conclusio 
+      <lb ed="#P" n="38"/>demonstrationis per quam scio quod omnis triangulus ha 
+      <lb ed="#P" n="39"/>bet tres. tunc sic. illud non est obiectiue scitum per. a. 
+      <lb ed="#P" n="40"/>respectu cuius .a. non est notitia scientifica / nec .a. est 
+      <lb ed="#P" n="41"/>scientia quatenus est illius. sed a. notitia non est noti 
+      <lb ed="#P" n="42"/>tia scientifica. respectu ipsius .a. et quatenus est ostem 
+      <lb ed="#P" n="43"/>siua ipsius .a. igitur .a. non est obiectiue scibile scitum 
+      <lb ed="#P" n="44"/>per illam. maior patet. quia scientia est scientia respectu per 
+      <lb ed="#P" n="45"/>se scibilis. secundum <ref xml:id="D78nca-e23457-Rd1e755">Arist. 5o. metha</ref>. et in praedicamen. 
+      mi<lb ed="#P" n="46" break="no"/>nor probatur multipliciter. Primo. notitia indiuidualis 
+      <lb ed="#P" n="47"/>et intuitiua alicuius rei singularis non est scientia seu 
+      <lb ed="#P" n="48"/>notitia scientifica illius rei quatenus est notitia 
+      ind<lb ed="#P" n="49" break="no"/>uidualis et intuitiua illius. Sed .a. conclusio resper 
+      <lb ed="#P" n="50"/>ctu sui et quatenus est exhibitiua sui est notitia indiui 
+      <lb ed="#P" n="51"/>dualis et intuitiua cuiusdam rei singularis. igitur. ma 
+      <lb ed="#P" n="52"/>ior patet. quia scientia proprie sumpta vt est sermo in proposi 
+      <lb ed="#P" n="53"/>to est notitia abstractiua et vniuersalis. patet ex. 7. me 
+      <lb ed="#P" n="54"/>tha. de singulari sub conceptu singulari non est scientia 
+      <lb ed="#P" n="55"/>neque demonstratio neque per se diffinitio. patet etiam .1 
+      <lb ed="#P" n="56"/>postetu. demonstratio enim est ex vniuersalibus. vnde se 
+      <lb ed="#P" n="57"/>cundum Arist 1 postetur. Non est scire per sensum. sen 
+      <lb ed="#P" n="58"/>sus enim est eius quod est hic et nunc. minor patet. quia .a. con 
+      <lb ed="#P" n="59"/>clusio in intellectu meo est quedam entitas singulari 
+      <lb ed="#P" n="60"/>et ipsa respectu sui est apprehensio intuitiua et non 
+      intu<lb ed="#P" n="61" break="no"/>tiua nisi respectu sui. quia respectu omnis alterius per eam 
+      <lb ed="#P" n="62"/>cogniti est abstractiua. igitur respectu sui est notitia 
+      <lb ed="#P" n="63"/>indiuidualis et distincta cuiusda rei singularis. 
+      Di<lb ed="#P" n="64" break="no"/>ces licet .a. conclusio sit in se quedam forma naturalis 
+      <lb ed="#P" n="65"/>et singularis. tamen est ymago vniuersalis plurium. 
+      <lb ed="#P" n="66"/>ipsa autem exhibet seipsam vt ymaginem et exemplarplurium 
+      <!--85.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>ideo est scientifica respectu sui.
+    </p>
+            <p xml:id="D78nca-e23457-d1e811">
+      ¶ Contra. ex hac 
+      <lb ed="#P" n="68"/>responsione videtur haberi propositum sic .a. notitia non est scien 
+      <lb ed="#P" n="69"/>tifica notititia nisi vt est vniuersalis ymago plurium 
+      <lb ed="#P" n="70"/>sed .a. vt est ostensiua ipsius .a. conclustionis non est vniuer 
+      <lb ed="#P" n="71"/>salis ymago plurium. sed vt ostensiua rerum extra. igitur 
+      <lb ed="#P" n="72"/>vt omstensiua sui non est scientifica: sed tantum vt ostensiua 
+      <lb ed="#P" n="73"/>rerum extra. maior patet. quia vt est ostensiua sui est notitia 
+      <lb ed="#P" n="74"/>intuitua et determinata et distincta. sed non est notitia 
+      <lb ed="#P" n="75"/>intuitiua nisi vnius rei singularis et non aliorum.
+    </p>
+            <p xml:id="D78nca-e23457-d1e832">
+      ¶ Con 
+      <lb ed="#P" n="76"/>firmatur .a. est notitia scientifica respectu illorum quo 
+      <lb ed="#P" n="77"/>rum est ymago vniuersalis et abstractiua. Sed hoc 
+      <lb ed="#P" n="78"/>est respectu intelligibilium extra. et quatenus est illorum 
+      <lb ed="#P" n="79"/>non respectu sui nec quatenus est sui probo. quia circum 
+      <lb ed="#P" n="80"/>scripto respectu ad significata extrinseca ipsa non 
+      <lb ed="#P" n="81"/>exhibet nisi vnicam rem singularem distincte et intuitiue 
+      <lb ed="#P" n="82"/>et quia .a. non est ymago vniuersalis et abstractiua 
+      no<lb ed="#P" n="83" break="no"/>titia nisi vt est cognitio omnium triangulorum. sed triangu 
+      <lb ed="#P" n="84"/>li sunt intelligibilia extra significata. non enim est yma 
+      <lb ed="#P" n="85"/>go vniuersalis abstractiua nisi respectu illorum que 
+      <lb ed="#P" n="86"/>abstractiue et in vniuersali per eam cognoscuntur. igitur 
+      <lb ed="#P" n="87"/>Item a. notitia non est notitia scientifica nisi 
+      quaten<lb ed="#P" n="88" break="no"/>secundum eam scitur omnem triangulum habere tres. sed per ean 
+      <lb ed="#P" n="89"/>non scitur omnem triangulum habere tres nisi quatenus i psa 
+      <lb ed="#P" n="90"/>est ymago et repraesentatio triangulorum habentium tres. igitur 
+      <lb ed="#P" n="91"/>psalma non est notitia scientifica nisi quatenus est ymago et 
+      <lb ed="#P" n="92"/>repraesentatio triangulorum extra animam habentium tres. igitur 
+      <lb ed="#P" n="93"/>non quatenus est ostensio sui. Item cognitio ipsius .a 
+      <lb ed="#P" n="94"/>vt est ymago vniuersalis plurium est cognitio 
+      relati<lb ed="#P" n="95" break="no"/>ua et comparatiua actus anime ad res extra. sed talis non 
+      <lb ed="#P" n="96"/>est formaliter et per se notitia scientifica. quia omnis trian 
+      <lb ed="#P" n="97"/>gulus habet tres. igitur cognitio ipsius .a. tanquam yma 
+      <lb ed="#P" n="98"/>ginis plurium non est cognitio scientifica per se. minor 
+      <lb ed="#P" n="99"/>patet. quia cognitio triangulorum et conceptus relatiuus co 
+      <lb ed="#P" n="100"/>gnitionis ad obiectum sunt conceptus diuersorum 
+      pre<lb ed="#P" n="101" break="no"/>dicamentorum. et quia scire quod omnis triangulus habet tres non 
+      <lb ed="#P" n="102"/>est comparare res extra ad actus anime. comparare etiam 
+      <lb ed="#P" n="103"/>triangulum habere tres ad actum anime est comparare scibile ad 
+      <lb ed="#P" n="104"/>scientiam. Item notitia intuitiua signi vocalis vel scri 
+      <lb ed="#P" n="105"/>pti quod est vniuersalis repraesentatio plurtum non est for 
+      <lb ed="#P" n="106"/>maliter notitia scientifica. igitur nec signi mentalis con 
+      <lb ed="#P" n="107"/>sequentia patet. pari ratione. quia per vtrunque potest signum 
+      ex<lb ed="#P" n="108" break="no"/>diberi vt exemplar plurium. antecedens patet. quia si audiam vel vi 
+      <lb ed="#P" n="109"/>deam hanc coclusionem. omnis triangulus habet tres si 
+      <lb ed="#P" n="110"/>ue in voce / siue in scripto et intellectus habeat noti 
+      <lb ed="#P" n="111"/>tiam intuitiuam eiusdem significati illa notitia intuiti 
+      <lb ed="#P" n="112"/>ua huius signi non est formaliter notitia scientifica licet 
+      <lb ed="#P" n="113"/>illud signum significabile exhibeatur vt exemplar plurium 
+    </p>
+            <p xml:id="D78nca-e23457-d1e917">
+               <lb ed="#P" n="114"/>¶ Secundo principaliter. probatur minor principalis. scilice 
+      <lb ed="#P" n="115"/>quod .a. respectu sui et quatenus est sui non est notitia 
+      scien<lb ed="#P" n="116" break="no"/>tifica. quia .a. vt est notitia scientifica est notitia 
+      veri<lb ed="#P" n="117" break="no"/>dica. Sed quatinus est exhibitiua suiipsius formaliter 
+      <lb ed="#P" n="118"/>intuitiue non est veridica nec falsidica. minor probatur 
+      <lb ed="#P" n="119"/>multipliciter. Primo. quia propositio non est vera nisi quia ita est 
+      <lb ed="#P" n="120"/>in re sicut significat et ex eo quod significat rem sic se habere sicut 
+      <lb ed="#P" n="121"/>se habet. igitur quatinus est exhibitiua rei extra. Item. si 
+      <lb ed="#P" n="122"/>gnum complexum est veridicum vel falsidicum ex illo 
+      si<lb ed="#P" n="123" break="no"/>gnificato propter cuius solius mutationem transit de 
+      <lb ed="#P" n="124"/>veritate in falsitatem simpliciter et econtra. sed hec res est 
+      <lb ed="#P" n="125"/>extra significata. igitur. Item. propositio mentalis aliquando est 
+      <lb ed="#P" n="126"/>vera sine falsitate. aliquando falsa sine veritate. igitur non 
+      <lb ed="#P" n="127"/>est veridica nec falsidica quatinus est repraesentatiua sui 
+      <lb ed="#P" n="128"/>consequentia patet. quia semper manet vniformiter et necessario 
+      <lb ed="#P" n="129"/>conformitas ipsius ad seipsam. antecedens patet. quia sorte 
+      cur<lb ed="#P" n="130" break="no"/>rente. hec est simpliciter vera / sortes currit et nullam 
+      ha<lb ed="#P" n="131" break="no"/>bet falsitatem et sorte non currente est falsa et nullam 
+      ha<lb ed="#P" n="132" break="no"/>bet veritatem saltem talem veritatem qualis est veritas 
+      <!--86.xml-->
+      <pb ed="#P" n="38-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>notitie scientifice non erronee. Ueritas enim que at 
+      <lb ed="#P" n="2"/>tribueretur illi propositioni iuxta dicta Ansel. lib. de veri. 
+      <lb ed="#P" n="3"/>eque conuenit vtrique parti contradictionis. Item. omnis 
+      <lb ed="#P" n="4"/>propositio quatenus exhibitiua sui vera erit tali veritate 
+      <lb ed="#P" n="5"/>qua notitia scientifica est vera vt est scientifica vel omnis 
+      <lb ed="#P" n="6"/>popositio quatenus exhibitiua sui erit falsa. consequentia patet. quia quae 
+      <lb ed="#P" n="7"/>libet vniformiter et eque intuitiue et distincte esset no 
+      <lb ed="#P" n="8"/>titia intuitiua suiipsius formaliter. igitur vel ista homo 
+      <lb ed="#P" n="9"/>est asinus habet veritatem talem qualem notitia scientifi 
+      <lb ed="#P" n="10"/>ca vt scientifica. aut ista deus est habet falsitatem. Item 
+      <lb ed="#P" n="11"/>si michael apprehendat intuitiue .a. apprehensionem com 
+      <lb ed="#P" n="12"/>plexam existentem in gabriele non ex hoc dicit verum 
+      <lb ed="#P" n="13"/>vel falsum. igitur nec gabriel habens .a. dicit verum vel 
+      <lb ed="#P" n="14"/>falsum. quatenus intuitiue videt .a. per ipsum. a. nec .a 
+      <lb ed="#P" n="15"/>est veridicum vel falsidicum quatenus est sui. antecedens probatur 
+      <lb ed="#P" n="16"/>tum quia non aliter intuetur .a. quam domum vel archam vel 
+      <lb ed="#P" n="17"/>ymaginem aliquam. sed ex huiusmodi visione non dicit verum 
+      <lb ed="#P" n="18"/>neque falsum. Tum quia non significat aliquid esse vel non 
+      <lb ed="#P" n="19"/>esse ex hoc quod intuetur. a. magis quam ex hoc quod intuetur 
+      <lb ed="#P" n="20"/>apprehensionem incomplexam. Tum quia ex hoc quod videt 
+      pro<lb ed="#P" n="21" break="no"/>positionem scriptam non esset visio veridica vel 
+      falsidi<lb ed="#P" n="22" break="no"/>ca. igitur nec ex hoc quod intuetur illam mentalem. Tum 
+      <lb ed="#P" n="23"/>quia huiusmodi apprehensio intuitiua in michaele est ex se 
+      in<lb ed="#P" n="24" break="no"/>differens ad hoc quod ex ea per modum subiecti demon 
+      <lb ed="#P" n="25"/>strantis .a. formentur quasi infinite propositiones vere vel 
+      <lb ed="#P" n="26"/>false. igitur est quelibi illarum vel nulla. sed consequentia prin 
+      <lb ed="#P" n="27"/>cipalis probatur. Tum quia michael apprehendit omnino id  
+      <lb ed="#P" n="28"/>et eodem modo intuitiue sicut gabriel quatenus intuet 
+      <lb ed="#P" n="29"/>a. per seipsam et idem apparet vtrique vt sic. Tum quia iste 
+      <lb ed="#P" n="30"/>angelus non magis significat a. esse vel non esse quam ille 
+      <lb ed="#P" n="31"/>angelus.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1034">
+      ¶ Confirmatur. si aliquis angelus siue 
+      mi<lb ed="#P" n="32" break="no"/>chael siue gabriel dicat .a. esse verum vel .a. est 
+      scientifi<lb ed="#P" n="33" break="no"/>ca notitia per subiectum huius propositionis non dicit nec 
+      <lb ed="#P" n="34"/>verum nec falsum. igitur .a. quatenus est sui non est vel 
+      <lb ed="#P" n="35"/>ridicum nec falsidicum. consequentia patet. quia illud precise demon 
+      <lb ed="#P" n="36"/>stratur per subiectum huius propositionis et per ipsum .a. qua 
+      <lb ed="#P" n="37"/>tenus est apparentia et ostensio sui. antecedens probatur. quia il 
+      <lb ed="#P" n="38"/>lud subiectu est indifferens ad quecumque prrdicata / siu 
+      <lb ed="#P" n="39"/>affirmatiue / siue negatiue enunciabilia. igitur ex si 
+      <lb ed="#P" n="40"/>nullam affirmationem vel negationem veridicam vel falsi 
+      <lb ed="#P" n="41"/>dicam habet.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1058">
+      ¶ Confirmatur. hic terminus propositio vel 
+      <lb ed="#P" n="42"/>etiam hec oratio hec propositio .a. non est enunciatio vera vel 
+      <lb ed="#P" n="43"/>falsa. igitur nec .a. quatenus est ostensio sui. consequentia patet. qui 
+      <lb ed="#P" n="44"/>illud signum significat se et conceptus similiter ei correspo 
+      <lb ed="#P" n="45"/>dens licet in vniuersali. immo .a. quatenus est sui vide 
+      <lb ed="#P" n="46"/>tur conceptus per se inferior ad conceptus propositionis 
+      <lb ed="#P" n="47"/>n communi.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1074">
+      ¶ Tertio. probatur minor principalis. quia 
+      <lb ed="#P" n="48"/>a. non est notitia scientifica respectu illius vt per se 
+      <lb ed="#P" n="49"/>primo obiectiue sciti quod est nouum et contingens et 
+      <lb ed="#P" n="50"/>in libertate mea. quod enim scio per .a. scio ipsum non 
+      de<lb ed="#P" n="51" break="no"/>pendere ab anima mea. scio enim quod binarium esse parem non 
+      <lb ed="#P" n="52"/>dependet ab anima mea. sed .a. est nouum contingens. 
+      <lb ed="#P" n="53"/>igitur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1090">
+      ¶ Quarto. sequitur quod omnis apprehensio comple 
+      <lb ed="#P" n="54"/>xa est scientifica eque sicut .a. consequens est falsum. quia que 
+      <lb ed="#P" n="55"/>stio et dubitatio et propositio falsa non est scientia. consequentia 
+      pro<lb ed="#P" n="56" break="no"/>batur. quia quelibet huiusmodi non minus est clara et perfe 
+      <lb ed="#P" n="57"/>cta ostensio sui et necessario et immutabiliter quam .a. quia equi 
+      <lb ed="#P" n="58"/>eadem sibi et vniformis est adequatio signi ad significatum 
+      <lb ed="#P" n="59"/>praedictas specialite 
+    </p>
+            <p xml:id="D78nca-e23457-d1e1107">
+               <lb ed="#P" n="60"/>Contra conclusiones contra primam etertim 
+      <lb ed="#P" n="61"/>Arguitur primo per philosophum 1 et. 2. postert. qui frequen 
+      <lb ed="#P" n="62"/>ter ponit quod scientia est conclusionis demonstrate. immo 
+      <lb ed="#P" n="63"/>respectu solius conclusionis positioit scientiam. Et. 6o 
+      <lb ed="#P" n="64"/>ethi. ponit quod intellectus et scientia differunt. quia scientia 
+      <lb ed="#P" n="65"/>est conclusionum et intellectus principiorum. Commun 
+      <lb ed="#P" n="66"/>ter etiam recipitur descriptio ista scientie quod est habitus 
+      <!--86.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>conclusionis demonstrate. Et Boetius supra predi 
+      <lb ed="#P" n="68"/>camenta. solum complexum scitur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1133">
+      ¶ Secundo. illius 
+      <lb ed="#P" n="69"/>est scientia cuius est demonstratio et illud est scibile 
+      <lb ed="#P" n="70"/>quod est demonstrabile. immo idem est scibile quod 
+      <lb ed="#P" n="71"/>demonstrabile. 6. ethicorum. illud igitur demonstra 
+      <lb ed="#P" n="72"/>tine scitur quod per demonstrationem concluditur et 
+      <lb ed="#P" n="73"/>infertur. sed hec est conclusio.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1146">
+      ¶ Tertio. nihil scitur 
+      <lb ed="#P" n="74"/>nisi verum mediatum.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1151">
+      ¶ Quarto. illud est scibile quod 
+      <lb ed="#P" n="75"/>est quesibile et illud post demonstrationem scitur quod ante 
+      <lb ed="#P" n="76"/>demonstrationem queritur .2. postetur. Sed ipsa proposi 
+      <lb ed="#P" n="77"/>tio est quesibilis et est questio. quia questio est dubitabi 
+      <lb ed="#P" n="78"/>lis secundum Boetium. et sicut propositio aliqua per se nota / et 
+      <lb ed="#P" n="79"/>euidens non queritur. ita propositio non per se nota est 
+      il<lb ed="#P" n="80" break="no"/>lud quod queritur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1167">
+      ¶ Et confirmatur. quia querendo an 
+      <lb ed="#P" n="81"/>omnis triangulus habeat tres illud queritur quod non ha 
+      <lb ed="#P" n="82"/>betur et quo habito cessat questio et quiescit querens 
+      <lb ed="#P" n="83"/>Sed notitia scientifica compl exa est huiusmodi. igitur ipsa 
+      <lb ed="#P" n="84"/>est obiectiue quesitum.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1178">
+      ¶ Quinto .a. conclusio demon 
+      <lb ed="#P" n="85"/>trationis mentalis est scientia actualis et est scienti. 
+      <lb ed="#P" n="86"/>fica notitia vt patet ex probatione quadam prime 
+      concli<lb ed="#P" n="87" break="no"/>sionis. igitur ipsa est obiectiue scitum per huiusmodi demod 
+      <lb ed="#P" n="88"/>strationem. consequentia probatur. quia scientia et actu scitum sunt idem 
+      <lb ed="#P" n="89"/>vt repetit ter Arist. 3. de anima. Primo enim dicit quod sci 
+      <lb ed="#P" n="90"/>entia speculatiua et sic scibile idem est. et caps. sequenti 
+      <lb ed="#P" n="91"/>idem est autem secundum actum scientia rei.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1197">
+      ¶ Sexto. iliud est 
+      <lb ed="#P" n="92"/>obiectiue scitum pro quo supponit hoc dictum. Omnen 
+      <lb ed="#P" n="93"/>triangulum habere tres vel pro quo supponit hec oratio 
+      <lb ed="#P" n="94"/>omnis triangulus habet tres cum dico scio quod omnis 
+      trian<lb ed="#P" n="95" break="no"/>gulus habet tres. vel omnem triangulum habere tres est 
+      <lb ed="#P" n="96"/>scitum a me: sed supponit pro conclusione vel pro signe 
+      <lb ed="#P" n="97"/>vniuersali non pro significato extra. igitur. maior patet. 
+      <lb ed="#P" n="98"/>quia non potest conuenientius assignari quid obiectiue sit 
+      <lb ed="#P" n="99"/>scitum nec conuenientius responderi ad questionem qua que 
+      <lb ed="#P" n="100"/>ritur quid obiectiue est scitum quam illud dictum vel illa 
+      <lb ed="#P" n="101"/>oratio. minor probatur. quia non sequitur / scio quod omnis 
+      <lb ed="#P" n="102"/>triangulus habet tres. igitur scio quod hic triangulus 
+      <lb ed="#P" n="103"/>habet tres. nec sequitur omnem triangulum habere tres 
+      <lb ed="#P" n="104"/>est scitum a me. igitur hunc triangulum habere tres 
+      <lb ed="#P" n="105"/>est scitum a me. patet ex. 1 postet. habita demonstratione 
+      <lb ed="#P" n="106"/>quod omnis triangulus habet tres non scitur quod hic trian 
+      <lb ed="#P" n="107"/>gulus habet tres nisi in potentia et per accidens. et tamen 
+      <lb ed="#P" n="108"/>esset consequentia bona si illud dictum non supponeret simpliciter 
+      <lb ed="#P" n="109"/>pro conceptum sibi correspondente. sed pro significatis extra 
+      <lb ed="#P" n="110"/>quia esset bonus locus a toto in quantitate. et quia sub ter 
+      <lb ed="#P" n="111"/>mino vniuersali distributo personaliter supponente 
+      <lb ed="#P" n="112"/>pro significatis licet descendere ex hoc patet quod hic 
+      sillogis<lb ed="#P" n="113" break="no"/>mus non peccat per demonstrationem huiusmodi scitur quod omnis 
+      <lb ed="#P" n="114"/>triangulus habet tres. sed quod omnis triangulus habet tres est 
+      <lb ed="#P" n="115"/>conclusio demonstrationis. igitur quod per huiusmodi 
+      demon<lb ed="#P" n="116" break="no"/>strationem scitur est conclusio demonstrationis. igitur 
+      <lb ed="#P" n="117"/>Ad idem sunt multe rationes que infra ponuntur contra 
+      <lb ed="#P" n="118"/>conclusiones sequentes 
+      <lb ed="#P" n="119"/>quia loquendum est vt plures et 
+      <lb ed="#P" n="120"/>Ad primum. sentiendum vt pauci. Arist 
+      lo<lb ed="#P" n="121" break="no"/>cutus est in praesenti materia secundum communem vsum loquen 
+      <lb ed="#P" n="122"/>di antiquorum et etiam modernorum quasi propositiones et sub 
+      <lb ed="#P" n="123"/>iectum et predicatum sint quedam obiectiue cognita et 
+      <lb ed="#P" n="124"/>exhibita per se et directe per apprehensiones nostras 
+      com<lb ed="#P" n="125" break="no"/>plexas et incomplexas. Sic etiam communis vsus loqui 
+      <lb ed="#P" n="126"/>tur de cognitione vniuersalium quasi vniuersalia 
+      fo<lb ed="#P" n="127" break="no"/>rent extra animam quedam obiectiue cognoscibilia 
+      pe<lb ed="#P" n="128" break="no"/>apprehensiones confusas et de diffinitione et diffinito cum 
+      <lb ed="#P" n="129"/>dicitur quod sunt idem. cum igitur dicit Arist. quod scientia est 
+      <lb ed="#P" n="130"/>conclusionis debet accipi vt constructio intransiti 
+      <lb ed="#P" n="131"/>ua id est scientia est mentalis conclusio demonstrationis 
+      <lb ed="#P" n="132"/>sicut intellectus est principiorum id est est ipsa apprehensio con¬ 
+      <!--87.xml-->
+      <pb ed="#P" n="38-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>plexa que est premissa et principium demonstrationis 
+      <lb ed="#P" n="2"/>vel scientia est conclusionis id est notitia conformis 
+      con<lb ed="#P" n="3" break="no"/>clusioni vocali vel scripte significando omnino et 
+      ade<lb ed="#P" n="4" break="no"/>quate idem et eisdem modis gramaticalibus et logicalibus 
+      <lb ed="#P" n="5"/>natis conuenire vtrique. differens tamen penes significare 
+      <lb ed="#P" n="6"/>naturaliter et ad placitum. Vel si accipitur secundum transi 
+      <lb ed="#P" n="7"/>tiuam locutionem scientia est conclusionis id est cognitio 
+      <lb ed="#P" n="8"/>complexa quod sic est sicut esse significatur per 
+      conclusio<lb ed="#P" n="9" break="no"/>nem et intellectus est principiorum i i. est cognoscere sic esse 
+      <lb ed="#P" n="10"/>cilicet sicut significatur per principium. Uel si scientia ad 
+      <lb ed="#P" n="11"/>cipitur pro habitu scientifico sic scientia est conclusionis 
+      <lb ed="#P" n="12"/>i. habitualis notitia conformis conclusioni actuali. ide 
+      <lb ed="#P" n="13"/>enim et eisdem modis cognoscitur habitualiter per scientiam 
+      <lb ed="#P" n="14"/>et actualiter per conclusionem.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1325">
+      ¶ Ad secundum. demonstra 
+      <lb ed="#P" n="15"/>tionem / aut etiam scientiam esse alicuius potest intelligi du 
+      <lb ed="#P" n="16"/>pliciter vel vt obiectiue ostensi demonstratiue et scien 
+      <lb ed="#P" n="17"/>tifice vel vt effectus vel consequentis illati. correspondentur aliquid 
+      <lb ed="#P" n="18"/>dicitur demonstrabile vel scibile dupliciter / aut vt obie 
+      <lb ed="#P" n="19"/>ctiue ostensum / aut vt effectus vel consequens 
+      illa<lb ed="#P" n="20" break="no"/>tum: proportionabiliter alicuius esse diffintionem intelligi 
+      <lb ed="#P" n="21"/>tur dupliciter vel vt quidditatiue ostensi et iudicati et 
+      <lb ed="#P" n="22"/>sic rerum extra est diffinitio et res extra est diffinitum 
+      <lb ed="#P" n="23"/>Aliomodo vt conceptus impliciti cui correspondet conce 
+      <lb ed="#P" n="24"/>ptus explicatus et resolutiuus et compositus ex genere 
+      <lb ed="#P" n="25"/>et differentiis et sic diffinitum est praedicabile conequod 
+      <lb ed="#P" n="26"/>est species vel genus subalternum. Cum igitur dicitur 
+      <lb ed="#P" n="27"/>illius est scinia cuius est demonstratio et quod est demon 
+      <lb ed="#P" n="28"/>strabile. Si intelligitur cuius tanquam obiectiue ostensi par 
+      <lb ed="#P" n="29"/>demonstrationem eius vt obiectiue scibilis est scientia con 
+      <lb ed="#P" n="30"/>ceditur maior et negatur minor. Si vero intelligitur cuius 
+      <lb ed="#P" n="31"/>tanquam effectus vel consequentis illati est demonstratio 
+      <lb ed="#P" n="32"/>eius vt obiectiue sciti est scina negatur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1367">
+      ¶ Ad 
+      terti<lb ed="#P" n="33" break="no"/>um accipiendo verum vt est proprietas signi complexi ne 
+      <lb ed="#P" n="34"/>gatur maior nisi sit locutio et constructio intransitiua 
+      <lb ed="#P" n="35"/>1. quod sola noticia complexa veridica nata per medium 
+      <lb ed="#P" n="36"/>demonstratiue concludi est scientifica.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1378">
+      ¶ Ad 
+      quar<lb ed="#P" n="37" break="no"/>tum negatur maior accipiendo quesibile pro eo quod 
+      <lb ed="#P" n="38"/>obiectiue quaeritur per questionem ex conceptibus rectis rerum 
+      <lb ed="#P" n="39"/>extra. Cum enim queritur an omnis triangulus habeat tres 
+      <lb ed="#P" n="40"/>questio est ipsa propositio dubia sed quesibile est illud quod 
+      <lb ed="#P" n="41"/>per quastionem significatur. Ad confirmationem concedo 
+      <lb ed="#P" n="42"/>quod conclusio scientifica queritur tanquam res que desidera 
+      <lb ed="#P" n="43"/>tur intelligi et acquiri in animo. Sed illud quod primo et 
+      <lb ed="#P" n="44"/>directe queritur tanquam scibile ignoratum et 
+      notifican<lb ed="#P" n="45" break="no"/>dum non est scina nec conclusio sed sic esse vel non esse 
+      <lb ed="#P" n="46"/>negatur igitur maior loquendo proprie de quesibili quod 
+      <lb ed="#P" n="47"/>queritur tanquam obiectiue notificandum et cuius noticia ha 
+      <lb ed="#P" n="48"/>penda desideratur. Primo autem modo tota 
+      demonstra<lb ed="#P" n="49" break="no"/>tio queritur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1409">
+      ¶ Ad quintum negatur consequentia. Ad 
+      pro<lb ed="#P" n="50" break="no"/>bationem illud dictum repetitum accipitur in variis 
+      sen<lb ed="#P" n="51" break="no"/>sibus. Nam sensus illius verbi vt primo ponitur a 
+      phi<lb ed="#P" n="52" break="no"/>losopho est quod in substantiis immaterialibus eadem 
+      natu<lb ed="#P" n="53" break="no"/>ra est intelligibilis et intellectia sic etiam in solis 
+      ac<lb ed="#P" n="54" break="no"/>tibus intellectus Idem est scientia et scibile 1 eadem res 
+      <lb ed="#P" n="55"/>est intellectio et est obiectum intelligibile siue seipsa 
+      <lb ed="#P" n="56"/>siue alia cognitione. vnde tertio de anima ca. quarto di 
+      <lb ed="#P" n="57"/>cit sic: ipse intellectus est intelligibilis sicut intelligen 
+      <lb ed="#P" n="58"/>tia. In hiis enim que sunt sine materia: idem est 
+      intel<lb ed="#P" n="59" break="no"/>lectus et quod intelligitur. Scina autem speculatiua et sic 
+      <lb ed="#P" n="60"/>scibile idem est. Quod autem hoc dictum non allegatur conue 
+      <lb ed="#P" n="61"/>nienter contra conclusiones positas: patet per expositio 
+      <lb ed="#P" n="62"/>nem commentatori ibidem commento. 15. dicentis intelle 
+      <lb ed="#P" n="63"/>ctus possibilis intelligitur per intellectionem in eo exi 
+      <lb ed="#P" n="64"/>tente differentem a sua substantia. Si enim esset 
+      intel<lb ed="#P" n="65" break="no"/>lectus per se contingeret vt scina speculatiua et scitum 
+      <lb ed="#P" n="66"/>essent idem quod est impossibile: hec commentator. 
+      <!--87.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>Alius autem sensus eiusdem verbi repetiti duobus capi 
+      <lb ed="#P" n="68"/>tulis sequentibus secundum intentionem Aristotelis est quod sci 
+      <lb ed="#P" n="69"/>entia et intellectio est quodammodo ipsum scibile et 
+      in<lb ed="#P" n="70" break="no"/>telligibile scilicet per assimilationem et repraesentationem 
+      <lb ed="#P" n="71"/>Unde et imago beati nicolai dicitur beatus nicolaus 
+      <lb ed="#P" n="72"/>et res dicuntur esse in anima eo quod intellectiones earum sunt 
+      <lb ed="#P" n="73"/>in anima: iuxta etiam hunc modum loquendi dicitur. 2. de anima 
+      <lb ed="#P" n="74"/>quod visus est coloratus quodammodo. scilicet in habendo spe 
+      <lb ed="#P" n="75"/>cien coloris et ita species coloris dicitur color propter 
+      si<lb ed="#P" n="76" break="no"/>militudinem et repraesentationem. Et quod illa expositio fit 
+      <lb ed="#P" n="77"/>secundum intentionem philosophi patet: nam. 3. de anima circa 
+      prin<lb ed="#P" n="78" break="no"/>cipium dicit quod intellectus nichil est eorum que sunt an 
+      <lb ed="#P" n="79"/>te intelligere et postea dicit quod intellectus fit singula 
+      <lb ed="#P" n="80"/>cum scit et operatur per seipsum et infra pontentia quodam 
+      <lb ed="#P" n="81"/>modo est intelligibilia iutellectus sed actu nichil an 
+      <lb ed="#P" n="82"/>tequam intelligat. Item circa medium tertii libri 
+      decla<lb ed="#P" n="83" break="no"/>rans et exponens quae supra dixerat dicit quod anima est 
+      quo<lb ed="#P" n="84" break="no"/>dammodo omnia quae sunt tam sensibilia quam intelligibilia. 
+      <lb ed="#P" n="85"/>Scientia enim est scibilia et sensus est sensibilia: sed quia 
+      <lb ed="#P" n="86"/>hoc non est accipiendum vt verba sonant / subdit qua 
+      <lb ed="#P" n="87"/>liter autem hoc sit oportet inquirere / et consequenter 
+      decla<lb ed="#P" n="88" break="no"/>rat quod tam scia in actu quam ipsa anima sciens in actu dicitur 
+      <lb ed="#P" n="89"/>scibilia in actu et scina in potentia et anima sciens in 
+      po<lb ed="#P" n="90" break="no"/>tentia dicitur ipsa scibilia in potentia. Et eodem modo 
+      sen<lb ed="#P" n="91" break="no"/>sus in actu est sensibile in actu et sensus in potentia 
+      <lb ed="#P" n="92"/>est sensibile in potentia. Et subdit quod ista non sunt in 
+      <lb ed="#P" n="93"/>anima sed species illorum lapis enim non est in anima sed spe 
+      <lb ed="#P" n="94"/>cies lapidis igitur anima et scina dicuntur esse ipsa scibilia 
+      <lb ed="#P" n="95"/>et intelligibilia secundum quandam assimilationem et trans 
+      <lb ed="#P" n="96"/>formationem per intellectiones et species represe 
+      n<lb ed="#P" n="97" break="no"/>tatiuas. Et conformiter huic modo loquendi dicitur. 3. 
+      <lb ed="#P" n="98"/>de anima quod intellectus possibilis est quo anima potest omnia 
+      <lb ed="#P" n="99"/>fieri et intellectus agens est quo anima potest omnia face 
+      <lb ed="#P" n="100"/>re. Hoc autem dicit Aristoteles. Ad declarandum 
+      <lb ed="#P" n="101"/>quomodo veritatem habeat opinio. Antiquorum 
+      <lb ed="#P" n="102"/>dicens animam esse compositam ex omnibus vt omnia 
+      in<lb ed="#P" n="103" break="no"/>telligeret quoniam intelligere fit per assimilationem Et dicit 
+      <lb ed="#P" n="104"/>Arist. quod non oportet eam realiter componi ex omnibus sed 
+      se<lb ed="#P" n="105" break="no"/>cundum quandam transformationem et assimilationem 
+      <lb ed="#P" n="106"/>et representationem fit omnia. Conformiter dicit in 
+      <lb ed="#P" n="107"/>terdum commentator. quod materia prima est in potentia 
+      <lb ed="#P" n="108"/>omnes forme et fit in actu omnes forme. et quod intellectus 
+      <lb ed="#P" n="109"/>fit omnia intelligibilia. intellectus enim vtitur 
+      intentio<lb ed="#P" n="110" break="no"/>nibus rerum pro rebus iuxta hunc modum loquendi. dicit 
+      <lb ed="#P" n="111"/>Aug. 9. de trinitate. 11. et 12. quod cum mens cognoscit 
+      <lb ed="#P" n="112"/>se notitia et verbum est par et equale et idem menti. Et 
+      <lb ed="#P" n="113"/>bidem. c. 2. et. 4. dicit quod sunt eadem substantia cum anima. 
+    </p>
+            <p xml:id="D78nca-e23457-d1e1554">
+               <lb ed="#P" n="114"/>¶ Ad sextum. negatur minor. quia nulla pars illius di 
+      <lb ed="#P" n="115"/>cti vel orationis supponit ibi materialiter vel simpli 
+      <lb ed="#P" n="116"/>ci: sed personaliter sicut nec in ista. scio vel video quod 
+      <lb ed="#P" n="117"/>sortes est albus vel fuit albus.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1566">
+      ¶ Ad probationem. 
+      li<lb ed="#P" n="118" break="no"/>cet ille consequentie non valeant. tamen illud dictum non 
+      suppo<lb ed="#P" n="119" break="no"/>nit simpliciter. Ad probationem dicendum quod illud est verum 
+      <lb ed="#P" n="120"/>quando terminus vniuersalis distributus supponit confu 
+      <lb ed="#P" n="121"/>se et mobiliter non immobiliter. et hoc cotingit quando ten 
+      <lb ed="#P" n="122"/>minus communis cui praeponitur signum vniuersale est 
+      <lb ed="#P" n="123"/>totale vel principale subiectum vel predicatum et signum 
+      <lb ed="#P" n="124"/>non est pars subiecti: sed distributiuum subiecti non 
+      <lb ed="#P" n="125"/>autem quando talis terminus communis non est principale vel 
+      <lb ed="#P" n="126"/>totale extremum: sed aliud et signum est pars subiecti vel 
+      <lb ed="#P" n="127"/>predicati. ita quod propositio est implicite et equiualenter 
+      <lb ed="#P" n="128"/>singularis vt dicendo. scio omnem triangulum habere tres 
+      <lb ed="#P" n="129"/>ped omnem non est distributio predicati sed pars / et ly 
+      <lb ed="#P" n="130"/>scio est principale predicatu sicut de ista. omne animal 
+      <lb ed="#P" n="131"/>currere vel vigilare est michi dubium / vel omne animal 
+      <lb ed="#P" n="132"/>esse hominem est impossibile. Potet igitur dici quod cum 
+      <!--88.xml-->
+      <pb ed="#P" n="39-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>disitur. scio omnem triangulum habere tres / ly trian 
+      <lb ed="#P" n="2"/>gulum habere tres determinat formaliter et directe ob 
+      <lb ed="#P" n="3"/>iectum scientie. ideo primo et directe termini illius 
+      <lb ed="#P" n="4"/>dicti supponunt personaliter / sed implicite et virtualis 
+      <lb ed="#P" n="5"/>determinat qualitatem notitie. quia implicatur quod habeo 
+      <lb ed="#P" n="6"/>notitiam conformen isti propositioni. omnis triangulus habet 
+      <lb ed="#P" n="7"/>tres. ideo implicite et consequenter illud dictum stat simi 
+      <lb ed="#P" n="8"/>pliciter. si autem quis velit dicere quod in dicta propositione de 
+      <lb ed="#P" n="9"/>terminatio apposita verbo sciendi determinat pri 
+      <lb ed="#P" n="10"/>mo et directe qualitatem scientie et consequenter qualitatem 
+      <lb ed="#P" n="11"/>obiecti. sic negatur maior sicut aliter supponit hec 
+      <lb ed="#P" n="12"/>propositio vel eius termini dicendo / omnis homo curri 
+      <lb ed="#P" n="13"/>et dicendo / ego significo et profero quod omnis homo 
+      cur<lb ed="#P" n="14" break="no"/>rit. Ex hoc patet quod sillogismus additus peccat per fal 
+      <lb ed="#P" n="15"/>laciam accidentis. quia ly omnis triangulus habet tres 
+      <lb ed="#P" n="16"/>tenetur personaliter in maiori / sed tenetur materialiter 
+      <lb ed="#P" n="17"/>vel simpliciter inminori. sicut si argueretur sic. desideroqu 
+      <lb ed="#P" n="18"/>petrus sit albus: sed hec est quedam propositio. igitur 
+      <lb ed="#P" n="19"/>desidero hanc propositionem vel odio summe quod petrus 
+      dan<lb ed="#P" n="20" break="no"/>netur. sed hec est propositio. igitur summe odio hanc 
+      <lb ed="#P" n="21"/>propositionem quod est falsum. quia formo eas libere
+    </p>
+            <p xml:id="D78nca-e23457-d1e1653">
+               <lb ed="#P" n="22"/>Quarta conclusio. obiectum immediate 
+      <lb ed="#P" n="23"/>scitum per scientiam 
+      <lb ed="#P" n="24"/>qua scitur formaliter deum esse vel omnem triangulum habere 
+      <lb ed="#P" n="25"/>tres. etc. est intelligibile vel intelligibilia ens vel 
+      enti<lb ed="#P" n="26" break="no"/>extra animam actu vel potentia significatum vel significe 
+      <lb ed="#P" n="27"/>ta per huiusmodi propositiones. probatur. quia vel est conclusio de 
+      <lb ed="#P" n="28"/>monstrationis mentalis vel eius significatum non ide 
+      <lb ed="#P" n="29"/>illi. non primum patet. supra igitur secundum.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1673">
+      ¶ Preterea. ad  
+      <lb ed="#P" n="30"/>hoc sunt multe rationes posite supra pro prima conclusi 
+      <lb ed="#P" n="31"/>one et questione precedenti. Ad primam conclusionem 
+    </p>
+            <p xml:id="D78nca-e23457-d1e1680">
+               <lb ed="#P" n="32"/>¶ Preterea. illorum tanquam obiectiue scibilium vel ostem 
+      <lb ed="#P" n="33"/>sorum est scientia de quibus per se tanquam de obiectis 
+      <lb ed="#P" n="34"/>est scientia. sed hoc est de intelligibilibus extra animam 
+      <lb ed="#P" n="35"/>patet. quia Arismethica est de numeris et Seometria di 
+      <lb ed="#P" n="36"/>magnitudinibus et figuris / et musica de sonis / et phisi 
+      <lb ed="#P" n="37"/>ca de motu / et astralogia de stellis. etc.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1696">
+      ¶ Preterea 
+      <lb ed="#P" n="38"/>illius vt obiectiue sciti / vel ostensi est scientia pro quo 
+      <lb ed="#P" n="39"/>immediate verificatur notitia scientifica et conclusio de 
+      <lb ed="#P" n="40"/>monstrationis. sed hoc est pro intelligibilibus significa 
+      <lb ed="#P" n="41"/>tis. igitur. maior patet. quia scientia est vera pro obiectiue 
+      <lb ed="#P" n="42"/>scibili et scito cum ab eo mensuretur. minor probatur 
+      <lb ed="#P" n="43"/>hec enim conclusio. omnis triangulus habet tres. verifi 
+      <lb ed="#P" n="44"/>catur pro triangulis extra animam et non nisi pro illis. Tum 
+      <lb ed="#P" n="45"/>quia pro eodem verificatur vocalis / et scripta / et mentalis 
+      <lb ed="#P" n="46"/>Tum quia subiectum non supponit pro conceptum anime. quid 
+      <lb ed="#P" n="47"/>falsa esset. ille enim non habet tres. Tum quia hec 
+      singul<lb ed="#P" n="48" break="no"/>ris / hic triangulus habet tres verificatur pro hoc triam 
+      <lb ed="#P" n="49"/>gulo / et sic de quolibet singulari. igitur vniuersalis 
+      <lb ed="#P" n="50"/>verificatur pro eisdem. alioquin inductio a singularibus 
+      <lb ed="#P" n="51"/>ad vniuersalem non esset conueniens. Tum quia posito quod 
+      <lb ed="#P" n="52"/>hic triangulus habeat tres et de illo similiter. etc. sequitur 
+      <lb ed="#P" n="53"/>quod illa vniuersalis est vera circumscripto quocumque alie 
+      <lb ed="#P" n="54"/>et hoc remoto non foret vera. igitur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1735">
+      ¶ Preterea 
+      <lb ed="#P" n="55"/>illud est scibile obiectiue cuius primo causa queritur et 
+      <lb ed="#P" n="56"/>per demonstrationem habetur. sed hoc non est coclusio 
+      <lb ed="#P" n="57"/>sed significatum conclusionis. igitur. maior patet 1. poste 
+      <lb ed="#P" n="58"/>Scire est rem per causam cognoscere et quoniam illius est 
+      <lb ed="#P" n="59"/>causa. minor probatur. Cum enim queritur vel assignat 
+      <lb ed="#P" n="60"/>causa quare luna est eclipsabilis non assignatur nec qua 
+      <lb ed="#P" n="61"/>ritur causa actus mentis mee.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1754">
+      ¶ Preterea. sicut se ha 
+      <lb ed="#P" n="62"/>bet scientia large dicta ad scitu large dictum. sic scin 
+      <lb ed="#P" n="63"/>tia proprie sumpta ad scitum proprie sumptum. sed illud 
+      <lb ed="#P" n="64"/>est intelligibile extra animam. probatur per Aug. 15. de 
+      <lb ed="#P" n="65"/>trinita. 5 c. duo sunt genera rerum que sciuntur. Unum 
+      <lb ed="#P" n="66"/>est earum rerum que persensum corpris percipit animmus 
+      <!--88.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>Alterum autem eorum que per seipsum percipit animus vt 
+      <lb ed="#P" n="68"/>est illud. scio me viuere. Et iterum ibidem absit vt 
+      sci<lb ed="#P" n="69" break="no"/>re nos negemus que per sensus corpis didicimus v 
+      <lb ed="#P" n="70"/>celum et terram et ea que in eis sunt / absit etiam vt scire no 
+      <lb ed="#P" n="71"/>negemus que testimonio aliorum didicimus. alioquin 
+      <lb ed="#P" n="72"/>nesciremus occeanum et terras et vrbes quas celeber 
+      <lb ed="#P" n="73"/>rima fama commendat.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1787">
+      ¶ Confirmatur per illud quod 
+      <lb ed="#P" n="74"/>positum est de obiecto fidei questione praecedenti proban 
+      <lb ed="#P" n="75"/>do tertiam conclusionem.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1794">
+      ¶ Preterea. sicut are 
+      <lb ed="#P" n="76"/>ad artificiale et prudentia ad illud quod immediate per 
+      <lb ed="#P" n="77"/>prudentiam cognoscitur: sic scientia ad scibile. Sed 
+      ar<lb ed="#P" n="78" break="no"/>tificiale circa quod et respectu cuius obiectiue immedi 
+      <lb ed="#P" n="79"/>ate est ars est intelligibile extra animam. patet. 9. ethi. Ars 
+      <lb ed="#P" n="80"/>est eirca factibilia. et de factibilibus a nobis et est 
+      cir<lb ed="#P" n="81" break="no"/>ca eadem circa que interdum est fortuna. Similiter secundum 
+      <lb ed="#P" n="82"/>phphtum ibidem. Prudentia est circa conferentia homini 
+      <lb ed="#P" n="83"/>et circa bona et mala homini.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1814">
+               <lb ed="#P" n="84"/>Quinta conclusio. obiectum per se et immedi 
+      <lb ed="#P" n="85"/>ate scitum per scientia 
+      <lb ed="#P" n="86"/>qua scitur quod deus est vel quod omnis triangulus habet tres 
+      <lb ed="#P" n="87"/>non est aliquod intelligibile significabile complexe 
+      <lb ed="#P" n="88"/>distinctum ab omnibus entibus et rebus incomplexe significa 
+      <lb ed="#P" n="89"/>bilibus actu vel potentie existentibus. probatur. quia nullum 
+      <lb ed="#P" n="90"/>tale significatur per propositionem veram vel per dictum 
+      con<lb ed="#P" n="91" break="no"/>forme conclusioni demonstrate. vt probatum est in supe 
+      <lb ed="#P" n="92"/>rioribus.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1836">
+      ¶ Preterea. aut illud intelligibile ponitur 
+      <lb ed="#P" n="93"/>actualiter extra animam aut tantum in anima. Si primum. igitur 
+      <lb ed="#P" n="94"/>est ens singulare vel entia singularia. Et rationes 
+      <lb ed="#P" n="95"/>partis aduersarie contra hanc conclusionem eque redu 
+      <lb ed="#P" n="96"/>cuntur contra hoc. Si secundum igitur non est nisi conclusio 
+      <lb ed="#P" n="97"/>mentalis quod est supra improbatum et contra 
+      ponen<lb ed="#P" n="98" break="no"/>tes huiusmodi complexe significabile esse per se obiectum 
+      <lb ed="#P" n="99"/>scibile.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1854">
+      ¶ Preterea. vel illud obiectum scibile signifi 
+      <lb ed="#P" n="100"/>cabile complexe est idem cum rebus singularibus extra 
+      <lb ed="#P" n="101"/>animam et propositum quia argumenta aliorum contra quartam 
+      <lb ed="#P" n="102"/>conclusionem eque erunt contra ipsos aut non est idem. aut 
+      <lb ed="#P" n="103"/>igitur est omnino extra singularia et separatum a 
+      singula<lb ed="#P" n="104" break="no"/>ribus aut in singularibus. Si secundum propositum vt prius 
+      <lb ed="#P" n="105"/>Si primum. contra. Tum quia extra animam essent 
+      separa<lb ed="#P" n="106" break="no"/>ta actualiter vniuersalia. et ita non vere praedicarentur 
+      <lb ed="#P" n="107"/>de singularibus. Tum quia subiectum conclusionis 
+      demod<lb ed="#P" n="108" break="no"/>strate seu demonstrationis non supponeret pro singula 
+      <lb ed="#P" n="109"/>ribus nec minus esset vera circumscriptis singularibi 
+      <lb ed="#P" n="110"/>Item. vel illud obiectum est singulare vel vniuersale 
+      <lb ed="#P" n="111"/>Si primum. propositum vt prius. Si secundum. aut igitur 
+      <lb ed="#P" n="112"/>extra singularia totaliter vt prius. etc.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1886">
+      ¶ Preterea. illud 
+      <lb ed="#P" n="113"/>obiectiue scibile significabile complexe quod dicis 
+      <lb ed="#P" n="114"/>omnem triangulum habere tres. aut formaliter et intrinse 
+      <lb ed="#P" n="115"/>ce includit hunc triangulum habere tres aut non. Si 
+      <lb ed="#P" n="116"/>primum. igitur pariratione includit illum triangulum habere 
+      <lb ed="#P" n="117"/>tres.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1899">
+      ¶ Sed contra. tum quia erit continue generabile et cor 
+      <lb ed="#P" n="118"/>ruptibile secundum partes intrinsecas et erit praesentialiter 
+      <lb ed="#P" n="119"/>hic secundum partem et praesentialiter alibi secundum aliam partem et in 
+      <lb ed="#P" n="120"/>cludit formaliter res singulares. Et contra hoc sunt 
+      <lb ed="#P" n="121"/>argumenta aduersarie partis. Tum quia si includit hunc 
+      <lb ed="#P" n="122"/>triangulum habere tres et illum habere tres. etc. cum 
+      ni<lb ed="#P" n="123" break="no"/>hil plus includat sequitur quod non est nisi precise aggre 
+      <lb ed="#P" n="124"/>gatum ex illis complexe significabilibus quorum quodli 
+      <lb ed="#P" n="125"/>bet est contingens et corruptibile et quorum neutrum est 
+      <lb ed="#P" n="126"/>scibile secundum te. igitur non erit nisi aggregatum ex non 
+      <lb ed="#P" n="127"/>scibilibus et singularibus contingentibus. Tum quia 
+      conclusi<lb ed="#P" n="128" break="no"/>demonstrationis non verificaretur nisi pro intelligibili 
+      <lb ed="#P" n="129"/>complexe significabili non scito nec scibili. quia non vo 
+      <lb ed="#P" n="130"/>rificabitur / nisi pro illis complexe significabilibus 
+      <lb ed="#P" n="131"/>corruptibilibus. Si secundum. igitur nec includit illum 
+      <lb ed="#P" n="132"/>triangulum habere tres. etc. nec est idem illis vel alicui 
+      <!--89.xml-->
+      <pb ed="#P" n="39-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>illorum.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1943">
+      ¶ Sed contra. tum quia esset intelligibile omnino disti 
+      <lb ed="#P" n="2"/>ctum et separatum ab istis singularibus et extra ipsa et in 
+      <lb ed="#P" n="3"/>consequens vniuersale est extra animam totaliter extra 
+      singula<lb ed="#P" n="4" break="no"/>ria. Tum quia ex conclusione vniuersali demonstrata non 
+      <lb ed="#P" n="5"/>inferretur quod hic triangulus habet tres. quia non inclu 
+      <lb ed="#P" n="6"/>debatur nec formaliter significabatur hic triangulus 
+      <lb ed="#P" n="7"/>habere tres. Tum quia sicut triangulus ad hunc 
+      triangu<lb ed="#P" n="8" break="no"/>lum / sic triangulum habere tres ad hunc triangulum ha 
+      <lb ed="#P" n="9"/>bere tres. sed hic triangulus est triangulus vt triangi 
+      <lb ed="#P" n="10"/>lus in communi est aliquid distinctum extra animam ab omni 
+      <lb ed="#P" n="11"/>triangulo singulari. igitur. Tum quia sequitur quod 
+      mathema<lb ed="#P" n="12" break="no"/>ticus per scinam mathematice nihil scit de nuneris nec 
+      fi<lb ed="#P" n="13" break="no"/>guris. probo. per illam scientiam nihil scitur de numeris cu 
+      <lb ed="#P" n="14"/>ius scientie numerus non est obiectum neque totale ne 
+      <lb ed="#P" n="15"/>que partiale. sic autem esset. igitur. Et per idem arguitur quod per 
+      <lb ed="#P" n="16"/>fidem quam fidelis habet non credit in deum nec de deo 
+      <lb ed="#P" n="17"/>quia illius fidei deus non esset obiectum nec totale nec 
+      <lb ed="#P" n="18"/>partiale.
+    </p>
+            <p xml:id="D78nca-e23457-d1e1982">
+      ¶ Preterea. illud obiectum intelligibile com 
+      <lb ed="#P" n="19"/>plexe significabile quod est omnem triangulum habere tres 
+      <lb ed="#P" n="20"/>Aut est contingens et mutabile et tunc argumenta par 
+      <lb ed="#P" n="21"/>tis aduerse reducuntur contra hoc sicut de rebus 
+      sin<lb ed="#P" n="22" break="no"/>gularibus incomplexe significabilibus. Aut est 
+      neces<lb ed="#P" n="23" break="no"/>sarium et immutabile. et tunc extra deum esset 
+      intelligibi<lb ed="#P" n="24" break="no"/>le positiuum actualiter in vniuerso positum formaliter 
+      ne<lb ed="#P" n="25" break="no"/>cessarium et immutabile quod repugnat contingentie cre 
+      <lb ed="#P" n="26"/>ature.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2002">
+      ¶ Preterea. si obiectum immediatum scientie negatur 
+      <lb ed="#P" n="27"/>esse res singulares incomplexe significabiles. et tamen 
+      <lb ed="#P" n="28"/>ponitur quoddam complexe significabile extra animam 
+      <lb ed="#P" n="29"/>hoc esset quia conuenientur et vere diceretur quod binarium esse pa 
+      <lb ed="#P" n="30"/>rem scitur a me vel quod scio binarium esse parem. non autem 
+      <lb ed="#P" n="31"/>conuenienter dicitur quod scio binarium et ita binarius non 
+      <lb ed="#P" n="32"/>videtur obiectum sufficiens illius assensus scientifici 
+      <lb ed="#P" n="33"/>sed hoc non valet. probo primo. quia hunc hominem esse ri 
+      <lb ed="#P" n="34"/>sibilem non esset hominem esse risibile. quia scio hoc et non 
+      <lb ed="#P" n="35"/>scio illud. Similiter hominem esse risibile non esset animal 
+      <lb ed="#P" n="36"/>rationale esse risibile. quia cognosco hoc cognitione scien 
+      <lb ed="#P" n="37"/>tifica et cognosco illud cognitione que est intellectus. quia 
+      <lb ed="#P" n="38"/>hoc est vt conclusio et illud vt principium.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2031">
+      ¶ Similiter 
+      <lb ed="#P" n="39"/>deum esse non esset deus. quod supra improbatur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2037">
+      ¶ 
+      Pre<lb ed="#P" n="40" break="no"/>terea. omnino idem obiectiue intelligibile potest correspondere 
+      <lb ed="#P" n="41"/>adequate notitie scientifice et notitie non scientifice et 
+      <lb ed="#P" n="42"/>assensui scientifico et assensui non scientifico vel dubi 
+      <lb ed="#P" n="43"/>tationi in eodem intellectu. igitur propter differentiam 
+      <lb ed="#P" n="44"/>huiusmodi actuum anime non oportet ponere extra animam 
+      differen<lb ed="#P" n="45" break="no"/>tiam huiusmodi intelligibilium complexe et incomplexe. antecedens: 
+      <lb ed="#P" n="46"/>batur. Tum quia vt prius scio hominem esse risibile. non autem 
+      <lb ed="#P" n="47"/>hunc hominem vel animal rationale esse risibile. Tum quia vero 
+      <lb ed="#P" n="48"/>mediato et vero immediato potest correspondere idem obiecti 
+      <lb ed="#P" n="49"/>ue complexe significabile vt principio et conclusioni. 
+      <lb ed="#P" n="50"/>dicta enim correspondentia praedicantur de se inuicem. Ti 
+      <lb ed="#P" n="51"/>quia conceptus correspondentes istis terminis intelligibi 
+      <lb ed="#P" n="52"/>le / significabile / quesibile / scibile / non sunt notitie so 
+      <lb ed="#P" n="53"/>entifice nec veridice. et tamen praedicantur de dictis corri 
+      <lb ed="#P" n="54"/>dentibus conclusioni demostrationis et explicantibus 
+      <lb ed="#P" n="55"/>complexe intelligibilia scibilia que alii ponunt cum 
+      <lb ed="#P" n="56"/>scio deum esse potentie alicuius et dubito an potentie 
+      in<lb ed="#P" n="57" break="no"/>finite. Et scio petrum esse album et dubito an in quar 
+      <lb ed="#P" n="58"/>to gradu et multa huiusmodi. 
+      <lb ed="#P" n="59"/>predictas conclusiones primo. illud cuius 
+      <lb ed="#P" n="60"/>Contia obiectiue per se et de quo per se est sci 
+      <lb ed="#P" n="61"/>entia est vniuersale nullum significatum extra est 
+      vni<lb ed="#P" n="62" break="no"/>uersale. igitur. maior patet i. postetur. et. 7. metha.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2089">
+      ¶ Se 
+      <lb ed="#P" n="63"/>cundo illius obiectiue et de illo est per se scientia qua 
+      <lb ed="#P" n="64"/>scitur omnis triangulus habere tres cui per se primo et se 
+      <lb ed="#P" n="65"/>cundum quod ipsum conuenit habere tres et secundum quod conue 
+      <lb ed="#P" n="66"/>nit omni alteri / habenti tres / habere tres. patet 1. postetu. 
+      <!--89.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>Sed vniuersale est huiusmodi et non aliquod extra an iman 
+      <lb ed="#P" n="68"/>significatum per conclusionem. quia extra animam non sunt ni 
+      <lb ed="#P" n="69"/>si singulares trianguli quibus non conuenit illud sic. 
+      <lb ed="#P" n="70"/>igitur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2113">
+      ¶ Tertio. illius et de illo vt obiectiue ostenso 
+      <lb ed="#P" n="71"/>est per se scientia cuius vt obiectiue ostensi et 
+      iudica<lb ed="#P" n="72" break="no"/>ti est per se primo diffinitio. solum vniuersale est huiusmodi 
+      <lb ed="#P" n="73"/>et non aliqua res significata extra animam. igitur. maior 
+      <lb ed="#P" n="74"/>patet. quia diffinitio est principalior pars demonstrationis 
+      <lb ed="#P" n="75"/>vel tot a demonstratio positione differens secundum Arist. 
+      <lb ed="#P" n="76"/>igitur cuius vt obiectiue ostensi est per se diffinitio eius 
+      <lb ed="#P" n="77"/>est per se demonstratio et per consequens. scia minor probatur. quia 
+      <lb ed="#P" n="78"/>singularium non est per se diffinitio. patet. 7. metha. si 
+      <lb ed="#P" n="79"/>autem eius vt obiectiue et diffinitiue iudicati esset primo 
+      <lb ed="#P" n="80"/>et immediate diffinitio. tunc primo et per se esset 
+      diffini<lb ed="#P" n="81" break="no"/>tio singularis. patet item. quia diffinitio ostendit quid est 
+      <lb ed="#P" n="82"/>diffinitum: sed diffinitum est vniuersale. igitur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2142">
+      ¶ Quare 
+      <lb ed="#P" n="83"/>to. ad notitiam scientificam per demonstrationem acquisi 
+      <lb ed="#P" n="84"/>tam necessario requiritur notitia conclusionis. igitur no 
+      <lb ed="#P" n="85"/>titia scientifica est conclusionis vt obiectiue sciti. con 
+      <lb ed="#P" n="86"/>sequentia patet. quia si aliqua notitia conclusionis requira 
+      <lb ed="#P" n="87"/>tur necessario maxime videtur illa que est scientifica 
+      <lb ed="#P" n="88"/>antecedens probatur. quia .a. demonstrante oportet subiectum conclu 
+      <lb ed="#P" n="89"/>sionis cognosci. probatur id e poster. De subiecto scien 
+      <lb ed="#P" n="90"/>tie presupponitur quia est et quid est. Subiectum autem scien 
+      <lb ed="#P" n="91"/>tie est subiectum conclusionis. Si autem oportet subiectum co 
+      <lb ed="#P" n="92"/>gnosci. igitur. pari ratione oportet cognosci 
+      predica<lb ed="#P" n="93" break="no"/>tum. igitur pari ratione medium. Si autem oportet parten 
+      <lb ed="#P" n="94"/>cognosci. igitur et totum.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2171">
+      ¶ Confirmatur. demonstrantem 
+      <lb ed="#P" n="95"/>et scientem necessarium est cognoscere principia. igitur et 
+      <lb ed="#P" n="96"/>conclusionem. antecedens probatur. Tum quia de dignitate oportet 
+      prae<lb ed="#P" n="97" break="no"/>cognoscere quia est. 1 postetur. Tum quia ibidem arguit sic 
+      <lb ed="#P" n="98"/>pohosopulus. propter quod vnumquodque tale et illud magis. sed 
+      <lb ed="#P" n="99"/>scimus et credimus conclusionem propter principia. igitur 
+      <lb ed="#P" n="100"/>aportet magis credere et scire principia. tum . 1 postetur. 
+      <lb ed="#P" n="101"/>demonstratiua scientia est ex primis et veris notioribus 
+      <lb ed="#P" n="102"/>prioribusque. etc. Si autem principia sunt notiora et 
+      cer<lb ed="#P" n="103" break="no"/>tiora et euidentiora. igitur sunt nota cum vt supra in 
+      <lb ed="#P" n="104"/>tellectus est principiorum vt scientia conclusionum. Tum 
+      <lb ed="#P" n="105"/>1 priorum. Sillogismus est oratio in qua quibusdam posi 
+      <lb ed="#P" n="106"/>tis et concessis. etc. sed nihil conceditur nisi cognitum. etc. 
+      <lb ed="#P" n="107"/>igitur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2202">
+      ¶ Quinto. scientia non est significati per 
+      prin<lb ed="#P" n="108" break="no"/>cipium tanquam per se obiectiue sciti. igitur nec signi 
+      <lb ed="#P" n="109"/>ficati per conclusionem. antecedens probatur. quia significatum 
+      <lb ed="#P" n="110"/>per principium est per se notum et euidens nec est 
+      quesi<lb ed="#P" n="111" break="no"/>bile et sic esse sicut per principium significatur. consequentia 
+      pro<lb ed="#P" n="112" break="no"/>batur. quia idem omnino est significabile complexe per 
+      princi<lb ed="#P" n="113" break="no"/>pium et coclusionem. probo. quia principium et conclusio non difi 
+      <lb ed="#P" n="114"/>ferunt nisi quia subiectum coclusionis est diffinitum et 
+      sub<lb ed="#P" n="115" break="no"/>iectum principii est diffinitio. sed idem est significatum 
+      <lb ed="#P" n="116"/>per conceptum diffiniti / et per conceptum 
+      diffini<lb ed="#P" n="117" break="no"/>tionis quia diffinitio predicatur personaliter in quid 
+      <lb ed="#P" n="118"/>de diffinito. Et patet. quia idem omnino est in re ho 
+      <lb ed="#P" n="119"/>mo et animal rationale. Et idem est in re. extra 
+      ho<lb ed="#P" n="120" break="no"/>minem esse risibilem et animal rationale esse risibile. 
+    </p>
+            <p xml:id="D78nca-e23457-d1e2234">
+               <lb ed="#P" n="121"/>¶ Confirmatur. Scibile est minus notum et euidens quam 
+      <lb ed="#P" n="122"/>ea per que et propter que scitur. Sed significatum 
+      con<lb ed="#P" n="123" break="no"/>clusionis non est huiusmodi. quia est idem cum significato prino 
+      <lb ed="#P" n="124"/>pii. vel sic. illius vt obiectiue ostensi est demonstratio 
+      <lb ed="#P" n="125"/>et scina quod scitur per aliud magis notum et in hac 
+      habi<lb ed="#P" n="126" break="no"/>tudine ad aliud prius magis notum. sed significatum com 
+      <lb ed="#P" n="127"/>clusionis non est huiusmodi. immo ipsa conclusio. igitur. ma 
+      <lb ed="#P" n="128"/>ior patet. tum 1 postetur. Scientia demonstratiua est ex prio 
+      <lb ed="#P" n="129"/>ribus et notioribus. etc. Tum quia dubitabile / et quesibile 
+      <lb ed="#P" n="130"/>non addicitur scientifice nisi per aliquod notius quia 
+      <lb ed="#P" n="131"/>propter quod vnumquodque tale et illud magis. minor 
+      <lb ed="#P" n="132"/>probatur. quia significatum principii est idem significato per 
+      <!--90.xml-->
+      <pb ed="#P" n="40-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>conclusionem vt probatum est. igitur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2271">
+      ¶ Sexto. idem 
+      <lb ed="#P" n="2"/>omnino esset per se et immediate obiectum scientie et 
+      opi<lb ed="#P" n="3" break="no"/>nionis / et fidei et erroris / et apud eundem hominem. ita 
+      <lb ed="#P" n="4"/>quod idem omnino obiectiue esset simul ab eodem scitum / et 
+      opi<lb ed="#P" n="5" break="no"/>natum / et creditum / et false / et erronee iudicatum. probo.: 
+      <lb ed="#P" n="6"/>quia contingit quod aliquis sciat deum esse vnum essentialiter et esse 
+      <lb ed="#P" n="7"/>alicuius potentie et opinatur ipsum esse ens infinitum et 
+      <lb ed="#P" n="8"/>credit ipsum esse libere volitiuum et errat dissentiendo ipsum 
+      <lb ed="#P" n="9"/>esse incarnatum. et tamen obiectiue significatum per huiusmodi 
+      <lb ed="#P" n="10"/>dicta est idem realiter. quia vnum dictum verificatur de aliu 
+      <lb ed="#P" n="11"/>personaliter et quodlibet istorum est ipse deus.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2295">
+      ¶ Septimo 
+      <lb ed="#P" n="12"/>illius vt obiectiue ostensi est per se demonstratio et per 
+      <lb ed="#P" n="13"/>consequens scientia quod per demonstrationem est clare et eui 
+      <lb ed="#P" n="14"/>denter scitum et nullo modo ignoratum nec dubitatum 
+      <lb ed="#P" n="15"/>nec restat addiscendum habita illa demonstratione / et 
+      <lb ed="#P" n="16"/>non illius quod contingit ignorari vel dubitari vel 
+      vl<lb ed="#P" n="17" break="no"/>terius addisci per huiusmodi demonstrationem habitam. 
+      <lb ed="#P" n="18"/>Sic est de conclusione et de significatis per eam. igitur 
+      <lb ed="#P" n="19"/>maior patet. per demonstrationem enim est aliquid notum 
+      <lb ed="#P" n="20"/>euidenter et clare et perfecte et illud non est nisi scibile. vn 
+      <lb ed="#P" n="21"/>de. 1 postetur. Scibile non potest perfectius cognosci quam 
+      <lb ed="#P" n="22"/>per scientiam et demonstrationem ex principiis. minor 
+      <lb ed="#P" n="23"/>probatur. Significabilia enim per conclusionem demon 
+      <lb ed="#P" n="24"/>strationis probantis quod omnis triangulus habet tres sunt 
+      <lb ed="#P" n="25"/>hic triangulus singularis et ille. etc. vel sunt hunc triam 
+      <lb ed="#P" n="26"/>gulum habere tres et illum triangulum habere tres. hec 
+      <lb ed="#P" n="27"/>autem non cognoscuntur per illam notitiam vniuersalem 
+      <lb ed="#P" n="28"/>perfecte et clare. sed tantum imperfecte confuse et 
+      indi<lb ed="#P" n="29" break="no"/>stincte et habens illam notitiam vniuersalem est in potentia 
+      <lb ed="#P" n="30"/>ad addiscendum hec. Unde Arist. 1 postetur. habita de 
+      <lb ed="#P" n="31"/>monstratione quod omnis triangulus habet tres. non scitur 
+      <lb ed="#P" n="32"/>quod hic triangulus habeat tres nisi per accidens et in po 
+      <lb ed="#P" n="33"/>tentia. Et contra platonem. Arist. ponit quod non sequitur 
+      <lb ed="#P" n="34"/>Scio omnem dualitatem esse parem. ergo scio hanc 
+      dua<lb ed="#P" n="35" break="no"/>litatem esse parem. immo scito quod omnis dualitas est par. 
+      <lb ed="#P" n="36"/>Si ostendatur nouiter hec singularis dualitas 
+      apprae<lb ed="#P" n="37" break="no"/>henditur et addiscitur nouiter aliquid prius ignotum 
+      <lb ed="#P" n="38"/>patet item. quia 1 postetur. possum scire quod omnis mula est ster 
+      <lb ed="#P" n="39"/>lis et ignorare vel dubitare an hec mula sit sterilis / 
+      <lb ed="#P" n="40"/>et an habeat fetum in vtero. igitur. etc.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2360">
+      ¶ Octauo. par 
+      <lb ed="#P" n="41"/>omnem demonstrationem et scientiam est aliquod scibile 
+      <lb ed="#P" n="42"/>per se et primo et immediate scitum in actu / et res pectu 
+      <lb ed="#P" n="43"/>cuius per se notitia dicitur scientifica. Scientia enim 
+      <lb ed="#P" n="44"/>refertur per se primo ad scibile. 5. metha. quero quid 
+      <lb ed="#P" n="45"/>sit illud secundum rem. Si conclusio demonstrationis vel 
+      <lb ed="#P" n="46"/>complexe significabile vniuersale distinctum a rebus 
+      <lb ed="#P" n="47"/>singularibus extra significabilibus incomplexe hoc est 
+      <lb ed="#P" n="48"/>contra te. si aliquod alterum significatum extra. contra 
+      <lb ed="#P" n="49"/>quia omnem triangulum habere tres nihil est extra animam 
+      <lb ed="#P" n="50"/>nisi hic triangulus et ille vel hunc triangulum habere tres vel 
+      <lb ed="#P" n="51"/>illum triangulum habere tres. etc. sed ista non sunt scibilia 
+      <lb ed="#P" n="52"/>per se primo et immediate in actu scita / nec respectu 
+      <lb ed="#P" n="53"/>eorum vt scitorum vel scibilium dicitur notitia scientifica per se 
+      <lb ed="#P" n="54"/>probo multipliciter. Primo. quia non est conueniens sermi 
+      <lb ed="#P" n="55"/>dicere / scio hunc triangulum. nec est responsio con 
+      <lb ed="#P" n="56"/>ueniens ad questionem qua queritur quid scias
+    </p>
+            <p xml:id="D78nca-e23457-d1e2397">
+      ¶ Secundo 
+      <lb ed="#P" n="57"/>quia hoc non est clare et euidenter / et distincte notum per 
+      <lb ed="#P" n="58"/>illam scientiam vniuersalem. Tertio. sequitur notitia 
+      <lb ed="#P" n="59"/>singularis seu propositio mentalis singularis esset primo 
+      <lb ed="#P" n="60"/>scientifica. probo. quia est per se et distincte et perfectius 
+      <lb ed="#P" n="61"/>et immediatius cognitio obiecti per se et primo scibilis 
+      <lb ed="#P" n="62"/>et magis per se et immediatum ordinem habet ad illud  
+      <lb ed="#P" n="63"/>Quarto. scientia esset de contingenti aliter se habere 
+      <lb ed="#P" n="64"/>tanquam de per se scibili. consequens est contra Arist. 1 postetur. 
+      <lb ed="#P" n="65"/>et. 5. ethi. c. 3. Omnes suspicamur quod scimus non con 
+      <lb ed="#P" n="66"/>tingere aliter se habere. cotingentia enim aliter se ha 
+      <!--90.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>bere latent si sunt vel non sunt cum extra speculari fiant 
+      <lb ed="#P" n="68"/>ex necessitate. ergo est scibile et eternum. consequentia probatur 
+      <lb ed="#P" n="69"/>quia hic triangulus et hunc triangulum habere tres est 
+      <lb ed="#P" n="70"/>corruptibile et possibile aliter se habere. Si enim hic triam 
+      <lb ed="#P" n="71"/>gulus nihil sit non habet tres angulos. etc. et ita 
+      sci<lb ed="#P" n="72" break="no"/>tum possit non esse scitum stante demonstratione et scien 
+      <lb ed="#P" n="73"/>tia priore et notitia respectu alicuius aliquando esset scien 
+      <lb ed="#P" n="74"/>tifica et aliquando non et aliquid esset scientifice notum par 
+      <lb ed="#P" n="75"/>aliquam demonstrationem et scientiam et aliquando non etiam 
+      <lb ed="#P" n="76"/>manente illa. igitur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2447">
+      ¶ Nono. obiectiue scitum per se 
+      <lb ed="#P" n="77"/>et immediate per demonstrationem qua scio quod omnis trian 
+      <lb ed="#P" n="78"/>gulus habet tres / aut est aggregatum collectiue ex omni 
+      <lb ed="#P" n="79"/>bus singularibus triangulis seu ex omnibus significabi 
+      <lb ed="#P" n="80"/>libus coplexe per omnes singulares propositiones illius vni 
+      <lb ed="#P" n="81"/>uersalis collectiue sumptas siue de triangulis existenti 
+      <lb ed="#P" n="82"/>bus siue non existentibus. ita quod cum dico. scio omnem trian 
+      <lb ed="#P" n="83"/>gulum habere tres istud dictum supponit pro dicto 
+      <lb ed="#P" n="84"/>aggregato. Idem enim significatur per vniuersalem et 
+      pe<lb ed="#P" n="85" break="no"/>omnes singulares collectiue sumptas. aut secundo est ag 
+      <lb ed="#P" n="86"/>gregatum ex triangulis existentibus tantum seu ex 
+      signifi<lb ed="#P" n="87" break="no"/>cabilibus complexe per singulares formabiles de 
+      tri<lb ed="#P" n="88" break="no"/>angulis exinttibus tantum / aut tertio est quilibet triangulus diui 
+      <lb ed="#P" n="89"/>sim seu quodlibet significabile complexe per quamlibes 
+      <lb ed="#P" n="90"/>singularem propositio sitionem diuisim. Si primu. contra. Tum 
+      <lb ed="#P" n="91"/>quia scientia esset falsa. illud enim quod omnino nichil est 
+      <lb ed="#P" n="92"/>non habet tres angulos equales duobus rectis. quia 
+      <lb ed="#P" n="93"/>nec est equale nec maius neque minus. Et quia sicut non 
+      <lb ed="#P" n="94"/>est quantitas bipedalis. ita nec trium angulorum / nec 
+      <lb ed="#P" n="95"/>figuratum nec quantum. Tum quia falsum est quod illud 
+      aggre<lb ed="#P" n="96" break="no"/>gatum habeat tantum tres angulos equales duobus re 
+      <lb ed="#P" n="97"/>ctis. si vnus habet tres. igitur duo trianguli simul sum 
+      <lb ed="#P" n="98"/>pti habent sex angulos equales quattuor rectis. igitur 
+      <lb ed="#P" n="99"/>tur infiniti collectiue sumpti habent infinitos. Tum 
+      <lb ed="#P" n="100"/>quia cum dicitur omnis triangulus habet tres ibi est distri 
+      <lb ed="#P" n="101"/>butio triangulorum non collectio. aliter non sequeretur 
+      <lb ed="#P" n="102"/>igitur iste triangulus habet tres. Si detur secundum com 
+      <lb ed="#P" n="103"/>tra. Tum quia vt supra. Scibile per se et primo scitum per 
+      <lb ed="#P" n="104"/>aliquam demonstrationem et scientiam desineret esse scitu 
+      <lb ed="#P" n="105"/>stante et manente illa demonstratione et scientia et no 
+      <lb ed="#P" n="106"/>titia scientifica eadem non semper esset eiusdem per se 
+      <lb ed="#P" n="107"/>scibilis: sed respectu alicuius per se et immediate esset sci 
+      <lb ed="#P" n="108"/>entifica nunc et non prius nec consequenter scire hodie 
+      <lb ed="#P" n="109"/>idem quod heri per eandem scientiam. quia trianguli heri 
+      <lb ed="#P" n="110"/>existentes non existunt hodie sed succedunt alii. Tum quia sci 
+      <lb ed="#P" n="111"/>entia esset respectu contingentis aliter se habere vt per 
+      <lb ed="#P" n="112"/>se obiecti scibilis. Tum quia falsum est vt supra quod omnes 
+      <lb ed="#P" n="113"/>trianguli nunc existentes collectiui sumpti habeant tres 
+      <lb ed="#P" n="114"/>angulos equales duobus rectis. immo habent multo 
+      <lb ed="#P" n="115"/>plures. et tamen contingit scire quod omnis triangulus habet 
+      <lb ed="#P" n="116"/>precise tres angulos equales duobus rectis. Tum 
+      <lb ed="#P" n="117"/>quia scire quod omnis triangulus habet tres non esset nisi sci 
+      <lb ed="#P" n="118"/>entia qua formaliter cognoscitur omnem triangulum nunc 
+      <lb ed="#P" n="119"/>existentem habere tres. sed hoc est falsum. quia omnis notitia/ 
+      <lb ed="#P" n="120"/>seu talis notitia non est scientifica nec idem adequate 
+      <lb ed="#P" n="121"/>exhibetur per illam conclusionem et per istam propositionem. quia 
+      <lb ed="#P" n="122"/>illa conclusio exhibet indifferenter omnem triangulum 
+      <lb ed="#P" n="123"/>siue existat siue non et ista propositio esset magis per se et primo 
+      <lb ed="#P" n="124"/>scibilis. quam illa conclusio vniuersalis quod est falsum. 
+      <lb ed="#P" n="125"/>ex eisdem potest improbari tertium.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2557">
+      ¶ Decimo. illius 
+      tan<lb ed="#P" n="126" break="no"/>quam obiectiue ostensi et de illo tanquam obiectiue scibiliter 
+      <lb ed="#P" n="127"/>non est per se primo scientia pro quo non verificatur com 
+      <lb ed="#P" n="128"/>clusio demonstrationis et quod non est causa veritatis  
+      <lb ed="#P" n="129"/>scientie et conclusionis demonstrate nec ab illo depen 
+      <lb ed="#P" n="130"/>det scientia et veritas conclusionis demonstrate. patet quia 
+      <lb ed="#P" n="131"/>ista conueniunt scibili respectu scientie. est enim mesura 
+      <lb ed="#P" n="132"/>5. metha. cap. adaliquid. Sed singularia extra ani¬ 
+      <!--91.xml-->
+      <pb ed="#P" n="40-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>mam sunt huiusmodi. probatur multipliciter. Primo. quia hec 
+      <lb ed="#P" n="2"/>est vera per se primo modo. triangulus habet tres 
+      <lb ed="#P" n="3"/>et secundum quod triangulus: sed non est vera per se primo pri 
+      <lb ed="#P" n="4"/>aliquo singulari triangulo extra animam quia ille non ha 
+      <lb ed="#P" n="5"/>bet primo tres. etc.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2592">
+      ¶ Secundo. quia scientia non verifica 
+      <lb ed="#P" n="6"/>tur primo et per se pro illis rebus propter quarum varie 
+      <lb ed="#P" n="7"/>tatem non variatur scientia de veritate in falsitate 
+      <lb ed="#P" n="8"/>Ueritas enim necessaria et immutabilis non verificatur 
+      <lb ed="#P" n="9"/>per se et primo pro entitate mutabili et corruptibili nec 
+      <lb ed="#P" n="10"/>ab ea per se dependet. sed res singulares sunt corru 
+      <lb ed="#P" n="11"/>ptibiles.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2608">
+      ¶ Tertio. ab eodem dependet veritas 
+      scien<lb ed="#P" n="12" break="no"/>tie et euidentia scientie. sed euidentia scientie non depon 
+      <lb ed="#P" n="13"/>det a rebus singularibus extra. Tum quia euidentia scien 
+      <lb ed="#P" n="14"/>tie sufficienter dependet ab illatione sillogismi demon 
+      <lb ed="#P" n="15"/>stratiui. Tum quia per notitiam scientificam cognoscuntur 
+      <lb ed="#P" n="16"/>ille res singulares imperfecte et confuse. et latet animam 
+      <lb ed="#P" n="17"/>an sint vel non. immo per sensum euidentius cogno 
+      <lb ed="#P" n="18"/>scuntur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2626">
+      ¶ Quarto. sequitur quod quanto scientia vel de 
+      <lb ed="#P" n="19"/>monstratio esset minus vniuersalis / tanto esset dignior 
+      <lb ed="#P" n="20"/>et prior. consequentia patet. quia tanto esset propinquior prime cause 
+      <lb ed="#P" n="21"/>veritatis sue et suo per se scibili. consequens est falsum. quod 
+      <lb ed="#P" n="22"/>quanto scientia vel demonstratio est minus 
+      vniuer<lb ed="#P" n="23" break="no"/>salis tanto est indignior et in veritate posterior secund 
+      <lb ed="#P" n="24"/>Arist 1 postetur. c. 23. et ex. 1. metha.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2642">
+      ¶ Quinto. sequ 
+      <lb ed="#P" n="25"/>tur quod notitia singularis et qua formaliter cognoscitur 
+      <lb ed="#P" n="26"/>quod hic triangulus habet tres esset per se magis scien 
+      <lb ed="#P" n="27"/>tifica quam illa vniuersalis. probo. quia magis per se et 
+      di<lb ed="#P" n="28" break="no"/>stincte ostenderet et exhiberet idem per se scibile et can 
+      <lb ed="#P" n="29"/>sam veritatis et scientie. sicut primo metha. sortes 
+      sa<lb ed="#P" n="30" break="no"/>natur per se / homo per accidens.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2658">
+      ¶ Sexto. sequitur quod qua 
+      <lb ed="#P" n="31"/>libet singularis propositio erit prior et causalis respectu 
+      <lb ed="#P" n="32"/>conclusionis vniuersalis demonstrate. patet consequentia. quia si 
+      <lb ed="#P" n="33"/>hec conclusio vniuersalis. omnis triangulus habet tres 
+      <lb ed="#P" n="34"/>verificatnr per se et primo pro hoc singulari et pro ille 
+      <lb ed="#P" n="35"/>vt pro causis sue veritatis. igitur huc triangulum ha 
+      <lb ed="#P" n="36"/>bere tres est vna causa partialis quare illa 
+      vniuer<lb ed="#P" n="37" break="no"/>salis est vera et omnes singulares erunt per se causa te 
+      <lb ed="#P" n="38"/>talis illius veritatis vniuersalis. falsitas consequentis 
+      pro<lb ed="#P" n="39" break="no"/>batur. quia talis vniuersalis posset sciri propter quid et 
+      <lb ed="#P" n="40"/>a priori per inductionem in singularibus quod est con 
+      <lb ed="#P" n="41"/>tra Arist 1 poste. c. 5. quia nec per huiusmodi inductionem est 
+      <lb ed="#P" n="42"/>scientia. patet etiam falsitas consequentis. quia propositio in qua predicatur 
+      <lb ed="#P" n="43"/>passio de suo primo subiecto vniuersali est prior et 
+      <lb ed="#P" n="44"/>causalis respectu propositionum in quibus eadem passio pre 
+      <lb ed="#P" n="45"/>dicatur de subiecto secundario non conuertibili. conue 
+      <lb ed="#P" n="46"/>nit enim primo et secundum quod ipsum illi primo subiecto 
+      con<lb ed="#P" n="47" break="no"/>uertibili et propter ipsum conuenit aliis. vt ysocheles ha 
+      <lb ed="#P" n="48"/>bet tres secundum quod triangulus. et quia triangulus non econ 
+      <lb ed="#P" n="49"/>tra et demonstratur de subiecto inferiori per subiectum 
+      <lb ed="#P" n="50"/>primum. 1 poster. igitur etc. 
+      <lb ed="#P" n="51"/>demonstrationem vel scientiam 
+      <lb ed="#P" n="52"/>Ad primum. esse alicuius vel de aliquo potest 
+      <lb ed="#P" n="53"/>intelligiquadrupliciter vel tamquam consequentis illati et hoc est ipsum 
+      <lb ed="#P" n="54"/>complexum quod est conclusio demonstrationis / aut tanquam 
+      <lb ed="#P" n="55"/>subiecti de: quo concluditur demonstratiue aliquod 
+      <lb ed="#P" n="56"/>predicatum / aut tanquam praedicabilis quod per demonstra 
+      <lb ed="#P" n="57"/>tionem infertur predicari de aliquo / aut tanquam obie 
+      <lb ed="#P" n="58"/>ctiue ostensi et notificati. maior tamen conceditur primis 
+      <lb ed="#P" n="59"/>duobus modis. Sed negatur quarto modo. Non enim 
+      <lb ed="#P" n="60"/>oportet quod sit vniuersale: sed vniuersaliter ostensum et 
+      <lb ed="#P" n="61"/>notitia vniuersali. et sic intendit Arist. loquitur eni 
+      <lb ed="#P" n="62"/>de vniuersalibus locutione transitiua quasi vniuersa 
+      <lb ed="#P" n="63"/>lia forent obiecta intelligibilia extra animam. sed sen 
+      <lb ed="#P" n="64"/>mones eius intelligendi sunt intransitiue.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2735">
+      ¶ Ad secundum 
+      <lb ed="#P" n="65"/>maior conceditur. accipiendo scientiam esse alicuius tamquam 
+      <lb ed="#P" n="66"/>subiecti de quo concluditur predicatum. sed negatur ac 
+      <!--91.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>cipiendo scientiam esse illius vt obiecciue sciti. quia 
+      <lb ed="#P" n="68"/>huiusmodi determinationes per se primo secundum quod ipsum sunt 
+      <lb ed="#P" n="69"/>termini secunde intentionis et sunt modificationes praedi 
+      <lb ed="#P" n="70"/>catorum. et propositio in qua ponuntur fit de actu signato 
+    </p>
+            <p xml:id="D78nca-e23457-d1e2755">
+               <lb ed="#P" n="71"/>¶ Ad tertium. diffinitionem esse alicuius intelligitur 
+      du<lb ed="#P" n="72" break="no"/>pliciter. Uno modo tanquam signi et conceptus / vel predi 
+      <lb ed="#P" n="73"/>cabilis impliciti et implicite indicantis id quod diffin 
+      <lb ed="#P" n="74"/>tio indicat explicite et dearticulate explicando genus 
+      <lb ed="#P" n="75"/>et differentias. et sic diffinitum et diffinitio distinguumt 
+      <lb ed="#P" n="76"/>realiter / et diffinitum est vniuersale / et diffinitio est ma 
+      <lb ed="#P" n="77"/>gis composita quam diffinitum. conceditur autem quod de eo cuius 
+      <lb ed="#P" n="78"/>sic est diffinitio eius est demonstratio et scientia tanquam 
+      <lb ed="#P" n="79"/>subiecti vel predicati quod vel de quo per 
+      demon<lb ed="#P" n="80" break="no"/>strationem infertur predicari. non autem de eo tanquam 
+      sci<lb ed="#P" n="81" break="no"/>bili obiectiue ostenso. Alio modo. tamquam illius cuius esset 
+      <lb ed="#P" n="82"/>tiam et quidditatem diffinitio explicite indicat. et sic 
+      <lb ed="#P" n="83"/>entium extra animam est diffinitio et eorum vt obiectiue osten 
+      <lb ed="#P" n="84"/>sorum est scientia. Quod autem Arist. dicit singularium non 
+      <lb ed="#P" n="85"/>esse diffinitionem intendit quod nullus conceptus 
+      singu<lb ed="#P" n="86" break="no"/>laris est proprie et per se diffinitio vel diffinitum eo modo 
+      <lb ed="#P" n="87"/>quo locuti sunt philosophi de diffinitione et diffinito de talibus 
+      <lb ed="#P" n="88"/>enim sub conceptibus singularibus non est scientia. et quia 
+      <lb ed="#P" n="89"/>diffinitio quidditatiua huius singularis et illius videtur 
+      <lb ed="#P" n="90"/>omnino eadem et similis sine differentia aliqua. ideo sufficit ad 
+      <lb ed="#P" n="91"/>dere pronomen demonstratiuum ad appropriandum. 
+      <lb ed="#P" n="92"/>Vel si accipitur aliqua differentia illa est extra essentiam 
+      <lb ed="#P" n="93"/>et quidditatem huius singularis vel infinite erunt differentie 
+      sin<lb ed="#P" n="94" break="no"/>gularium secundum infinitam diuisibilitatem huius differentie 
+      <lb ed="#P" n="95"/>Quod autem ipsius conceptus vniuersalis non sit diffinitio 
+      <lb ed="#P" n="96"/>vt ostensi obiectiue. patet. quia querens quid est homo non 
+      <lb ed="#P" n="97"/>querit quid sit ille conceptus nec querit illius quidde 
+      <lb ed="#P" n="98"/>tatem sibi manifestari. Et quia cum respondetur quod est animal 
+      <lb ed="#P" n="99"/>rationale non indicatur quid essentialiter et quidditatiue 
+      <lb ed="#P" n="100"/>sit ille conceptus mentis. quia indicatur quidditas substam 
+      <lb ed="#P" n="101"/>tie non accidentis. ille enim conceptus compositus non 
+      <lb ed="#P" n="102"/>magis indicat quid sit ille conceptus implicitus quam econ 
+      <lb ed="#P" n="103"/>tra. sicut ista oratio / animal rationale non indicat quid fit 
+      <lb ed="#P" n="104"/>ista vox homo magis quam econtra.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2831">
+      ¶ Ad quartum. nega 
+      <lb ed="#P" n="105"/>tur antecedens. sed requiritur notitia que est conclusio mentalis 
+      <lb ed="#P" n="106"/>vel requiritur notitia conformis et correspondens conclusio 
+      <lb ed="#P" n="107"/>ni exteriori.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2840">
+      ¶ Ad probationem. Aristo. accipit subie 
+      <lb ed="#P" n="108"/>ctum pro obiectiue vniuersaliter significato per conceptum 
+      <lb ed="#P" n="109"/>correspondentem subiecto iuxta communem vsum loquen 
+      <lb ed="#P" n="110"/>di. vel intendit quod preexigitur haberi diffinitio subiect 
+      <lb ed="#P" n="111"/>i. conceptus explicatiuus correspondens conceptui implicito 
+    </p>
+            <p xml:id="D78nca-e23457-d1e2851">
+               <lb ed="#P" n="112"/>¶ Ad confirmationem. negatur antecedens nisi in sensu 
+      supra<lb ed="#P" n="113" break="no"/>posito. Dicendo ad primum. contra tertiam 
+      conclusio<lb ed="#P" n="114" break="no"/>nem. Ad primam probationem antecedentis intelligitur quod oporte 
+      <lb ed="#P" n="115"/>precognoscere sic esse. scilicet. sicut per principium signifi 
+      <lb ed="#P" n="116"/>catur. vel oportet primo haberi principium seu 
+      apprehensio<lb ed="#P" n="117" break="no"/>nem correspondentem principio vocali cum assensu 
+      confor<lb ed="#P" n="118" break="no"/>mi. Ad secundam. cocluditur quod notius est sic esse. scilicet 
+      <lb ed="#P" n="119"/>sicut significatur per principium quam sic esse sicut 
+      signifi<lb ed="#P" n="120" break="no"/>catur per conclusione. et hoc est quod hec notitia est 
+      per<lb ed="#P" n="121" break="no"/>fectior / clarior / et euidentior non obiectiue / sed 
+      osten<lb ed="#P" n="122" break="no"/>siue formaliter. Ad alias probationes per idem.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2877">
+      ¶ Ad  
+      <lb ed="#P" n="123"/>quintum. conceditur quod scientia non est significati per prin 
+      <lb ed="#P" n="124"/>cipium. quatenus significatur per principium nec ali 
+      <lb ed="#P" n="125"/>qua notitia adequate significans complexe vel 
+      incom<lb ed="#P" n="126" break="no"/>plexe conformiter principio est scientifica. ideo sic ac 
+      <lb ed="#P" n="127"/>cipiendo antecedens. negatur consequenta. tamen illud obiectiue 
+      intelligi<lb ed="#P" n="128" break="no"/>bile quod est complexe significatum per principium et de 
+      <lb ed="#P" n="129"/>quo vere predicatur dictum correspondens principio est 
+      <lb ed="#P" n="130"/>realiter obiectum intelligibile scibile et est illud 
+      intel<lb ed="#P" n="131" break="no"/>ligibile scibile cuius vt obiectiue sciti est scientia. et sic 
+      <lb ed="#P" n="132"/>negatur antecedens. Ad probationem conceditur illud assumptum 
+      <!--92.xml-->
+      <pb ed="#P" n="41-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quia non importat nisi quod talis noticia complexa est certa / et 
+      e<lb ed="#P" n="2" break="no"/>uidens secundum exhibitionem sicut notum est mihi illud remotum 
+      <lb ed="#P" n="3"/>esse animal: licet dubium sitmihi illud esse hominem tamen illud esse hominem 
+      <lb ed="#P" n="4"/>est realiter de facto illud esse animal.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2917">
+      ¶ Ad probatio 
+      <lb ed="#P" n="5"/>nem consequentie conceditur quod dictum correspon 
+      <lb ed="#P" n="6"/>dens principio predicatur personaliter de dicto cor 
+      <lb ed="#P" n="7"/>respondente conclusioni: tamen non adequate nec pre 
+      <lb ed="#P" n="8"/>cise eadem intelligibilia significantur per vtrunque 
+      <lb ed="#P" n="9"/>quia nec eadem adequate significantur per diffinitio 
+      <lb ed="#P" n="10"/>nem / et diffinitum: sed plura per diffinitionem licet 
+      <lb ed="#P" n="11"/>alterum praedicetur de altero.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2935">
+      ¶ Ad confirmationem 
+      <lb ed="#P" n="12"/>antecedens intelligendum est quod noticia correspon 
+      <lb ed="#P" n="13"/>dens precise et adequate coclusioni demonstrationis 
+      <lb ed="#P" n="14"/>non est ita clara sicut complexa noticia praecise et ad 
+      <lb ed="#P" n="15"/>quate correspondens principio secundum tales conceptus 
+      <lb ed="#P" n="16"/>tamen sic esse sicut significatur per principium est sic 
+      <lb ed="#P" n="17"/>esse sicut significatur per conclusionem: licet nulle due note 
+      <lb ed="#P" n="18"/>cie complexe se habeant vt conclusio / et principium 
+      <lb ed="#P" n="19"/>si ostendant adequate idem: licet vna perfectius quam alia 
+      <lb ed="#P" n="20"/>maxime sit eiusdem rationis: sed oportet quod sint alte 
+      <lb ed="#P" n="21"/>rius rationis: et quod vna conuenienter ostendat plura quam 
+      <lb ed="#P" n="22"/>alia: nisi forte in transcendentibus.
+    </p>
+            <p xml:id="D78nca-e23457-d1e2961">
+      ¶ Ad sextum. ne 
+      <lb ed="#P" n="23"/>gatur consequentia accipiendo consequens in sensu 
+      <lb ed="#P" n="24"/>in quo communiter fit et accipitur: quia secundum communem 
+      <lb ed="#P" n="25"/>vsum consequens intelligitur quod homo possit habere 
+      <lb ed="#P" n="26"/>actum sciendi et dubitandi et errandi correspondentem 
+      <lb ed="#P" n="27"/>et conformem precise et adequate et significando / et 
+      <lb ed="#P" n="28"/>repre sentando eidem propositioni: puta quod formata 
+      <lb ed="#P" n="29"/>in mente hac propositione .a. est .b. quod itellectus habet 
+      <lb ed="#P" n="30"/>assensum scientificum formaliter et adequate 
+      con<lb ed="#P" n="31" break="no"/>formem illi enunciationi vocali: et actum dubitan 
+      <lb ed="#P" n="32"/>di / et errandi quae sunt contraria. Accipiendo autemcon 
+      <lb ed="#P" n="33"/>sequens quod idem intelligibile obiectum exhibetur per 
+      <lb ed="#P" n="34"/>illos actus: et quod illi actus feruntur super idem obiectu 
+      <lb ed="#P" n="35"/>materiale: et tendunt in idem: conceditur ita quod dictum 
+      <lb ed="#P" n="36"/>correspondens actui certitudinis / et dictum 
+      correspon<lb ed="#P" n="37" break="no"/>dens actui dubitandi / et dictum correspondens actui 
+      <lb ed="#P" n="38"/>errandi praedicantur personaliter de seinuicem. de 
+      fa<lb ed="#P" n="39" break="no"/>cto licet hoc lateat talem intellectum.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3000">
+      ¶ Ad septimum. 
+      <lb ed="#P" n="40"/>conceditur maior de noticia clara / et euidenti per se 
+      <lb ed="#P" n="41"/>scientifica: et de ignorantia / vel dubitatione ei 
+      op<lb ed="#P" n="42" break="no"/>posita. potest tamen esse ignorantia alio modo puta 
+      <lb ed="#P" n="43"/>in particulari Negatur autem minor: immo habita de 
+      <lb ed="#P" n="44"/>monstratione mihi est euidenter notum omnem trian 
+      <lb ed="#P" n="45"/>gulum extra animam habere tres: et sic esse in re: et 
+      <lb ed="#P" n="46"/>cum dicitur quod adhuc contigit ignorare / vel addiscere quod 
+      <lb ed="#P" n="47"/>hic triangulus habet tres. Concedo accipiendo 
+      igno<lb ed="#P" n="48" break="no"/>rantiam pro negatione scientie actualis / et 
+      habitua<lb ed="#P" n="49" break="no"/>lis genite ex actuali: tamen talis est in potentia 
+      acci<lb ed="#P" n="50" break="no"/>dentali et proxima ad noticiam particularem habita 
+      <lb ed="#P" n="51"/>noticia quod hic triangulus est triagulus. ex hoc igitur 
+      <lb ed="#P" n="52"/>non probatur minor: quia sicut cognoscere quod hic 
+      triangu<lb ed="#P" n="53" break="no"/>lus habet tres est habere noticiam conformem huic 
+      <lb ed="#P" n="54"/>praepositioni singulari: ita ignorare quod hic triangulus 
+      <lb ed="#P" n="55"/>habet tres est carere noticia complexa indiuiduali 
+      con<lb ed="#P" n="56" break="no"/>formi illi propositioni singulari. Ex his igitur non sequ 
+      <lb ed="#P" n="57"/>tur quin significatum conclusionis sit clare et euide 
+      <lb ed="#P" n="58"/>ter notum noticia vniuersali scientifica: et quin illa no 
+      <lb ed="#P" n="59"/>ticia complexa vniversalis sit euidens formaliter ostensiue: 
+      <lb ed="#P" n="60"/>et voco noticiam complexam conformen et correspondentem 
+      <lb ed="#P" n="61"/>isti propositioni singularii / hic triangulus habet tres illam 
+      no<lb ed="#P" n="62" break="no"/>ticiam complexam cui hec propositio singularis subordi 
+      <lb ed="#P" n="63"/>natur in significando aliqua sic quod significant eadem adequa 
+      <lb ed="#P" n="64"/>te tam complexe quam incomplexe: et sub eisdem modis 
+      gran<lb ed="#P" n="65" break="no"/>maticalibus / et logicalibus natis conuenire vtrique 
+      <lb ed="#P" n="66"/>Et quicquid sufficit et requiritur ad veritatem et falsita¬  
+      <!--92.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>tem vnius et alterius: sed vna significat naturaliter 
+      <lb ed="#P" n="68"/>altera ad placitum. Conceditur igitur quod sciens om 
+      <lb ed="#P" n="69"/>nem triangulum habere tres potest addiscere aliquid 
+      <lb ed="#P" n="70"/>sibi ignotum scilicet quod hic triangulus habet tres: quod 
+      <lb ed="#P" n="71"/>erat sibi ignotum in particulari: tamen erat notum 
+      noti<lb ed="#P" n="72" break="no"/>cia vniuersali per se scientifica. Unde ex his potest 
+      ar<lb ed="#P" n="73" break="no"/>gui pro conclusionibus supra positis: quod sicut se 
+      ha<lb ed="#P" n="74" break="no"/>pet ignorare / vel addiscere quod hic triangulus habet 
+      <lb ed="#P" n="75"/>tres ad significatum huius propositionis singularis: ita 
+      <lb ed="#P" n="76"/>gnorare vel addiscere quod omnis triangulus habet tres 
+      <lb ed="#P" n="77"/>ad significatum huius propositionis vniuersalis. Sed 
+      <lb ed="#P" n="78"/>addiscere illud est addil cere significatum illius proposi 
+      <lb ed="#P" n="79"/>tionis singularis: quia illud significatum singulare erat 
+      <lb ed="#P" n="80"/>prius notum in potentia et nunc est notum in actu in 
+      <lb ed="#P" n="81"/>particulari: igitur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3098">
+      ¶ Contra. habita illa demonstratione 
+      <lb ed="#P" n="82"/>hunc triangulum habere tres est ignoratum a te: et 
+      <lb ed="#P" n="83"/>illum triangulum habere tres est ignoratum a te: et sic 
+      <lb ed="#P" n="84"/>de singulis: igitur omnem triangulum habere tres 
+      <lb ed="#P" n="85"/>est ignoratum / et non scitum ate: sumendo dictum 
+      <lb ed="#P" n="86"/>pro significatis extra. vel sic: hunc triangulum habe 
+      <lb ed="#P" n="87"/>re tres non est scitum: nec euidenter notum a te: et 
+      <lb ed="#P" n="88"/>illum triangulum habere tres non est scitum nec eu 
+      <lb ed="#P" n="89"/>denter notum a te: et sic de singulis: igitur nullum triam 
+      <lb ed="#P" n="90"/>gulum habere tres est scitum / vel euidenter notum 
+      <lb ed="#P" n="91"/>ate: et de nullo triangulo extra singulari scitur habe 
+      <lb ed="#P" n="92"/>re tres: igitur nullum significatum extra est tibi 
+      euiden<lb ed="#P" n="93" break="no"/>ter notum: quia nullum est extra significatum per con 
+      <lb ed="#P" n="94"/>clusionem: nisi hunc triangulum habere tres: et illum 
+      tri<lb ed="#P" n="95" break="no"/>angulum. etc.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3131">
+      ¶ Respondeo. Si antecedens intelliga 
+      <lb ed="#P" n="96"/>tur quod non habes noticiam complexam singularem 
+      <lb ed="#P" n="97"/>conformen illi propositioni singulari conceditur antece 
+      <lb ed="#P" n="98"/>dens. Et hunc sensum magis importaret antecedens 
+      <lb ed="#P" n="99"/>si terminus obiecti poneretur post terminum 
+      ignoran<lb ed="#P" n="100" break="no"/>tie vel scientie: et tunc negatur consequentia: quia con 
+      <lb ed="#P" n="101"/>sequens importat quod cares noticia vniuersali euidem 
+      <lb ed="#P" n="102"/>ti / et scientifica conformi illi conclusioni vniuersali: si 
+      <lb ed="#P" n="103"/>vero antecedens intelligatur quod non habes noticiam: 
+      <lb ed="#P" n="104"/>cuius obiectum sit illud intelligibile quod est hunc 
+      trian<lb ed="#P" n="105" break="no"/>gulum habere tres: seu quod illud intelligibile quod est 
+      <lb ed="#P" n="106"/>hunc triangulum habere tres non est per se exhibitum 
+      <lb ed="#P" n="107"/>obiectiue terminatiue per huiusmodi scientiam: sic nega 
+      <lb ed="#P" n="108"/>tur. Et hunc sensum magis videtur habere antecedens 
+      <lb ed="#P" n="109"/>quando terminus obiecti praeponitur termino ignoram: 
+      <lb ed="#P" n="110"/>tie.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3167">
+      ¶ Item conclusio scilicet omnem triangulum habere 
+      <lb ed="#P" n="111"/>tres est ignoratum a te. distinguitur: quia vel est propositio 
+      <lb ed="#P" n="112"/>vniuersaus: et ly triangulum est subiectum 
+      distribu<lb ed="#P" n="113" break="no"/>tum: et ly habere tres est quedam determinatio 
+      sub<lb ed="#P" n="114" break="no"/>iecti: et sic conceditur quod omnem triangulum habere tres 
+      <lb ed="#P" n="115"/>est ignoratum a te quodam modo in particulari: et est 
+      <lb ed="#P" n="116"/>quasi sensus diuisionis. Alio modo potest esse proposi 
+      <lb ed="#P" n="117"/>tio singularis vel indefinita: et ly omnem non est signum 
+      <lb ed="#P" n="118"/>distributiuum tranguli: sed est pars subiecti: et est quasi 
+      <lb ed="#P" n="119"/>sensus compositionis et sic negatur. Consimiliter esse 
+      <lb ed="#P" n="120"/>distinguendum de ista omne animal esse hominem est 
+      impossi<lb ed="#P" n="121" break="no"/>bile: vt enim est singularis / et quosi in sensu compositionis 
+      <lb ed="#P" n="122"/>sic est vera. vt autem est vniuersalis et quasi in sensu di 
+      <lb ed="#P" n="123"/>uisionis: sic est falsa. primo modo eius contradictoria est 
+      <lb ed="#P" n="124"/>ista omne omnial esse hominem non est impossibile Scuendo 
+      <lb ed="#P" n="125"/>modo. Eius contradictoria est ista quodam aial non esse hominem 
+      <lb ed="#P" n="126"/>est impossibile: vel et ista quoddam animal esse hominem non est 
+      <lb ed="#P" n="127"/>impossibile. primo modo sillogisando sub ista vniversali oportet quod 
+      <lb ed="#P" n="128"/>hoc totum sit medium / omne animal esse hominem: secundo modo 
+      <lb ed="#P" n="129"/>ly animal esm medium. primo modo equiualet isti necesse est non omne animal 
+      <lb ed="#P" n="130"/>esse hominem. secundo modo equiualet isti necesse est omne animal 
+      <lb ed="#P" n="131"/>non esse hominem. Ad formam additam. illa conus negatia si 
+      ac<lb ed="#P" n="132" break="no"/>cipitur quinsa in sensu compositionis scilicet quod sciatur hoc pre 
+      <!--93.xml-->
+      <pb ed="#P" n="41-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dicatum de tali subiecto negatur quia non est aliqua 
+      <lb ed="#P" n="2"/>scientia qua sciatur quod nullus triangulus habet tres: si 
+      <lb ed="#P" n="3"/>vero accipitur quasi in sensu diuisionis scilicet quod nul 
+      <lb ed="#P" n="4"/>lus est singularis triangulus de quo habeatur noticia 
+      <lb ed="#P" n="5"/>scientifica conformis alicui: conceditur: sed cum hoc statquod 
+      <lb ed="#P" n="6"/>scio omnem triangulum singularem extra habere tres. ita quod sci 
+      <lb ed="#P" n="7"/>entia feratur super singulare per huiusmodi propositionem tanquam super 
+      <lb ed="#P" n="8"/>immediate scitum obiectiue. oportet enim etiam secundum alios quod 
+      <lb ed="#P" n="9"/>super huiusmodi significatum feratur saltem mediate.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3243">
+      ¶ Ad omn 
+      <lb ed="#P" n="10"/>tauum. Aliquod scibile / vel intelligibile est per se et primo 
+      <lb ed="#P" n="11"/>et immediate scitum in actu per aliquam scinam / vel noticiam 
+      <lb ed="#P" n="12"/>potest intelligi quaedrupliciter.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3252">
+      ¶ Primo: quia est obiectum adequatum 
+      <lb ed="#P" n="13"/>illius scientie et noticie: sic quod per illam nihil cognoscitur nis 
+      <lb ed="#P" n="14"/>ipsum / vel contentum formaliter in ipso: et sic nullum 
+      intel<lb ed="#P" n="15" break="no"/>ligibile est per se primo cognitum in actu per aliquem conce 
+      <lb ed="#P" n="16"/>ptum vniuersale: et sic negatur illud assumptum. Nullum 
+      <lb ed="#P" n="17"/>enim intelligibile siue in anima / siue extra animam cum sit quodus 
+      <lb ed="#P" n="18"/>dam ens singulare: est sic obiectum adequatum noticis 
+      <lb ed="#P" n="19"/>scientifice: quia noticia scientifica est vniversalis: tamen iuxta hunc 
+      <lb ed="#P" n="20"/>sensum large loquendo diceretur quod per se primo scitum in 
+      <lb ed="#P" n="21"/>actu est quod omnis triagulus est habens tres: vel quod est aggre 
+      <lb ed="#P" n="22"/>gatum ex omnibus significabilibus complexe per omnes per se sin 
+      <lb ed="#P" n="23"/>gulares illius vniversalis sumptibiles vere sub illa 
+      vniuer<lb ed="#P" n="24" break="no"/>sali: sed nullum intelligibile est omnia illa.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3281">
+      ¶ Secundo modo. 
+      <lb ed="#P" n="25"/>quia est obiectiue cognitum per illam noticiam distincte et 
+      de<lb ed="#P" n="26" break="no"/>terminate: ita quod intellectus habens huiusmodi noticiam non est in 
+      <lb ed="#P" n="27"/>potentia ad noticiam propriam et distinctam illius obie 
+      <lb ed="#P" n="28"/>cti: et sic negatur illud assumptum: quia sic nullum intelligi 
+      <lb ed="#P" n="29"/>bile est per se primo cognitum per conceptum vniuersalem 
+      <lb ed="#P" n="30"/>quia quicunque tali habito remanet intellectus in poten 
+      <lb ed="#P" n="31"/>tia ad noticiam propriam indiuidualem / et distincta cuius 
+      <lb ed="#P" n="32"/>libet quod est obiectum prioris conceptus.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3301">
+      ¶ Tertio modo 
+      <lb ed="#P" n="33"/>quia est obiectiue terminatiue repraesentatum / et exhibitum 
+      <lb ed="#P" n="34"/>per illam noticiam / et non per accidens ex hoc quod sit coniunct 
+      <lb ed="#P" n="35"/>alicui: quod est per se exhibitum et repraesentatum per illam: nec 
+      <lb ed="#P" n="36"/>etiam repraesentatur mediante alio obiecto prius et 
+      immedi<lb ed="#P" n="37" break="no"/>tius exhibito: et sic conceditur illud assumptum quoniam hunc 
+      <lb ed="#P" n="38"/>triangulum habere tres est obiectum intelligibile quod per 
+      <lb ed="#P" n="39"/>se primo / et immediate exhibetur / et cognoscitur per illam 
+      <lb ed="#P" n="40"/>noticiam complexam scientificam tamen in communi sicut hic 
+      <lb ed="#P" n="41"/>triangulus est quoddam intelligibile quod est per se / et 
+      imme<lb ed="#P" n="42" break="no"/>diate obiectum conceptus communis generalis correspontis termine 
+      <lb ed="#P" n="43"/>trianguli.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3327">
+      ¶ Quarto modo. quia est intelligibile pro quo veri 
+      <lb ed="#P" n="44"/>ficatur sic quod non prius naturaliter nec immediatius pro alio vel pro 
+      <lb ed="#P" n="45"/>quo natu est verificari: et sic conceditur assumptum: et 
+      <lb ed="#P" n="46"/>illud est significabile per propositiones singulares. Si 
+      <lb ed="#P" n="47"/>vero intelligitur pro quo necessarium est verificari et quod suf 
+      <lb ed="#P" n="48"/>ficit et requiritur ad verificationem illius noticie: sic nega 
+      <lb ed="#P" n="49"/>retur illud assumptum: sicut nullus est triangulus pro quo 
+      <lb ed="#P" n="50"/>necessarium sit supponere hoc commune 
+      triangu<lb ed="#P" n="51" break="no"/>lus et qui necessario requiratur ad veritatem istius / trian 
+      <lb ed="#P" n="52"/>gulus est. Concesso igitur illo assumpto in tertio / et in 
+      quai<lb ed="#P" n="53" break="no"/>to sensu cum quaeritur quid sit illud secundum rem. Respondeo illud 
+      <lb ed="#P" n="54"/>est quod omnis triangulus habet tres: vel quod omnis homo 
+      <lb ed="#P" n="55"/>erit risibilis etc. Non enim potest conuenientius exprimi 
+      <lb ed="#P" n="56"/>vel explicari. Potest etiam dici quod quaestio potest multipli 
+      <lb ed="#P" n="57"/>citer intelligi. Aut enim quaeritur qua intelligibilia exhiben 
+      <lb ed="#P" n="58"/>tur / et repraesentantur obiectiue per huiusmodi scientiam 
+      <lb ed="#P" n="59"/>et dicendum quod omnia quae per partes ipsius propositionis e 
+      <lb ed="#P" n="60"/>primentis illam scientiam / vel illud scibile. Aut secum 
+      <lb ed="#P" n="61"/>do quaeritur pro quo obiectiue verificatur. Et dicendum 
+      <lb ed="#P" n="62"/>quod pro omnibus / pro quibus subiectum in illa con 
+      <lb ed="#P" n="63"/>clusione vera stat scilicet pro triangulis habentibus tres 
+      <lb ed="#P" n="64"/>Aut quaritur tertio quid sit illud intelligibile quod ef 
+      <lb ed="#P" n="65"/>omnem triangulum habere tres. Et dicendum est 
+      <lb ed="#P" n="66"/>hec quaestio videtur esse eadem cum ista quod intelligibile et 
+      <!--93.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>omnis triangulus habens tres. Et dicendum quod nul 
+      <lb ed="#P" n="68"/>lum intellligible per se vnum est omnis triangulus ha 
+      <lb ed="#P" n="69"/>bens tres vel omnem triangulum habere tres: 
+      si<lb ed="#P" n="70" break="no"/>cut nullum intelligibile est simul hunc triangulum 
+      <lb ed="#P" n="71"/>habere tres: et illum triangulum habere tres. etc 
+    </p>
+            <p xml:id="D78nca-e23457-d1e3395">
+               <lb ed="#P" n="72"/>¶ Dico igitur quod ad veritatem talis scientie non opo¬r 
+      <lb ed="#P" n="73"/>tet querere / nec assignare alquod intelligibile siue si as 
+      <lb ed="#P" n="74"/>gnificabile complexe / siue incomplexe siue in anima in 
+      <lb ed="#P" n="75"/>siue extra animam: quod sit precisum et adequatum 
+      <lb ed="#P" n="76"/>et totale obiectum noticie scientifice. Sustinendo 
+      <lb ed="#P" n="77"/>igitur quod per se primo et immediate scitum in actuiu 
+      <lb ed="#P" n="78"/>xta sensus prius concessos sit obiecta intelligibilia 
+      <lb ed="#P" n="79"/>singularia significata per propositionem vniuersalem / qua est 
+      <lb ed="#P" n="80"/>conclusio demonstratiois: alioquin nihil erit scibile: qui 
+      <lb ed="#P" n="81"/>nihil est quin sit aliquod ens singulare / vel singularia 
+      <lb ed="#P" n="82"/>in essendo.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3421">
+      ¶ Ad primam improbationem. cum dicitur 
+      pri<lb ed="#P" n="83" break="no"/>mo quod non est conueniens sermo dicere / scio triangulum 
+      <lb ed="#P" n="84"/>vel lapidem / vel hunc triangulum habere tres. Conce 
+      <lb ed="#P" n="85"/>do quod non est conueniens locutio vel responsio vel assigna 
+      <lb ed="#P" n="86"/>tio quid sciatur: sed est locutio vel falsa / vel insufficiens 
+      <lb ed="#P" n="87"/>et truncata: quia vel denotatur quod noticia scientifica est 
+      <lb ed="#P" n="88"/>noticia incomplexa vel singularis. Aut quia noticia sci 
+      <lb ed="#P" n="89"/>entifica est complexa / et veridica: ideo non 
+      conuenien<lb ed="#P" n="90" break="no"/>ter assignatur et explicatur obiectum scientie vt scitun 
+      <lb ed="#P" n="91"/>nisi per propositionem vel per dictum conforme 
+      pro<lb ed="#P" n="92" break="no"/>positioni quod sit determinatio verbi sciendi.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3445">
+      ¶ Item 
+      <lb ed="#P" n="93"/>licet hunc triangulum habere tres sit intelligibile per 
+      <lb ed="#P" n="94"/>se cognitum per illam noticiam scientificam: tamen non est 
+      <lb ed="#P" n="95"/>nisi obiectum partiale: ideo non conuenienter ast 
+      <lb ed="#P" n="96"/>gnatur obiectum illius scientie cum quaeritur quid rei 
+      <lb ed="#P" n="97"/>materiale obiectum scientie.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3458">
+      ¶ Ad secundam. dicen 
+      <lb ed="#P" n="98"/>dum quod non est notum in particulari clare / et distin 
+      <lb ed="#P" n="99"/>cte: sed in communi notum est clare / et euidenter: 
+      si<lb ed="#P" n="100" break="no"/>cut aliquod intelligibile obiectum natum est 
+      cogno<lb ed="#P" n="101" break="no"/>sci clare et distincte noticia scientifica. Talis autem 
+      <lb ed="#P" n="102"/>non est nata esse noticia particularis et indiuidualis 
+      <lb ed="#P" n="103"/>seu distincta indiuidualis: licet sit respectu 
+      indiuiduo<lb ed="#P" n="104" break="no"/>rum obiectiue et materialiter: alioquin respectu nulli 
+      <lb ed="#P" n="105"/>us obiecti esset.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3478">
+      ¶ Ad tertiam. negatur consequen 
+      <lb ed="#P" n="106"/>tia. Ad probationem: licet sit distinctior secundum 
+      com<lb ed="#P" n="107" break="no"/>parationem indiuidui ad indiuiduum: et licet sit immo 
+      <lb ed="#P" n="108"/>diatior secundum quendam modum immediationis: 
+      <lb ed="#P" n="109"/>non tamen est proprie scientifica eo modo quo locum 
+      <lb ed="#P" n="110"/>ti sunt philosophi de noticia scientifica. Demonstra 
+      <lb ed="#P" n="111"/>tio enim non est per se primo singularis. Per idem enim 
+      <lb ed="#P" n="112"/>medium demonstratur de quolet indiuiduo: nisi cum 
+      <lb ed="#P" n="113"/>quadam appropriatione qua videtur coassumere 
+      ali<lb ed="#P" n="114" break="no"/>quod accidentale quidditati indiuiduorum. vnde et 
+      ali<lb ed="#P" n="115" break="no"/>habent reddere causam quare noticia particularis  
+      <lb ed="#P" n="116"/>non est scientifica.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3504">
+      ¶ Ad quartam. quod scientia sit de 
+      <lb ed="#P" n="117"/>contingenti aliter se habere vt per se scibili potest 
+      <lb ed="#P" n="118"/>intelligi quod possibile sit non esse sic simpliciter in re: sicut 
+      <lb ed="#P" n="119"/>significatur per noticiam scientificam: et sicut suff 
+      <lb ed="#P" n="120"/>cit ad eius veritatem: et consequenter quod possibile 
+      si<lb ed="#P" n="121" break="no"/>noticiam scientificam vt talem essefalsam: et sic consequentia 
+      <lb ed="#P" n="122"/>negatur et sic intelligit philosophus scientiam esse 
+      <lb ed="#P" n="123"/>de necessariis: quia non est possibile quod nihil ponatu 
+      <lb ed="#P" n="124"/>in re pro quo sufficienter verificetur. Alio modus 
+      <lb ed="#P" n="125"/>quod aliquod per se exhibitum per aliquam noticiam 
+      <lb ed="#P" n="126"/>scientificam et pro quo interdum de facto verifica 
+      <lb ed="#P" n="127"/>tur sit contingens aliter se habere: et conceditur 
+      con<lb ed="#P" n="128" break="no"/>sequens: nec hoc derogat necessarie veritati noti 
+      <lb ed="#P" n="129"/>cie scientifice. Eque enim posset illud reduci 
+      con<lb ed="#P" n="130" break="no"/>tra ponentes complexe significabile esse per se scibile in 
+      vniversali<lb ed="#P" n="131" break="no"/>quia illud erit corruptibile: saltem secundum partes / et secun 
+      <lb ed="#P" n="132"/>dum intelligibilia / quae continet partialiter: vel quod erit ex¬ 
+      <!--94.xml-->
+      <pb ed="#P" n="42-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tra deum intelligibile positiuum actuale et actualiter 
+      <lb ed="#P" n="2"/>positum necessarium et immutabile. Dicitur igitur secundum 
+      <lb ed="#P" n="3"/>philosophos scientia esse de necessario: quia secundum 
+      <lb ed="#P" n="4"/>eos impossibile est quin ita sit in re sicut sufficit ad vel 
+      <lb ed="#P" n="5"/>ritatem illius quod est additur quod scitum possit aliquando non esse 
+      sci<lb ed="#P" n="6" break="no"/>tum stante scecina: et quod noticia aliqua sit aliquando noticia sci 
+      <lb ed="#P" n="7"/>entifica alicuius obiecti et aliquando non: potest tripliciter 
+      <lb ed="#P" n="8"/>intelligi. Primo: quia quod prius per se representaba 
+      <lb ed="#P" n="9"/>tur per noticiam scientificam vt obiectiue exhibitum et 
+      <lb ed="#P" n="10"/>postea non cognoscatur nec exhibeatur obiectiue per 
+      <lb ed="#P" n="11"/>illam: et sic negatur. Alio modo quod per noticiam aliquan 
+      <lb ed="#P" n="12"/>intellectus sit aliquando demonstratiue sciens / et postea 
+      <lb ed="#P" n="13"/>per eandem habitam non sit sciens: sed opinans/ 
+      <lb ed="#P" n="14"/>vel dubitans / vel errans: et sic negatur. Alio modo quod 
+      <lb ed="#P" n="15"/>pro aliquo intelligibili verificetur nunc noticia scien 
+      <lb ed="#P" n="16"/>tifica et postea pro illo non verificetur nec etiam pro 
+      <lb ed="#P" n="17"/>illo falsificetur sed pro alio equiualenti verificetur et 
+      <lb ed="#P" n="18"/>sic conceditur illud specialiter de noticia scientifica 
+      <lb ed="#P" n="19"/>per demonstrationem: cuius conclusio ad sui 
+      veri<lb ed="#P" n="20" break="no"/>tatem exigit constantiam rei importate per subiectum 
+      <lb ed="#P" n="21"/>Quod etiam additur: quoniam non idem scirem hodie 
+      <lb ed="#P" n="22"/>quod heri: si intelligitur quod non eadem obiectiue ex 
+      <lb ed="#P" n="23"/>hibeantur per huiusmodi noticiam negatur si 
+      intelli<lb ed="#P" n="24" break="no"/>igitur quod pro aliis tanquam pro obiectis partialibus 
+      ve<lb ed="#P" n="25" break="no"/>rificatur hodie et heri: et quod subiectum noticie comple 
+      <lb ed="#P" n="26"/>xe scientifice vel propositionis ei conformis supponit 
+      <lb ed="#P" n="27"/>pro aliis hodie et heri. conceditur de conclusione de 
+      <lb ed="#P" n="28"/>monstrata: cuius veritas exigit existentiam singularium 
+      <lb ed="#P" n="29"/>rerum / pro quibus supponit subiectum: sed hoc non est 
+      <lb ed="#P" n="30"/>scire aliud nisi improprie et per accidens. Accidit enim 
+      <lb ed="#P" n="31"/>veritati illius quod verificetur pro his vel pro illis: sed 
+      <lb ed="#P" n="32"/>indifferenter exhibet hec et illa: et nata est verificari 
+      <lb ed="#P" n="33"/>pro his / vel pro illis: sed si conclusio demonstrationis 
+      <lb ed="#P" n="34"/>esset scibilis per se scitum ego et tu non sciremus idem 
+      <lb ed="#P" n="35"/>formaliter / nec equiualenter ex quo eius signum non 
+      <lb ed="#P" n="36"/>esset obiectiue scitum: nec noticia foret scientifica 
+      <lb ed="#P" n="37"/>quatenus est exhibitiua obiectorum extra: sed tantum qua 
+      <lb ed="#P" n="38"/>tenus est ostensiua sui. conclusio autem mea et 
+      con<lb ed="#P" n="39" break="no"/>clusio tua sunt ominino diuerse: licet significatum ertra 
+      <lb ed="#P" n="40"/>sit idem.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3635">
+      ¶ Ad nonum. Quodlibet membrum potest da 
+      <lb ed="#P" n="41"/>ri cum debito / et proprio intellectu. quodlibet enim 
+      intelli<lb ed="#P" n="42" break="no"/>gibile significabile complexe per aliquam singularem 
+      <lb ed="#P" n="43"/>veram illius vniuersalis conclusionis potest dici ob 
+      <lb ed="#P" n="44"/>iective scitum per se et immediate: quia per se et immediate 
+      exhi<lb ed="#P" n="45" break="no"/>bitum et pro ipso immediate verificatur vel verificabilis est illa noten 
+      <lb ed="#P" n="46"/>cia sci entifica tanquam pro partiali significato et partiali causa 
+      <lb ed="#P" n="47"/>veritatis: licet non necessario requisita: sed veritas 
+      con<lb ed="#P" n="48" break="no"/>clusionis exigat existentiam rerum singularium: et sic com 
+      <lb ed="#P" n="49"/>ceditur tertium membrum.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3657">
+      ¶ Item secundum membrum 
+      <lb ed="#P" n="50"/>conceditur in hoc sensu: quia aggregatum collectiue 
+      <lb ed="#P" n="51"/>ex omnibus intelligibilibus complexe significabilibus 
+      <lb ed="#P" n="52"/>per omnes singulares veras illius vniuersalis conclu 
+      <lb ed="#P" n="53"/>sionis potest dici per se obiectiue scitum per huiusmodi scientia: 
+      <lb ed="#P" n="54"/>tamquam per se obiectiue exhibitum pro quo adequate vel 
+      <lb ed="#P" n="55"/>rificatur actu illa scientifica noticia. Potest etiam 
+      <lb ed="#P" n="56"/>dari primum membrum: quia illud aggregatum colle 
+      <lb ed="#P" n="57"/>ctiue est per se obiectiue scitum tanquam totale / et adequa 
+      <lb ed="#P" n="58"/>te exhibitum per illam noticiam: pro quo praecise nata 
+      <lb ed="#P" n="59"/>sit verificari illa noticia: immo pro qui / et pro cuiusquilba 
+      <lb ed="#P" n="60"/>necessario verificatur si ponatur.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3683">
+      ¶ Ad primam igitur 
+      <lb ed="#P" n="61"/>improbationem primi membri negatur consequentia 
+      <lb ed="#P" n="62"/>Si enim veritas illius conclusionis vniuersalis non 
+      <lb ed="#P" n="63"/>exigit existentiam rei singularis pro qua verifice 
+      <lb ed="#P" n="64"/>eius vna singularis. Patet quod probatio non valet: si 
+      <lb ed="#P" n="65"/>vero exigat adhuc scientia non est falsa: quia ad veri 
+      <lb ed="#P" n="66"/>tatem illius conclusionis sufficit quod qualibet singula¬ 
+      <!--94.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>ris propositio sit vera de re singulari existente: sicut 
+      <lb ed="#P" n="68"/>ad veritatem istius / omne corpus mouetur / vel 
+      quies<lb ed="#P" n="69" break="no"/>cit: sufficit quod quodlibet corpus existens sit 
+      huiusmo<lb ed="#P" n="70" break="no"/>di: nec ad eius veritatem exigitur quod qualibet singularis  
+      <lb ed="#P" n="71"/>sit vera de quolet indiuiduo exhibito / et significato per 
+      <lb ed="#P" n="72"/>illud vniuersale.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3716">
+      ¶ Ad secundam. Conceditur quod 
+      fal<lb ed="#P" n="73" break="no"/>sum est omnes triangulos collectiue simul sumptos 
+      <lb ed="#P" n="74"/>habere tres angulos equales praecise duobus rectis 
+      <lb ed="#P" n="75"/>Nec istud sequitur ex hoc quod illud aggregatum 
+      po<lb ed="#P" n="76" break="no"/>nitur quasi obiectum totale / et adequatum verifica 
+      <lb ed="#P" n="77"/>tiuum illius noticie. non enim attribuo hoc 
+      predica<lb ed="#P" n="78" break="no"/>tum habere tres equales duobus rectis illi toti 
+      aggre<lb ed="#P" n="79" break="no"/>gato: quasi vni demonstrato per modum subiecti: sed ei 
+      <lb ed="#P" n="80"/>attribuo esse scitum / et esse obiectum scientie modo 
+      <lb ed="#P" n="81"/>exposito.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3738">
+      ¶ Ad tertiam. conceditur assumptum: et non 
+      <lb ed="#P" n="82"/>est contra dicta.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3743">
+      ¶ Ad primam improbationem 
+      secun<lb ed="#P" n="83" break="no"/>di membri / et secundam / et tertiam patet ex dictis.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3749">
+      ¶ Ad  
+      <lb ed="#P" n="84"/>quartam. si conclusio illa verificatur etiam de trian 
+      <lb ed="#P" n="85"/>gulis non existentibus. patet quod non valet consequentia 
+      <lb ed="#P" n="86"/>Si vero verificatur tantum pro existentibus sic di 
+      <lb ed="#P" n="87"/>cendum est quamuis ille due propositiones conuertantur: 
+      <lb ed="#P" n="88"/>tamen non ita proprie demonstratio / et scientia sunt 
+      <lb ed="#P" n="89"/>respectu huius quod est omnem triangulum habere 
+      <lb ed="#P" n="90"/>tres: et respectu huius quod est omnem triangulum existentem habere 
+      <lb ed="#P" n="91"/>tres: quia superflue fit illa additio: et quia videtur innui / et 
+      prae<lb ed="#P" n="92" break="no"/>tendi vnum falsum scilicet quod illa noticia specifica determine 
+      <lb ed="#P" n="93"/>tur sic ad triangulos nunc de facto existentes: quasi non sit 
+      <lb ed="#P" n="94"/>nata verificari pro illis succedentibus post corruptio 
+      <lb ed="#P" n="95"/>nem ipsorum: quod est falsum
+    </p>
+            <p xml:id="D78nca-e23457-d1e3778">
+      ¶ Ad decimum. negatur minor 
+      <lb ed="#P" n="96"/>Ad primam probationem conceditur quod hec vniversalis praedicatio est 
+      <lb ed="#P" n="97"/>vera per se secundo modo. Omnis triagulus habet tres: et hoc 
+      <lb ed="#P" n="98"/>pradicatum praedicatur de illo subiecto secundum quod ipsum. hec enim 
+      <lb ed="#P" n="99"/>locutio est de actu signato et idem praedicatum non praedicatur 
+      prim<lb ed="#P" n="100" break="no"/>mo: et secundum quod ipsum de aliquo inferiori ad triangulum: et tanen 
+      <lb ed="#P" n="101"/>in ista enunciatione quae est de actu exercito / omnis triangu 
+      <lb ed="#P" n="102"/>us habet tres: et subieantum supponit tantum pro rebus singularibus 
+      <lb ed="#P" n="103"/>extra. nec ista repugnant.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3798">
+      ¶ Ad tertiam. negatur maior 
+      <lb ed="#P" n="104"/>si illis rebus corruptis et variatis maneant / vel suc 
+      <lb ed="#P" n="105"/>cedant alie res eodem modo exhibite obiectiue per 
+      <lb ed="#P" n="106"/>illam noticiam vniuersalem: et pro quibus eque / et eodem 
+      <lb ed="#P" n="107"/>modo nata est verificari: sicut de ista. omnis asinus ad 
+      <lb ed="#P" n="108"/>tu viuit. Conceditur tamen quod veritas necessaria non verifi 
+      <lb ed="#P" n="109"/>catur per se: et primo pro re corruptibili: tanquam pro eo quod 
+      <lb ed="#P" n="110"/>rse / et necessario requiritur ad eius veritatem. Nulla 
+      <lb ed="#P" n="111"/>enim res corruptibilis requiritur tamen requiritur inter 
+      <lb ed="#P" n="112"/>dum aliqua secundum opinionem philosophorum / et aliqua 
+      <lb ed="#P" n="113"/>sufficit.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3822">
+      ¶ Ad tertiam. loquendo large / et improprie 
+      <lb ed="#P" n="114"/>de dependentia veritatis / et euidentie secundum communem intellectum 
+      <lb ed="#P" n="115"/>negatur maior. veritatem enim noticie dependere a rebus 
+      <lb ed="#P" n="116"/>est ipsam verificari pro rebus / et natam causari et mensurari a 
+      <lb ed="#P" n="117"/>rebus mediate / vel immediate / et indigere existentia rerum ad  
+      <lb ed="#P" n="118"/>sui veritatem. Euidentia autem scientie dicitur dependere ab ali 
+      <lb ed="#P" n="119"/>quo: quia concluditur / et infertur ex illo tamquam vero foresaliter notio 
+      <lb ed="#P" n="120"/>ri ab alio. igitur dependet veritas noticie / et euidentia: quia 
+      <lb ed="#P" n="121"/>pro aliis rebus verificatur et ab alio effectiue causatur per modum 
+      <lb ed="#P" n="122"/>consequentis illati: sed proprie loquendo et accipiendo dependere 
+      <lb ed="#P" n="123"/>pro reali / et per se causalitate. conceditur maior de vi vocis: quia 
+      <lb ed="#P" n="124"/>veritas et euidentia noticie sunt idem realiter: et negatur minor 
+      <lb ed="#P" n="125"/>vitas enim huius noticie non causatur proprie a rebus extra: quia ali 
+      <lb ed="#P" n="126"/>uis potest nouiter formare noticiam quod omnis triangulus habet tres 
+      <lb ed="#P" n="127"/>licet nullus triangulus vel non omnis triagulus causet effectiue 
+      <lb ed="#P" n="128"/>illam noticiam.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3857">
+      ¶ Ad quartam. negatur consequentia 
+      <lb ed="#P" n="129"/>Scientia enim qua scitur passio de suo primo subiecto 
+      <lb ed="#P" n="130"/>nobilior est quam ea qua scitur de suo secundario sub 
+      <lb ed="#P" n="131"/>iecto: quia non conuenit secundario subiecto secundum quod ipsum 
+      <lb ed="#P" n="132"/>immo habet propter quid et est quasibile et demonstrabile per 
+      <!--95.xml-->
+      <pb ed="#P" n="42-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>conclusionem in qua praedicatur de suo primo subiecto: 
+      <lb ed="#P" n="2"/>Si vero comparetur noticia qua scitur passio 
+      vniuer<lb ed="#P" n="3" break="no"/>salior de suo primo subiecto ad scientiam quae scitur passio 
+      <lb ed="#P" n="4"/>minus vniuersalis de suo primo subiecto. Adhuc 
+      <lb ed="#P" n="5"/>Consequens non est vniversaliter verum: licet enim 
+      quodan<lb ed="#P" n="6" break="no"/>modo immediationis et propinquitatis noticia minus 
+      <lb ed="#P" n="7"/>vniversalis sit propinquior / et immediatior rebus extra significa 
+      <lb ed="#P" n="8"/>tis: tamen aliunde sortitur nobilitatem et prioritatem 
+      scien<lb ed="#P" n="9" break="no"/>tia vniuersalior. per eam enim plura sciuntur et continet 
+      <lb ed="#P" n="10"/>plurium scibilium scientias: et ab ea dependent plurium 
+      <lb ed="#P" n="11"/>scibilium scientie: et est etiam abstractior et 
+      immateria<lb ed="#P" n="12" break="no"/>lior. Uidetur tamen quod aliqua noticia minus vniuersalis 
+      quae<lb ed="#P" n="13" break="no"/>dam magis vniuersali nobilior est vt scientia de anima 
+      <lb ed="#P" n="14"/>intellectia / et de eius operationibus quam scientia de anima in 
+      <lb ed="#P" n="15"/>communi / vel de qualitate in communi ceteris paribus 
+      <lb ed="#P" n="16"/>Est enim nobilissimum scibile illius vniuersalis.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3909">
+      ¶ Ad 
+      <lb ed="#P" n="17"/>quintam. negatur consequentia. Ad probationem: licet 
+      distin<lb ed="#P" n="18" break="no"/>ctius ostendat quodam quasi partes illius ostensi per notic 
+      <lb ed="#P" n="19"/>am vniuersalem: tamen modus ostendendi repugnat noticie 
+      <lb ed="#P" n="20"/>scientifice: quia noticia scientifica est demonstratiua per 
+      <lb ed="#P" n="21"/>medium respiciens quidditatem abstrahendo a 
+      differen<lb ed="#P" n="22" break="no"/>tus materialibus et accidentibus indiuiduorum inferiorum / et 
+      <lb ed="#P" n="23"/>corruptibilium: nec praedicatum scibile conuenit per se 
+      <lb ed="#P" n="24"/>huic indiuiduo per illud quod est differens et dissimile alte 
+      <lb ed="#P" n="25"/>ri indiuiduo.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3932">
+      ¶ Ad sextam. videtur esse contra omnes. Cum 
+      <lb ed="#P" n="26"/>enim dicitur omnis trangulus habet tres: subiectum supponit 
+      <lb ed="#P" n="27"/>pro singularibus triangulis / et pro illis verificatur proposi 
+      <lb ed="#P" n="28"/>tio: magister quolibet singularis esset causalis respectu vniuer 
+      <lb ed="#P" n="29"/>salis. Negatur igitur consequentia: non enim vna propsitositio di 
+      <lb ed="#P" n="30"/>citur causalis respectu alterius: quia distinctius signifi 
+      <lb ed="#P" n="31"/>cet illud pro quo vtraque / vel illa altera verificatur: et quod 
+      <lb ed="#P" n="32"/>est causa veritatis illius: quia hec propositio ysocheles 
+      <lb ed="#P" n="33"/>habet tres esset causalis respectu huius triangulus 
+      <lb ed="#P" n="34"/>habet tres. Potest igitur dicit quod quamuis hunc triangulum 
+      <lb ed="#P" n="35"/>habere tres sit large loquendo causa quare hec 
+      singu<lb ed="#P" n="36" break="no"/>laris est vera / hic triangulus habet tres: et est 
+      conse<lb ed="#P" n="37" break="no"/>quenter causa partialis quire hec vniuersalis est vera 
+      <lb ed="#P" n="38"/>omnis triangulus habet tres: non tamen sequitur quod hec propositio 
+      <lb ed="#P" n="39"/>hic triangulus habet tres sit causalis respectu huius 
+      <lb ed="#P" n="40"/>triangulus habet tres. Aliquid enim potest esse causa duo 
+      <lb ed="#P" n="41"/>rum: quorum vnum non est causa alterius vniuersalis 
+      <lb ed="#P" n="42"/>igitur Ideo dicitur causalis et propter quid respectu singu 
+      <lb ed="#P" n="43"/>laris: quia habere tres non conuenit huic triangulo: secundum quod 
+      <lb ed="#P" n="44"/>hic triangulus / sed secundum quod triangulus. et si in hoc 
+      trian<lb ed="#P" n="45" break="no"/>gulo corresponderent distincta ex natura rei 
+      secum<lb ed="#P" n="46" break="no"/>dum quorum vnum esset triangulus: et secundum alterum forma 
+      <lb ed="#P" n="47"/>liter esset hic triangulus: habere tres conueniret ei primo 
+      <lb ed="#P" n="48"/>per illud quo formaliter esset triangulus: non per illud qui 
+      for<lb ed="#P" n="49" break="no"/>maliter esset hic singulariter triangulus.
+    </p>
+            <p xml:id="D78nca-e23457-d1e3987">
+      ¶ Ad 
+      argumen<lb ed="#P" n="50" break="no"/>tum in principio quaestionis patet ex dictis supra.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

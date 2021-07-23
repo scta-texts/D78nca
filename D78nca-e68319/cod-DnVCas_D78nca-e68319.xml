@@ -1,0 +1,1769 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 5</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 5</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="104-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-e68319"><!-- l1d22q5 -->
+            <head xml:id="D78nca-e68319-Hd1e108">Quaestio 5</head>
+            <head xml:id="D78nca-e68319-Hd1e111" type="question-title">
+      Utrum deo et 
+      creatura concausantibus effectiue eundem effectum: deus prius 
+      naturaliter agat ad illum: quam creatura.
+    </head>
+            <p xml:id="D78nca-e68319-d1e114">
+      ¶ Sequitur. q. 5. distin. 22 
+      <!--218.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>Iso de gradu causalita 
+      <lb ed="#P" n="68"/>ui tis et influentie effectiue divine concun 
+      <lb ed="#P" n="69"/>rentis cum causa secunda: videndum est de 
+      <lb ed="#P" n="70"/>Bordine. Et quero. Utrum deo et 
+      creatu<lb ed="#P" n="71" break="no"/>ra concausantibus effectiue eundem effectum: deus prius 
+      <lb ed="#P" n="72"/>naturaliter agat ad illum: quam creatura.
+    </p>
+            <p xml:id="D78nca-e68319-d1e134">
+      Quod non. quia 
+      <lb ed="#P" n="73"/>deus prius naturaliter ageret ad actus voluntatis cre 
+      <lb ed="#P" n="74"/>ate: quam voluntas creata. consequentia patet. quia aliquae cause 
+      natu<lb ed="#P" n="75" break="no"/>rales sunt eque primo et immediate cause suorum effectuum 
+      <lb ed="#P" n="76"/>sicut voluntas respectu suorum actuum. consequens est falsum 
+      <lb ed="#P" n="77"/>quia voluntas non libere ageret: quia non moueret nisi priu 
+      <lb ed="#P" n="78"/>us mota a causa superiori praeueniente
+    </p>
+            <p xml:id="D78nca-e68319-d1e150">
+      ¶ Contra. deus 
+      <lb ed="#P" n="79"/>in illo concursu est primo agens: igitur est prius agens 
+      <lb ed="#P" n="80"/>consequentia patet. quia superlatiuus supponit comparatiuum: sicut com 
+      <lb ed="#P" n="81" break="no"/>paratiuus positiuum. antecedens patet. quia in tali concursu deus dicitur 
+      <lb ed="#P" n="82"/>prima causa: et creatura dicitur secunda causa.
+    </p>
+            <p xml:id="D78nca-e68319-d1e162">
+      ¶ Con 
+      <lb ed="#P" n="83" break="no"/>firmatur. quia preagere et precausare dicit perfectionem 
+      <lb ed="#P" n="84"/>et conditionem perfectiorem causandi: sicut prioritas 
+      <lb ed="#P" n="85"/>essendi est conditio perfectior essendi.
+    </p>
+            <p xml:id="D78nca-e68319-d1e171">
+      ¶ Notandum 
+      <lb ed="#P" n="86"/>Mic quero de concursu prime cause absolute: et se 
+      <lb ed="#P" n="87"/>cunde respectu eiusdem effectus: siue sit causa 
+      secun<lb ed="#P" n="88" break="no"/>da naturalis siue libera: non faciendo specialem di 
+      <lb ed="#P" n="89"/>scensum ad causam secundam liberam: quia de hoc 
+      speci<lb ed="#P" n="90" break="no"/>aliter questionee sequenti. Item. cum sint varii modi 
+      <lb ed="#P" n="91"/>prioritatis: non quaeritur hic de prioritate secundum dura 
+      <lb ed="#P" n="92"/>tionem: quia simul duratione causant. nec de 
+      priorita<lb ed="#P" n="93" break="no"/>te secundum dignitatem et perfectionem: quia constat deum 
+      es<lb ed="#P" n="94" break="no"/>se sic priorem causam: sed queritur de prioritate 
+      natu<lb ed="#P" n="95" break="no"/>re. Potest etiam intelligi de prioritate secundum 
+      causali<lb ed="#P" n="96" break="no"/>tatem: an ideo causa secunda agat / quia prima agit: 
+      <lb ed="#P" n="97"/>vel econtra.
+    </p>
+            <p xml:id="D78nca-e68319-d1e200">
+      ¶ Primus articulus. Que istarum 
+      <lb ed="#P" n="98"/>causarum prius agat ad eundem effectum. Secundus 
+      <lb ed="#P" n="99"/>Que istarum duarum propositionum causalium sit vera / 
+      <lb ed="#P" n="100"/>Ideo causa secunda agit quia prima agit: Vel ideo 
+      pri<lb ed="#P" n="101" break="no"/>ma agit quia secunda agit.
+    </p>
+            <p xml:id="D78nca-e68319-d1e211">
+      ¶ Quo ad primum articulum. 
+      <lb ed="#P" n="102"/>Prima conclusio preambula ad 
+      sequen<lb ed="#P" n="103" break="no"/> tes. Deo et creatura 
+      <lb ed="#P" n="104"/>concurrentibus per se effectiue ad eundem effectum: 
+      con<lb ed="#P" n="105" break="no"/>uenienter ponitur vnam causam causare prius et alte 
+      <lb ed="#P" n="106"/>ram causare posterius preter prioritatem durationis: 
+      <lb ed="#P" n="107"/>vel dignitatis et perfectionis.
+    </p>
+            <p xml:id="D78nca-e68319-d1e227">
+      ¶ Probatur sic. inter 
+      <lb ed="#P" n="108"/>illa conuenienter ponitur prioritas et posterioritas in cau 
+      <lb ed="#P" n="109"/>sando: inter qua conuenienter ponitur ordo essentialis 
+      <lb ed="#P" n="110"/>in causando: non tantum ordo perfectionis in essen 
+      <lb ed="#P" n="111"/>do. Sed inter primam causam et secundas est ordo et 
+      <lb ed="#P" n="112"/>sentialis in causando. vna enim subordinatur alteri in 
+      <lb ed="#P" n="113"/>causando: et vna dicitur prima: et altera dicitur secunda causa. nec 
+      <lb ed="#P" n="114"/>iste ordo essentialis est precise ex perfectiori causati 
+      <lb ed="#P" n="115"/>one. quia quamuis duorum trahentium alter magis agat: non 
+      <lb ed="#P" n="116"/>ex hoc est ordo essentialis eorum in agendo.
+    </p>
+            <p xml:id="D78nca-e68319-d1e249">
+      ¶ Prete 
+      <lb ed="#P" n="117"/>rea. inter illa conuenienter ponitur prioritas et 
+      poste<lb ed="#P" n="118" break="no"/>rioritas in causando: inter que couenienter ponitur 
+      <lb ed="#P" n="119"/>presuppositio et preexigentia non conuertibilis: ita 
+      <lb ed="#P" n="120"/>quod vnum in causando presupponit aliud: non econtra. 
+      <lb ed="#P" n="121"/>sic est. igitur. maior patet. nomen enim presuppositionis 
+      im<lb ed="#P" n="122" break="no"/>plicat quandam precessionem. quod igitur presupponitur alte 
+      <lb ed="#P" n="123"/>ri non econtra / est aliqualiter prius natura. minor 
+      proba<lb ed="#P" n="124" break="no"/>tur. quia dependens ab aliquo et indigens illo non 
+      econ<lb ed="#P" n="125" break="no"/>tra / presupponit illud: non econtra. sed causa secun 
+      <lb ed="#P" n="126"/>da non solum in essendo sed etiam in causando 
+      depen<lb ed="#P" n="127" break="no"/>det a prima et indiget illa: et eius causalitate 
+    </p>
+            <p xml:id="D78nca-e68319-d1e276">
+               <lb ed="#P" n="128"/>¶ Preterea. aut alterum est prius altero in 
+      causan<lb ed="#P" n="129" break="no"/>do: et propositum: aut sunt simul natura in 
+      causan<lb ed="#P" n="130" break="no"/>do: aut sine ordine et simultate. Si secundum vel 
+      ter<lb ed="#P" n="131" break="no"/>tium / igitur non magis hoc exigit illud: nec indiget eo 
+      <!--219.xml-->
+      <pb ed="#P" n="104-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nec dependet ab illo in causando: quam econtra. 
+    </p>
+            <p xml:id="D78nca-e68319-d1e296">
+               <lb ed="#P" n="2"/>¶ Preterea. si alique due cause eque primo causant 
+      <lb ed="#P" n="3"/>et neutra est prior in causando: igitur ambe reducuntur 
+      <lb ed="#P" n="4"/>ad aliquem priorem. quia in ordine causandi sicut nec in 
+      <lb ed="#P" n="5"/>ordine essendi est resolutio et status ad duo eque pri 
+      <lb ed="#P" n="6"/>ma secundum ordinem causalitatis. pari enim ratione 
+      pone<lb ed="#P" n="7" break="no"/>rentur duo prima entia: et duo dii.
+    </p>
+            <p xml:id="D78nca-e68319-d1e312">
+      ¶ Preterea. patet 
+      <lb ed="#P" n="8"/>hoc per Aristo. 2. phisi. et. 5. metaphi. Cum cause 
+      di<lb ed="#P" n="9" break="no"/>cantur multipliciter / altera prius: altera posterius 
+      <lb ed="#P" n="10"/>esse videntur. etiam in eodem genere cause. vt medicus dicitur 
+      <lb ed="#P" n="11"/>causa sanitatis: et artifex. 
+      <lb ed="#P" n="12"/>deum coagere cause secunde re¬ 
+    </p>
+            <p xml:id="D78nca-e68319-d1e325">
+               <lb ed="#P" n="13"/>¶ Conud. spectub / effectus non est prius na 
+      <lb ed="#P" n="14"/>tura: quam causam secundam agere respectub. vel sic. 
+      <lb ed="#P" n="15"/>deus non prius natura coagit cause secunde: quam cau 
+      <lb ed="#P" n="16"/>sa secunda agat. igitur deus non prius agit. consequentia patet. quia 
+      <lb ed="#P" n="17"/>deum coagere est deum agere. antecedens probatur dupliciter 
+      <lb ed="#P" n="18"/>Prmo. illorum vnum non est prius naturaliter altero: 
+      quo<lb ed="#P" n="19" break="no"/>rum vnum non magis potest esse sine altero: quam econtra 
+      <lb ed="#P" n="20"/>sed conuertibiliter se exigunt et inferunt. sed causan 
+      <lb ed="#P" n="21"/>secundam causare respectu b / et primam causam et 
+      <lb ed="#P" n="22"/>concausare et coagere respectu b / sunt huiusmodi. igitur. maior 
+      <lb ed="#P" n="23"/>patet. quia talia dicuntur simul natura: sicut relatiue 
+      oppo<lb ed="#P" n="24" break="no"/>sita quae posita se ponunt: et perempta se perimunt. Et quia 
+      <lb ed="#P" n="25"/>prius natura alio dicitur quod potest esse sine illo non econtra: 
+      <lb ed="#P" n="26"/>5. metap.
+    </p>
+            <p xml:id="D78nca-e68319-d1e358">
+      ¶ Secundo .a / et c / causas simul causare non 
+      <lb ed="#P" n="27"/>est prius quam c / causam causare et agere: sicut nec to 
+      <lb ed="#P" n="28"/>tum est naturaliter prius parte. sed a / coagere ipsi ci est 
+      <lb ed="#P" n="29"/>a / et c / simul agere. igitur a / coagere ipsi c / non est prius 
+      <lb ed="#P" n="30"/>quam c / agere.
+    </p>
+            <p xml:id="D78nca-e68319-d1e369">
+      ¶ Secundo principaliter. que sunt simul na 
+      <lb ed="#P" n="31"/>tura cum quodam tertio: sunt inter se simul natura. 
+      <lb ed="#P" n="32"/>sed causa prima et causa secunda in causando sunt 
+      <lb ed="#P" n="33"/>huiusmodi. igitur. maior patet. quia si a / et b / sunt simul natura 
+      <lb ed="#P" n="34"/>cum c. igitur a / est simul natura cum c. et c / est simul 
+      <lb ed="#P" n="35"/>natura cum b. igitur a / est simul natura cum b. minor 
+      pro<lb ed="#P" n="36" break="no"/>batur. quia causa actu causans et causatum in actu: simul 
+      <lb ed="#P" n="37"/>sunt et non sunt. patet. 2. phisi. Et quia sunt correlatiua 
+      <lb ed="#P" n="38"/>igitur primam causam causare respectu c / effectus: et 
+      <lb ed="#P" n="39"/>c / effectum causari sunt simul natura: et simul 
+      cau<lb ed="#P" n="40" break="no"/>sam secundam causare respectu c / effectus: et c / 
+      effe<lb ed="#P" n="41" break="no"/>ctum causari a causa secunda sunt simul natura: igitur 
+    </p>
+            <p xml:id="D78nca-e68319-d1e396">
+               <lb ed="#P" n="42"/>¶ Tertio. si vna illarum causarum prius naturaliter 
+      cau<lb ed="#P" n="43" break="no"/>sat quam alia: sequitur quod effectus prius naturaliter est cau 
+      <lb ed="#P" n="44"/>satus quam causa sua causet. Probo. deum causare c / et 
+      <lb ed="#P" n="45"/>c / causari a deo sunt simul natura: igitur quicquid est na 
+      <lb ed="#P" n="46"/>turaliter posterius vno / est posterius naturaliter reliquo 
+      <lb ed="#P" n="47"/>sed causa secunda est naturaliter posterior quam prima 
+      <lb ed="#P" n="48"/>in causando vel econtra secundum te: igitur est in causando po 
+      <lb ed="#P" n="49"/>sterior quam c / effectum causari.
+    </p>
+            <p xml:id="D78nca-e68319-d1e416">
+      ¶ Quarto. 
+      causalita<lb ed="#P" n="50" break="no"/>tes eiusdem generis et ordinis non minus sunt simul 
+      <lb ed="#P" n="51"/>naturaliter: quam causalitates alterius generis et 
+      or<lb ed="#P" n="52" break="no"/>dinis. quia non minorem vnionem et connexionem habent 
+      <lb ed="#P" n="53"/>sed cause alterius generis sunt in causando simul 
+      na<lb ed="#P" n="54" break="no"/>tura. probatur de causalitate materie et forme: et de cau 
+      <lb ed="#P" n="55"/>salitate effectiua et finali: quia inferunt et exigunt se: 
+      <lb ed="#P" n="56"/>conuertibiliter. 
+      <lb ed="#P" n="57"/>ad ista. Notandum ali 
+      <lb ed="#P" n="58"/>Pro xesponsione quia esse prius alio 
+      di<lb ed="#P" n="59" break="no"/>citur dupliciter. Uno modo / a quo non conuertitur consequentia 
+      <lb ed="#P" n="60"/>vt esse animal dicitur prius quam esse hominem. Et. 2. 
+      phisi<lb ed="#P" n="61" break="no"/>Causarum altera prius: altera posterius esse videtur. 
+      <lb ed="#P" n="62"/>vt medicus dicitur causa sanitatis: et artifex. Iste mo 
+      <lb ed="#P" n="63"/>dus non est prioritas essendi in rebus extra: sed est pri 
+      <lb ed="#P" n="64"/>pritas predicabilium secundum ordinem predicationis.  
+      <lb ed="#P" n="65"/>Alio modo dicitur prius secundum naturam: et sic dicitur quadru 
+      <lb ed="#P" n="66"/>pliciter. Uno modo dicitur prius natura id est naturali in¬ 
+      <!--219.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>telligentia: quod scilicet potest intelligi alio non intellecto: non 
+      <lb ed="#P" n="68"/>econtra. et quod preexigitur cognosci cognitione alb 
+      <lb ed="#P" n="69"/>terius. et sic relatiua dicuntur simul natura et natura 
+      <lb ed="#P" n="70"/>li intelligentia: vt causa et causatum in actu. Omnis 
+      <lb ed="#P" n="71"/>enim intellectus intelligens patrem sub ratione et con 
+      <lb ed="#P" n="72"/>ceptu patris concipit illud quod est filius. quia ille conce 
+      <lb ed="#P" n="73"/>ceptus est noticia huius in habitudine ad illud: et 
+      <lb ed="#P" n="74"/>iste etiam modus non est modus essendi rerum extra 
+      <lb ed="#P" n="75"/>animam secundum esse reale: sed est modus intelligendi obie 
+      <lb ed="#P" n="76"/>ctorum: vt in anima.
+    </p>
+            <p xml:id="D78nca-e68319-d1e481">
+      ¶ Secundo modo prius natura 
+      di<lb ed="#P" n="77" break="no"/>citur sine quo alterum non potest esse / sed econtra: et si 
+      <lb ed="#P" n="78"/>aliquid possit esse simpliciter absque hoc quod sit tale: prius 
+      <lb ed="#P" n="79"/>tamen dicitur esse naturaliter quam esse tale. et hoc modo prioritatis na 
+      <lb ed="#P" n="80"/>ture vtebatur Plato: vt habetur. 5. metaphi. 
+      Propo<lb ed="#P" n="81" break="no"/>sitio autem in qua enunciatur prius de aliquo subiecto 
+      <lb ed="#P" n="82"/>secundum hunc modum prioritatis est comniter distinguenda 
+      <lb ed="#P" n="83"/>secundum compositionem et diuisionem: specialiter si subiectum 
+      <lb ed="#P" n="84"/>non sit terminus absolutus: et contingenter verifice 
+      <lb ed="#P" n="85"/>tur de eadem re demonstrata. quia talis propositio est im 
+      <lb ed="#P" n="86"/>plicite de possibili. et prioritas isto mo potest dici suf 
+      <lb ed="#P" n="87"/>ficientia non coexigens: et posterioritas opposita est 
+      <lb ed="#P" n="88"/>nsufficientia et indigentia coexigens.
+    </p>
+            <p xml:id="D78nca-e68319-d1e510">
+      ¶ Tertio 
+      mo<lb ed="#P" n="89" break="no"/>do. prius natura dicitur a quo alterum dependet: et quod ter 
+      <lb ed="#P" n="90"/>minat depentiam alterius: et posterius dicitur illud quod de 
+      <lb ed="#P" n="91"/>pendet et indiget aliquo. et iste modus differt a pre 
+      <lb ed="#P" n="92"/>cedenti. quia in precedenti est separabilitas: isto autem 
+      <lb ed="#P" n="93"/>modo contingit esse inseparabilitatem. quia secundum Aristo. 
+      <lb ed="#P" n="94"/>in predicamentis. Eorum que conuertuntur quod est cau 
+      <lb ed="#P" n="95"/>sa alteri digne prius natura dicitur: vt sic esse in re et ora 
+      <lb ed="#P" n="96"/>tionem hoc significantem verum esse. Item. 4. metaphis. 
+      <lb ed="#P" n="97"/>Ultra medium dicitur mouens moto prius est natura 
+      <lb ed="#P" n="98"/>et vtique: quia adinuicem dicuntur hec materia vel minus 
+      <lb ed="#P" n="99"/>Item. secundum philosophos / intelligentia non potest esse 
+      <lb ed="#P" n="100"/>nne mobili et motu: et tanmen est prior naturaliter motu 
+      <lb ed="#P" n="101"/>et mobili: quia ab ea dependet: et ea indiget. quod autem non 
+      <lb ed="#P" n="102"/>possit esse sine motu / hoc non est quia dependeat a mo 
+      <lb ed="#P" n="103"/>tu vel mobili: nec quia eis indigeat ad suum esse: sed ex 
+      <lb ed="#P" n="104"/>plenitudine et perfectione et necessitate actiuitatis 
+      <lb ed="#P" n="105"/>naturalis. Item. esse forme est naturaliter prius: quam 
+      <lb ed="#P" n="106"/>esse compositi. et tamen naturaliter non separantur isto mo 
+      <lb ed="#P" n="107"/>do causa actu causans et effectus in actu non sunt simul 
+      <lb ed="#P" n="108"/>imo causa vt causa est naturaliter prior causato vt cau 
+      <lb ed="#P" n="109"/>satum. potest autem dici hec prioritas secundum causalitatem 
+      <lb ed="#P" n="110"/>vel secundum independentiam vel terminationem 
+      dependen<lb ed="#P" n="111" break="no"/>lie: vel secundum presuppositionem. Hec autem prioritas potest 
+      <lb ed="#P" n="112"/>esse non solum inter causam et affectum: sed inter cau 
+      <lb ed="#P" n="113"/>sas adinuicem.
+    </p>
+            <p xml:id="D78nca-e68319-d1e567">
+      ¶ Quarto modo. prius natura dicitur 
+      <lb ed="#P" n="114"/>rius dignitate et perfectione vel intensione. vt. 8 
+      <lb ed="#P" n="115"/>phi. dicitur quod generatione posterius: natura est prius. ideo 
+      <lb ed="#P" n="116"/>motus localis est natura prior aliis.
+    </p>
+            <p xml:id="D78nca-e68319-d1e576">
+      ¶ Ad primum 
+      <lb ed="#P" n="117"/>igitur negatur antecedens. quia equiualet isti deus coagens cause 
+      <lb ed="#P" n="118"/>ecunde non est prior in se vel in causando: quam 
+      cau<lb ed="#P" n="119" break="no"/>sa secunda causans.
+    </p>
+            <p xml:id="D78nca-e68319-d1e586">
+      ¶ Ad probationem primam. licet 
+      <lb ed="#P" n="120"/>maior sit falsa: quia secundum Aristotelem in predicamentis 
+      <lb ed="#P" n="121"/>Eorum que conuertuntur secundum essendi consequentiam: alterum 
+      in<lb ed="#P" n="122" break="no"/>terdum dicitur altero prius natura. Et patet intertio 
+      mo<lb ed="#P" n="123" break="no"/>do. licet etiam maior foret vera si alterum secundum se acceptum 
+      <lb ed="#P" n="124"/>non potest esse sine altero secundum se accepto: tamen falsa est 
+      <lb ed="#P" n="125"/>si alterum sit acceptum non secundum se distincte: sed 
+      co<lb ed="#P" n="126" break="no"/>acceptum cum altero: seu acceptum tali modo quod talis 
+      <lb ed="#P" n="127"/>acceptio est eius cum alio acceptio. Cum autem dicitur deum 
+      <lb ed="#P" n="128"/>coagere cause secunde sic accipitur prima causa quod 
+      <lb ed="#P" n="129"/>eius acceptio est prine cause cum secunda ca acceptio. tame 
+      <lb ed="#P" n="130"/>potest dici quod cum dicitur deum coagere et causare cause 
+      se<lb ed="#P" n="131" break="no"/>cunde non potest esse sine causalitate cause secunde: 
+      <lb ed="#P" n="132"/>et exigit causam secundam: falsa est in sensu diuisionis 
+      <!--220.xml-->
+      <pb ed="#P" n="105-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Sicut et ista propositio deus concausans cause secunde non 
+      <lb ed="#P" n="2"/>potest causare sine causa secunda. In sensu autem compositio 
+      <lb ed="#P" n="3"/>nis conceditur et non infertur propositum. Sicut non sequitur 
+      <lb ed="#P" n="4"/>non est possibile quod deus concauset cause secunde. et quod cau 
+      <lb ed="#P" n="5"/>sa secunda non causet. igitur non est possibile quod deus cau 
+      <lb ed="#P" n="6"/>set et quod secunda causa non causet. Quod autem illa ratio non 
+      <lb ed="#P" n="7"/>valeat. declaratur. quia per idem arguitur quod causa non 
+      <lb ed="#P" n="8"/>est naturaliter prior causato. contra Arist. in praedica. 
+      <lb ed="#P" n="9"/>et quod nulla causa est naturaliter prius causans quam alia 
+      <lb ed="#P" n="10"/>cum qua concurrit / siue in eodem siue in alio genere 
+      <lb ed="#P" n="11"/>cause. Per idem etiam probatur quod prius naturaliter 
+      <lb ed="#P" n="12"/>posteriori non est prius posteriori: sed est simul na 
+      <lb ed="#P" n="13"/>tura cum illo. Per idem etiam probatur. quod deus non 
+      <lb ed="#P" n="14"/>est prius naturaliter existens quam creatura sit existens 
+      <lb ed="#P" n="15"/>quia non est possibile deum coexistere creature quin 
+      crea<lb ed="#P" n="16" break="no"/>tura sit. Possit etiam dici quod principale antecedens in sensu 
+      <lb ed="#P" n="17"/>diuisionis falsum est sicut et istud / deus concausans 
+      <lb ed="#P" n="18"/>cause secunde non potest causare sine causa secunda. Sed in 
+      <lb ed="#P" n="19"/>sensu compositionis conceditur. loquendo de priori natu 
+      <lb ed="#P" n="20"/>ra secundo modo. et sic negatur consequentia. sicut non sequitur non est 
+      <lb ed="#P" n="21"/>possibile quod deus concauset cause secunde absque hoc quod cau 
+      <lb ed="#P" n="22"/>sa secunda causet. igitur non est possibile quod deus causet abi 
+      <lb ed="#P" n="23"/>que hoc quod secunda causa causet. Ad probationem antecedentis non 
+      <lb ed="#P" n="24"/>sequitur deum concausare est causare. igitur si deus est prius cau 
+      <lb ed="#P" n="25"/>sans est prius concausans. quia huiusmodi propositiones sunt impli 
+      <lb ed="#P" n="26"/>cite de possibili sicut non sequitur. sortes pater platonis 
+      <lb ed="#P" n="27"/>non potest esse sine platone: et sortes est sortes pater plato 
+      <lb ed="#P" n="28"/>nis. igitur sortes non potest esse sine platone Sumpta ma 
+      <lb ed="#P" n="29"/>iore in sensu compositionis est figura dictoinis si infe 
+      <lb ed="#P" n="30"/>ratur conclusio de inesse. Ad secundam probationem antecedentis  
+      <lb ed="#P" n="31"/>principalis. negatur minor ex forma enunciationis. licet 
+      <lb ed="#P" n="32"/>equiualenter habeat sensum verum. Quod autem de forma 
+      <lb ed="#P" n="33"/>enunciationis sit falsa. patet. quia .a. coagere . b. est. a. coagens 
+      <lb ed="#P" n="34"/>b. Sed .a. et. b. simul agere est .a. et. b. simul agentia: 
+      <lb ed="#P" n="35"/>nunc autem .a. coagens ipsi b. non est .a. et. b. simul agentia 
+      <lb ed="#P" n="36"/>ideo .a. coagere ipsi .b. non est a. et. b. simul agere. Et per 
+      <lb ed="#P" n="37"/>idem arguitur quod .a. et. b. simul agere non est .a. agere. 
+      <lb ed="#P" n="38"/>nec econtra. Si vero concedatur minor. tunc 
+      con<lb ed="#P" n="39" break="no"/>clusio est distinguenda sicut ista deum coexistere b. non 
+      <lb ed="#P" n="40"/>est prius quam .b. existere in sensu diuisionis falsum est 
+      <lb ed="#P" n="41"/>In sensu autem compositionis conceditur de priori na 
+      <lb ed="#P" n="42"/>tura secundo modo.
+    </p>
+            <p xml:id="D78nca-e68319-d1e714">
+      ¶ Ad secundum principale. negatur 
+      mi<lb ed="#P" n="43" break="no"/>nor. Ad probationem. licet hunc effectum causari 
+      <lb ed="#P" n="44"/>actualiter a tali causa et talem causam actu causa 
+      <lb ed="#P" n="45"/>re hunc effectum sint simul duratione et natura id est na 
+      <lb ed="#P" n="46"/>turali intelligentia. et etiam secundum mutuam et conuertibi 
+      <lb ed="#P" n="47"/>lem consequentiam et connexionem: non tamen sunt simu 
+      <lb ed="#P" n="48"/>natura tertio modo. falsum etiam est quod .b. causari 
+      <lb ed="#P" n="49"/>a. causa secunda vel .b. causari a causa prima sit simul na 
+      <lb ed="#P" n="50"/>tura cum vtroque istorum deum causare .b. et causam 
+      <lb ed="#P" n="51"/>secundam causare .b. quia non conuertitur cum quolibet 
+      <lb ed="#P" n="52"/>istorum. si vero accipitur sic quod .b. causari a secundem 
+      <lb ed="#P" n="53"/>causa est simul natura cum vtroque istorum. scilicet. 
+      <lb ed="#P" n="54"/>causam secundam causare .b. et primam causam coa 
+      <lb ed="#P" n="55"/>gere ad .b. sic potest dici quod non est verum de priori na 
+      <lb ed="#P" n="56"/>tura tertio modo: loquendo vero de priori natura 
+      <lb ed="#P" n="57"/>secundo modo vt est modus essendi rerum. ille proposi 
+      <lb ed="#P" n="58"/>tiones sunt false in sensu diuisionis / vel non probant 
+      <lb ed="#P" n="59"/>quod deum causare non sit prius: licet deum concausa 
+      <lb ed="#P" n="60"/>re non sit prius.
+    </p>
+            <p xml:id="D78nca-e68319-d1e756">
+      ¶ Ad tertium. negatur consequentia 
+      spe<lb ed="#P" n="61" break="no"/>cialiter loquendo de prioritate naturali. secundum  
+      <lb ed="#P" n="62"/>quam prius dicitur a quo alterum dependet: et quo 
+      <lb ed="#P" n="63"/>alterum indiget: non econtra. Loquendo etiam de 
+      <lb ed="#P" n="64"/>prioritate secundum quam illud dicitur prius a quo 
+      <lb ed="#P" n="65"/>non conuertitur consequentia. non valet consequentia argumenti 
+      <lb ed="#P" n="66"/>Sequitur enim b. effectus causatur. igitur sua cau 
+      <!--220.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>sa causat. Et sequitur .b. causatur a causa secunda 
+      <lb ed="#P" n="68"/>igitur causa secunda causat .b. Si cautem viedetur 
+      <lb ed="#P" n="69"/>accipi effectum causari in consequente. scilicet vt 
+      <lb ed="#P" n="70"/>effectus cause secunde. quia dicitur sua causa. si tamen 
+      <lb ed="#P" n="71"/>inferretur quod .b. effectum esse et causari est prius na 
+      <lb ed="#P" n="72"/>tura quam causam secundam causare: et intelligeretur de 
+      <lb ed="#P" n="73"/>prioritate eius a qua non conuertitur consequentia conce 
+      <lb ed="#P" n="74"/>dreetur consequens. Ad probationem consequentie nega 
+      <lb ed="#P" n="75"/>tur assumptum. loquendo de prioritate et 
+      posterio<lb ed="#P" n="76" break="no"/>ritate nature secundum dependentiam et independentiam 
+      <lb ed="#P" n="77"/>et secundum sufficientiam et indigentiam siue 
+      insufficien<lb ed="#P" n="78" break="no"/>tiam.
+    </p>
+            <p xml:id="D78nca-e68319-d1e802">
+      ¶ Ad quartum. negatur maior. minor etiam non 
+      <lb ed="#P" n="79"/>est vniuersaliter vera. 
+      <lb ed="#P" n="80"/> deo et creatura 
+      concur<lb ed="#P" n="81" break="no"/>Secunda conclusiu. rentibus per se 
+      effecti<lb ed="#P" n="82" break="no"/>ctiue ad eundem effectum non prius agit creatura quam 
+      <lb ed="#P" n="83"/>deus probatur. quia tunc magis dicendum esset deum causam secundam 
+      <lb ed="#P" n="84"/>et creaturam primam causam esse in agendo quam econtra. 
+    </p>
+            <p xml:id="D78nca-e68319-d1e818">
+               <lb ed="#P" n="85"/>¶ Preterea. causalitas secunde cause non dependet in 
+      <lb ed="#P" n="86"/>agendo a causalitate prime cause. sed potius econtra. quia 
+      <lb ed="#P" n="87"/>prius non dependet a posteriori. sed potius econtra. Pre 
+      <lb ed="#P" n="88"/>terea. prima causa subordinaretur et subseruiret cause 
+      <lb ed="#P" n="89"/>secunde et duceretur ab illa: et ita causa secunda esset principalior 
+      <lb ed="#P" n="90"/>et dignior in causando.
+    </p>
+            <p xml:id="D78nca-e68319-d1e834">
+      ¶ Preterea. primo. senten. 
+      <lb ed="#P" n="91"/>distin. 45. cap. 4. Diuina voluntas sic est causa om 
+      <lb ed="#P" n="92"/>nium quod nulla est causa praeuenta: et ideo eius non est causa 
+      <lb ed="#P" n="93"/>querenda 
+      <lb ed="#P" n="94"/>conclusionem specialiter quod stando in lune 
+      <lb ed="#P" n="95"/>Contra naturali secundum philosophos quod sit falsa. Sic 
+      <lb ed="#P" n="96"/>pluribus causis effectiuis concurrentibus ad eundem 
+      effe<lb ed="#P" n="97" break="no"/>ctum. illa est prior in causando que determinat 
+      al<lb ed="#P" n="98" break="no"/>teram ad agendum talem effectum. Et illa est in cau 
+      <lb ed="#P" n="99"/>sando posterior que determinatur. quia quod est de 
+      <lb ed="#P" n="100"/>se indeterminatum presupponit determinatiuum ad  
+      <lb ed="#P" n="101"/>hoc vt. determinetur Sed causa secunda determinat 
+      <lb ed="#P" n="102"/>primam: non econtra: saltem stando in lumine natu 
+      <lb ed="#P" n="103"/>rali. probo. causa / vniuersalis et illimitata ad varios 
+      <lb ed="#P" n="104"/>effectus non solum secundum speciem: sed etiam secun 
+      <lb ed="#P" n="105"/>dum genus et indifferens secundum generalem 
+      influen<lb ed="#P" n="106" break="no"/>tiam determinatur ad talem effectum secundum 
+      spe<lb ed="#P" n="107" break="no"/>ciem per passum: vel per aliquam causam 
+      particu<lb ed="#P" n="108" break="no"/>larem limitatam et determinatam ad agendum 
+      ta<lb ed="#P" n="109" break="no"/>lem effectum specifice. Patet / de sole qui ex se est 
+      <lb ed="#P" n="110"/>causa vniuersalis et illimitata et indifferens ad pro 
+      <lb ed="#P" n="111"/>ducendum hanc herbam. vel illam. sed 
+      determina<lb ed="#P" n="112" break="no"/>tur ex semine. Similiter ad generandum equum vel 
+      <lb ed="#P" n="113"/>asinum. sed determinatur per agens particulare 
+      con<lb ed="#P" n="114" break="no"/>currens. Similiter potentia cognitiua determinatur 
+      <lb ed="#P" n="115"/>ad causandum talem / vel talem cognitionem per obie 
+      <lb ed="#P" n="116"/>ctum / vel speciem obiecti. Secundo. illud quod imme 
+      <lb ed="#P" n="117"/>diatius causatur a creatura quam a deo prius causatur 
+      <lb ed="#P" n="118"/>effectiue a creatura quam a deo b. effectus est huiusmodi. igitur 
+      <lb ed="#P" n="119"/>tur. Maior patet. quia in omni ordine et processu vnum 
+      <lb ed="#P" n="120"/>quodque prius respicit ad illud ad quod immediate 
+      <lb ed="#P" n="121"/>se habet: et quod immediate respicit quam illud ad quod 
+      <lb ed="#P" n="122"/>mediate se habet. quia non respicit illud mediatum 
+      <lb ed="#P" n="123"/>nisi mediante isto. Minor probatur. primo. quia in 
+      <lb ed="#P" n="124"/>huiusmodi ordine et processu .b. effectus est vltimum 
+      <lb ed="#P" n="125"/>et deus est primum: et causa secunda est medium. 
+      <lb ed="#P" n="126"/>Deus enim tunc agit mediante causa secunda 
+      <lb ed="#P" n="127"/>Sed terminus et extremum immediatius se habet 
+      <lb ed="#P" n="128"/>ad medium quam ad alterum terminum et extremum. 
+    </p>
+            <p xml:id="D78nca-e68319-d1e920">
+               <lb ed="#P" n="129"/>¶ Secundo. quia secundum Aristotelem. 
+      septi<lb ed="#P" n="130" break="no"/>mo Phi sicorum. Alterans proprium / et particula 
+      <lb ed="#P" n="131"/>re est immediatum passo. licet non mouens vniuer 
+      <lb ed="#P" n="132"/>sale et primum: vt de obiecto sensibili / et specie in 
+      <!--221.xml-->
+      <pb ed="#P" n="105-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>medio vel organo.
+    </p>
+            <p xml:id="D78nca-e68319-d1e940">
+      ¶ Tertio. quia in ordine causarum 
+      <lb ed="#P" n="2"/>finalium. ita est quod vltimus effectus est 
+      immedia<lb ed="#P" n="3" break="no"/>tius gratia huius finis particularis / et ille finis es 
+      <lb ed="#P" n="4"/>propter alterum sibi immediatum: et sic consequenter 
+      <lb ed="#P" n="5"/>vsque ad finem vltimum. Ex istis patet quod prima cau 
+      <lb ed="#P" n="6"/>sa non est immediata causa effectus communis prime 
+      <lb ed="#P" n="7"/>cause et secunde. Quod confirmatur sic. Si deus 
+      imme<lb ed="#P" n="8" break="no"/>diate causat .b. effectum communem. aut igitur causa 
+      <lb ed="#P" n="9"/>secunda causat idem immediate / aut mediate. Si pri 
+      <lb ed="#P" n="10"/>mum. igitur eque primo causant illud deus et 
+      crea<lb ed="#P" n="11" break="no"/>tura. igitur vna istarum causarum non est prior in cau 
+      <lb ed="#P" n="12"/>sando quam altera. igitur nullus ordo essentialis 
+      cau<lb ed="#P" n="13" break="no"/>sarum est in causando. Si secundum. contra. quia sequitur 
+      <lb ed="#P" n="14"/>quod prima causa sit posterior in causando: et causa se 
+      <lb ed="#P" n="15"/>cunda prior in causando. probo. quia in essentialiter or 
+      <lb ed="#P" n="16"/>dinatis sicut illud est prius quod est primo 
+      propin<lb ed="#P" n="17" break="no"/>quius et illud est posterius quod est a primo remoti 
+      <lb ed="#P" n="18"/>Ita in essentialiter ordinatis. eo modo et eo 
+      ordi<lb ed="#P" n="19" break="no"/>ne quo aliquid est propinquius vltimo est posterius 
+      <lb ed="#P" n="20"/>et eo modo quo aliquid est remotius ab vltimo es 
+      <lb ed="#P" n="21"/>prius. Sed .b. causatum et causa prima et causa secund 
+      <lb ed="#P" n="22"/>sunt essentialiter ordinata secundum causalitatem. et .l 
+      <lb ed="#P" n="23"/>in isto ordine est vltimum et prima causa si cause 
+      <lb ed="#P" n="24"/>immediate erit in causando propinquior vltimo. scilicet 
+      <lb ed="#P" n="25"/>effectui: et causa secunda in causando erit remotior. pro 
+      <lb ed="#P" n="26"/>bo. quia immediatum alicui est illi propinquius et 
+      medi<lb ed="#P" n="27" break="no"/>tum est remotius eo modo et ordine quo est media 
+      <lb ed="#P" n="28"/>tum.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1001">
+      ¶ Tertio principaliter in ordine causalitatis  
+      <lb ed="#P" n="29"/>finalis. deus est posterior in causando. quia dicitur fi 
+      <lb ed="#P" n="30"/>nis vltimus. igitur in ordine causalitatis effectiue 
+      <lb ed="#P" n="31"/>quia non minus essentialis est hic ordo: nec minoris 
+      <lb ed="#P" n="32"/>nobilitatis est potestas causandi finaliter quam effect 
+      <lb ed="#P" n="33"/>ue.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1014">
+      ¶ Quarto. causam primam coagere cause secunde 
+      <lb ed="#P" n="34"/>est posterius quam causam secundam agere. igitur causam 
+      <lb ed="#P" n="35"/>primam agere. consequentia probatur. quia primam causam con 
+      <lb ed="#P" n="36"/>causare et coagere est ipsam coagere causare et age 
+      <lb ed="#P" n="37"/>re. antecedens probatur. quia concausare alteri et concurrere 
+      <lb ed="#P" n="38"/>cum altero presupponit alterum. esse enim .a. pre 
+      <lb ed="#P" n="39"/>intelligitur huic / quod est aliquid aliud coexistere 
+      <lb ed="#P" n="40"/>ipsi .a. vel huic quod est .a. coexistere alteri sicut reli 
+      <lb ed="#P" n="41"/>tio presupponit extrema absoluta. probatur iterum. quia 
+      <lb ed="#P" n="42"/>hoc coagere illi est hoc: et illud simul agere. Sed hoc 
+      <lb ed="#P" n="43"/>agere est prius illo toto copulato. igitur. 
+      <lb ed="#P" n="44"/>Stando in lumine naturali 
+      <lb ed="#P" n="45"/>Ad primum. negaretur maior. ex quo enim cau 
+      <lb ed="#P" n="46"/>sa sic determinans per suam limitationem 
+      imperfe<lb ed="#P" n="47" break="no"/>ctam in omni actione sua dependet a tali causa vni 
+      <lb ed="#P" n="48"/>uersali et indiget illa et exigit illam: non econtra: et ex 
+      <lb ed="#P" n="49"/>quo est ibi ordo essentialis / illa est prima in 
+      cau<lb ed="#P" n="50" break="no"/>sando et preordinata essentialiter. a qua alie depen 
+      <lb ed="#P" n="51"/>dent. in lumine autem fidei. negatur minor 
+      <lb ed="#P" n="52"/>Deus enim cognoscens distincte omnia possibilia deter 
+      <lb ed="#P" n="53"/>minat causam secundam ad hunc effectum numero. Ad 
+      <lb ed="#P" n="54"/>secundum .a. esse causam mediatam alicuius effectus puta. qusi 
+      <lb ed="#P" n="55"/>et .b. esse causam immediatam eiusdem effectus dicitur mu 
+      <lb ed="#P" n="56"/>tipliciter. Primo. quiab. causa est secundum situm propin 
+      <lb ed="#P" n="57"/>quior passiuo et effectui: vt de obiecto et de lumine 
+      <lb ed="#P" n="58"/>vel specie in medio respectu visionis.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1071">
+      ¶ Secundo modo 
+      <lb ed="#P" n="59"/>ex hoc precise quod .a. causat ipsum .b. quod est causa ipsium 
+      <lb ed="#P" n="60"/>c. et prius duratione vel natura .b. causatur ab .a. qua 
+      <lb ed="#P" n="61"/>c. causetur ab ipso. b. nec .b. causaret .c. nisi .a. causa 
+      <lb ed="#P" n="62"/>ret .b. quamuis .a. non attingat realiter et per se effecti 
+      <lb ed="#P" n="63"/>ue ipsum c. effectum / nec per se simul concausant idem 
+      <lb ed="#P" n="64"/>Sicut visio qua video lumen causatur immediate 
+      <lb ed="#P" n="65"/>lumine: et causatur mediate a sole. licet sol qui tunc non 
+      <lb ed="#P" n="66"/>videtur non causet realiter per se effectiue illam visionem 
+      <!--221.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>immo si illud lumen aliunde conseruaretur non minis 
+      <lb ed="#P" n="68"/>causaret visionem sui. et forte isto modo actus sensa 
+      <lb ed="#P" n="69"/>tionis vel fantasie diceretur causa immediata 
+      intel<lb ed="#P" n="70" break="no"/>lectionis: et sensibile extra diceretur causa mediata 
+      <lb ed="#P" n="71"/>Mis duobus modis negatur minor. quia deus est can 
+      <lb ed="#P" n="72"/>sa presens intime vnicuique rei et attingit per se effe 
+      <lb ed="#P" n="73"/>ctiue ad quamlibet effectum et conseruat ipsum sicut et 
+      <lb ed="#P" n="74"/>se causat causam secundam et conseruat illa.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1113">
+      ¶ Tertio 
+      <lb ed="#P" n="75"/>modo. quia licet tam .a. quam .b. attingat per se causaliter 
+      <lb ed="#P" n="76"/>effectiue .c. causatum: et .a. et .b. concausent per se idem 
+      <lb ed="#P" n="77"/>causatum. tamen .a. prius duratione vel natura causat alium 
+      <lb ed="#P" n="78"/>effectum quam causet. c. effectum. Sed .b. causa sic 
+      cau<lb ed="#P" n="79" break="no"/>sat immediate.c. effectum / quod non prius causat alium 
+      <lb ed="#P" n="80"/>effectum. Et isto modo deus concausans cause si 
+      <lb ed="#P" n="81"/>cunde ad tertium effectum. Dicitur causare mediate 
+      <lb ed="#P" n="82"/>illum tertium effectum. quia prius naturaliter causat illud 
+      <lb ed="#P" n="83"/>causam secundam. Ita quod causatio illius tertii effectus 
+      <lb ed="#P" n="84"/>ab illis causis presupponit .b. causari ab . a. 
+      Quar<lb ed="#P" n="85" break="no"/>to. causa immediata dicitur causa totalis et precisa in 
+      <lb ed="#P" n="86"/>tali ordine et genere causalitatis. vt deus dicitur cau 
+      <lb ed="#P" n="87"/>sare effectiue immediate illudquod se solo producit. Can 
+      <lb ed="#P" n="88"/>sa autem mediata diceretur que causat cum alia causa sibi 
+      <lb ed="#P" n="89"/>subordinata et inferiori et limitatiori: et que causat 
+      <lb ed="#P" n="90"/>tanquam causa superior et preordinata vel 
+      subordina<lb ed="#P" n="91" break="no"/>ta et illimitatior. his duobus modis conceditur minor et 
+      <lb ed="#P" n="92"/>negatur maior. loquendo de prioritate causandi rea 
+      <lb ed="#P" n="93"/>li extra animam non de prioritate secundum processum anime nostr 
+      <lb ed="#P" n="94"/>reducentis et resoluentis effectum in suas causas et inci 
+      <lb ed="#P" n="95"/>pientis ab vltimo illius ordinis. quanto enim secundum talem pro 
+      <lb ed="#P" n="96"/>cessum anime aliquid est propinquius et immediatius vlti 
+      <lb ed="#P" n="97"/>mo causato est posterius in illo ordine. Sic autem 
+      pro<lb ed="#P" n="98" break="no"/>cedit. probatio maioris. Ex his patet ad aliud additum. 
+    </p>
+            <p xml:id="D78nca-e68319-d1e1169">
+               <lb ed="#P" n="99"/>¶ Ad tertium principale. negatur antecedens. loquendo de 
+      prio<lb ed="#P" n="100" break="no"/>ritate reali et propria. Quod autem deus dicitur finis vel 
+      <lb ed="#P" n="101"/>timus: hoc non est quin vere habeat primitatem cau 
+      <lb ed="#P" n="102"/>sandi in ordine causalitatis finalis. Sed quia nomen 
+      <lb ed="#P" n="103"/>finis primo sumptum et impositum est ab vltimo: ideo 
+      <lb ed="#P" n="104"/>principalis finis dicitur vltimus. Et quia finis licet 
+      <lb ed="#P" n="105"/>sit primum in intentione: tamen est vltimum in 
+      exe<lb ed="#P" n="106" break="no"/>cutione et assecutione. Et quia ordinem causarum 
+      fi<lb ed="#P" n="107" break="no"/>nalium. anima communiter incipit discerners ab eo 
+      <lb ed="#P" n="108"/>quod realiter est inferius et posterius.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1193">
+      ¶ Ad quartum. 
+      <lb ed="#P" n="109"/>negatur antecedens. Ad probationem. illud intelligibile quod 
+      <lb ed="#P" n="110"/>est deum concausare non presupponit causam secundam 
+      <lb ed="#P" n="111"/>agere. quia illud est deus causans. deus autem causans 
+      <lb ed="#P" n="112"/>non presupponit alterum causans: sed concediturquod 
+      <lb ed="#P" n="113"/>ratio et conceptus quo concipitur vt cum altero agen 
+      <lb ed="#P" n="114"/>te agens presupponit aliquem conceptum illius alterius. 
+      <lb ed="#P" n="115"/>Ad secundam probationem. negatur maior.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1211">
+      ¶ Aliter 
+      <lb ed="#P" n="116"/>potest responderi. negando consequentiam princi 
+      <lb ed="#P" n="117"/>palem. de hoc supra. respondendo ad primum contra pri 
+      <lb ed="#P" n="118" break="no"/>mam conclusionem 
+    </p>
+            <p xml:id="D78nca-e68319-d1e1220">
+               <lb ed="#P" n="119"/>Tertia conclusio. deo et creatura concurrem 
+      <lb ed="#P" n="120" break="no"/>tibus perse effective ad es 
+      <lb ed="#P" n="121"/>dem effectum: deus prius naturaliter agit quam causa secunda secundum 
+      <lb ed="#P" n="122"/>intellectum et modum inferius explicandum. probatur per aliquas 
+      <lb ed="#P" n="123"/>rationes. quarum alique nisi debite intelligantur assumunt 
+      <lb ed="#P" n="124"/>aliqua falsa: et videntur applicabiles ad conclusio 
+      <lb ed="#P" n="125"/>nes aliquas falsas. Arguitur igitur primo sic in o 
+      <lb ed="#P" n="126"/>dine causalitatis effectiue: deus est prima causa 
+      ef<lb ed="#P" n="127" break="no"/>fectiua. igitur est prior in causando et prius causat. consequentia 
+      <lb ed="#P" n="128"/>patet. quia in omni ordine primum est prius secundum il 
+      <lb ed="#P" n="129" break="no"/>lum ordinem. antecedens patet. quia etiam a philosophis vocatur 
+      <lb ed="#P" n="130"/>primum efficiens et primum mouens.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1249">
+      ¶ Preterea. in om 
+      <lb ed="#P" n="131" break="no"/>ni ordine quod est remotius ab vltimo est prius in 
+      <lb ed="#P" n="132"/>illo ordine: et quod est propinquius vltimo est po¬ 
+      <!--222.xml-->
+      <pb ed="#P" n="106-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1" break="no"/>sterius. Sicut econtra / illud est prius quod est primo pro 
+      <lb ed="#P" n="2" break="no"/>pinquius. 5. metha. Sed in ordine causarum et causatorum 
+      <lb ed="#P" n="3"/>effectiue vltimum est effectus vltimus et primum 
+      ef<lb ed="#P" n="4" break="no"/>ficiens est remotius ab vltimo: et causa secunda est eo 
+      <lb ed="#P" n="5"/>pinquior effectui vltimo secundum istum ordinem. igitur 
+      <lb ed="#P" n="6"/>t ordine causandi est posterior. minor probatur. quia 
+      <lb ed="#P" n="7"/>in per se ordinatis extremum supremum est remotiue 
+      <lb ed="#P" n="8"/>ab extremo infimo quam medium inferius inter supremi 
+      <lb ed="#P" n="9"/>et infimum et inter primum et vltimum et medium est 
+      <lb ed="#P" n="10"/>propinquius extremo quam extremum extremo secundum 
+      <lb ed="#P" n="11"/>illam rationem ordinis secundum quam dicitur ibi esse 
+      <lb ed="#P" n="12"/>supremum seu primum et medium inferius et vltimum 
+      <lb ed="#P" n="13"/>infimum. preterea non eque primo causant ex pri 
+      <lb ed="#P" n="14"/>ma conclusione. Et quia nullus esset per se ordo cau 
+      <lb ed="#P" n="15"/>sarum in causando. Sed secunda causa non prius cat 
+      <lb ed="#P" n="16"/>sat ex secunda conclusione. igitur.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1297">
+      ¶ Confirmatur. quod 
+      <lb ed="#P" n="17"/>prioritas causandi cum sit conditio nobilitatis 
+      ma<lb ed="#P" n="18" break="no"/>gis attribuenda est cause principali et superiori quam 
+      <lb ed="#P" n="19"/>cause instrumentali vel minus principali et subset 
+      <lb ed="#P" n="20"/>uienti. Deus autem est causa principalis. Unde mi 
+      <lb ed="#P" n="21"/>gister. lib. primo. distin. 18. cap. 9. Uoluntas et poten 
+      <lb ed="#P" n="22"/>tia dei est omnium causa principalis et primordialis per 
+      <lb ed="#P" n="23"/>modum artificis in cuius arte et dispositione est 
+      qua<lb ed="#P" n="24" break="no"/>lis sit figura arche siue futura archa. Et August. 
+      <lb ed="#P" n="25"/>de trini. cap. 4. Uoluntas dei est prima et summa 
+      <lb ed="#P" n="26"/>causa omnium corporalium specierum atque motionum. 
+    </p>
+            <p xml:id="D78nca-e68319-d1e1322">
+               <lb ed="#P" n="27"/>¶ Preterea. illa causa est prior in causando incuius 
+      <lb ed="#P" n="28"/>virtute agit alter a causa non econtra: et in cuius po 
+      <lb ed="#P" n="29"/>testate est illa altera causa non solum in essendo. sed 
+      <lb ed="#P" n="30"/>etiam in causando non econtra. quia tale 
+      presuppo<lb ed="#P" n="31" break="no"/>nitur illi in causando potiusquam econtra.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1335">
+      ¶ Confi 
+      <lb ed="#P" n="32"/>matur. 5. metha. cap. de priori dicitur sic. Prius di 
+      <lb ed="#P" n="33"/>citur secundum cuius preuoluntatem sequi necesse est al 
+      <lb ed="#P" n="34"/>terum et posterius vt non mouente illo non mouea 
+      <lb ed="#P" n="35"/>tur et mouente moueatur et est preuoluntas princi 
+      <lb ed="#P" n="36"/>pium. Nota hunc modum prioritatis dicit prius se 
+      <lb ed="#P" n="37"/>cundum potestatem.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1351">
+      ¶ Preterea. in per se ordine 
+      <lb ed="#P" n="38"/>causalitatis causa independens in causando est prior 
+      <lb ed="#P" n="39"/>in causando quam causa dependens ab illa in 
+      causan<lb ed="#P" n="40" break="no"/>do. probo. quia in omni ordine prius secundum illum ordi 
+      <lb ed="#P" n="41"/>nem est minus dependeus. quia dependens in eo secundum 
+      <lb ed="#P" n="42"/>quod dependet presupponit et preexigit illud a quo de 
+      <lb ed="#P" n="43"/>pendet: non econtra. Et quia ideo causa dicitur prior 
+      <lb ed="#P" n="44"/>effectu. quia ab ea dependet effectus: non econtra 
+    </p>
+            <p xml:id="D78nca-e68319-d1e1369">
+               <lb ed="#P" n="45"/>¶ Preterea. in mouentibus per se ordinatis 
+      mo<lb ed="#P" n="46" break="no"/>uens immobile et immobiliter / est prius in mouendo 
+      <lb ed="#P" n="47"/>quam mouens motum. Ponitur enim esse primum mo 
+      <lb ed="#P" n="48"/>uens. igitur in per se ordine causarum effectiuarum 
+      <lb ed="#P" n="49"/>illa est prior in causando effective que causat incaus 
+      <lb ed="#P" n="50"/>sabiliter: et illa est posterior que causat vt 
+      causabi<lb ed="#P" n="51" break="no"/>lis.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1387">
+      ¶ Sed causa prima est huiusmodi. igitur.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1390">
+      ¶ 
+      Prete<lb ed="#P" n="52" break="no"/>rea. prius est quod potest esse sine altero: non econtra 
+      <lb ed="#P" n="53"/>5. metha. Prius etiam est a quo non conuertitur com 
+      <lb ed="#P" n="54"/>sequentia secundum esse. Sed prima causa potest 
+      <lb ed="#P" n="55"/>causare .b. effectum sine causa secunda: non econtra. 
+      <lb ed="#P" n="56"/>et sequitur creatura causat .b. igitur. deus causat .b 
+      <lb ed="#P" n="57"/>non econtra. igitur.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1407">
+      ¶ Preterea. secundum Arist 
+      <lb ed="#P" n="58"/>in predicanm. Eorum que conuertuntur secundum exister 
+      <lb ed="#P" n="59"/>tie consequentiam quod alteri quolibet modo causa est di 
+      <lb ed="#P" n="60"/>gne prius natura dicitur. Sed prima causa est cau 
+      <lb ed="#P" n="61"/>sa causalitatis secunde cause et quare causa secunda 
+      agi<lb ed="#P" n="62" break="no"/>quia facit secundam causam agere. quia vult ipsam agere 
+      <lb ed="#P" n="63"/>et secunda causa habet et capit agere a prima. et ideo 
+      <lb ed="#P" n="64"/>secunda agit. quia prima agit: et quia secunda causa 
+      depen<lb ed="#P" n="65" break="no"/>det a prima in causando. igitur
+    </p>
+            <p xml:id="D78nca-e68319-d1e1427">
+      ¶ Preterea. causa 
+      <lb ed="#P" n="66"/>prima determinat causam secundam ad agendum  
+      <!--222.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>determinate hunc effectum: non econtra. igitur prior 
+      <lb ed="#P" n="68"/>est in causando. consequentia patet. quia 
+      indetermi<lb ed="#P" n="69" break="no"/>natum ex se ad aliquid et determinabile per alterum 
+      praesuppo<lb ed="#P" n="70" break="no"/>nit alterum ad hoc quod determinetur. antecedens patet. quia 
+      <lb ed="#P" n="71"/>agens naturale non determinatur ex se ad agendum 
+      <lb ed="#P" n="72"/>hunc singularem effectum magis quam alium omnino 
+      <lb ed="#P" n="73"/>consimilem / eque ex se possibilem et eque ex se in hoc 
+      <lb ed="#P" n="74"/>passo receptibilem: igitur vel nullum / vel quemlibet 
+      <lb ed="#P" n="75"/>producit nisi determinetur a causa libera 
+      praecogno<lb ed="#P" n="76" break="no"/>scente illa singularia possibilia determinate.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1458">
+      ¶ Prete 
+      <lb ed="#P" n="77"/>rea. in ordine causalitatis finalis: deus primo 
+      cau<lb ed="#P" n="78" break="no"/>sat quam creatura. igitur. et in ordine causalitatis 
+      effe<lb ed="#P" n="79" break="no"/>ctiue. Antecedens probatur. quia si finis sit primum in 
+      in<lb ed="#P" n="80" break="no"/>tentione. igitur finis principalis qui est deus est pri 
+      <lb ed="#P" n="81"/>mum in intentione primi efficientis et propter ipsum 
+      <lb ed="#P" n="82"/>agit principaliter omnis causa: et quia sicut causa 
+      fi<lb ed="#P" n="83" break="no"/>nalis secunda dicitur prior causato quod est gratia 
+      il<lb ed="#P" n="84" break="no"/>lius. 
+      <lb ed="#P" n="85"/>Ita deus erit prior secundum 
+      causali<lb ed="#P" n="86" break="no"/>tatem finalem quam causa finalis creata: quia causa fina 
+      <lb ed="#P" n="87"/>lis secunda est propter finem vltimum et gratia illius 
+    </p>
+            <p xml:id="D78nca-e68319-d1e1484">
+               <lb ed="#P" n="88"/>¶ Preterea. super illam. primam propositionem de 
+      <lb ed="#P" n="89"/>causis. Prima causa plus influit in causatum quam se 
+      <lb ed="#P" n="90"/>cunda. Commentator ibidem dicit quod causa vniuersa 
+      <lb ed="#P" n="91"/>lis agit in causatum cause secunde antequam agat in ipsum 
+      <lb ed="#P" n="92"/>causa secunda que sequitur ipsum. Sic igitur proba 
+      <lb ed="#P" n="93"/>ta est conclusio. Sed multa sunt ibi accepta / ad que 
+      <lb ed="#P" n="94"/>respondebitur in sequentibus: et ad quedam respon 
+      <lb ed="#P" n="95"/>sum est supra. quia nisi debite intelligantur possent 
+      ap<lb ed="#P" n="96" break="no"/>plicari ad conclusiones falsas. 
+      <lb ed="#P" n="97"/>conclusionem istam possent reduci 
+      ratio<lb ed="#P" n="98" break="no"/>Contra nes facte contra primam et secundam 
+      con<lb ed="#P" n="99" break="no"/>clones. etiam quibus in questione sequenti arguitur 
+      <lb ed="#P" n="100"/>Deum non prius agere ad actum voluntatis nostre 
+      <lb ed="#P" n="101"/>quam agat voluntas nostra. Sed preter hec arguitur 
+      <lb ed="#P" n="102"/>sic. Sequitur quod effectus talis prius causatur et prius 
+      <lb ed="#P" n="103"/>est causatus quam secunda causa causet: et ita secunda causa 
+      <lb ed="#P" n="104"/>non causat. quia causare iam precausatum: et 
+      produ<lb ed="#P" n="105" break="no"/>cere iam ab alio prius productum nichil est: et quia 
+      <lb ed="#P" n="106"/>nullus effectus est naturaliter prior causalitate sue 
+      <lb ed="#P" n="107"/>cause. consequentia probatur. quia si prima causa in 
+      <lb ed="#P" n="108"/>causando preuenit secundam causam et prius 
+      natura<lb ed="#P" n="109" break="no"/>liter causat .b. effectum instantaneum vel temporalem 
+      <lb ed="#P" n="110"/>igitur .b. effectus prius causatur a deo quam causa 
+      se<lb ed="#P" n="111" break="no"/>cunda causet. igitur .b effectus in illo priori causat 
+      <lb ed="#P" n="112"/>a prima causa sufficienter. quia prima causa non cau 
+      <lb ed="#P" n="113"/>sat insufficienter et diminute. igitur .b. causari 
+      pre<lb ed="#P" n="114" break="no"/>intelligitur naturaliter et presupponitur causalita 
+      <lb ed="#P" n="115"/>ti cause secunde.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1547">
+      ¶ Confirmatur. eo modo et eo ordine 
+      <lb ed="#P" n="116"/>quo aliquid est prius altero / est simul cum illius alte 
+      <lb ed="#P" n="117"/>rius contradictorio. Sed agere dei est naturaliter 
+      <lb ed="#P" n="118"/>prius quam agere creature. igitur agere dei est simul cum 
+      <lb ed="#P" n="119"/>non agere cause secunde. igitur simul prima causa 
+      <lb ed="#P" n="120"/>agit et secunda non agit.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1560">
+      ¶ Confirmatur: quia deum 
+      <lb ed="#P" n="121"/>causare .b. et .b. causari a deo / sunt simul natura vt 
+      <lb ed="#P" n="122"/>correlatiua. igitur / si causalitas secunde cause sit 
+      <lb ed="#P" n="123"/>naturaliter posterior causalitate prime cause sequi 
+      <lb ed="#P" n="124"/>tur / quod est naturaliter posterior effectu causato a 
+      <lb ed="#P" n="125"/>deo.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1574">
+      ¶ Secundo / deus non prius causat secundum 
+      <lb ed="#P" n="126"/>causalitatem effectiuam quam materia causet in suo 
+      <lb ed="#P" n="127"/>ordine et genere causandi in actionibus phisicis. 
+      <lb ed="#P" n="128"/>igitur nec prius quam causa secunda actiua causet. con 
+      <lb ed="#P" n="129"/>sequentia patet. quia non minorem vnionem et con 
+      <lb ed="#P" n="130"/>nexionem: et per consequens simultatem in causan 
+      <lb ed="#P" n="131"/>do naturalem habent cause eiusdem generis simul 
+      <lb ed="#P" n="132"/>concurrentes quam cause alterius generis: et quia 
+      <lb ed="#P" n="133"/>causalitas effectiua phisica non est posterior cau¬ 
+      <!--223.xml-->
+      <pb ed="#P" n="106-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>salitate passiui materialis cum actus sit prior 
+      po<lb ed="#P" n="2" break="no"/>tentia. 9. metha. Antecedens probatur. quia quelibet forma 
+      <lb ed="#P" n="3"/>naturalis crearetur. Probo. quia quod prius natura 
+      <lb ed="#P" n="4"/>liter producitur in esse et habet esse quam sit eductio de poten 
+      <lb ed="#P" n="5"/>tia materie et quam sit productio de materia creatur. Sic 
+      <lb ed="#P" n="6"/>esset de omni forma naturali. quia deus prius natura 
+      <lb ed="#P" n="7"/>liter producet huiusmodi formam quam materia habeat 
+      cau<lb ed="#P" n="8" break="no"/>salitatem aliquam respectu illius actionis: et per consequens 
+      <lb ed="#P" n="9"/>prius naturaliter quansit aliqua transmuttaio passiui sub 
+      <lb ed="#P" n="10"/>ecti ex quo causalitas diuina preuenit omnem causa 
+      <lb ed="#P" n="11"/>litatem creature. Tertio sequitur mutatio in deo. 
+      <lb ed="#P" n="12"/>probo vbi prius nouitas realis ibi prius mutatio. 
+      <lb ed="#P" n="13"/>Sed in deo erit prius nouitas realis quam in causa se 
+      <lb ed="#P" n="14"/>cunda vel in effectu. quia si deus prius naturaliter agit 
+      <lb ed="#P" n="15"/>igitur prius incipit agere et prius est nouiter agens 
+      <lb ed="#P" n="16"/>et prius fit de non agente agens quam causa secunda. Et 
+      <lb ed="#P" n="17"/>quam effectus sit. igitur prius nouitas et mutatio est in 
+      <lb ed="#P" n="18"/>deo.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1639">
+      ¶ Confirmatur. transitus contradictionis re 
+      <lb ed="#P" n="19"/>alis. aut est mutatio. aut propter mutationem et 
+      pre<lb ed="#P" n="20" break="no"/>supponit mutationem. aut non exigit mutatione: sed 
+      <lb ed="#P" n="21"/>cum deus sit nouiter ageus ibi est transitus de non 
+      <lb ed="#P" n="22"/>agere ad agere realiter et non est propter mutatio 
+      <lb ed="#P" n="23"/>nem creature: nec presupponit mutationem in 
+      crea<lb ed="#P" n="24" break="no"/>tura. quia secundum te hic transitus erit naturaliter prius 
+      <lb ed="#P" n="25"/>quam causa secunda causet. Et iste transitus exigit muta 
+      <lb ed="#P" n="26"/>tionem aliquam. alioquin posset esse sine positionem 
+      <lb ed="#P" n="27"/>vel destructione noua alicuius effectus. igitur 
+      pre<lb ed="#P" n="28" break="no"/>supponit et exigit mutationem in deo.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1663">
+      ¶ Quarto 
+      <lb ed="#P" n="29"/>deum non agere non est prius quam causam secundam non 
+      <lb ed="#P" n="30"/>agere. igitur deum agere et causare non est prius quam cau 
+      <lb ed="#P" n="31"/>sam secundam causare / vel sic deus non prius desinit influe 
+      <lb ed="#P" n="32"/>re / et causare quam secunda causa desinat et cesset influere  
+      <lb ed="#P" n="33"/>et causare. igitur non prius influit et agit. consequentia patet. quia si 
+      <lb ed="#P" n="34"/>remotio prioris est prior et causa remotionis poste 
+      <lb ed="#P" n="35"/>rioris. antecedens probatur. primo. quia si causa secunda natura 
+      <lb ed="#P" n="36"/>is cesset agere. hoc non est. quia deus non velit et non 
+      <lb ed="#P" n="37"/>paratus sit agere et influere. et quia prius velit influen 
+      <lb ed="#P" n="38"/>tiam suam subtrahere cum eius influentia generalis 
+      <lb ed="#P" n="39"/>sit omnibus causis secundis naturalibus exposita. Sed 
+      <lb ed="#P" n="40"/>ideo causa secunda cessat. quia vltra causare non potest propi 
+      <lb ed="#P" n="41"/>debilitatem et fatigationem. vel propter aliud impedi 
+      <lb ed="#P" n="42"/>mentum.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1696">
+      ¶ Secundo. quia non essemus rei omittendo actu 
+      <lb ed="#P" n="43"/>debitum producere vel cessando a continuatione actus 
+      <lb ed="#P" n="44"/>quem debemus continuare. quia ideo non ageremus. quia 
+      <lb ed="#P" n="45"/>deus non ageret nec influeret: et ideo cessaremus 
+      <lb ed="#P" n="46"/>quia deus cessaret et desineret influere.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1707">
+      ¶ Tertio / non 
+      <lb ed="#P" n="47"/>videtur intelligibile quomodo in actione subita de 
+      <lb ed="#P" n="48"/>prius influat et prius desinet influere.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1714">
+      ¶ Quarto. si 
+      <lb ed="#P" n="49"/>prius naturaliter subtrahitur dei causalitas: et 
+      in<lb ed="#P" n="50" break="no"/>fluentia quam causa secunda desinat causare: igitur in ille 
+      <lb ed="#P" n="51"/>priori vel posteriori creatura agit dei influentia sub 
+      <lb ed="#P" n="52"/>tracta. Probo. quia eo modo et eo ordine quo aliquid 
+      <lb ed="#P" n="53"/>est prius altero est simul cum eius contradictorio. 
+    </p>
+            <p xml:id="D78nca-e68319-d1e1728">
+               <lb ed="#P" n="54"/>¶ Et ita si non agere dei est prius quam non agere cau 
+      <lb ed="#P" n="55"/>se secunde sequitur quod non agere dei et agere cause secunde 
+      <lb ed="#P" n="56"/>simul sunt naturaliter. 
+      <lb ed="#P" n="57"/>e ad ista. Sciendum quod pre 
+      <lb ed="#P" n="58"/>Pro responsiont ter prioritatem dignita 
+      <lb ed="#P" n="59"/>tis et perfectionis et potestatis et principalitatis. se 
+      <lb ed="#P" n="60"/>cundum quam certum est causam primam prius 
+      <lb ed="#P" n="61"/>causare potest dici primam causam prius causare quam 
+      <lb ed="#P" n="62"/>secundam prioritate independentie cui correspon 
+      <lb ed="#P" n="63"/>det posterioritas dependentie et indigentis que po 
+      <lb ed="#P" n="64"/>test dici prioritas secundum naturam. etiam si esse 
+      prio<lb ed="#P" n="65" break="no"/>ris inferat esse posterioris: vt declaratum est supra 
+    </p>
+            <p xml:id="D78nca-e68319-d1e1757">
+               <lb ed="#P" n="66"/>¶ Item. prima causa potest dici prior in causando prio 
+      <!--223.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>ritate sufficientie non coexigentis: et secunda causa 
+      di<lb ed="#P" n="68" break="no"/>ci posterior posterioritate insufficientie 
+      coexigen<lb ed="#P" n="69" break="no"/>tis et presupponentis: et hec potest dici prioritas secum 
+      <lb ed="#P" n="70"/>dum naturam prout vsus est plato. Et sicut illud  
+      <lb ed="#P" n="71"/>dicitur ens naturaliter prius altero quod potest esse / simpliciter 
+      <lb ed="#P" n="72"/>sine illo non econtra. Ita illud dicitur prius natu 
+      <lb ed="#P" n="73"/>raliter tale quam quod alterum sit tale quod potest esse tale 
+      <lb ed="#P" n="74"/>absque hoc quod illud alterum sit tale: non econtra 
+      <lb ed="#P" n="75"/>Possibile est autem quod deus sit causans .b. et causa 
+      <lb ed="#P" n="76"/>secunda non causet .b. non econtra.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1788">
+      ¶ Hic modus 
+      <lb ed="#P" n="77"/>prioritatis reducitur ad modum secundum quem 
+      <lb ed="#P" n="78"/>prius dicitur a quo non conuertitur consequentia 
+      <lb ed="#P" n="79"/>existendi vel essendi huiusmodi.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1797">
+      ¶ Item / potest 
+      <lb ed="#P" n="80"/>dici prius causans prius inquam causaliter seu 
+      priori<lb ed="#P" n="81" break="no"/>tate causalitatis quamuis causa secunda effectiua non re 
+      <lb ed="#P" n="82"/>cipiat aliquid nouiter a prima causa ex eo quod incipit 
+      <lb ed="#P" n="83"/>causare. quamuis etiam causam sccundam causare non 
+      <lb ed="#P" n="84"/>sit nouus effectus productus a prima causa distin 
+      <lb ed="#P" n="85"/>ctus ab effectu communi vtrique cause: tamen 
+      pri<lb ed="#P" n="86" break="no"/>ma causa diceretur esse causa causalitatis secunde 
+      <lb ed="#P" n="87"/>cause: seu causa per quam secunda causa causat. 
+      <lb ed="#P" n="88"/>quia causa secunda non solum fuit effectus 
+      produ<lb ed="#P" n="89" break="no"/>ctus a prima causa: sed etiam dum est et agit depen 
+      <lb ed="#P" n="90"/>det continue effectiue a prima causa in essendo / et 
+      <lb ed="#P" n="91"/>in causando. Nec posset agere nisi prima sibi 
+      coa<lb ed="#P" n="92" break="no"/>gente per se ad idem. et habet a prima causa 
+      quic<lb ed="#P" n="93" break="no"/>quid habet: quicquid est: et quicquid potest. nec 
+      pre<lb ed="#P" n="94" break="no"/>cise dependet in causando a prima causa sicut 
+      lu<lb ed="#P" n="95" break="no"/>men in causando dependet a sole. licet enim. lumen 
+      <lb ed="#P" n="96"/>non possit naturaliter esse: nec per consequens cau 
+      <lb ed="#P" n="97"/>sare nisi contiuue dependeat effectiue a sole. tamen 
+      <lb ed="#P" n="98"/>potest agere aliquem effectum sole non per se 
+      coagen<lb ed="#P" n="99" break="no"/>te sibi ad eundem vt ad visionem luminis: ideo sol non 
+      <lb ed="#P" n="100"/>est illi causa per se effectima essentialiter preordinata 
+      <lb ed="#P" n="101"/>in causando. Causa autem secunda dependet per se 
+      con<lb ed="#P" n="102" break="no"/>tinue a deo non solum in essendo: sed nec posset 
+      a<lb ed="#P" n="103" break="no"/>gere: nisi deo etiam concausante et nisi in virtute pri 
+      <lb ed="#P" n="104"/>me cause causaret. prima igitur causa dicitur his 
+      <lb ed="#P" n="105"/>modis prius causare.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1856">
+      ¶ Ad primum igitur in opposi 
+      <lb ed="#P" n="106"/>tum per illud probatur quod nulla causa est in causan 
+      <lb ed="#P" n="107"/>do prior quam altera siue eiusdem siue alteriusgeneris 
+      <lb ed="#P" n="108"/>Per idem etiam arguitur quod causa non est prior 
+      ef<lb ed="#P" n="109" break="no"/>fectu. quia in illo priori causa causaret et nihil 
+      causa<lb ed="#P" n="110" break="no"/>retur. negatur igitur consequentia. ad probationem 
+      <lb ed="#P" n="111"/>negatur quod in illo priori. b. effectus sit a prima 
+      cau<lb ed="#P" n="112" break="no"/>sa productus sufficienter secunda causa nondum 
+      cau<lb ed="#P" n="113" break="no"/>sante vel prius quam secunda causa causet. Hec enim pro 
+      <lb ed="#P" n="114"/>positio videtur implicare quod hec prioritas 
+      natura<lb ed="#P" n="115" break="no"/>lis attendatur penes quandam mensuram 
+      extrin<lb ed="#P" n="116" break="no"/>secam realem vel ymaginariam in qua ponatur prius 
+      <lb ed="#P" n="117"/>et nondum ponatur posterius sicut de prioritate 
+      se<lb ed="#P" n="118" break="no"/>cundum durationem. Hec autem ymaginatio est 
+      <lb ed="#P" n="119"/>falsa. sicut etiam de prioritate perfectionis et dignitatis 
+      <lb ed="#P" n="120"/>Dico igitur quod in nullo priori reali vel ymaginario 
+      <lb ed="#P" n="121"/>tanquam in aliquo signo vel mensura extrinseca deus 
+      <lb ed="#P" n="122"/>causat: et secunda causa non causet: sed ab illo prio 
+      <lb ed="#P" n="123"/>ri a deo et a causa secunda est. b effectus. Dicere ad 
+      <lb ed="#P" n="124"/>tem quod .b. effectus est prius causatus a prima causa 
+      <lb ed="#P" n="125"/>quam a causa secunda non importat quod in aliquna 
+      men<lb ed="#P" n="126" break="no"/>sura reali vel ymaginaria sit vere productus a 
+      pri<lb ed="#P" n="127" break="no"/>ma causa et non a secunda. Sed quod producatur a 
+      <lb ed="#P" n="128"/>prima causa vt causa essentialiter preordinata. et 
+      <lb ed="#P" n="129"/>a secunda causa vt a causa essentialiter subordina 
+      <lb ed="#P" n="130"/>ta et dependente. Cum autem additur quod deus non 
+      <lb ed="#P" n="131"/>causat insufficienter vel diminute. sed sufficienter 
+      <lb ed="#P" n="132"/>et perfecte. verum est quantum ad sufficientiam et perfectio¬ 
+      <!--224.xml-->
+      <pb ed="#P" n="107-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nem virtutis in deo: et per negationem insufficientis 
+      <lb ed="#P" n="2"/>potentie ad producendum .b. effectum etiam 
+      tota<lb ed="#P" n="3" break="no"/>liter: tamen non sufficienter id est non totaliter et preci 
+      <lb ed="#P" n="4"/>se per exclusionem alterius concause.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1932">
+      ¶ Ad 
+      confir<lb ed="#P" n="5" break="no"/>mationem negatur maior nisi de prioritate que atten 
+      <lb ed="#P" n="6"/>ditur per respectum et comparationem plurium ad 
+      ali<lb ed="#P" n="7" break="no"/>quam vnam mensuram. quia si esse .a. sit prius secundum 
+      per<lb ed="#P" n="8" break="no"/>fectionem et dignitatem quam esse .b. non oportet quod sit si 
+      <lb ed="#P" n="9"/>mul secundum dignitatem cum non esse .b. quia esse simul secum 
+      <lb ed="#P" n="10"/>dum dignitatem est esse equalis dignitatis.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1949">
+      ¶ Ad aliam 
+      <lb ed="#P" n="11"/>confirmationem. negatur antecedens. loquendo de 
+      simulta<lb ed="#P" n="12" break="no"/>te naturali opposita prioritati negatur secundum 
+      inde<lb ed="#P" n="13" break="no"/>pendentiam vel causalitatem vt in proposito. licet 
+      <lb ed="#P" n="14"/>sit verum de simultate naturali opposita prioritati 
+      <lb ed="#P" n="15"/>nature id est naturalis intelligentie quo ad aliquem conce 
+      <lb ed="#P" n="16"/>ptum et rationem illorum conceptibilium et de simulta 
+      <lb ed="#P" n="17"/>te conuertibilitatis propositionum et in consimili sen 
+      <lb ed="#P" n="18"/>su conceditur quod causam secundam causare .b. est secundum 
+      <lb ed="#P" n="19"/>naturam posterius quam. b. effectum esse vel causari. quia 
+      <lb ed="#P" n="20"/>hoc sequitur ad illud non econtra.
+    </p>
+            <p xml:id="D78nca-e68319-d1e1973">
+      ¶ Ad secundum 
+      <lb ed="#P" n="21"/>principale. negatur antecedens. Ad probationem. negatur 
+      <lb ed="#P" n="22"/>consequentia. Ad probationem. negatur minor. forma enim 
+      <lb ed="#P" n="23"/>phisica non prius naturaliter producitur / et habet 
+      <lb ed="#P" n="24"/>esse quam producatur de materia. quia eius productio 
+      passi<lb ed="#P" n="25" break="no"/>ua est eius productio et eductio de materia. Tamen 
+      <lb ed="#P" n="26"/>productio actiua que est deus volens et producens 
+      <lb ed="#P" n="27"/>est naturaliter prior quam productio passiua que est ef 
+      <lb ed="#P" n="28"/>fectus
+    </p>
+            <p xml:id="D78nca-e68319-d1e1993">
+      ¶ Ad tertium. negatur consequentia. Ad probatio 
+      <lb ed="#P" n="29"/>nem per idem probaretur quod non potest producere no 
+      <lb ed="#P" n="30"/>uiter se solo creaturam aliquam: et quod effectus esset prius 
+      <lb ed="#P" n="31"/>ens quam causa secunda causaret nisi causa illa prius 
+      ali<lb ed="#P" n="32" break="no"/>quid reciperet et mutaretur. Ad probationem consequentiae patet 
+      <lb ed="#P" n="33"/>supra. dist. 8. q. i.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2006">
+      ¶ Ad quartum accipiendo prioritatem 
+      <lb ed="#P" n="34"/>naturalem vniformiter in antecedente et consequente. negatur consequentia. quia 
+      <lb ed="#P" n="35"/>non entis non est dependentia nec indeperidentia 
+      <lb ed="#P" n="36"/>vel causalitas. quia esse posterioris infert et exigit esse 
+      <lb ed="#P" n="37"/>prioris: sed non esse posterioris non infert nec 
+      exi<lb ed="#P" n="38" break="no"/>git non esse prioris: et quia non esse causalitatis cause 
+      <lb ed="#P" n="39"/>secunde potest contingere aliunde quam ex eo quod deus subtra 
+      <lb ed="#P" n="40"/>hat influentiam. quasi respuens coagere. etiam causa secunda 
+      <lb ed="#P" n="41"/>praesente sufficienter ad agendum quantum est ex parte sui 
+      <lb ed="#P" n="42"/>Sumendo autem prioritatem large et improprie in qua 
+      <lb ed="#P" n="43"/>dam similitudine et transumptione ad prioritatem 
+      <lb ed="#P" n="44"/>naturalem secundum causalitatem. Negatur antecedens de quo in 
+      <lb ed="#P" n="45"/>fra distin. 38 et specialiter negatur antecedens in casu quo 
+      <lb ed="#P" n="46"/>deus subtrahat influentiam suam causa secunda sufficien 
+      <lb ed="#P" n="47"/>ter disposita quantum est ex se ad agendum nec deest 
+      <lb ed="#P" n="48"/>nisi dei influentia generalis: vt de igne in camino trium 
+      <lb ed="#P" n="49"/>puerorum. Ad primam probationem non procedit in 
+      <lb ed="#P" n="50"/>casu predicto: sed eo modo quo communiter cause 
+      <lb ed="#P" n="51"/>naturales desinunt agere: sed in isto casu / potest dici 
+      <lb ed="#P" n="52"/>quod cum calor corrumpit frigiditatem: ideo frigiditas 
+      <lb ed="#P" n="53"/>desinit esse. quia deus non vult frigiditatem esse / nec 
+      <lb ed="#P" n="54"/>vult eam amplius conseruare / vt notetur negatio 
+      <lb ed="#P" n="55"/>causalitatis et conseruationis requisite quam deus 
+      <lb ed="#P" n="56"/>possit exercere si vellet. Et eum dicitur quod ideo frigi 
+      <lb ed="#P" n="57"/>ditas cessat. quia non potest vlterius resistere et quod dei in 
+      <lb ed="#P" n="58"/>fluentia generalis est exposita. Dico quod si frigiditas 
+      <lb ed="#P" n="59"/>non potest vlterius resistere nec durare. hoc est ex pre 
+      <lb ed="#P" n="60"/>ordinatione et dispositione diuina antecedente secundum 
+      <lb ed="#P" n="61"/>quam ordinauit cursum et ordinem causarum natu 
+      <lb ed="#P" n="62"/>ralium. Ideo proprie loquendo influentia dei non 
+      <lb ed="#P" n="63"/>est ei exposita. immo deus preordinauit quod in huiusmo 
+      <lb ed="#P" n="64"/>di causa non influeret nec conseruaret: et si deus con 
+      <lb ed="#P" n="65"/>seruaret sequitur quod deus antecedenter disposuisset 
+      <lb ed="#P" n="66"/>Ad secundam probationem antecedentis negatur 
+      <!--224.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>consequentia. Ad probationem negatur assumptum 
+      <lb ed="#P" n="68"/>quia hec propositio / ideo desinimus bene agere. quia 
+      <lb ed="#P" n="69"/>deus desinit influere et coagere non solum negat actu 
+      <lb ed="#P" n="70"/>alem positionem causalitatis requisite: sed etiam no 
+      <lb ed="#P" n="71"/>tat negationem assistentie diuine antecedenter para 
+      <lb ed="#P" n="72"/>te et exposite: et notatur ex parte dei quasi antecedens repul 
+      <lb ed="#P" n="73"/>sa et refutatio quamuis homo faciat quod in se est et quod 
+      <lb ed="#P" n="74"/>potest ex naturalibus: et non stet in eo notatur. etiam 
+      <lb ed="#P" n="75"/>preordinatio diuina. ad oppositum scilicet quod deus 
+      <lb ed="#P" n="76"/>preordinauit quod desinamus bene agere. Sed hec sunt 
+      <lb ed="#P" n="77"/>falsa: de hoc inferius.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2108">
+      ¶ Ad tertiam probationem / si 
+      <lb ed="#P" n="78"/>actio instantanea sit possibilis idem dicendum est 
+      si<lb ed="#P" n="79" break="no"/>cut de successiua. quia prioritas et posterioritas tales 
+      <lb ed="#P" n="80"/>non repugnant simultati durationis.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2117">
+      ¶ Ad 
+      quar<lb ed="#P" n="81" break="no"/>tam negatur conequentia. Ad probationem dictum est supra 
+      <lb ed="#P" n="82"/>Procedit enim ymaginando huiusmodi prioritatem esse per 
+      <lb ed="#P" n="83"/>comparationem et respectum ad quoddam tertium per modum 
+      <lb ed="#P" n="84"/>mensure in qua hoc agat et non illud. 
+    </p>
+            <p xml:id="D78nca-e68319-d1e2129">
+               <lb ed="#P" n="85"/>¶ An ideo cau¬ 
+    </p>
+            <p xml:id="D78nca-e68319-d1e2134">
+               <lb ed="#P" n="86"/>¶ Secundus aritulus. sa secunda 
+      a<lb ed="#P" n="87" break="no"/>gat: quia prima agit / vel econtra in casu quo per se 
+      <lb ed="#P" n="88"/>concausant idem. 
+    </p>
+            <p xml:id="D78nca-e68319-d1e2143">
+               <lb ed="#P" n="89"/>Prima conclusio.  Non ideo deus 
+      cau<lb ed="#P" n="90" break="no"/>sat. quia creatura 
+      cau<lb ed="#P" n="91" break="no"/>sat. probatur ex secunda et tertia conclusione 
+      preceden<lb ed="#P" n="92" break="no"/>tis articuli. Preterea. prima causa in causando non 
+      <lb ed="#P" n="93"/>causatur nec dependet a causa secunda nec habet 
+      <lb ed="#P" n="94"/>a causa secunda nec agit in virtute illius. igitur. non 
+      <lb ed="#P" n="95"/>ideo causat. quia secunda causat. consequentia patet. Alioquin 
+      <lb ed="#P" n="96"/>quibuscunque causis concurrentibus posset dici 
+      in<lb ed="#P" n="97" break="no"/>differenter de qualibet quod ideo hec causat quia illa cau 
+      <lb ed="#P" n="98"/>sat: et econtra.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2167">
+      ¶ Preterea. non ideo deus vult .b. 
+      <lb ed="#P" n="99"/>effectum esse: quia creatura causat .b. igitur consequen 
+      <lb ed="#P" n="100"/>tia patet. quia deus eo formaliter ponit .b. in esse quo 
+      <lb ed="#P" n="101"/>simpliciter vult .b. esse. per August. 83 q. q. 3 Antecedens 
+      <lb ed="#P" n="102"/>probatur: quia velle diuinum non est posterius creatu 
+      <lb ed="#P" n="103"/>ra nec dependet ab illa.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2180">
+      ¶ Preterea. magister 
+      pri<lb ed="#P" n="104" break="no"/>mo senten. distin. 45. cap. 4. Uoluntatis divine 
+      <lb ed="#P" n="105"/>nulla est causa preuenta: et ideo eius non est causa 
+      <lb ed="#P" n="106"/>querenda. et idem caps. sequente. Non est querendum 
+      <lb ed="#P" n="107"/>quare deus voluit facere mundum. voluntas enim 
+      <lb ed="#P" n="108"/>dei non habet causam antecedentem: et accipitur ab 
+      <lb ed="#P" n="109"/>August. 83. q. q. 28.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2196">
+      ¶ Contra. omne nouum 
+      posi<lb ed="#P" n="110" break="no"/>tiuum habet causam / et propter quid. Sed deum  
+      <lb ed="#P" n="111"/>causare est nouum positiuum. deus enim nouiter po 
+      <lb ed="#P" n="112"/>sitiue agit. Igitur / huius est causa. et propter quid 
+      <lb ed="#P" n="113"/>illa non est deus. quia idem esset causa sui: et quia deus 
+      <lb ed="#P" n="114"/>esset nouiter causa illius. igitur deum nouiter 
+      cau<lb ed="#P" n="115" break="no"/>sare illud esset aliud nomen positiuum. Si igitur 
+      <lb ed="#P" n="116"/>causa illius sit creatura aliqua illa non est effectus 
+      <lb ed="#P" n="117"/>communis cause prime et secunde: igitur est causa secun 
+      <lb ed="#P" n="118"/>da in eo quod causat. igitur. ideo prima causat. quia se 
+      <lb ed="#P" n="119"/>cunda causat. Secundo: illud est causa quare prima 
+      <lb ed="#P" n="120"/>causa causat quod est causa quare prima causa fit 
+      <lb ed="#P" n="121"/>de non causante causans. Sed causa secunda in 
+      cau<lb ed="#P" n="122" break="no"/>sando est huiusmodi. igitur. maior patet. quia illud est 
+      <lb ed="#P" n="123"/>causa quare prima causa nunc primo nouiter 
+      cau<lb ed="#P" n="124" break="no"/>sat. Minor probatur. quia transitus realis 
+      contradi<lb ed="#P" n="125" break="no"/>ctionis de inesse et de presenti non fit circa deum ni 
+      <lb ed="#P" n="126"/>si propter mutationem et nouitatem in creatura. 
+      <lb ed="#P" n="127"/>Alioquin esset primo mutatio in deo.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2239">
+      ¶ Tertio / il 
+      <lb ed="#P" n="128"/>lius est causa aliqua de quo conuenienter queritur 
+      <lb ed="#P" n="129"/>propter quid et cuius conuenienter assignatur pro 
+      <lb ed="#P" n="130"/>pter quid. sed conuenienter queritur propter quid 
+      <lb ed="#P" n="131"/>deus creauit hominem vel angelum. patet in. 2. senten 
+      <lb ed="#P" n="132"/>tiarum. distinctione 1 cap. 2. querit Magister quare 
+      <!--225.xml-->
+      <pb ed="#P" n="107-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>deus creauit hominem vel angelum.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2261">
+      ¶ Ad primum 
+      <lb ed="#P" n="2"/>maior est vera. loquendo proprie de nouo positiuo 
+      <lb ed="#P" n="3"/>secundum nouitatem essendi simpliciter vel essend 
+      <lb ed="#P" n="4"/>uimodoi cuiusmodi esse natum est per se terminare motum 
+      <lb ed="#P" n="5"/>vel mutationem vel generationem et productionem 
+      <lb ed="#P" n="6"/>et sic negatur minor. non sequitur deus causat nouiter. igitur 
+      <lb ed="#P" n="7"/>deum causare est aliquod nouum: sicut nec 
+      sequi<lb ed="#P" n="8" break="no"/>tur deus causans est nouus / vel aliquid nouum 
+      <lb ed="#P" n="9"/>Si vero maior intelligatur de nouo positiuo 
+      lar<lb ed="#P" n="10" break="no"/>ge et improprie scilicet secundum nouitatem essendi huiusmodi 
+      <lb ed="#P" n="11"/>cuiusmodi esse significatur per predicationem 
+      ali<lb ed="#P" n="12" break="no"/>cuius. 10. generum. negatur maior
+    </p>
+            <p xml:id="D78nca-e68319-d1e2287">
+      ¶ Item. minor 
+      <lb ed="#P" n="13"/>est distinguenda sicut ista deus causans est nouum 
+      <lb ed="#P" n="14"/>positiuum vel est nouiter in sensu diuisionis falsa 
+      <lb ed="#P" n="15"/>est / in sensu compositionis vera est id est deus est noui 
+      <lb ed="#P" n="16"/>ter scausans. quia nunc est causans et prius non erat 
+      <lb ed="#P" n="17"/>causans: et tunc non est forma sillogistica. patet. si 
+      <lb ed="#P" n="18"/>exponatur et resoluatur minor / vel si maior debite su 
+      <lb ed="#P" n="19"/>meretur / negaretur. quia non omne quod est nouite 
+      <lb ed="#P" n="20"/>huiusmodi habet causam quare est nouiter huiusmodi.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2307">
+      ¶ Ad 
+      <lb ed="#P" n="21"/>secundum negatur minor. Ad probationem. patet 
+      su<lb ed="#P" n="22" break="no"/>pra distin. 8. q. prima.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2314">
+      ¶ Ad tertium. negatur 
+      mi<lb ed="#P" n="23" break="no"/>nor. intelligendo de propter quid rei extra seu signi 
+      <lb ed="#P" n="24"/>ficati per propositionem. Ad probationem. non que 
+      <lb ed="#P" n="25"/>ritur causa in re huiusmodi quod est deum causare. Si 
+      <lb ed="#P" n="26"/>queritur causa finalis effectus prouenientis a deo 
+      <lb ed="#P" n="27"/>vt propter quid facit domum queritur causa 
+      fina<lb ed="#P" n="28" break="no"/>lis domus / vel queritur alia propositio quasi causa 
+      <lb ed="#P" n="29"/>lis respectu huius / deus causat. Non oportet autem 
+      <lb ed="#P" n="30"/>vniuersaliter correspondere causalitatem in re: vt 
+      de<lb ed="#P" n="31" break="no"/>clarabitur <ref xml:id="D78nca-e68319-Rd1e2335">distinctione. 38</ref>
+            </p>
+            <p xml:id="D78nca-e68319-d1e2339">
+               <lb ed="#P" n="32"/>Secunda conclusio inquirenda. an ideo 
+      cau<lb ed="#P" n="33" break="no"/>sa secunda agat. quia prima 
+      <lb ed="#P" n="34"/>agit vtraque concausante per se effectiue idem. Et 
+      <lb ed="#P" n="35"/>argui potest quod sic per rationes quibus probatur 
+      ter<lb ed="#P" n="36" break="no"/>tia conclusio primi articuli: et ex prima conclusione 
+      <lb ed="#P" n="37"/>huius articuli.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2356">
+      ¶ Preterea primo. ideo causa secunda 
+      <lb ed="#P" n="38"/>agit. quia deus vult illam agere igitur quia deus agit. antecedens 
+      pro<lb ed="#P" n="39" break="no"/>batur. quia sicut omne quod est ideo est. quia deus vult 
+      <lb ed="#P" n="40"/>ipsum esse ita / omne quod causat positiue et non 
+      ma<lb ed="#P" n="41" break="no"/>le ideo causat. quia deus vult ipsum causare. consequen 
+      <lb ed="#P" n="42"/>tia probatur. quia deum velle aliquid extra se est produ 
+      <lb ed="#P" n="43"/>ce re secundum Augu. Alioquin eius velle non esset efficar 
+      <lb ed="#P" n="44"/>et omnipotens.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2374">
+      ¶ Secundo causa secunda ideo agit 
+      determi<lb ed="#P" n="45" break="no"/>nate hunc singularem effectum. quia prima causa 
+      deter<lb ed="#P" n="46" break="no"/>minat agere ad hunc effectum singularem distincte. igi 
+      <lb ed="#P" n="47"/>tur.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2383">
+      ¶ Tertio in ordine seu genere causalitatis 
+      fina<lb ed="#P" n="48" break="no"/>lis. ideo creatura causat. quia deus causat et deus est 
+      <lb ed="#P" n="49"/>causa finalis aliarum causalitatum finalium. ideo in ord 
+      <lb ed="#P" n="50"/>ne causalitatis effectiue simpliciter. consequentia patet. quia sicut pr 
+      <lb ed="#P" n="51"/>ma causalitas finalis ad secundas / sic prima effectiua 
+      <lb ed="#P" n="52"/>ad secundas. Et quia causalitas effectia in deo non est mino 
+      <lb ed="#P" n="53"/>ris nobilitatis nec minus vniuersalis quam causalitas 
+      <lb ed="#P" n="54"/>finalis. antecedens probatur. Deus enim est causa finalis omnis 
+      <lb ed="#P" n="55"/>et omnis alius finis creature est propter deum et ordinatur 
+      <lb ed="#P" n="56"/>ad deum.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2405">
+      ¶ Confirmatur. deus est causa finalis secunda 
+      <lb ed="#P" n="57"/>rum effectiuarum causalitatum. igitur et causa effi 
+      <lb ed="#P" n="58"/>ctiua earum: ideo secunda causat. quia prima causat. 
+      an<lb ed="#P" n="59" break="no"/>tecedens probatur. quia finis est causa aliarum cau 
+      <lb ed="#P" n="60"/>sarum. 2. phisi. Et patet quia conuenienter 
+      respon<lb ed="#P" n="61" break="no"/>detur ad questionem factam propter quid de vna 
+      <lb ed="#P" n="62"/>quaque aliarum causalitatum specialiter defectiua 
+    </p>
+            <p xml:id="D78nca-e68319-d1e2421">
+               <lb ed="#P" n="63"/>¶ Quarto illud est causa quare causa secunda agit 
+      <lb ed="#P" n="64"/>que accipit et habet agere a deo. Tale enim ideo ha 
+      <lb ed="#P" n="65"/>bet hoc. quia deus dedit illud. et quia habere ab alior 
+      <lb ed="#P" n="66"/>notat causalitatem in illo alio respectu accipientis 
+      <!--225.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>Sed causa secunda accipit et habet agere a deo. quia quid 
+      <lb ed="#P" n="68"/>quid est et quicquid habet / et quicquid potest habet 
+      <lb ed="#P" n="69"/>a prima causa.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2443">
+      ¶ Nisi enim haberet a deo quod ipsa est 
+      <lb ed="#P" n="70"/>causans ipsa causaret independentur
+    </p>
+            <p xml:id="D78nca-e68319-d1e2449">
+      ¶ Quinto. illud 
+      <lb ed="#P" n="71"/>est causa quare causa secunda agit quod facit causam 
+      <lb ed="#P" n="72"/>secundam agere. prima causa est huiusmodi. Deus enim 
+      <lb ed="#P" n="73"/>facit omne quod est bonum et non malum. et quia vult 
+      <lb ed="#P" n="74"/>et ordinat et determinat causas secundas agere. igitur 
+      <lb ed="#P" n="75"/>facit quod causa secunda agat. Deum enim simpliciter 
+      <lb ed="#P" n="76"/>velle ad extra sic esse est facere.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2465">
+      ¶ Sexto / omne rea 
+      <lb ed="#P" n="77"/>liter nouum positiuum et non malum et in creatura et 
+      <lb ed="#P" n="78"/>circa creaturam habet causam et propter quid in deo 
+      <lb ed="#P" n="79"/>quia est causabile a prima causa. Sed secundam causam 
+      <lb ed="#P" n="80"/>agere est realiter nouum positiuum circa creatura¬ 
+    </p>
+            <p xml:id="D78nca-e68319-d1e2476">
+               <lb ed="#P" n="81"/>¶ Septimo. in mouentibus per se ordinatis. ideo 
+      <lb ed="#P" n="82"/>secundum mouet. quia primum mouet. patet de aere / et 
+      pi<lb ed="#P" n="83" break="no"/>la / et baculo / et manu. igitur similiter de causis 
+      effe<lb ed="#P" n="84" break="no"/>ctiuis per se ordinatis in causando.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2487">
+      ¶ 
+      Confirma<lb ed="#P" n="85" break="no"/>tur quod non mouet nisi motum a prima causa: ideo 
+      <lb ed="#P" n="86"/>mouet quia prima causa mouet. Patet. quia tale ideo 
+      <lb ed="#P" n="87"/>mouetur: quia prima causa mouet ipsum. Sed 
+      crea<lb ed="#P" n="88" break="no"/>tura est huiusmodi: quia solum primum mouens est 
+      <lb ed="#P" n="89"/>mouens immobile et immobiliter. Et quia in quocun 
+      <lb ed="#P" n="90"/>que ordine aliquid est mouens non motum est in illo 
+      <lb ed="#P" n="91"/>ordine mouens primum. Patet ex. 7. et. 8 phisi. et 
+      <lb ed="#P" n="92"/>ex. 3. de anima.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2507">
+      ¶ Octauo quod non causat nec agit 
+      <lb ed="#P" n="93"/>nisi in recipiendo aliquid a prima causa / et per hoc 
+      <lb ed="#P" n="94"/>quod recipit aliquid a prima causa ideo agit: quia prima 
+      <lb ed="#P" n="95"/>causa agit. patet. quia recipere aliquid a prima causa 
+      <lb ed="#P" n="96"/>non est sine causalitate prime cause respectu 
+      reci<lb ed="#P" n="97" break="no"/>pientis. Sed omnis causa secunda effectima in causan 
+      <lb ed="#P" n="98"/>do recipit aliquid a prima causa per quod agit / et prius 
+      <lb ed="#P" n="99"/>effectu tertio communi. probo primo. quia quod non 
+      <lb ed="#P" n="100"/>mouet nisi motum a prima causa et secundum quod motum 
+      <lb ed="#P" n="101"/>a prima causa recipit aliquid a prima causa in 
+      mo<lb ed="#P" n="102" break="no"/>uendo. Si enim non indiget recipere ab illa non in 
+      <lb ed="#P" n="103"/>diget moueri ab illa. Secundo. quia prima causa influ 
+      <lb ed="#P" n="104"/>it in secundam. igitur secunda recipit influentiam 
+      pri<lb ed="#P" n="105" break="no"/>ne cause / et agit virtute illius influentie. Si enim 
+      <lb ed="#P" n="106"/>nihil recipit a prima. igitur prima non ei influit. 
+      <lb ed="#P" n="107"/>Alioquin quelibet causa diceretur influere cuilibet 
+      <lb ed="#P" n="108"/>cause sibi concausanti.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2544">
+      ¶ Nono / cum secunda causa 
+      <lb ed="#P" n="109"/>non agit ideo non agit: quia deus non coagit nec vult 
+      <lb ed="#P" n="110"/>coagere: igitur. consequentia patet. quia si negatio 
+      <lb ed="#P" n="111"/>est causa negationis et affirmatio affirmationis 
+      <lb ed="#P" n="112"/>Antecedens probatur. quia in camino trium puerorum. ideo 
+      <lb ed="#P" n="113"/>ignis non agebat quia deus influentiam suam subtrahe 
+      <lb ed="#P" n="114"/>bat. Secundo. quia in mouentibus per se ordinatis in mo 
+      <lb ed="#P" n="115"/>uendo quanorum primum non potest impediri ab aliquo 
+      <lb ed="#P" n="116"/>a mouendo non potest necessitari ab alio ad 
+      mouen<lb ed="#P" n="117" break="no"/>dum et quorum secundum non potest mouere nisi per primum 
+      <lb ed="#P" n="118"/>motorem nec potest eidem resistere. Si secundum non mo 
+      <lb ed="#P" n="119"/>uet / ideo non mouet. quia primum non mouet / patet 
+      <lb ed="#P" n="120"/>de brachio / et baculo: et pila: et aere. Tertio. quia 
+      pri<lb ed="#P" n="121" break="no"/>uatio cum sit defectus non habet causam 
+      efficien<lb ed="#P" n="122" break="no"/>tem sed deficientem. igitur causam secundam non 
+      <lb ed="#P" n="123"/>agere habet causam deficientem cum sit quidam de 
+      <lb ed="#P" n="124"/>fectus non habet autem aliam causam nisi quia 
+      cau<lb ed="#P" n="125" break="no"/>sa prior et superior deficit ab agendo.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2584">
+      ¶ Quarto. 
+      <lb ed="#P" n="126"/>quia secundum Aristotelem secundo phisicorume 
+      <lb ed="#P" n="127"/>Sicut presentia cause est causa habitus sic 
+      absen<lb ed="#P" n="128" break="no"/>tia cause est causa priuationis vt de sole respectu 
+      <lb ed="#P" n="129"/>luminis et tenebre. igitur sicut remotio cause est cau 
+      <lb ed="#P" n="130"/>sa remotionis effectus propter posterioritatem et 
+      <lb ed="#P" n="131"/>dependentiam effectus a causa. Sic pari rationem 
+      <lb ed="#P" n="132"/>remotio cause prioris est causa remotionis cause 
+      <!--226.xml-->
+      <pb ed="#P" n="108-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>posterioris et dependentis in causando.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2610">
+      ¶ Quinto 
+      <lb ed="#P" n="2"/>uod non est. ideo non est. quia deus non vult nec fa 
+      <lb ed="#P" n="3"/>cit ipsum esse. vt in sequentibus probabitur. igitur. 
+      <lb ed="#P" n="4"/>pari ratione quod non agit. ideo non agit. quia 
+      <lb ed="#P" n="5"/>deus non vult nec facit ipsum agere.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2621">
+      ¶ Sexto. ideo 
+      <lb ed="#P" n="6"/>effectus non est. quia causa eius non causat. Ideo 
+      <lb ed="#P" n="7"/>igitur secunda non causat. quia prima non causat. antecedens patet 
+      <lb ed="#P" n="8"/>quia non esse causati oportet habere propterquid. con 
+      <lb ed="#P" n="9"/>sequentia probatur. pari ratione quia ratio est depen 
+      <lb ed="#P" n="10"/>dentia et posterioritas.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2634">
+      ¶ Septimo. ideo passum non 
+      <lb ed="#P" n="11"/>patitur. quia actiuum non agit in illud: igitur ideo actiuum 
+      <lb ed="#P" n="12"/>secundum non agit. quia primum non agit ex simili ratione 
+      <lb ed="#P" n="13"/>scilicet propter posterioritatem et dependentiam.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2643">
+      ¶ Octa 
+      <lb ed="#P" n="14"/>uo. ideo secundum non agit. quia deus non vult ipsum 
+      age<lb ed="#P" n="15" break="no"/>re. igitur. patet satis ex dictis. quia deus non agit.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2650">
+      ¶ 
+      In<lb ed="#P" n="16" break="no"/>oppositum sunt rationes prius posite supra contre 
+      <lb ed="#P" n="17"/>conclusiones primi articuli.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2658">
+      ¶ Preterea. dum causa 
+      <lb ed="#P" n="18"/>secunda non agit. ionon agit quia deus non agit et influit. igitur. consequentia 
+      <lb ed="#P" n="19"/>patet vt prius. antecedens probatur. quia influentia dei 
+      genera<lb ed="#P" n="20" break="no"/>lis est parata et exposita causis secundis specialiter si 
+      <lb ed="#P" n="21"/>non stet ex parte illarum. ideo non ideo non agunt. quia 
+      <lb ed="#P" n="22"/>deus influentiam substrahat. Unde Ansel. de casu 
+      <lb ed="#P" n="23"/>diabo. cap. 13. dicit quod primus angelus non ideo non 
+      <lb ed="#P" n="24"/>accepit persefrantiam. quia deus non dedit eo quod deus erat 
+      <lb ed="#P" n="25"/>paratus dare nec ex parte dei stetit. Secundo quod in cau 
+      <lb ed="#P" n="26"/>sando et mouendo nichil recipit a prima causa nec 
+      <lb ed="#P" n="27"/>nouetur a prima causa: non ideo mouet et agit. quia 
+      <lb ed="#P" n="28"/>prima causa agat / causa secunda est huiusmodi. igitur. mator 
+      <lb ed="#P" n="29"/>probatur. Primo / duorum enim mouentium respectu eius 
+      <lb ed="#P" n="30"/>dem mobilis si hoc non mouet illud magis quam 
+      econ<lb ed="#P" n="31" break="no"/>tra. mouere huius non magis est causa motionis al 
+      <lb ed="#P" n="32"/>terius quam econtra.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2693">
+      ¶ Secundo. quia si nichil recipit a pr 
+      <lb ed="#P" n="33"/>ma causa. igitur prima causa / nichil causaliter facit 
+      <lb ed="#P" n="34"/>et influit in ea. igitur non facit eam causare. igitur. 
+      <lb ed="#P" n="35"/>non ideo illa agit. quia prima agit. minor probatur. pri 
+      <lb ed="#P" n="36"/>mo cum calor calefacit non oportet quod tunc calefa 
+      <lb ed="#P" n="37"/>ctiuum moueatur a deo motum acquisitiuo. quia nec 
+      <lb ed="#P" n="38"/>motu alterationis nec alia specie motus. patet 
+      in<lb ed="#P" n="39" break="no"/>ducendo. Secundo. quia illud receptum in secunda causa si 
+      <lb ed="#P" n="40"/>a solo deo producitur. igitur supernaturaliter cau 
+      <lb ed="#P" n="41"/>satur. et ita in omni actione cause naturalis esset 
+      crea<lb ed="#P" n="42" break="no"/>tio. Si vero causatur ab illa causa secunda. igitur ad 
+      <lb ed="#P" n="43"/>hoc vt causa secunda causet nouiter illud preexigitur 
+      <lb ed="#P" n="44"/>aliud causari et recipi in ea. et sic in infinitum. Ter 
+      <lb ed="#P" n="45"/>tio. quia vel illud receptum esset causa vlterioris effe 
+      <lb ed="#P" n="46"/>ctus communis deo et cause secunde / aut non. Si 
+      <lb ed="#P" n="47"/>secundum. igitur frustra apponitur. quia causa prima et 
+      <lb ed="#P" n="48"/>preassumpta secunda causa sunt sufficiens et totalis cau 
+      <lb ed="#P" n="49"/>sa respectu .b. effectus tertii communis. Si primum sit illud 
+      <lb ed="#P" n="50"/>c. igitur pari ratione .c. non causabit nec calidum agit per 
+      <lb ed="#P" n="51"/>c. principium nisi prius recipiat aliud a deo: et sic in infi 
+      <lb ed="#P" n="52"/>nitum: vel si causa secunda per illud principium potest age 
+      <lb ed="#P" n="53"/>re deo concausante. igitur et poterat per praecedens prino 
+      <lb ed="#P" n="54"/>pium scilicet calorem.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2743">
+      ¶ Tertio principaliter eius non est 
+      <lb ed="#P" n="55"/>propter quid quod non habet causam. sed secundam causam 
+      <lb ed="#P" n="56"/>causare non habet causam. igitur vel sic. Si ideo cau 
+      <lb ed="#P" n="57"/>sa secunda agit. quia prima agit et si prima causa facit secunda 
+      <lb ed="#P" n="58"/>causam causare. sequitur quod secundam causam causare esset nou 
+      <lb ed="#P" n="59"/>effectus prime cause causatus in secunda causa distin 
+      <lb ed="#P" n="60"/>ctus a beffectu communi vtriusque cause. consequentia ista et mi 
+      <lb ed="#P" n="61"/>ior primi discursus patent. quia propter quid dicit cau 
+      <lb ed="#P" n="62"/>sam et quotiens dicitur propter quid totiens dicitur 
+      cau<lb ed="#P" n="63" break="no"/>sa. 2. phisico. ly quia est etiam responsiuum causale ad 
+      <lb ed="#P" n="64"/>interrogationem factam propter quid causa causat: et in 
+      <lb ed="#P" n="65"/>proposito cum dicitur. ideo secunda causa causat effectiue. 
+      <lb ed="#P" n="66"/>quia prima causat effectiue. ly quia non exenotat aliam 
+      <!--226.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>causalitatem quam effectiuam respectu huius quod est 
+      cau<lb ed="#P" n="68" break="no"/>sam secundam causare. et quia si facit causam secundam 
+      causa<lb ed="#P" n="69" break="no"/>re. igitur efficit istud. quia facere est causare effective. 
+      <lb ed="#P" n="70"/>igitur hiceffectus nouus productus a prima causa: et hic 
+      <lb ed="#P" n="71"/>effectus est distinctus ab illo tertio effectu communi 
+      <lb ed="#P" n="72"/>ambarum causarum. quia erit naturaliter prior et causa 
+      il<lb ed="#P" n="73" break="no"/>lius tertii. Et quia iste effectus non mouet nisi quandiu pri 
+      <lb ed="#P" n="74"/>ma causa et secunda simul concausant. minor autem primi 
+      <lb ed="#P" n="75"/>discursus: et falsitas consequentis in secundo discursu. probatur 
+      <lb ed="#P" n="76"/>primo. Sit .b. effectus tertius communis prime cause et secundum 
+      <lb ed="#P" n="77"/>et sit. c. ille effectus prior qui est secundam causam cau 
+      <lb ed="#P" n="78"/>sare. Aut igitur. c producitur per motum et mutationem. sed 
+      <lb ed="#P" n="79"/>hoc non. quia non per motum vel mutationem ad substantia 
+      <lb ed="#P" n="80"/>et ad quantitatem nec ad qualitatem nec ad vbi. Secundo 
+      <lb ed="#P" n="81"/>si causam secundam causare sit causabile / hoc esset. quia 
+      <lb ed="#P" n="82"/>videtur esse nouum positiuum. Sed pari ratione deum 
+      causa<lb ed="#P" n="83" break="no"/>re esset causabile. quia videtur non minus nomnen positiuum. Deum enim 
+      <lb ed="#P" n="84"/>causare et effectum causars simul sunt et non sunt. 
+      <lb ed="#P" n="85"/>Tertio causa vt causans causabitur et erit effectus e 
+      <lb ed="#P" n="86"/>nouiter causare erit nouiter causari: et ita vltra cau 
+      <lb ed="#P" n="87"/>sa comins erit causatio et actionis actio in infinitum com 
+      <lb ed="#P" n="88"/>tra Aristo. 5. phisico. consequenta patet. si causam causare 
+      <lb ed="#P" n="89"/>sit formaliter effectus nouus.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2826">
+      ¶ Quarto. aut 
+      cau<lb ed="#P" n="90" break="no"/>sam secundam causare. c effectum est effectus distinctus 
+      <lb ed="#P" n="91"/>ab ipso .c. aut non. Si secundum. igitur pari ratione cau 
+      <lb ed="#P" n="92"/>sam causare .b. non erit effectus distinctus ab ipso 
+      <lb ed="#P" n="93"/>b. prior ipso. b. Si primum sit ille effectus. d. Aut igi 
+      <lb ed="#P" n="94"/>tur causam causare. d. est alius effectus. etc. et est 
+      pro<lb ed="#P" n="95" break="no"/>cessus in infinitum.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2842">
+      ¶ Confirmatur vt supra. Aut 
+      <lb ed="#P" n="96"/>c. effectus est precise a solo deo effectiue. aut parti 
+      <lb ed="#P" n="97"/>aliter a causa secunda. Si primum. igitur nulla causa secunda 
+      <lb ed="#P" n="98"/>agit nisi in ea nouiter creatur a deo aliquid superna 
+      <lb ed="#P" n="99"/>turaliter. Si secundum. igitur .c. est effectus commnnis 
+      <lb ed="#P" n="100"/>deo et secunde cause. sicut .b. effectus. igitur causam se 
+      <lb ed="#P" n="101"/>cundam causare .c. erit effectus prior ipso .c. et deus 
+      <lb ed="#P" n="102"/>prius faciet causam secundam causare .c. et sic in infini 
+      <lb ed="#P" n="103"/>tum. Deus etiam non poterit concausare cause se 
+      <lb ed="#P" n="104"/>cunde ad aliquem effectum / quin concauset sibi ad 
+      <lb ed="#P" n="105"/>duos effectus totaliter distinctos alterius rationis 
+    </p>
+            <p xml:id="D78nca-e68319-d1e2866">
+               <lb ed="#P" n="106"/>¶ Quinto sequitur esse possibile quod secunda causa cau 
+      <lb ed="#P" n="107"/>set et quod nullus effectus procedat ab ea. probo. quia 
+      <lb ed="#P" n="108"/>deus poterit causare.c. effectum in secunda causa se 
+      <lb ed="#P" n="109"/>solo nulla causa secunda concausante sibi absque hoc 
+      <lb ed="#P" n="110"/>quod ponatur .b. effectus. probo / effectuum totaliter 
+      di<lb ed="#P" n="111" break="no"/>stinctorum deus potest causare priorem sine 
+      poste<lb ed="#P" n="112" break="no"/>riori. vel etiam coagere ad priorem non coagendo 
+      <lb ed="#P" n="113"/>ad posteriorem: igitur in secunda causa ponetur qco 
+      <lb ed="#P" n="114"/>sine .b. igitur causa secunda causabit: et nihil ab ea pro 
+      <lb ed="#P" n="115"/>ducetur vel etiam deus se solo posset producere qo. 
+      <lb ed="#P" n="116"/>et .b. et ita causa secunda formaliter causabit. quia 
+      poni<lb ed="#P" n="117" break="no"/>tur ipsam causare esse nouus effectus: et non 
+      cau<lb ed="#P" n="118" break="no"/>sabit. quia tam .b. quam. c. est a solo deo.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2898">
+      ¶ Sexto vt 
+      su<lb ed="#P" n="119" break="no"/>pra. Aut .c. esset principium causale effectiuum 
+      ip<lb ed="#P" n="120" break="no"/>sius .b. Aut non. Si secundum / igitur frustra ponitur quia 
+      <lb ed="#P" n="121"/>deus et causa secunda sunt sufficiens et totalis causa ipsius b. 
+      <lb ed="#P" n="122"/>Et vltra sequitur quod .b. effectus non est causaliter per hoc 
+      <lb ed="#P" n="123"/>quod causa secunda causet nec causa vt causans erit prin 
+      <lb ed="#P" n="124"/>cipium effectiuum .b. producti: quia non est 
+      formali<lb ed="#P" n="125" break="no"/>ter causans per aliquod principium causale effecti 
+      <lb ed="#P" n="126"/>uum. Si primum / contra. quia esset quoddam 
+      princi<lb ed="#P" n="127" break="no"/>pium effectiuum cretatum quo existente deus 
+      ne<lb ed="#P" n="128" break="no"/>cessitaretur illi influere. Nec posset deus 
+      suspende<lb ed="#P" n="129" break="no"/>re et subtrahere actionem. quia contradictio est cau 
+      <lb ed="#P" n="130"/>sam secundam causare quin ponatur effectus. 
+    </p>
+            <p xml:id="D78nca-e68319-d1e2927">
+               <lb ed="#P" n="131"/>¶ Confirmatur. vel a deo et causa secunda vnica 
+      <lb ed="#P" n="132"/>potest prouenire aliquis effectus. Aut non. 
+      <!--227.xml-->
+      <pb ed="#P" n="108-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Si primum / igitur causam secundam causare non est effe 
+      <lb ed="#P" n="2"/>ctus talis distinctus et prior et frustra additur. Si secund 
+      <lb ed="#P" n="3"/>igitur deus non potest concausare alicui cause secunde ad vnum 
+      <lb ed="#P" n="4"/>effectum quin ad duos effectus alterius rationis: et quia contra 
+      <lb ed="#P" n="5"/>potentiam dei videtur quod non posset alicui cause secunde de 
+      <lb ed="#P" n="6"/>re potentiam sufficientem ad aliquem effectum vna cum po 
+      <lb ed="#P" n="7"/>tentia diuina / et quod deus effectum quem se solo potest cau 
+      <lb ed="#P" n="8"/>sare: et cum pluribus causis secundis non possit cum 
+      <lb ed="#P" n="9"/>altera illarum. 
+      <lb ed="#P" n="10"/>cum dicitur / ideo causa secunda agit 
+      <lb ed="#P" n="11"/>Respondeo b. effectum: quia prima agit et 
+      sib<lb ed="#P" n="12" break="no"/>coagit si notetur quod primam causam agere sit nouiter 
+      <lb ed="#P" n="13"/>causa huius / quod est causam secundam causare tanquam 
+      <lb ed="#P" n="14"/>cuiusdam noui effectus distincti ab effectu. b. Nega 
+      <lb ed="#P" n="15"/>illa propitiocausalis Sicut etiam cause nouiter causans 
+      <lb ed="#P" n="16"/>non est nouus effectus alius ab effectu illo tertio 
+      communi<lb ed="#P" n="17" break="no"/>Et hoc probant alique rationes posite pro vltima 
+      par<lb ed="#P" n="18" break="no"/>te: que videntur etiam probare quod actio non est res re 
+      <lb ed="#P" n="19"/>spectiua distincta ab actiuis et termino. ideo non eui 
+      <lb ed="#P" n="20"/>denter concludunt nisi forte de effectu absoluto. in 
+      <lb ed="#P" n="21"/>terdum tamen deus dat alicui cause secunde speciali 
+      auxi<lb ed="#P" n="22" break="no"/>lio aliquod principiumper quod nouiter agat vt in 
+      <lb ed="#P" n="23"/>anima nostra.
+    </p>
+            <p xml:id="D78nca-e68319-d1e2990">
+      ¶ Si vero in predicta propositione 
+      <lb ed="#P" n="24"/>causali / lpy quia notet per se ordinem non causati ad 
+      <lb ed="#P" n="25"/>causam / sed causaru in causando secundum prius et 
+      po<lb ed="#P" n="26" break="no"/>sterius / et penes dependentiam et independentiam et pa 
+      <lb ed="#P" n="27"/>nes indigentiam et sufficientiam: vel penes determina 
+      <lb ed="#P" n="28"/>tionem actiuam et passiuam sic conceditur illa causa: 
+      <lb ed="#P" n="29"/>lis: sicut solet etiam dici quod ideo agens agit. quia 
+      inten<lb ed="#P" n="30" break="no"/>dit et amat talem finem et propter talem finem. Notatur 
+      <lb ed="#P" n="31"/>enim non solum ordo effectus producibilis ad finem 
+      <lb ed="#P" n="32"/>gratia cuius est: sed etiam potest not ari ordo causalita 
+      <lb ed="#P" n="33"/>tis effectiue ad causalitatem finalem vbi huiusmodi causa 
+      <lb ed="#P" n="34"/>litates distinguuntur. Sic etiam causa finalis potest 
+      <lb ed="#P" n="35"/>responderi ad interrogationem factam propter quid 
+      <lb ed="#P" n="36"/>de causalitate aliarum causarum propter ordinem causa 
+      <lb ed="#P" n="37"/>litatum aliarum ad finem vbi huiusmodi causalitates di 
+      <lb ed="#P" n="38"/>stinguuntur. Sic etiam potest dici quod ideo materia reci 
+      <lb ed="#P" n="39"/>pit formam: et ideo forma perficit materiam ad 
+      con<lb ed="#P" n="40" break="no"/>stitutionem totius. quia agens transmutat passum et 
+      <lb ed="#P" n="41"/>educit formam de potentia materie. Ibi enim notatur 
+      <lb ed="#P" n="42"/>ordo inter causalitatem effectiuam et causalitatem mate 
+      <lb ed="#P" n="43"/>rialem et formalem. Sic igitur huiusmodi propositiones 
+      causa<lb ed="#P" n="44" break="no"/>les in terminis causalitatis non semper notant solum 
+      or<lb ed="#P" n="45" break="no"/>dinem causati ad causam sed interdum ordinem causarum 
+      <lb ed="#P" n="46"/>in causando.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3042">
+      ¶ Item. ly quia et ly propter interdum notant 
+      <lb ed="#P" n="47"/>ordinem effectuu in causari: vt ideohoc rarefit. quia ca 
+      <lb ed="#P" n="48"/>lefit: vel ideo hoc agit in remotum: quia agit in propiquum 
+      <lb ed="#P" n="49"/>non econtra.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3051">
+      ¶ Item. cum dicitur ideo causa secunda agit. quia 
+      <lb ed="#P" n="50"/>prima agit: si ly quia notet causalitatem cause prime respe 
+      <lb ed="#P" n="51"/>ctu cause secunde / secundum illud quod est et secundum principium 
+      <lb ed="#P" n="52"/>per quod per se agit conceditur illa causalis. quia quicquid 
+      <lb ed="#P" n="53"/>entitatis et principii actiui habet causa secunda recipit 
+      <lb ed="#P" n="54"/>a prima: etiam tunc quando agit. Patet igitur / quod lpy 
+      <lb ed="#P" n="55"/>quia aliquando notat habitudinem causati ad causa 
+      <lb ed="#P" n="56"/>vel econtra. Aliquando habitudinem et ordinem causarum 
+      <lb ed="#P" n="57"/>luicem in causando. Aliquando ordinem effectuum in 
+      causa<lb ed="#P" n="58" break="no"/>ri. Aliquando vero est nota signi vt demonstratio a signo 
+      <lb ed="#P" n="59"/>dicitur demonstratio. quia si etiam notet ordinem causarum in 
+      <lb ed="#P" n="60"/>causando hoc contingit esse dupliciter. Unomodo 
+      <lb ed="#P" n="61"/>quod plures cause concurrunt ad idem secundum ordi 
+      <lb ed="#P" n="62"/>nem essentialis dependentie solum. Alio modo / quo 
+      <lb ed="#P" n="63"/>vna moueat aliam et agat in ea non solum ambe 
+      si<lb ed="#P" n="64" break="no"/>mul concausent idem.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3086">
+      ¶ Ad rationes igitur vtriu 
+      <lb ed="#P" n="65"/>que partis quatinus faciunt contra dicta. Et primo 
+      <lb ed="#P" n="66"/>ad rationes primo positas. quia alique illarum viden 
+      <!--227.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>tur concludere quod causam secundam causare sit effectus 
+      <lb ed="#P" n="68"/>distinctus nouus et prior effectu illo tertio commu 
+      <lb ed="#P" n="69"/>ni.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3105">
+      ¶ Ad primum negatur antecedens in primo sensu supra 
+      <lb ed="#P" n="70"/>posito. deum enim simpliciter velle aliquod extrin 
+      <lb ed="#P" n="71"/>secum esse est deum causare et causaliter produce 
+      <lb ed="#P" n="72"/>re illud. Sed deum velle secundam causam nouiter cau 
+      <lb ed="#P" n="73"/>sare non est deum velle illam nouiter esse vel aliquid 
+      <lb ed="#P" n="74"/>in ea nouiter esse. Sed est deum velle aliquem effe 
+      <lb ed="#P" n="75"/>ctum esse ab ipso et a secunda causa simul et est deum vel 
+      <lb ed="#P" n="76"/>le ipsum cum causa secunda concurrere ad faciendum .
+      a<lb ed="#P" n="77" break="no"/>liud esse.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3125">
+      ¶ Ad secundum concludit in secundo sensu.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3128">
+      ¶ Ad  
+      <lb ed="#P" n="78"/>tertium potest duci ad oppositum. Causam enim secundam id 
+      <lb ed="#P" n="79"/>causare finaliter: quia prima causat finaliter non ponit aliquid  
+      <lb ed="#P" n="80"/>no uum positiuum in causa secunda finali Dicendum est igi 
+      <lb ed="#P" n="81"/>tur quod concludit solum quod sicut in ordine causalium 
+      <lb ed="#P" n="82"/>finalium.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3141">
+      ¶ Prima causa est causa finalis aliarum 
+      <lb ed="#P" n="83"/>causarum finalium. Ita in ordine causarum effectiua 
+      <lb ed="#P" n="84"/>rum. prima causa est causa effectiua aliarum causa 
+      <lb ed="#P" n="85"/>rum effectiuarum. sed ex hoc non oportet quod in 
+      se<lb ed="#P" n="86" break="no"/>cunda causa fiat aliquid nouiter eum incipit causa 
+      <lb ed="#P" n="87"/>re.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3154">
+      ¶ Ad quartum. concludit in quarto sensu siue 
+      <lb ed="#P" n="88"/>intellectu. Si vero reducatur ad primum 
+      intelle<lb ed="#P" n="89" break="no"/>ctum. Sic dicitur quod accipere agere a prima causa 
+      <lb ed="#P" n="90"/>potest intelligi proprie pro receptione femali alicuius 
+      <lb ed="#P" n="91"/>rei noue que sit formaliter causalitas actiua. et sic 
+      <lb ed="#P" n="92"/>negatur minor. Alio modo large: quia virtutem et prin 
+      <lb ed="#P" n="93"/>cipium agendi accipit et habet continue effectiue a 
+      <lb ed="#P" n="94"/>deo. et dependet per se ab eo in agendo et ab eo ordi 
+      <lb ed="#P" n="95"/>natur et determinatur ad agendum hoc. et sic 
+      ne<lb ed="#P" n="96" break="no"/>gatur maior quo ad primum sensum.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3176">
+      ¶ Ad quintum 
+      <lb ed="#P" n="97"/>quod deus faciat causam secundam causare / potest intelligi 
+      <lb ed="#P" n="98"/>quod dat ei principium actiuum: et ad hoc dat vt per illud 
+      <lb ed="#P" n="99"/>causa secunda causet: vel quia preordinat vel predetermi 
+      <lb ed="#P" n="100"/>nat illam causare / et quod eam adiuuat / et in eius 
+      vtra<lb ed="#P" n="101" break="no"/>tute causa secunda causat. sic conceditur minor et nega 
+      <lb ed="#P" n="102"/>tur maior quo ad primum sensum illius causalis. 
+      <lb ed="#P" n="103"/>Alio modo / quod causam secundam causare sit nouus 
+      ef<lb ed="#P" n="104" break="no"/>fectus quem deus faciat in causa secunda alius a 
+      ter<lb ed="#P" n="105" break="no"/>tio effectu communi. et sic negatur minor.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3199">
+      ¶ Ad sep 
+      <lb ed="#P" n="106"/>tum / patet supra respondendo ad primum contra 
+      <lb ed="#P" n="107"/>primam conclusionem primi articuli.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3206">
+      ¶ Ad 
+      septi<lb ed="#P" n="108" break="no"/>mum. aliqua in mouendo dicuntur ordinata 
+      dupli<lb ed="#P" n="109" break="no"/>citer. Uno modo quia quodlibet est per se mouens: et 
+      <lb ed="#P" n="110"/>secundum subordinatur in mouendo essentialiter priori 
+      <lb ed="#P" n="111"/>et sic argumentum concludit quo ad secundum sensum: 
+      <lb ed="#P" n="112"/>Sed quo ad primum sensum. negatur maior. Alio 
+      <lb ed="#P" n="113"/>modo quod non quodlibet est per se mouens per poten 
+      <lb ed="#P" n="114"/>tiam actiuam / sed sunt mobilia sic ordinate mota ab 
+      <lb ed="#P" n="115"/>aliquo. quia secundum prius mouetur quam tertium et secundum est quasi 
+      <lb ed="#P" n="116"/>nstrumentale mouens respectu tertii et motus 
+      se<lb ed="#P" n="117" break="no"/>cundi. sic est ratio motus tertii. quia secundum motum 
+      <lb ed="#P" n="118"/>pellit tertium. Et in tali ordine conceditur quod 
+      po<lb ed="#P" n="119" break="no"/>sterius mouetur a priori: et ideo mouet quasi 
+      instru<lb ed="#P" n="120" break="no"/>mentaliter. quia prius naturaliter recipit motum a pri 
+      <lb ed="#P" n="121"/>ori. Sed sic non est in causis per se effectiuis essen 
+      <lb ed="#P" n="122"/>tialiter ordinatis in causando.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3241">
+      ¶ Ad 
+      confirmatio<lb ed="#P" n="123" break="no"/>nem accipiendo proprie moueri. negatur minor. ac 
+      <lb ed="#P" n="124"/>cidit enim mouenti et efficienti quod moueatur cum 
+      mo<lb ed="#P" n="125" break="no"/>tus sit actus mobilis non motiui. et si mouens inter 
+      <lb ed="#P" n="126"/>dum moueatur hoc non est a mouenti per se essen 
+      <lb ed="#P" n="127"/>tialiter preordinato: sed potius a passiuo contraa 
+      <lb ed="#P" n="128"/>gente. potest tamen concedi minor accipiendo moue 
+      <lb ed="#P" n="129"/>ri large et improprie: vt secunda causa dicatur in 
+      <lb ed="#P" n="130"/>mouendo moueri a prima / ex eo quod 
+      determina<lb ed="#P" n="131" break="no"/>tur a prima causa / et ei subest et subordinatur in 
+      <lb ed="#P" n="132"/>agendo secundum determinationem et volunta¬ 
+      <!--228.xml-->
+      <pb ed="#P" n="109-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tem prime cause. Et quia per primam causam etiam in 
+      <lb ed="#P" n="2"/>eius virtute fit de potentia agens actu agens: et in 
+      <lb ed="#P" n="3"/>hoc aliqualiter perficitur participando diuinum esse 
+      <lb ed="#P" n="4"/>et imitando deum: et in hiis assimilatur instrumento 
+      <lb ed="#P" n="5"/>quod mouetur et ducitur a principali mouente.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3283">
+      ¶ Ad 
+      <lb ed="#P" n="6"/>octauum negatur minor: intellligendo de receptione 
+      <lb ed="#P" n="7"/>noua forme quam prius non haberet tunc continue ad 
+      <lb ed="#P" n="8"/>cipit effectiue virtutem qua agit. Non solum accepit 
+      <lb ed="#P" n="9"/>in preterito: quia continue dependet effectiue a deo. 
+    </p>
+            <p xml:id="D78nca-e68319-d1e3294">
+               <lb ed="#P" n="10"/>¶ Ad primam probationem patet supra.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3299">
+      ¶ Ad secundam 
+      <lb ed="#P" n="11"/>hec influentia non intelligitur aliqua forma proce 
+      <lb ed="#P" n="12"/>dens nouiter a prima causa in secundam: sed 
+      intelli<lb ed="#P" n="13" break="no"/>gitur esse continua acceptio principii actiui: et con 
+      <lb ed="#P" n="14"/>tinua per se dependentia in causando: et in virtute ei 
+      <lb ed="#P" n="15"/>agere et ordinari et determinari ab ea ad agendum tamquam 
+      <lb ed="#P" n="16"/>ab essentialiter preordinata causa.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3316">
+      ¶ Ad nonum pro 
+      <lb ed="#P" n="17"/>cedit in sensu secundo. Aliter tamen est vera illa ne 
+      <lb ed="#P" n="18"/>gatiua causalis. quando deus ex speciali ordinatione sub 
+      <lb ed="#P" n="19"/>trahit influentiam suam presentibus causis secundis 
+      <lb ed="#P" n="20"/>sufficienter quantum est ex se dispositis. vt de igne in ca 
+      <lb ed="#P" n="21"/>mino trium puerorum. Aliter autem quando non influit: quia 
+      <lb ed="#P" n="22"/>etiam cause secunde naturales sunt impedite. Subtra 
+      <lb ed="#P" n="23"/>hit enim tunc influentiam secundum suam vniveralem dispositionem 
+      <lb ed="#P" n="24"/>et preordinationem qua de commui lege administratur et gi 
+      <lb ed="#P" n="25"/>bernatur vniuersum.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3338">
+      ¶ Ad primum / in oppositum negatur 
+      <lb ed="#P" n="26"/>antecedens. Ad probationem conceditur quod si nonstaret ex pa 
+      <lb ed="#P" n="27"/>te causarum secundarum / impedimentum influentia de 
+      <lb ed="#P" n="28"/>generalis foret exposita: sed stat ex parte causarum 
+      <lb ed="#P" n="29"/>secundarum. Et quod sit impedimentum ex parte cause 
+      se<lb ed="#P" n="30" break="no"/>cunde naturalis: hoc est ex preordinatione diuina: stam 
+      <lb ed="#P" n="31"/>do in ordine causalium naturalium. ideo absolute. falsum est deir 
+      <lb ed="#P" n="32"/>generalem influentiam esse tunc illis expositam: quia 
+      <lb ed="#P" n="33"/>subtrahitur ex predeterminatione diuina: qua 
+      dispo<lb ed="#P" n="34" break="no"/>suit ordinem causarum naturalium. Secus est de 
+      omis<lb ed="#P" n="35" break="no"/>sione perseuerantie: quia deus sic erat paratus 
+      influe<lb ed="#P" n="36" break="no"/>re ad actus bonos quos preordinauerat ordinatione 
+      <lb ed="#P" n="37"/>preceptoria voluntatem agere actus bonos: et volun 
+      <lb ed="#P" n="38"/>tas poterat et stetit in ea: non ex impotentia vel 
+      impe<lb ed="#P" n="39" break="no"/>dimento in vniuersali.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3371">
+      ¶ Ad secundum et tertium pre 
+      <lb ed="#P" n="40"/>cedunt secundum primum intellectum.
+    </p>
+            <p xml:id="D78nca-e68319-d1e3376">
+      ¶ Ad argumentum in 
+      <lb ed="#P" n="41"/>principio: patet sequenti questione. etc. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

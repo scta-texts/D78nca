@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="170-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-f12127"><!-- l1d38-39q4 -->
+            <head xml:id="D78nca-f12127-Hd1e108">Quaestio 4</head>
+            <head xml:id="D78nca-f12127-Hd1e111" type="question-title">
+      utrum 
+      illud quod impossibile est fieri vel esse 
+      ideo sit impossibile quia deus non potest 
+      illud facere vel econtra
+    </head>
+            <p xml:id="D78nca-f12127-d1e114">
+               <lb ed="#P" n="110"/>QUarto quaero utrum 
+      <lb ed="#P" n="111"/>illud quod impossibile est fieri vel esse 
+      <lb ed="#P" n="112"/>ideo sit impossibile quia deus non potest 
+      <lb ed="#P" n="113"/>illud facere vel econtra
+    </p>
+            <p xml:id="D78nca-f12127-d1e125">
+      et arguitur pro 
+      <lb ed="#P" n="114"/>prima parte <ref xml:id="D78nca-f12127-Rd1e129">Ansel. secundo cur deus 
+      <lb ed="#P" n="115"/>ositio cap. 17.</ref> nichil est necessarium 
+      <lb ed="#P" n="116"/>ant impossibile nisi quia ipse deus ita 
+      <lb ed="#P" n="117"/>vult ipsum: aut velle aut nolle ali 
+      <lb ed="#P" n="118"/>quid propter necessitatem aut impossibilitatem alienum est a veri 
+      <lb ed="#P" n="119"/>tate. Ex hoc patet quod ratio et causa impossibilitatis sumitur 
+      <lb ed="#P" n="120"/>primo ex parte dei.
+    </p>
+            <p xml:id="D78nca-f12127-d1e146">
+      ¶ Contra necessitas essendi communis 
+      ali<lb ed="#P" n="121" break="no"/>quo mo et secundum quid aliquibus creaturis non habet necest 
+      <lb ed="#P" n="122"/>sitatem ex parte dei tamquam causam et propter quid illius necessi 
+      <lb ed="#P" n="123"/>tatis in creatura: igitur pari ratione de impossibilitate est 
+      <lb ed="#P" n="124"/>sendi: antecedens probatur: quia angelus naturaliter est incorrupti 
+      <lb ed="#P" n="125"/>bilis: et ita habet naturaliter impossibilitatem non essendi et 
+      neces<lb ed="#P" n="126" break="no"/>sitatem essendi non autem lapis qui est naturaliter 
+      corrupti<lb ed="#P" n="127" break="no"/>bilis illa autem naturalis necessitas essendi in angelo non 
+      <lb ed="#P" n="128"/>et causaliter maiori ex necessitate conseruandi ex parte dei 
+      <lb ed="#P" n="129"/>eque enim contingenter confuat hoc et illud et eque libere potest de 
+      <lb ed="#P" n="130"/>struere hoc et illud igitur.
+    </p>
+            <p xml:id="D78nca-f12127-d1e171">
+      ¶ Notandum quod conuenienter quari 
+      <lb ed="#P" n="131" break="no"/>tur qua istarum duarum ypotheticarum causalium sit vera: quia de mul¬ 
+      <!--351.xml-->
+      <pb ed="#P" n="170-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tis propositionibus modalibus modo 
+      impossibili<lb ed="#P" n="2" break="no"/>tatis conuenienter queritur propter quid et multo 
+      <lb ed="#P" n="3"/>huiusmodi sunt demonstrabiles propter quid: vt 
+      <lb ed="#P" n="4"/>propter quid impossibile est diametrum 
+      commensu<lb ed="#P" n="5" break="no"/>rari coste et propter quid eclipsis lune in secunda 
+      qua<lb ed="#P" n="6" break="no"/>dra lunationis est impossibilis: et generaliter de omni 
+      <lb ed="#P" n="7"/>negatiua necessaria de inesse mediata demonstrabi 
+      <lb ed="#P" n="8"/>li propter quid.
+    </p>
+            <p xml:id="D78nca-f12127-d1e200">
+      ¶ Item duarum propositionum de 
+      <lb ed="#P" n="9"/>impossibili secundum quid contingit vnam esse cau 
+      <lb ed="#P" n="10"/>salem respectu alterius: igitur et propositionum de im 
+      <lb ed="#P" n="11"/>possibili simpliciter: antecedens patet: quia si 
+      que<lb ed="#P" n="12" break="no"/>ritur quare sortes tunc non poterat facere .b. 
+      con<lb ed="#P" n="13" break="no"/>uenienter respondetur quia non poterat habere .c. 
+      re<lb ed="#P" n="14" break="no"/>quisitum ad .b. vel quia non poterat vincere. d. 
+      resi<lb ed="#P" n="15" break="no"/>stentiam et impedimentum. primo igitur arguetur 
+      <lb ed="#P" n="16"/>ad vtranque partem dubii: et secundo respondebitur. 
+      <lb ed="#P" n="17"/>arguitur quod non ideo 
+      <lb ed="#P" n="18"/>Quo ad primum impossibile est .a. esse 
+      <lb ed="#P" n="19"/>quia deus non possit facere .a. esse. sed econtra. sic 
+      <lb ed="#P" n="20"/>illa propositio non est concedenda que importat 
+      defe<lb ed="#P" n="21" break="no"/>ctum et insufficientiam potentie in deo sic est: probo 
+      <lb ed="#P" n="22"/>quia si ideo .a. non potest esse: quia deus non potest 
+      face<lb ed="#P" n="23" break="no"/>re .a. igitur prima causa et ratio huius impossibilita 
+      <lb ed="#P" n="24"/>tis est negatio potentie in deo:igitur defectus 
+      po<lb ed="#P" n="25" break="no"/>tentie requisite et sufficientis ad illud / vt si ideo 
+      so<lb ed="#P" n="26" break="no"/>non potest illuminare extra caelum vel in profundo lapidis 
+      <lb ed="#P" n="27"/>quia illic non est passum illuminabile non in hoc nota 
+      <lb ed="#P" n="28"/>tur defectus potentie in sole.
+    </p>
+            <p xml:id="D78nca-f12127-d1e246">
+      ¶ Sed dicendo ideo 
+      <lb ed="#P" n="29"/>in tali corpore / vel in tali distantia non potest esse 
+      lu<lb ed="#P" n="30" break="no"/>men: quia sol non potest illic illuminare notaretur 
+      <lb ed="#P" n="31"/>defectus et insufficientia potentie in sole 
+    </p>
+            <p xml:id="D78nca-f12127-d1e255">
+               <lb ed="#P" n="32"/>¶ Secundo quod dicitur non posse respectu alicuius 
+      <lb ed="#P" n="33"/>non sua impotentia: sed aliena impotentia nec defe 
+      <lb ed="#P" n="34"/>ctu potentie in ipso: sed potius ex defectu 
+      poten<lb ed="#P" n="35" break="no"/>tie in altero / ideo est sic non potens: quia 
+      quod<lb ed="#P" n="36" break="no"/>dam alterum non est potens magis quam econtra. pro 
+      <lb ed="#P" n="37"/>batur sicut de eo quod dicitur posse aliena potestate: sed 
+      <lb ed="#P" n="38"/>ita est de deo respectu eius quod dicitur deus non posse 
+      <lb ed="#P" n="39"/>facere. probo per Anselmum de casu diaboli. 12. dicen 
+      <lb ed="#P" n="40"/>tem sepissime dicimus rem que potest non posse 
+      quo<lb ed="#P" n="41" break="no"/>miam alia res non potest: vt cum dicimus / iste non 
+      <lb ed="#P" n="42"/>potest vinci ab illo non aliud est intelligendum quam quod in 
+      <lb ed="#P" n="43"/>le non potest vincere istum: hinc est quod dicimus deum 
+      <lb ed="#P" n="44"/>non posse aliquid peruersum: aut sibi aduersum quo 
+      <lb ed="#P" n="45"/>niam sic est potens in beatitudine et iusticia et sic om 
+      <lb ed="#P" n="46"/>nipotens vt nulla res possit ei nocere. Sic etiam 
+      di<lb ed="#P" n="47" break="no"/>citur quod non potest mentiri nec corrumpi multa qui 
+      <lb ed="#P" n="48"/>dem dicuntur posse non sua: sed aliena potestate. 
+      <lb ed="#P" n="49"/>Et multa quidem dicuntur non posse non sua sedu 
+      <lb ed="#P" n="50"/>aliena impotentia: hec Anselmus. Et ad idem est 
+      <lb ed="#P" n="51"/>pro solo. 5.
+    </p>
+            <p xml:id="D78nca-f12127-d1e301">
+      ¶ Tertio principaliter que ex 
+      su<lb ed="#P" n="52" break="no"/>is propriis rationibus formaliter repugnant / et 
+      <lb ed="#P" n="53"/>sunt incompossibilia non ideo formaliter 
+      repu<lb ed="#P" n="54" break="no"/>gnant: quia deus non possit illa simul adiuuare. 
+      fru<lb ed="#P" n="55" break="no"/>stra enim queritur et assignatur causa extrinseca isti 
+      <lb ed="#P" n="56"/>us repugnantie ex quo ex se ipsis et per proprias 
+      quid<lb ed="#P" n="57" break="no"/>ditates sunt repugnantia / et incompossibilia: ergo 
+      <lb ed="#P" n="58"/>quod est impossibile: non ideo est impossibile: quia deus 
+      <lb ed="#P" n="59"/>non possit illud facere. consequentia probatur: quia 
+      <lb ed="#P" n="60"/>nulla impossibilitas est alicuius simplicis 
+      obiecti<lb ed="#P" n="61" break="no"/>ue intelligibilis ad esse. Sed impossibilitas 
+      alicu<lb ed="#P" n="62" break="no"/>ius intelligibilis ad esse non est nisi incompossibil 
+      <lb ed="#P" n="63"/>tas quorundam intelligibilium vt impossibilitas chi 
+      <lb ed="#P" n="64"/>mere non est nisi incompossibilitas talis corporis: 
+      <lb ed="#P" n="65"/>et talis anime: et talis capitis. etc. vel 
+      incompossibi<lb ed="#P" n="66" break="no"/>litas essendi / et non essendi simul. 
+      <!--351.xml-->
+      <cb ed="#P" n="b"/>
+            </p>
+            <p xml:id="D78nca-f12127-d1e340">
+               <lb ed="#P" n="67"/>¶ Quarto hoc videretur: quia dicendo ideo deus 
+      <lb ed="#P" n="68"/>non potest facere .a. quia .a. non potest fieri / impor 
+      <lb ed="#P" n="69"/>taretur causalitas in eo quod omnino nichil est 
+      respe<lb ed="#P" n="70" break="no"/>ctu dei: sed hoc non vet: quia hic non notatur sed  
+      <lb ed="#P" n="71"/>potius negatur causalitas et possibilitas causalitatis. 
+      <lb ed="#P" n="72"/>e arguitur primo: quia quod po 
+      <lb ed="#P" n="73"/>In oppositur. itest esse ideo potest esse: quia 
+      <lb ed="#P" n="74"/>deus vel causa alia potest illud facere esse patet ex 
+      <lb ed="#P" n="75"/>questione precedenti igiturquod non potest. etc. conse 
+      <lb ed="#P" n="76"/>quentia probatur: quia in causis conuertibilibus si ab 
+      <lb ed="#P" n="77"/>firmatio est causa affirmationis et negatio causa ne 
+      <lb ed="#P" n="78"/>gationis primo posteriorum. Et hec regula videtur 
+      <lb ed="#P" n="79"/>confirmari per exemplum iohannis. 8. qui ex deo est verba 
+      <lb ed="#P" n="80"/>dei audit propterea vos non auditis: quia ex deo non 
+      <lb ed="#P" n="81"/>estis. Et Mathei. 25. venite benedicti / esuriui enim 
+      <lb ed="#P" n="82"/>etc. sequitur. discedite a me esuriui. etc.
+    </p>
+            <p xml:id="D78nca-f12127-d1e378">
+      ¶ 
+      Confir<lb ed="#P" n="83" break="no"/>matur. quia non aliter reperiri videtur veritas in ne 
+      <lb ed="#P" n="84"/>gatiuis causalibus nisi quia negatur causa et ex 
+      re<lb ed="#P" n="85" break="no"/>spectu ad affirmationes oppositas.
+    </p>
+            <p xml:id="D78nca-f12127-d1e387">
+      ¶ Secundo 
+      si<lb ed="#P" n="86" break="no"/>cut producibilead productiuum / ita improducibile 
+      <lb ed="#P" n="87"/>ad improductiuum. et sicut possibile passiue ad 
+      possi<lb ed="#P" n="88" break="no"/>bile actiue ita impossibile passiue ad impossibile acti 
+      <lb ed="#P" n="89"/>ue. Sed possibilitas istius est causa et ratio 
+      possibili<lb ed="#P" n="90" break="no"/>tatis illius non econtra: igitur.
+    </p>
+            <p xml:id="D78nca-f12127-d1e400">
+      ¶ Confirmatur. sicut 
+      <lb ed="#P" n="91"/>posse creature: ad non posse creature / ita posse dei 
+      <lb ed="#P" n="92"/>ad non posse dei igitur a transmutata proportione si 
+      <lb ed="#P" n="93"/>cut posse creature ad posse dei ita non posse creatu 
+      <lb ed="#P" n="94"/>re ad non posse dei. Sed creatura ideo potest esse vel 
+      <lb ed="#P" n="95"/>taliter se habere: quia deus potest hoc dare et face 
+      <lb ed="#P" n="96"/>re igitur.
+    </p>
+            <p xml:id="D78nca-f12127-d1e416">
+      ¶ Tertio necessitas quedam conueniens 
+      <lb ed="#P" n="97"/>creature ideo conuenit creature: quia necessitas que 
+      <lb ed="#P" n="98"/>dam correspondens conuenit deo: igitur pari 
+      ratio<lb ed="#P" n="99" break="no"/>ne de impossibilitate: consequenta patet: quia impossibile esse 
+      <lb ed="#P" n="100"/>equipollet necesse non esse / et impossibile non esse 
+      <lb ed="#P" n="101"/>equipollet necesse esse. antecedens probatur: quia ideo 
+      crea<lb ed="#P" n="102" break="no"/>ture necessario conuenit esse producibile: quia deus 
+      <lb ed="#P" n="103"/>est necessario productiuus et ideo a. necessario est 
+      in<lb ed="#P" n="104" break="no"/>tellectum quod deus necessario intelligit. a. et. ideo a. necessa 
+      <lb ed="#P" n="105"/>rio est: si est et quando est: quia deus necessario dat esse 
+      <lb ed="#P" n="106"/>si dat esse et quando dat esse.
+    </p>
+            <p xml:id="D78nca-f12127-d1e440">
+      ¶ Quarto quod deo 
+      conue<lb ed="#P" n="107" break="no"/>nit ab eterno et necessario non conuenit sibi: quia 
+      ali<lb ed="#P" n="108" break="no"/>quid conueniat creature: sed non posse facere .b. .  
+      <lb ed="#P" n="109"/>impossibile huiusmodi / igitur. maior probatur: quia vel illud 
+      <lb ed="#P" n="110"/>est imperfectionis et ita non conuenit deo aut 
+      perfe<lb ed="#P" n="111" break="no"/>ctionis igitur non conuenit sibi per creaturam nec 
+      <lb ed="#P" n="112"/>per hoc quod conueniat aliquid alteri intelligibili.
+    </p>
+            <p xml:id="D78nca-f12127-d1e456">
+      ¶ Quin 
+      <lb ed="#P" n="113"/>to sic est de quibusdam impossibilibus: igitur pari ra 
+      <lb ed="#P" n="114"/>tione de aliis. antecedens probatur: quia non ideo deus non 
+      <lb ed="#P" n="115"/>potest corrumpi quia creatura non possit deum corrum 
+      <lb ed="#P" n="116"/>pere. Sed econtra probo: quia necessitas essendi forma 
+      <lb ed="#P" n="117"/>maliter ex parte dei est ratio quare creatura non po 
+      <lb ed="#P" n="118"/>test deum corrumpere et non defectus potentie ex par 
+      <lb ed="#P" n="119"/>te creature: quia si essent plures dii et plura necesse 
+      es<lb ed="#P" n="120" break="no"/>se sicut sunt plures persone divine adhuc vnus non pos 
+      <lb ed="#P" n="121"/>set destruere reliquum.
+    </p>
+            <p xml:id="D78nca-f12127-d1e479">
+      ¶ Sexto equaliter est deo impos 
+      <lb ed="#P" n="122"/>sibile facere peccatum: sicut facere chimetam: sed non ex 
+      <lb ed="#P" n="123"/>parte peccati: sed ex parte dei est prima causa et ratio illius impossi 
+      <lb ed="#P" n="124"/>bilitatis: quod enim deus non possit facere peccatum non est pro 
+      <lb ed="#P" n="125"/>pter impossibilitatem peccati in se formaliter quia potest 
+      <lb ed="#P" n="126"/>fieri a creatura. Eodemmodo potest argui de eo quod deus 
+      <lb ed="#P" n="127"/>non potest mentiri et errare vel decipere. Quod etiam 
+      <lb ed="#P" n="128"/>non potest moueri et recipere. Quod est non potest meritorie 
+      <lb ed="#P" n="129"/>agere
+    </p>
+            <p xml:id="D78nca-f12127-d1e499">
+      ¶ Prima enim causa et ratio istarum impossibilitatum 
+      <lb ed="#P" n="130"/>non est ex parte creature: sed propter necessitatem 
+      <lb ed="#P" n="131"/>in deo ad esse summe bonum et perfectu.
+    </p>
+            <p xml:id="D78nca-f12127-d1e506">
+      ¶ Septimo sicut 
+      <lb ed="#P" n="132"/>se habet impossibile fieri naturaliter ad potentia actiuam natu¬ 
+      <!--352.xml-->
+      <pb ed="#P" n="171-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ralem sicut impossibile supernaturaliter et omnino 
+      <lb ed="#P" n="2"/>simpliciter ad potentiam supernaturalem et simpli 
+      <lb ed="#P" n="3"/>citer omnipotentem. Sed illius impossibilitatis causa et 
+      <lb ed="#P" n="4"/>ratio se tenet ex parte causarum naturalium. ideo enim cecus 
+      <lb ed="#P" n="5"/>non potest fieri naturaliter videns non propter impossibilitatem 
+      <lb ed="#P" n="6"/>huius rei in se formaliter alioquin esset 
+      impossibi<lb ed="#P" n="7" break="no"/>le respectu cuiuslibet cause sed propter negationem 
+      <lb ed="#P" n="8"/>potentie actiue ad hoc in causis secundis.
+    </p>
+            <p xml:id="D78nca-f12127-d1e535">
+      ¶ Octauo 
+      <lb ed="#P" n="9"/>quod non potest sic agere vel esse tale et taliter se habe 
+      <lb ed="#P" n="10"/>re ideo non potest esse huiusmodi / quia deus non dedit illi 
+      <lb ed="#P" n="11"/>potentiam ad esse huiusmodi et habet causam impossibilita 
+      <lb ed="#P" n="12"/>tis se tenentem primo ex parte dei: igitur pari ratione de 
+      <lb ed="#P" n="13"/>esse simpliciter. antecedens probatur ideo enim hec stella non 
+      <lb ed="#P" n="14"/>potest sic influere: quia non accepit virtutem ad hoc et 
+      <lb ed="#P" n="15"/>lideo non accepit: quia deus non dedit: et ideo hec terra non 
+      <lb ed="#P" n="16"/>potest producere / et germinare talem herbam: quia non ad 
+      <lb ed="#P" n="17"/>cepit rationem seminalem a deo. Et si accepisset pos 
+      <lb ed="#P" n="18"/>set generare: et ideo non accepit: quia deus non dedit 
+      <lb ed="#P" n="19"/>ex parte enim istius terre non stetit magis quam illius. 
+      <lb ed="#P" n="20"/>Similiter homo non potest a peccato resurgere vel mi 
+      <lb ed="#P" n="21"/>racula facere: quia deus non dedit illi potentiam ad 
+      hu<lb ed="#P" n="22" break="no"/>iusmodi. Et ideo asinus non potest intelligere: quia 
+      <lb ed="#P" n="23"/>non habet animam intellectiuam: et ideo non habet: quia de 
+      <lb ed="#P" n="24"/>us non dedit sed irrationalem.
+    </p>
+            <p xml:id="D78nca-f12127-d1e572">
+      ¶ Nono hoc videretur 
+      <lb ed="#P" n="25"/>quia dicendo ideo .a. non potest esse: quia deus non 
+      po<lb ed="#P" n="26" break="no"/>test facere .a. denotaretur imperfectio et defectus po 
+      <lb ed="#P" n="27"/>tentie in deo sed hoc est falsum: quia pari ratione 
+      fal<lb ed="#P" n="28" break="no"/>sum esset dicere quod deus non potest producere chime 
+      <lb ed="#P" n="29"/>ram: quia hoc denotaret defectum potentie in deo. Si 
+      <lb ed="#P" n="30"/>militer falsum esset dicere quod deus non potest producere 
+      seip<lb ed="#P" n="31" break="no"/>sum.
+    </p>
+            <p xml:id="D78nca-f12127-d1e590">
+      ¶ Decimo. huiusmodi impossibilitatis et repugnam 
+      <lb ed="#P" n="32"/>tie est aliqua causa seu ratio et propter quid: aut igitur 
+      <lb ed="#P" n="33"/>illa se tenet ex parte dei et propositum: aut ex parte al 
+      <lb ed="#P" n="34"/>terius et cum deus sit causa omnium aliarum causarum 
+      se<lb ed="#P" n="35" break="no"/>quitur propositum: quicquid enim est causa cause est causa cau 
+      <lb ed="#P" n="36"/>sati.
+    </p>
+            <p xml:id="D78nca-f12127-d1e604">
+      ¶ Confirmatur. si aliquod alterum intelligibile sit causa 
+      <lb ed="#P" n="37"/>huius impossibilitatis: aut igitur ens aut non ens. 
+      <lb ed="#P" n="38"/>Si primum cum deus sit causa prima omnis entis 
+      <lb ed="#P" n="39"/>habetur propositum. Si secundum aut igitur possibile et 
+      <lb ed="#P" n="40"/>adhuc propositum: quia deus est causa omnis possibilita 
+      <lb ed="#P" n="41"/>tis ad esse aut impossibile et sue impossibilitatis 
+      que<lb ed="#P" n="42" break="no"/>ritur propter quid vt prius: igitur oportet stare et re 
+      <lb ed="#P" n="43"/>soluere ad ens vt causam primam huius impossibilita 
+      <lb ed="#P" n="44"/>tis.
+    </p>
+            <p xml:id="D78nca-f12127-d1e624">
+      ¶ Undecimo proxima et immediata ratio huius 
+      <lb ed="#P" n="45"/>impossibilitatis est propria natura creaturarum existem 
+      <lb ed="#P" n="46"/>tium vel possibilium et proprie rationes formales ea 
+      <lb ed="#P" n="47"/>um: igitur prima causa est deus et formaliter ex parte 
+      <lb ed="#P" n="48"/>dei. consequentia patet: quia deus est prima causa existen 
+      <lb ed="#P" n="49"/>tie et possibilitatis illarum creaturarum et est prima cau 
+      <lb ed="#P" n="50"/>sa rationum formalium. Quod igitur est causa quidditatis 
+      <lb ed="#P" n="51"/>humane et quidditatis asini est causa quare homo non 
+      <lb ed="#P" n="52"/>est asinus / nec actu / nec potentia: igitur est causa im 
+      <lb ed="#P" n="53"/>possibilitatis secundum quam impossibile est hominem 
+      <lb ed="#P" n="54"/>esse asinum: antecedens probatur: quia impossibilitas chime 
+      <lb ed="#P" n="55"/>re ad esse vel cuiuscumque figmenti non est impossibili 
+      <lb ed="#P" n="56"/>tas alicuius simplicis obiecti intelligibilis ad esse 
+      si<lb ed="#P" n="57" break="no"/>cut econtra necessitas essendi in deo est necessitas 
+      <lb ed="#P" n="58"/>obiecti simplicis. Sed impossibilitas figmenti est im 
+      <lb ed="#P" n="59"/>possibilitas quorumdam intelligibilium ex suis forma 
+      <lb ed="#P" n="60"/>libus rationibus repugnantium et est impossibilitas 
+      <lb ed="#P" n="61"/>quasi cuiusdam compositi ex obiectis 
+      incompossibili<lb ed="#P" n="62" break="no"/>pus vel est impossibilitas vnitatis cuiusdam 
+      intelli<lb ed="#P" n="63" break="no"/>gibilis cum quodam intelligibili repugnante vel est 
+      incom<lb ed="#P" n="64" break="no"/>possibilitas essendi huius et non essendi huius vt im 
+      <lb ed="#P" n="65"/>possibilitas significata per propositionem 
+      implican<lb ed="#P" n="66" break="no"/>tem contradictionem. si enim obiectum intelligibile sit 
+      <!--352.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>simplex et non implicans incompossibilia. igitur in suo 
+      <lb ed="#P" n="68"/>ceptu non includitur aliqua repugnantia: igitur non 
+      <lb ed="#P" n="69"/>est conceptus obiecti impossibilis.
+    </p>
+            <p xml:id="D78nca-f12127-d1e685">
+      ¶ Duodecimo pro 
+      <lb ed="#P" n="70"/>batur quod deum esse sit causa quare chimera est 
+      impos<lb ed="#P" n="71" break="no"/>fibilis. primo sic / prius est aliquo modo causa poste 
+      <lb ed="#P" n="72"/>rioris: sed deus et deum esse est prius 
+      impossibilita<lb ed="#P" n="73" break="no"/>te et repugnantia repugnantium et impossibilium: igi 
+      <lb ed="#P" n="74"/>tur. maior probatur: quia si .a. non sit causa respectu .b. 
+      <lb ed="#P" n="75"/>igitur .b. non dependet ab .a. et potest poni sine .a. quia 
+      <lb ed="#P" n="76"/>b. potest poni positis solum prioribus a quibus 
+      cau<lb ed="#P" n="77" break="no"/>saliter dependet. non enim exigit necessario alia ac  
+      <lb ed="#P" n="78"/>cidentalia. Si vero .b. potest esse sine .a. igitur .a. non 
+      <lb ed="#P" n="79"/>est prius respectu. b. ymo nullum ordinem habent 
+      <lb ed="#P" n="80"/>adinuicem: minor principalis probatur: quia necessarium est 
+      <lb ed="#P" n="81"/>prius impossibili: quia possibile est prius impossibili sicut 
+      af<lb ed="#P" n="82" break="no"/>firmationegatione / necessarium autem est prius possibili: sed 
+      <lb ed="#P" n="83"/>deum esse est primum nrcessarium.
+    </p>
+            <p xml:id="D78nca-f12127-d1e718">
+      ¶ Item impossibi 
+      <lb ed="#P" n="84"/>le esse ideo est impossibile: quia firmiter et necessario 
+      <lb ed="#P" n="85"/>sibi repugnat esse. Sed necessitas et firmitas secun 
+      <lb ed="#P" n="86"/>dum quam firmiter et necessario esse repugnat 
+      im<lb ed="#P" n="87" break="no"/>possibili est primo in aliquo ente et non in aliquo omni 
+      <lb ed="#P" n="88"/>non nichilo: ergo aliquod ens est primo causa illius 
+      <lb ed="#P" n="89"/>repugnantie: sed deus est primum ens: igitur.
+    </p>
+            <p xml:id="D78nca-f12127-d1e734">
+      ¶ Con 
+      <lb ed="#P" n="90"/>firmatur repugnantium quorum vnum est 
+      necessa<lb ed="#P" n="91" break="no"/>rium et reliquum impossibile necessitas eius quod 
+      <lb ed="#P" n="92"/>est necessarium est ratio impossibilitatis illius quod  
+      <lb ed="#P" n="93"/>est impossibile. Sed deum esse et chimeram esse sunt 
+      <lb ed="#P" n="94"/>huiusmodi. igitur: maior probatur: quia veritas ne 
+      <lb ed="#P" n="95"/>cessaria affirmationis est ratio falsitatis negatiue 
+      <lb ed="#P" n="96"/>quia prior est affirmatio et eius veritas. 
+    </p>
+            <p xml:id="D78nca-f12127-d1e752">
+               <lb ed="#P" n="97"/>¶ Confirmatur. impossibile ideo est impossibile: 
+      <lb ed="#P" n="98"/>quia possibile fibi repugnat: igitur possibile est 
+      pri<lb ed="#P" n="99" break="no"/>or causa et ratio illius impossibilitatis et repugnam 
+      <lb ed="#P" n="100"/>tie. sed deus est prima causa omnis possibilis. 
+      igi<lb ed="#P" n="101" break="no"/>tur. Dicunt igitur aliqui quod omne impossibile ideo 
+      <lb ed="#P" n="102"/>est impossibile quia primum in se formaliter 
+      neces<lb ed="#P" n="103" break="no"/>se est esse. Scilicet deus repugnat illi / et prohibet 
+      <lb ed="#P" n="104"/>immobiliter illud esse. conuenientius enim est sic di 
+      <lb ed="#P" n="105"/>cere quam econuerso dicendo quod aliquod pure nihil nec 
+      <lb ed="#P" n="106"/>etiam creabile prohibeat et impossibiliter 
+      omnipo<lb ed="#P" n="107" break="no"/>tentem vel ineuitabili necessitati supponat volun 
+      <lb ed="#P" n="108"/>tatem et intellectum diuinum vt necessario iudicet 
+      <lb ed="#P" n="109"/>et velit chimeram non esse. 
+      <lb ed="#P" n="110"/>dico pri 
+      <lb ed="#P" n="111"/>Respondeo ad questionem. no / quod 
+      <lb ed="#P" n="112"/>neutra pars questionis est concedenda in isto sensu 
+      <lb ed="#P" n="113"/>ideo .a. non potest esse: quia deus non potest facere / a 
+      <lb ed="#P" n="114"/>vt denotetur quod non stat / ex parte ipsius .a. quin quantum 
+      <lb ed="#P" n="115"/>est ex se sit formaliter possibile esse: sed stat ex parte 
+      <lb ed="#P" n="116"/>dei cui deest potentia actiua respectu ipsius. a. quomo 
+      <lb ed="#P" n="117"/>do diceretur quod angelus ideo non potest produci a 
+      <lb ed="#P" n="118"/>me: quia non possum producere angelum. 
+      Simili<lb ed="#P" n="119" break="no"/>ter hec propositio ideo deus non potest facere .a. quia 
+      <lb ed="#P" n="120"/>a. non est possibile esse. neganda est in isto sensu 
+      <lb ed="#P" n="121"/>anquam non stet ex parte dei quin quantum est ex se possit 
+      pro<lb ed="#P" n="122" break="no"/>ducere .a. et quasi quantum est ex parte dei sit in deo po 
+      <lb ed="#P" n="123"/>tentia ad .a. sed stat ex parte ipsius .a. in quo non 
+      cor<lb ed="#P" n="124" break="no"/>respondet potentia passiua. Sed impedimentum 
+      <lb ed="#P" n="125"/>vtraque enim propositio in sensibus predictis impli 
+      <lb ed="#P" n="126"/>cat falsum scilicet quod .a. quantum est ex se sit formaliter 
+      <lb ed="#P" n="127"/>possibile esse: sed stat ex parte dei aut quod deus quantum 
+      <lb ed="#P" n="128"/>est ex se habet formaliter potentiam ad 
+      producen<lb ed="#P" n="129" break="no"/>dum. a. Sed stat ex parte ipsius a. ymo vtrumque est 
+      <lb ed="#P" n="130"/>in se formaliter impossibile.
+    </p>
+            <p xml:id="D78nca-f12127-d1e829">
+      ¶ Secundo dico quod non 
+      <lb ed="#P" n="131"/>conuenienter conceditur absoluto sermone hec pro 
+      <lb ed="#P" n="132"/>ositio ideo .a. non potest fieri et esse: quia deus non potest 
+      <!--353.xml-->
+      <pb ed="#P" n="171-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>facere .a. probatur: quia vel huiusmodi impossibilita 
+      <lb ed="#P" n="2"/>tis non potest assignari conuenienter causa et 
+      pro<lb ed="#P" n="3" break="no"/>pter quid seu propositio causalis prior sicut impossit 
+      <lb ed="#P" n="4"/>litas contradictoriorum quam significat primum pri 
+      <lb ed="#P" n="5"/>cipium et habetur propositum. aut si illius 
+      impossibili<lb ed="#P" n="6" break="no"/>tatis conuenienter assignatur ratio et propter quid 
+      il<lb ed="#P" n="7" break="no"/>la non conuenienter assignatur per propositionem 
+      <lb ed="#P" n="8"/>predictam. probo: quia assignatio causalis huiusmodi 
+      <lb ed="#P" n="9"/>non conuenienter fit per modum quo denotatur defe 
+      <lb ed="#P" n="10"/>ctus / et insufficientia potentie in deo siue in sensu 
+      <lb ed="#P" n="11"/>quem facit propositio ex sua formali significatione et vi 
+      verbi<lb ed="#P" n="12" break="no"/>ex impositione terminorum siue in sensu qua conuenienter fit et 
+      <lb ed="#P" n="13"/>accipitur. Sed praedicta causalis videtur denotare imperfe 
+      <lb ed="#P" n="14"/>ctionem et defectum potentie in deo. probatio. primo 
+      <lb ed="#P" n="15"/>ex communi vsu et acceptione similium causalium negatiuarum 
+      <lb ed="#P" n="16"/>de potenti a actiua et passiua / vel quasi passiua seu 
+      <lb ed="#P" n="17"/>obiectiua: cum enim dicimus quod .a. non potest naturaliter 
+      <lb ed="#P" n="18"/>fieri: quia natura non potest facere .a. denotatur quod ratio 
+      <lb ed="#P" n="19"/>huius impossibilitatis stat ex parte causarum naturalium 
+      <lb ed="#P" n="20"/>quamuis non staret ex parte ipsius .a. et siue .a. habeat for 
+      <lb ed="#P" n="21"/>maliter potentiam passiuam et obiectiuam quantum est ex se 
+      <lb ed="#P" n="22"/>siue non.
+    </p>
+            <p xml:id="D78nca-f12127-d1e890">
+      ¶ Secundo: quia vt habetur primo sententia 
+      <lb ed="#P" n="23"/>rum distin. 7. maximus hereticus arguebat filium esse in 
+      <lb ed="#P" n="24"/>potentiorem patre: quia si filius non genuit: quia non potu 
+      <lb ed="#P" n="25"/>it: igitur in potens fuit. Et Augustinus respondet quod 
+      fili<lb ed="#P" n="26" break="no"/>us non genuit: non quia non potuit: sed non oportuit 
+      <lb ed="#P" n="27"/>Quod magister sic exponit non quia non potuit id est non ex 
+      <lb ed="#P" n="28"/>impotentia sui fuit: sed ei non conueniebat. Ex istis 
+      <lb ed="#P" n="29"/>videtur: quod secundum Augustinum illa causalis negati 
+      <lb ed="#P" n="30"/>ua denotaret vel videretur denotare impotentiam et 
+      <lb ed="#P" n="31"/>defectum potentie in filio: nec Augu. affirmat quod filitur 
+      <lb ed="#P" n="32"/>potest generare nec negat quod filius non potest generare 
+      <lb ed="#P" n="33"/>sed negat quod illa propositio negatiua filius non potuis 
+      <lb ed="#P" n="34"/>sit causalis respectu huius filius non genuit.
+    </p>
+            <p xml:id="D78nca-f12127-d1e919">
+      ¶ Tertio 
+      <lb ed="#P" n="35"/>dico quod quamuis proprie essentie vel rationes formales 
+      <lb ed="#P" n="36"/>essentiarum possibilium sint causa: et propter quid incomi 
+      <lb ed="#P" n="37"/>possibilitatis et repugnantie illarum et per consequens ratio 
+      <lb ed="#P" n="38"/>et propter quid impossibilitatis huius figmenti et cum de 
+      <lb ed="#P" n="39"/>us sit causa essentiarum possit tandem ratio et propte 
+      <lb ed="#P" n="40"/>quid huius impossibilitatis reduci et resolui vltimate io 
+      <lb ed="#P" n="41"/>esse diuinum: tamen non conuenienter fit huiusmodi reductio 
+      <lb ed="#P" n="42"/>et assignatio per modum talis enunciationis ideo 
+      impossi<lb ed="#P" n="43" break="no"/>bile est .a. esse: quia deus est: vel quia deus est deus. probatio 
+      <lb ed="#P" n="44"/>aut huiusmodi modus assignandi esset conueniens ex eo qui 
+      <lb ed="#P" n="45"/>deus est causa illarum naturarum incompossibilium aut quia est 
+      <lb ed="#P" n="46"/>primum et summum necesse esse: aut quia repugnat firmi 
+      <lb ed="#P" n="47"/>ter impossibili et prohibet immobiliter illud esse. non pr 
+      <lb ed="#P" n="48"/>mum: quia tunc ad interrogationem factam propter quid ver 
+      <lb ed="#P" n="49"/>mis non est musca et propter quid vermis non volat con 
+      <lb ed="#P" n="50"/>uenienter responderetur: quia sol est sol. et ad interro 
+      <lb ed="#P" n="51"/>gationem quare diameter non est commensurabilis co 
+      <lb ed="#P" n="52"/>te conueniens esset responsio: quia est substantia substantia 
+      <lb ed="#P" n="53"/>et quia .b. est .b. sit .b. causa quantitatis. consequens est falsum: quia sic 
+      <lb ed="#P" n="54"/>interrogans non reputaret talem responsionem esse fuf 
+      <lb ed="#P" n="55"/>ficientem et suam questionem sufficienter terminari per 
+      <lb ed="#P" n="56"/>huiusmodi responsum. Si secundum contra quia si per 
+      possi<lb ed="#P" n="57" break="no"/>bile vel impossibile deus posset non esse et generabiles 
+      <lb ed="#P" n="58"/>et corruptibiles essent dii adhuc chimera non minus 
+      <lb ed="#P" n="59"/>esset impossibilis quam nunc. Et quia pari ratione illud 
+      re<lb ed="#P" n="60" break="no"/>sponderetur conueniens propter quid ad omnem interroga 
+      <lb ed="#P" n="61"/>tionem cause de creatura. Si tertium contra. tum: quia ho 
+      <lb ed="#P" n="62"/>minem posse esse: vel hominem non esse asinum conuenienter 
+      <lb ed="#P" n="63"/>assignaretur propter quid chimera est impossibilis: quod 
+      <lb ed="#P" n="64"/>ita potest dici quod firmiter repugnat illi et prohibet illud 
+      <lb ed="#P" n="65"/>quia infert tanta necessitate chimeram esse impossibilem 
+      <lb ed="#P" n="66"/>quanta necessitate infertur ex hac propositione deus est. tum 
+      <!--353.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>quia frustra prohibet vel impedit deus esse illud quod 
+      <lb ed="#P" n="68"/>ex se formaliter impossibile est esse sicut frustra 
+      pre<lb ed="#P" n="69" break="no"/>cipit deus esse illud quod ex se formaliter necesse est 
+      <lb ed="#P" n="70"/>esse: videtur igitur quod talis assignatio causalis aut est falsa / aut 
+      <lb ed="#P" n="71"/>impropria et inepta. Dico igitur quod si propter quid huius 
+      im<lb ed="#P" n="72" break="no"/>possibilitatis habeat reduci et resolui in deum ex eo quod 
+      <lb ed="#P" n="73"/>deus est causa prima omnis causarum per se causabilium et 
+      <lb ed="#P" n="74"/>naturarum incompossibilium conuenientius reducitur per 
+      <lb ed="#P" n="75"/>hunc modum. ideo .a. est impossibile esse: quia .b. est. heces 
+      <lb ed="#P" n="76"/>sentia a deo caausaliter et quia. c. est talis natura a 
+      <lb ed="#P" n="77"/>deo causaliter sint .b. et .c. essentie repugnantes qua 
+      <lb ed="#P" n="78"/>rum vnio vel vnitas impossibilis significetur per .a. no 
+      <lb ed="#P" n="79"/>men figmenti
+    </p>
+            <p xml:id="D78nca-f12127-d1e1023">
+      ¶ Quarto dico quod conuenientius: aut 
+      <lb ed="#P" n="80"/>minus inconuenieter dicitur deum ideo non posse produ 
+      <lb ed="#P" n="81"/>cere .a. quia .a. impossibile est esse quam econuerso. proba 
+      <lb ed="#P" n="82"/>tio: quia iuxta communem acceptionem talium 
+      causa<lb ed="#P" n="83" break="no"/>lium negatiuarum de poestentiis actiuis et passiuis vel ob 
+      <lb ed="#P" n="84"/>iectiuis importatur sensus verus scilicet iste quod deus non 
+      <lb ed="#P" n="85"/>possit facere .a. hoc non est quia stet ex parte dei tan 
+      <lb ed="#P" n="86"/>quam hoc sit ex imperfectione et diminutione potentie di 
+      <lb ed="#P" n="87"/>nine et quin deus habeat perfectam omnipotentiam 
+      <lb ed="#P" n="88"/>Sed stat ex parte ipsius .a. ita quod .a. ex se formaliter 
+      <lb ed="#P" n="89"/>impossibile est esse. Sic etiam dicimus quod visus non po 
+      <lb ed="#P" n="90"/>test videre sonum: quia sonus non est visibilis.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1049">
+      ¶ No 
+      <lb ed="#P" n="91"/>tandum tamen quod si conceditur ista ideo deus non potest 
+      <lb ed="#P" n="92"/>facere .a. quia .a. non est factibile iuxta sensum 
+      pre<lb ed="#P" n="93" break="no"/>dictum: tamen est remotior a proprietate causalium 
+      <lb ed="#P" n="94"/>propositionum quibus correspondet causalitas 
+      rea<lb ed="#P" n="95" break="no"/>lis et positiua in significando quam ille de possibili vel 
+      <lb ed="#P" n="96"/>de preterito vel de futuro. diceretur igitur quod prius in 
+      <lb ed="#P" n="97"/>t elligitur impossibilitas essendi ex parte .a. quam 
+      impos<lb ed="#P" n="98" break="no"/>sibilitas producendi ex parte dei: ita / vt secundum  
+      <lb ed="#P" n="99"/>ordinem naturalis intelligentie primo intelligatur 
+      <lb ed="#P" n="100"/>potentia actiua perfecta in deo. secundo potentie 
+      <lb ed="#P" n="101"/>proprie formales in hoc intelligibili creabili et in 
+      il<lb ed="#P" n="102" break="no"/>lo secundum suas formales rationes vel quidditates intrinse 
+      <lb ed="#P" n="103"/>cas. Tertio intelligatur incompossibilitas et 
+      repu<lb ed="#P" n="104" break="no"/>gnantia illorum intelligibilium vel impossibilitas vnio 
+      <lb ed="#P" n="105"/>nis vel vnitatis huius intelligibilis respectu illius 
+      <lb ed="#P" n="106"/>intelligibilis vel incompossibilitas vnitatis et 
+      di<lb ed="#P" n="107" break="no"/>uisionis huius intelligibilis respectu eiusdem 
+      intelli<lb ed="#P" n="108" break="no"/>gibilis et hec est impossibilitas a. figmenti. Quarto 
+      intel<lb ed="#P" n="109" break="no"/>igatur impossibilitas illius figmenti in respectu ad 
+      <lb ed="#P" n="110"/>quancunque potentiam actiuam et econtra impossibili 
+      <lb ed="#P" n="111"/>tas cuiuscunque potentie actiue in respectu ad illud. 
+      <lb ed="#P" n="112"/>igitur quod non ideo .a. non potest 
+      <lb ed="#P" n="113"/>Sustinem doesse quia deus non potest facere 
+      <lb ed="#P" n="114"/>a. sed potius econtra iuxta sensum preexpositum. 
+    </p>
+            <p xml:id="D78nca-f12127-d1e1104">
+               <lb ed="#P" n="115"/>¶ Ad primum in oppositum negatur consequentia. Ad probationem 
+      <lb ed="#P" n="116"/>non videtur ille modus arguendi tenere 
+      vniuersa<lb ed="#P" n="117" break="no"/>liter: quia consimiliter potest argui quod potest esse 
+      <lb ed="#P" n="118"/>ideo potest esse: quia deus est omnipotens: igitur quod non 
+      <lb ed="#P" n="119"/>potest esse. ideo non potest esse: quia deus non est om 
+      <lb ed="#P" n="120"/>nipotens. Similiter omne causabile effectiue ideo 
+      po<lb ed="#P" n="121" break="no"/>test causari immediate a deo: quia deus est virtus 
+      effe<lb ed="#P" n="122" break="no"/>ctiua omnipotens igitur quod non est causabile effectiue 
+      <lb ed="#P" n="123"/>non potest causari immediate a deo: quia deus non est virtus effe 
+      <lb ed="#P" n="124"/>ctiua omnipotens non valet patet de chimera et 
+      spiri<lb ed="#P" n="125" break="no"/>tu sancto.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1131">
+      ¶ Similiter omne corruptibile ideo potest 
+      <lb ed="#P" n="126"/>a deo immediate destrui quia deus est virtus destructi 
+      <lb ed="#P" n="127"/>ua omnipotens: igitur quod non est corruptibile. etc. non vetet: 
+      <lb ed="#P" n="128"/>quia spiritus sanctus non potest destrui: non quia de 
+      <lb ed="#P" n="129"/>us non sit virtus destructiua omnipotens: sed quia 
+      <lb ed="#P" n="130"/>spiritus sanctus est formaliter necesse esse. 
+    </p>
+            <p xml:id="D78nca-f12127-d1e1144">
+               <lb ed="#P" n="131"/>¶ Similiter omne ab eterno cognitum fore ideo est 
+      <lb ed="#P" n="132"/>ab eterno cognitum fore quia deus videt ab eterro 
+      <!--354.xml-->
+      <pb ed="#P" n="172-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>omnia futura: igitur quod non est ab eterno cogni 
+      <lb ed="#P" n="2"/>tum fore ideo non est cognitum fore: quia deus non vi 
+      <lb ed="#P" n="3"/>det omnia futura. Similiter omne quod est calefactibile 
+      <lb ed="#P" n="4"/>ideo potest calefieri. quia calectiuum est calefactiuum et 
+      <lb ed="#P" n="5"/>potest calefacere: igitur quod non est calefactibile ideo 
+      <lb ed="#P" n="6"/>non potest calefieri: quia calefactiuum non potest cale 
+      <lb ed="#P" n="7"/>facere. Et eodem modo de visibili et audibili 
+      respe<lb ed="#P" n="8" break="no"/>ctu potentie visiue et auditiue.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1175">
+      ¶ Ad illum igitur mo 
+      <lb ed="#P" n="9"/>dum arguendi diceretur primo quod negatio erit causa nega 
+      <lb ed="#P" n="10"/>tionis si negatio illa denotaret praecise puram 
+      remo<lb ed="#P" n="11" break="no"/>tionem causalitatis prius affirmate. in proposito au 
+      <lb ed="#P" n="12"/>tem denotaret defectum potentie in deo quod staret ex 
+      <lb ed="#P" n="13"/>parte dei quamuis non staret ex parte obiecti: denotaret etiam 
+      il<lb ed="#P" n="14" break="no"/>la negatia quod causa praecisa vel potior se teneret ex parte dei 
+      <lb ed="#P" n="15"/>sicut in affirmatiua notatur causalitas praecipua vel potior 
+    </p>
+            <p xml:id="D78nca-f12127-d1e1193">
+               <lb ed="#P" n="16"/>¶ Contra saltem sequitur quod deum non posse produce 
+      <lb ed="#P" n="17"/>re .a. non est posterius secundum naturalem intelligentiam 
+      <lb ed="#P" n="18"/>quam .a. non esse possibile formaliter in se: cuius opposi 
+      <lb ed="#P" n="19"/>tum est supra dictum. consequentia patet ex quo negatio est 
+      <lb ed="#P" n="20"/>causa negationis sumendo negationem cause solum 
+      <lb ed="#P" n="21"/>modo.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1209">
+      ¶ Respondeo potest consequentia negari: quia deum 
+      <lb ed="#P" n="22"/>non posse illud non est prius: sed posterius secundum 
+      <lb ed="#P" n="23"/>intelligentiam quam illud esse impossibile in se.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1216">
+      ¶ Ad di 
+      <lb ed="#P" n="24"/>ctum philosophi ponentis illam regulam potest dici quod 
+      nega<lb ed="#P" n="25" break="no"/>tio est causalis respectu negationis: sed non secundum 
+      <lb ed="#P" n="26"/>quamlibet formam enunciandi negatiue: sed secundi 
+      <lb ed="#P" n="27"/>determinatam et conuenientem formam: et in diuersis ma 
+      <lb ed="#P" n="28"/>teriis assignanda est secundum varias formas 
+      negan<lb ed="#P" n="29" break="no"/>di. non enim se quitur omnis auis potest volare: quia alis alatum 
+      <lb ed="#P" n="30"/>potest volare: igitur quod non potest volare ideo non potest vo 
+      <lb ed="#P" n="31"/>lare: quia alis alatu non potest volare Sed quia quod non est 
+      <lb ed="#P" n="32"/>alis alatum non potest volare.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1239">
+      ¶ Similiter quod non est 
+      <lb ed="#P" n="33"/>ab aeterno cognitum fore ideo non est cognitum fore: quia deo 
+      <lb ed="#P" n="34"/>us non cognouit illud fore: seu quia non cognouit fo 
+      <lb ed="#P" n="35"/>re nisi futura.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1248">
+      ¶ Similiter si .b. calefactibile ideo po 
+      <lb ed="#P" n="36"/>test calefieri: quia .a. calefactiuum potest calefacere igitur 
+      <lb ed="#P" n="37"/>c. non calefactibile ideo non potest calefieri: quia nullum 
+      ca<lb ed="#P" n="38" break="no"/>lefactiuum habet .c. pro obiecto calefactibili nec natum 
+      <lb ed="#P" n="39"/>est esse respectu talis obiecti. Consimiliter in 
+      pro<lb ed="#P" n="40" break="no"/>posito / quod non potest esse: ideo non potest esse: quia dei 
+      omnipo<lb ed="#P" n="41" break="no"/>tentia non habet illud pro obiecto / nec etiam aliqua po 
+      <lb ed="#P" n="42"/>tentia productiua habet pro obiecto correspondente 
+      <lb ed="#P" n="43"/>illud quod non potest esse nec est nec nata est esse respecti 
+      <lb ed="#P" n="44"/>talium nec posse dicitur in habitudine ad talia.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1270">
+      ¶ 
+      Ali<lb ed="#P" n="45" break="no"/>ter vlterius potest dici quod quando dicit Ari. si affirma 
+      <lb ed="#P" n="46"/>tio est causa affirmationis negatio est causa negationis 
+      <lb ed="#P" n="47"/>innuuntur quattuor propositiones cathegorice quarum 
+      <lb ed="#P" n="48"/>due sunt affirmatiue et componunt vnam ypotheticam com 
+      <lb ed="#P" n="49"/>lem et alie due negatiue componentes vnam ypotheticam 
+      <lb ed="#P" n="50"/>causalem. ille igitur due affirmatiue possunt se haber 
+      <lb ed="#P" n="51"/>in triplici differentia. primo sic quod idem subiectum compi 
+      <lb ed="#P" n="52"/>retur ad duo predicata vt .a. respirat: quia .a. habet 
+      <lb ed="#P" n="53"/>pulmonem et tunc si illa duo praedicata se habent propte 
+      <lb ed="#P" n="54"/>quid et illud cuius dicitur propter quid praecise et conuertibiliter 
+      <lb ed="#P" n="55"/>negatio esset causa negationis generaliter.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1296">
+      ¶ Secundo 
+      <lb ed="#P" n="56"/>modo sic quod idem predicatum comparatur duobus subiectis 
+      <lb ed="#P" n="57"/>vt .a. est risibile: quia animal rationale est risibile: et tunc si 
+      <lb ed="#P" n="58"/>in secunda propositione subiectum et predicatum se habent vt 
+      <lb ed="#P" n="59"/>propter quid et illud cuius est propter quid praecise et con 
+      <lb ed="#P" n="60"/>uertibiliter negatio erat causa negationis. Et hiis modois 
+      <lb ed="#P" n="61"/>vtitur Ari. communiter illa regula.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1312">
+      ¶ Tertio modo sic 
+      <lb ed="#P" n="62"/>quod in vna affirmatiua comparatur quoddam subiectum cui 
+      <lb ed="#P" n="63"/>dam praedicato et in secunda comparatur aliud disparatum 
+      <lb ed="#P" n="64"/>subiectum alteri praedicato sicut in proposito. ideo .a. po 
+      <lb ed="#P" n="65"/>test esse: quia deus est potens producere .a. et tunc non vel 
+      <lb ed="#P" n="66"/>negatio est causa negationis specialiter cum in nega 
+      <!--354.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>tione correspondente affirmationi non accipitur idem. 
+      <lb ed="#P" n="68"/>subiectum et idem predicatum quod in affirinatione et sub 
+      <lb ed="#P" n="69"/>iectum affirmative et subiectum negative non sunt nata suppone 
+      <lb ed="#P" n="70"/>re pro eodem nec pro hiis que sunt eiusdem rationis nec 
+      <lb ed="#P" n="71"/>pro aliquibus communicantibus in praedicato affirmato 
+      <lb ed="#P" n="72"/>sicut est in proposito .a. possibile ideo est possibile: quia 
+      <lb ed="#P" n="73"/>deus potest producere .a. igitur chimera. ideo non est possi 
+      <lb ed="#P" n="74"/>bilis: quia deus non potest producere chimeram: sed bene 
+      <lb ed="#P" n="75"/>sequitur: si luna est hodie ecclipsabilis: quia hodie terra 
+      <lb ed="#P" n="76"/>est interponibilis: igitur ideo cras luna non est eclipsabi 
+      <lb ed="#P" n="77"/>lis: quia terra cras non est interponibilis. idem enim subis 
+      <lb ed="#P" n="78"/>ctum est in affirmatiua et negatiua sibi correspondente 
+      <lb ed="#P" n="79"/>et supponitur veritas negatiue.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1358">
+      ¶ Similiter sequitur si .a 
+      <lb ed="#P" n="80"/>est: quia deus vult .a. esse: igitur .a. quando non est ideo non 
+      <lb ed="#P" n="81"/>est: quia deus non vult .a. esse. Et consimiliter .b. quod non 
+      <lb ed="#P" n="82"/>est ideo non est: quia deus non vult .b. esse .b. enim communi 
+      <lb ed="#P" n="83"/>cat cum .a. in posse esse ideo ex affirmatione de .a. 
+      ar<lb ed="#P" n="84" break="no"/>guitur negatiua de .b. pari ratione.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1372">
+      ¶ Ad secundum  
+      <lb ed="#P" n="85"/>licet sit similitudo quo ad affirmationem et negationem 
+      <lb ed="#P" n="86"/>quia sicut hic comparatur relatiuum affirmatiuum ad 
+      <lb ed="#P" n="87"/>relatiuum affirmatiuum ita negatio huius ad 
+      negatio<lb ed="#P" n="88" break="no"/>nem illius licet etiam sit similitudo quo ad consequentiam 
+      <lb ed="#P" n="89"/>sicut enim producibile infert productiuum sic improducibile 
+      <lb ed="#P" n="90"/>infert improductiuum respectu illius: sed non est 
+      si<lb ed="#P" n="91" break="no"/>militudo secundum causalitatem.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1390">
+      ¶ Ad confirmationem 
+      <lb ed="#P" n="92"/>per idem secunda enim similitudo non est accipienda ni 
+      <lb ed="#P" n="93"/>si secundum id secundum quod accipiebatur prior similitudo 
+    </p>
+            <p xml:id="D78nca-f12127-d1e1397">
+               <lb ed="#P" n="94"/>¶ Ad tertium negatur consequentia ad probationem illa ne 
+      <lb ed="#P" n="95"/>cessitas non essendi quae equipollet impossibilitati 
+      essen<lb ed="#P" n="96" break="no"/>di non conuenit creature.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1406">
+      ¶ Ad quartum maior est vera ac  
+      <lb ed="#P" n="97"/>cipiendo proprie conuenire pro esse idem vel pro predica 
+      <lb ed="#P" n="98"/>to dicto per modum affirmationis de inesse et de actu 
+      <lb ed="#P" n="99"/>et sumendo ly quia: vt notat causalitatem: sed accipien 
+      <lb ed="#P" n="100"/>do large conuenire pro quocumque dicibili de deo siue par 
+      <lb ed="#P" n="101"/>modum affirmationis siue per modum negationis siue 
+      <lb ed="#P" n="102"/>per enunciationem de inesse siue aliter accipiendoly quia: 
+      <lb ed="#P" n="103"/>large et vt magis negetur causalitas quam ponatur 
+      nega<lb ed="#P" n="104" break="no"/>tur maior. Ad probationem id non est perfectionis / nec 
+      <lb ed="#P" n="105"/>imperfectionis: quia nichil ponit et affirmat: sed tantum 
+      <lb ed="#P" n="106"/>negat.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1430">
+      ¶ Ad quintum negatur consequentia. quia quedam 
+      <lb ed="#P" n="107"/>predicata dicta de deo cum modo impossibilitatis non 
+      <lb ed="#P" n="108"/>denotant nec importare videntur imperfectionem in deo 
+      <lb ed="#P" n="109"/>sed potius realiter et implicite denotant perfectionem po 
+      <lb ed="#P" n="110"/>tentie in deo et impotentiam magis in alio ita quod illa im 
+      <lb ed="#P" n="111"/>possibilitas realiter equiualet necessitati perfectionis: 
+      <lb ed="#P" n="112"/>vt non posse corrumpi vel mentiri vel decipi vel impediri 
+      <lb ed="#P" n="113"/>ab alio vel non posse reliquere creaturam sibi ipsi ma 
+      <lb ed="#P" n="114"/>nenti in esse vel non posse non influere secunde 
+      cau<lb ed="#P" n="115" break="no"/>se agenti / quedam vero sic dicta cum negatione poten 
+      <lb ed="#P" n="116"/>tie denotarent imperfectionem et impotentiam vt deum non 
+      <lb ed="#P" n="117"/>posse se solo immediate causare. b. nunc autem 
+      impossibi<lb ed="#P" n="118" break="no"/>litas faciendi chimeram non prouenit ex imperfectione 
+      <lb ed="#P" n="119"/>nec ex perfectione potentie absolute
+    </p>
+            <p xml:id="D78nca-f12127-d1e1461">
+      ¶ Ad sextum 
+      <lb ed="#P" n="120"/>per idem non valet discursus et non est simile: quia non 
+      <lb ed="#P" n="121"/>posse peccare conuenit deo ex perfectione necessarie 
+      <lb ed="#P" n="122"/>bonitatis ideo affirmatiua causalis respectu illius nega 
+      <lb ed="#P" n="123"/>tiue conuenienter sumitur ex parte dei: sed impossi 
+      <lb ed="#P" n="124"/>litas faciendi chimeram non sic denotat perfectionem in 
+      <lb ed="#P" n="125"/>deo ymo videtur denotari imperfectio si assignaretur 
+      <lb ed="#P" n="126"/>pro causa et ratione prima et principali impossibilitat 
+      <lb ed="#P" n="127"/>chimere et factionis passiue.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1482">
+      ¶ Ad septimum negatur 
+      <lb ed="#P" n="128"/>maior quo ad causalitatem: quia non est inconueniens 
+      <lb ed="#P" n="129"/>imperfectionem potentie actiue conuenire causis natura 
+      <lb ed="#P" n="130"/>libus.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1491">
+      ¶ Ad octauum negatur consequentia 
+      loquen<lb ed="#P" n="131" break="no"/>do de impossibilitate essendi tale non simpliciter: sed  
+      <lb ed="#P" n="132"/>alicui essentie vel naturaliter vel sine auxilio super 
+      <!--355.xml-->
+      <pb ed="#P" n="172-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>naturali vel huiusmodu 
+      <lb ed="#P" n="2"/>Ad nonum negatur minor. ad probationem dicen 
+      <lb ed="#P" n="3"/>dum quod aliqua propositio de deoformata non denotas 
+      <lb ed="#P" n="4"/>imperfectionem in eo que tamen assignata vt 
+      causa<lb ed="#P" n="5" break="no"/>lis respectu cuiusdam alterius denotaret imperfectionem 
+      <lb ed="#P" n="6"/>in eo sicut supra ostensum est de ista filius non potuit generare 
+      <lb ed="#P" n="7"/>respectu istius filius non genuit. Similiter licet de 
+      <lb ed="#P" n="8"/>us ab eterno reprobauit istum malum futurum tamen non 
+      <lb ed="#P" n="9"/>ideo iste est peccaturus et futurus impenitens: quia deus 
+      <lb ed="#P" n="10"/>eum ab eterno reprobauit: similiter non notat imi 
+      <lb ed="#P" n="11"/>fectionem in deo quod presciuit istum futurum bonum tamen 
+      <lb ed="#P" n="12"/>eius gratuite bonitati et liberalitati derogare vide 
+      <lb ed="#P" n="13"/>retur quod ideo a. sit predestinatus: quia deus presciuit ipsum 
+      <lb ed="#P" n="14"/>futurum bonum.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1535">
+      ¶ Consimiliter de non dare perseueran 
+      <lb ed="#P" n="15"/>tiam angelo primo respectu huius quod est angelum non 
+      <lb ed="#P" n="16"/>accipere.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1542">
+      ¶ Item. ad rationem potest dici quod ideo 
+      ne<lb ed="#P" n="17" break="no"/>gatur illa causalis: quia denotaret quod secundum ordinem na 
+      <lb ed="#P" n="18"/>turalis intelligentie prior esset negatio potentie in 
+      <lb ed="#P" n="19"/>deo respectu illius quam negatio possibilitatis illius fig 
+      <lb ed="#P" n="20"/>menti in se cuius oppositum est verum.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1553">
+      ¶ Item ideo ne 
+      <lb ed="#P" n="21"/>gatur illa causalis sonans imperfectionem in deo: quia 
+      ali<lb ed="#P" n="22" break="no"/>causalis propria et proxima conuenienter assignatur ex 
+      <lb ed="#P" n="23"/>naturis et rationibus propriis extremorum si illius im 
+      <lb ed="#P" n="24"/>possibilitatis sit assignanda causa et si illa causa reducend. 
+      <lb ed="#P" n="25"/>sit in deum non tamen per talem modum vt ideo .a. non possit 
+      <lb ed="#P" n="26"/>esse: quia deus non possit facere. a.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1569">
+      ¶ Ad decimum 
+      pe<lb ed="#P" n="27" break="no"/>idem licet enim deus possit assignari causa remota 
+      <lb ed="#P" n="28"/>et per accidens et indirecte illius impossibilitatis ex 
+      <lb ed="#P" n="29"/>eo quod est causa actu vel potentia illarum naturarum ex 
+      <lb ed="#P" n="30"/>formalibus rationibus repugnantium non ex hoc sequi 
+      <lb ed="#P" n="31"/>tur quod ideo .a. non posset esse: quia deus non potest facere. 
+      <lb ed="#P" n="32"/>Sed quia talia obiecta quae sunt. a. deo causaliter sunt 
+      <lb ed="#P" n="33"/>formaliter repugnantia et a deo habent quod sic repugnent 
+      <lb ed="#P" n="34"/>non autem debet assignari pro causa negatio potentie in 
+      <lb ed="#P" n="35"/>deo.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1592">
+      ¶ Ad vndecimum. et ad duodecimum per idem tamen 
+      <lb ed="#P" n="36"/>videtur inconueniens et impropria locutio dicere quod 
+      <lb ed="#P" n="37"/>ideo ch imeram impossibile est esse: quia deus est licet dei 
+      <lb ed="#P" n="38"/>esse inferat illud impossibile et licet deus sit causa essen 
+      <lb ed="#P" n="39"/>tiarum ex quarum repugnantia sequitur chimeram non 
+      po<lb ed="#P" n="40" break="no"/>se esse: quia circunscripto omni respectu ad esse dei ad 
+      <lb ed="#P" n="41"/>huc chimera non foret possibilis: sed impossibilis / nec 
+      <lb ed="#P" n="42"/>quelibet enunciatio eius quod est causa sufficiens et con 
+      <lb ed="#P" n="43"/>ueniens causalis responsio / ad interrogationem factam 
+      <lb ed="#P" n="44"/>propter quid de eo cuius est causa vt patet in 
+      superiori<lb ed="#P" n="45" break="no"/>bus. Ad probationem licet deum esse sit causa huius 
+      impo<lb ed="#P" n="46" break="no"/>sibilitatis non ex hoc sequitur quod illa causalis sit co 
+      <lb ed="#P" n="47"/>ueniens et propria: quia etiam deum esse productiuum .b. est causa 
+      <lb ed="#P" n="48"/>huius quod est .a. esse: quia est deus tamen non conueniente 
+      <lb ed="#P" n="49"/>dicitur quod ideo .a. est: quia deus potest producere .b.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1625">
+      ¶ Item 
+      <lb ed="#P" n="50"/>non vniuersaliter est verum quod prius sit causa et propter 
+      <lb ed="#P" n="51"/>quid respectu posterioris nec quod dependeat causaliter 
+      <lb ed="#P" n="52"/>quia interdum est ordo prioris et posterioris inter effect 
+      <lb ed="#P" n="53"/>et causationes passiuas.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1636">
+      ¶ Interdum etiam inter 
+      cau<lb ed="#P" n="54" break="no"/>salitates vt causalitatem finalem et effectiuam vel mati 
+      <lb ed="#P" n="55"/>rialem / vel formalem: et tamen vna vt sic non est effecti 
+      <lb ed="#P" n="56"/>alterius.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1645">
+      ¶ Ad aliud cum dicitur impossibile ideo est im 
+      <lb ed="#P" n="57"/>possibile esse: quia sibi. etc. negatur hec causalis quia idem 
+      <lb ed="#P" n="58"/>assignatur propter quid sibi ipsi / nec vnum est prius 
+      ali<lb ed="#P" n="59" break="no"/>secundum naturalem intelligentiam vel notius.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1654">
+      ¶ Ad 
+      <lb ed="#P" n="60"/>confirmationem negatur maior: quia hominem esse esset causa 
+      <lb ed="#P" n="61"/>quare impossibile est chimeram esse specialiter autem negi 
+      <lb ed="#P" n="62"/>tur maior de non proprie oppositis: sed repugnant 
+      <lb ed="#P" n="63"/>bus per accidens quomodo generaliter quodlibet post 
+      <lb ed="#P" n="64"/>sibile et necessarium repugnant cuilibet impossibili. Ad 
+      <lb ed="#P" n="65"/>confirmationem per idem.
+    </p>
+            <p xml:id="D78nca-f12127-d1e1670">
+      ¶ Ad rationem in principio qui 
+      <lb ed="#P" n="66"/>stionis potest dici quod iuxta dictum Anselmi conuenienti 
+      <!--355.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>us dicitur ideo chimeram non posse esse vel hominem 
+      <lb ed="#P" n="68"/>non posse esse asinum: quia deus non vult quam quia deus 
+      <lb ed="#P" n="69"/>non potest quia illud non sonat imperfectionem potentie 
+      <lb ed="#P" n="70"/>sed potius perfectionem autctoritatis in deo: nec etiam 
+      <lb ed="#P" n="71"/>proprie dicitur quod ideo deus non possit propter 
+      impos<lb ed="#P" n="72" break="no"/>sibilitatem obiecti tanquam impossibilitas obiecti sit 
+      cau<lb ed="#P" n="73" break="no"/>salitas respectu alicuius in deo / licet habeat aliquem 
+      <lb ed="#P" n="74"/>sensum verum iuxta supra dicta 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

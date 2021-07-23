@@ -1,0 +1,1846 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 7</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 7</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="111-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-e73000"><!-- l1d22q7 -->
+            <head xml:id="D78nca-e73000-Hd1e108">Quaestio 7</head>
+            <head xml:id="D78nca-e73000-Hd1e111" type="question-title">
+      utrum ad actus bonos voluntatis create potentia 
+      dinina prius naturaliter agat: quam voluntas creata.
+    </head>
+            <p xml:id="D78nca-e73000-d1e114">
+               <lb ed="#P" n="83"/>POstquam visum est de 
+      <lb ed="#P" n="84"/>ordine voluntatis create et vo 
+      <lb ed="#P" n="85" break="no"/>luntatis divine in causando idem 
+      <lb ed="#P" n="86"/>stando in productione libera actu 
+      <lb ed="#P" n="87"/>um voluntatis in generali. Nunc 
+      <lb ed="#P" n="88"/>querendum est in speciali de 
+      hu<lb ed="#P" n="89" break="no"/>usmodi ordine respectu actuum 
+      <lb ed="#P" n="90"/>bonorum et malorum. Et primo que 
+      <lb ed="#P" n="91"/>ro vtrum ad actus bonos voluntatis create potentia 
+      di<lb ed="#P" n="92" break="no"/>nina prius naturaliter agat: quam voluntas creata.
+    </p>
+            <p xml:id="D78nca-e73000-d1e138">
+      Quod 
+      <lb ed="#P" n="93"/>non. quia in malis actibus non prius agit: igitur nec in bo 
+      <lb ed="#P" n="94"/>nis. consequentia probatur. quia interdum sunt actus eiusdem rationis 
+      <lb ed="#P" n="95"/>imo idem nunero magis vel minus intensus vel continuatus. etc. 
+      <lb ed="#P" n="96"/>Contra. quod facit voluntatem creatam agere actus bonos et 
+      <lb ed="#P" n="97"/>nouet et excitat eam ad bene agendum / prius agit ad bonum 
+      <lb ed="#P" n="98"/>actum quam voluntas creata /
+    </p>
+            <p xml:id="D78nca-e73000-d1e154">
+      ¶ Confirmatur. secundum 
+      Ari<lb ed="#P" n="99" break="no"/>stote. in predicamentis. Eorum que conuertuntur / quod est 
+      <lb ed="#P" n="100"/>causa alteri digne prius natura dicitur. Sed deum  
+      <lb ed="#P" n="101"/>adiuuare et velle voluntatem bene agere est causa 
+      qua<lb ed="#P" n="102" break="no"/>re voluntas bene agit. igitur. Primo videbitur de quesito 
+      <lb ed="#P" n="103"/>scilicet de prioritate. Secundo / que istarum causalium 
+      <lb ed="#P" n="104"/>sit vera. ideo voluntas creata agit actum bonum. quia 
+      di<lb ed="#P" n="105" break="no"/>uina voluntas agit: vel econtra.
+    </p>
+            <p xml:id="D78nca-e73000-d1e173">
+      ¶ Ad vtramque partem 
+      <lb ed="#P" n="106"/>arguetur primo. secundo respondebitur. quia aliquae rationes pro 
+      conclusio<lb ed="#P" n="107" break="no"/>ne vera videntur applicabiles ad coclusionem in sensu 
+      <lb ed="#P" n="108"/>falso. Arguitur igitur quod voluntas diuina prius agit pri 
+      <lb ed="#P" n="109"/>mo per Augusti. 13. de ciuitate: cap. 15. Sic ad 
+      ma<lb ed="#P" n="110" break="no"/>lum quippe anime prior est voluntas eius: ad bonum 
+      ve<lb ed="#P" n="111" break="no"/>ro eius prior est voluntas creatoris eius. Item 
+      Au<lb ed="#P" n="112" break="no"/>gu. ypronosticom responsione. 3. In omni opere sancto pri 
+      <lb ed="#P" n="113"/>prest voluntas dei: posterior liberi arbitrii id est operatur 
+      <lb ed="#P" n="114"/>deus: cooperatur homo. Sequitur contra pelagium. quod si dicis vt dice 
+      <lb ed="#P" n="115"/>re consueuisti / quia ego prior volui / ideo deus voluit. iam 
+      <lb ed="#P" n="116"/>meritum ex operibus facis: et reprehendit te apostolus 
+      di<lb ed="#P" n="117" break="no"/>cens. si contra / igitur non ex operibus. Item Augustinus 
+      <lb ed="#P" n="118"/>incheridium. 23. deus nolentem preuenit vt velit: vo 
+      <lb ed="#P" n="119"/>lentem sequitur ne frustra velit. Item Augu. de prede 
+      <lb ed="#P" n="120"/>stinatione sanctorum: ad Prosperum et Hylarium: non lodeo 
+      <lb ed="#P" n="121"/>ge a principio contra pelagianos: reprehendit opini 
+      <lb ed="#P" n="122"/>onem que ponit primam fidem informationem esse ab homine 
+      <lb ed="#P" n="123"/>et secundam fidem esse a deo. hec reprobat Augu. quia 
+      <lb ed="#P" n="124"/>talis primam partem sibi tollit: sequentem autem dat deo. 
+      <lb ed="#P" n="125"/>Et in eo quod dicit esse amborum priorem se facit 
+      po<lb ed="#P" n="126" break="no"/>teriorem deum. Multe alie autctoritates possunt addue 
+      <lb ed="#P" n="127"/>ci que tanguntur .2. senten. distin. 26. et. 27. sed pro 
+      <lb ed="#P" n="128"/>nant solum quod gratia precedit actionem bonam merito 
+      <lb ed="#P" n="129"/>riam. Preterea si voluntas creata esset prior in agen 
+      <lb ed="#P" n="130"/>do bonum: igitur esset principalis et predunans et regens 
+      <!--233.xml-->
+      <pb ed="#P" n="111-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>et ducens et trahens et superior. voluntas autem diuina 
+      <lb ed="#P" n="2"/>esset causa secundaria et subfuiens et inferior et regere 
+      <lb ed="#P" n="3"/>tur et duceretur et sequeretur vt pedissequa et ancilla 
+      <lb ed="#P" n="4"/>illa preeligeret: hec consequeter consentiret. consequens est falsum 
+      <lb ed="#P" n="5"/>et inconueniens. Tum / quia hec sunt maioris dignitatis  
+      <lb ed="#P" n="6"/>Unde 1 methaphi. Sapientie est preordinare: quia prin 
+      <lb ed="#P" n="7"/>cipalior est. Tum / quia contra illud Dins regit me. Et Ro. 
+      <lb ed="#P" n="8"/>8. Qui spiritu dei aguntur. etc. Tum / quia voluntas 
+      cre<lb ed="#P" n="9" break="no"/>ata esset liberior. Tum / quia laus bene agendi magis 
+      <lb ed="#P" n="10"/>esset ascribenda voluntati create: quam deo. Preterea 
+      <lb ed="#P" n="11"/>deus mouet et facit voluntatem agere bonum: vt ostem 
+      <lb ed="#P" n="12"/>detur articulo sequenti. igitur prius agit: quia 
+      mo<lb ed="#P" n="13" break="no"/>uens est prius moto in eo secundum quod est motum. ideo magis 
+      <lb ed="#P" n="14"/>esset dicendum quod voluntas creata faceret deum agere bo 
+      <lb ed="#P" n="15"/>num quam econtra. quia causa prior et preueniens in causan 
+      <lb ed="#P" n="16"/>do potius facit causam secundam causare quam econtra 
+      <lb ed="#P" n="17"/>Preterea voluntas nostra facit potentias alias recte 
+      <lb ed="#P" n="18"/>operari: et prius agit quam ille. igitur et deus respectu vo 
+      <lb ed="#P" n="19"/>luntatis nostre. Preterea voluntas creata 
+      suscita<lb ed="#P" n="20" break="no"/>ret et excitaret diuinam ad bonos actus et inclinaret po 
+      <lb ed="#P" n="21"/>tius quam econtra. consequens est falsum. quia deus suggerit ef 
+      <lb ed="#P" n="22"/>inspirat bene agere. et dicitur inclinare corda nostra 
+      <lb ed="#P" n="23"/>et hec petimus vt inclinet et excitet corda et mentes 
+      <lb ed="#P" n="24"/>nostras. Preterea homo in resurgendo a peccato. et 
+      <lb ed="#P" n="25"/>in actu conuertendi et conterendi et penitendi 
+      preue<lb ed="#P" n="26" break="no"/>nitur a deo: igitur pari ratione in aliis actibus 
+      meri<lb ed="#P" n="27" break="no"/>toriis. Antecedens probatur. quia oppositum videtur error 
+      pe<lb ed="#P" n="28" break="no"/>lagii. Dominus enim gratiose preuenit peccantem. 
+      <lb ed="#P" n="29"/>Iob. 10. Nemo potest venire ad me: nisi pater meus tra 
+      <lb ed="#P" n="30"/>xerit eum. Preterea. quod etiam speciali aurilio et 
+      influ<lb ed="#P" n="31" break="no"/>entia preuenit in actibus bonis. Probo. quia alioquin 
+      <lb ed="#P" n="32"/>sequeretur quod deus non aliter concurreret ad actus 
+      <lb ed="#P" n="33"/>bonos quam malos: et quam ad effectus causarum naturalii 
+      <lb ed="#P" n="34"/>consequens est falsum. quia non magis esset deo attribuendum 
+      <lb ed="#P" n="35"/>et ascribendum bonum quam malum. quia non aliter esset 
+      cau<lb ed="#P" n="36" break="no"/>sa huius quam illius. et quia homo posset ex puris natura 
+      <lb ed="#P" n="37"/>libus vere agere. sicut ignis calefacere. et quia talem pre 
+      <lb ed="#P" n="38"/>uentionem ad bene agendum petimus in orationibus 
+      <lb ed="#P" n="39"/>dicentes Actiones nostras quesumus domine 
+      aspiran<lb ed="#P" n="40" break="no"/>do preueni. Et iterum. Gratia tua domine semper nos pre 
+      <lb ed="#P" n="41"/>ueniat. etc. Frustra autem oraremus pro influentia gene 
+      <lb ed="#P" n="42"/>rali: vt pro ortu solis crastino. Preterea. potest preueni 
+      <lb ed="#P" n="43"/>re / igitur preuenit. quia non apparet ratio differentie nunc 
+      <lb ed="#P" n="44"/>et tunc. Preterea. preueniebat voluntatem christi in 
+      agen<lb ed="#P" n="45" break="no"/>do. igitur et aliorum iustorum. quia voluntas aliorum non est 
+      <lb ed="#P" n="46"/>potentior et liberior ad bonum quam voluntas anime christi 
+      <lb ed="#P" n="47"/>antecedens probatur. Tum / quia aliter christus posset peccare. Tum 
+      <lb ed="#P" n="48"/>quia Ioh. 12. Ex meipso non sum locutus: sed qui misit 
+      <lb ed="#P" n="49"/>etc. Et Ioh. 5. Non possum a meipso facere quicquam 
+      <lb ed="#P" n="50"/>sed sicut audio iudico. In oppositum arguitur. Primo 
+      <lb ed="#P" n="51"/>per Criso. super epistolam ad Hebreos: sermodoe. 12. 
+      <lb ed="#P" n="52"/>vt allegatur questione precedenti. Iterum super illud Ie 
+      <lb ed="#P" n="53"/>ham i. Uidens eos sequentes se. Omel. 18. Hinc erud 
+      <lb ed="#P" n="54"/>mur quia non preuenit voluntates nostras deus donis 
+      <lb ed="#P" n="55"/>sed cum nos inceperimus et cum ipsi velle tribuerimus 
+      <lb ed="#P" n="56"/>tunc ipse multas dat nobis salutis actiones. Item 
+      <lb ed="#P" n="57"/>super illud Mar. 19. Qui potest capere capiat. Cri 
+      <lb ed="#P" n="58"/>sosto. omel. 24. Quod autem volentibus gratia non deno 
+      <lb ed="#P" n="59"/>gatur dominus in euangelio ostendit di. Lu. 11. Petite / et dabi 
+      <lb ed="#P" n="60"/>tur: querite / etc. Debet autem voluntas precedere et si 
+      <lb ed="#P" n="61"/>sequitur gratia. Et similem sententiam omel. 10. super il 
+      <lb ed="#P" n="62"/>lud Matth. 7. Petite et dabitur vobis. Secunde 
+      <lb ed="#P" n="63"/>principaliter in actibus malis non prius agit deus 
+      <lb ed="#P" n="64"/>igitur nec in bonis. consequentia probatur. quia sunt eiusdem ratio 
+      <lb ed="#P" n="65"/>ni s interdum quo ad omnem realitatem per se 
+      causabi<lb ed="#P" n="66" break="no"/>lem: vel etiam interdum idem numero magis continuatus 
+      <!--233.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>2 ertio sequitur quod deus prius non ageret quam voluntas 
+      <lb ed="#P" n="68"/>no n ageret respectu actus boni. consequens est falsum 
+      <lb ed="#P" n="69"/>quia omissio actus boni debiti esset prius et magis im 
+      <lb ed="#P" n="70"/>pu tanda et ascribenda deo. quia deus prius desereret ho 
+      <lb ed="#P" n="71"/>mi nem: quam homo deum. consequentia probatur. quia priuatio et 
+      ab<lb ed="#P" n="72" break="no"/>se ntia prioris est prior priuatione posterioris. 
+      Si<lb ed="#P" n="73" break="no"/>cut enim positio causalitatis huius ad positionem illius 
+      <lb ed="#P" n="74"/>sic priuatio ad priuationem. Quarto per illud 
+      psal<lb ed="#P" n="75" break="no"/>mi. Preueni in maturitate et clamaui. Et iterum. Ora 
+      <lb ed="#P" n="76"/>tio mea preueniet te. Et iterum. Preuenerunt oculf 
+      <lb ed="#P" n="77"/>mei ad te dilu culo. et iterum. Preoccupemus faciem eius 
+      <lb ed="#P" n="78"/>etc.
+    </p>
+            <p xml:id="D78nca-e73000-d1e410">
+      ¶ Responsio.
+    </p>
+            <p xml:id="D78nca-e73000-d1e413">
+      ¶ Septem modis potest intelligi deum prius 
+      <lb ed="#P" n="79"/>causare et voluntatem creatam naturaliter preuenire 
+      <lb ed="#P" n="80"/>in causando actus bonos: quorum duo sunt falsi: et 
+      <lb ed="#P" n="81"/>quinque sunt veri. Primo igitur modo per huiusmodi priori 
+      <lb ed="#P" n="82"/>tatem et preuentionem causalem potest intelligi aliqua 
+      <lb ed="#P" n="83"/>specialis causalitas diuina effectiua: cuius per se et 
+      <lb ed="#P" n="84"/>immediatus terminus per modum causati correspondentis 
+      <lb ed="#P" n="85"/>sit aliquo motio passiua voluntatis secundum aliquam formam aliam 
+      <lb ed="#P" n="86"/>ab habitu gratie et ab actu volendi: qui est effectus commnis 
+      <lb ed="#P" n="87"/>deo et voluntati. et sic non vniversaliter in actibus bonis et 
+      me<lb ed="#P" n="88" break="no"/>ritoriis deus prius agit et preuenit. vt probatur 
+      que<lb ed="#P" n="89" break="no"/>stione precedenti: et probabitur vlterius in articulo 
+      se<lb ed="#P" n="90" break="no"/>quenti.
+    </p>
+            <p xml:id="D78nca-e73000-d1e442">
+      ¶ Secundo modo. quod in aliquo signo nature tamquam 
+      <lb ed="#P" n="91"/>in quadam mensura ordinis naturalis deus agit et vo 
+      <lb ed="#P" n="92"/>luntas non agit: et in quodam alio signo nature poste 
+      <lb ed="#P" n="93"/>riori tanquam in quadam mensura extrinseca: actuali / vel 
+      <lb ed="#P" n="94"/>potentiali / vel ymaginaria / voluntas et deus simul agant 
+      <lb ed="#P" n="95"/>proportionabiliter sicut de priori et posteriori secundum durati 
+      <lb ed="#P" n="96"/>onem. et sic negatur quod deus prius agat aut in agendo 
+      praeue<lb ed="#P" n="97" break="no"/>niat. quia hec prioritas non est ymaginanda per 
+      habi<lb ed="#P" n="98" break="no"/>tudinem ad huiusmodi mensuras. sicut nec prioritas 
+      perfe<lb ed="#P" n="99" break="no"/>ctionis sed aliis quinque modis verum est deum prius 
+      <lb ed="#P" n="100"/>causare et preuenire. Primus modus est vt per huiusmodt 
+      <lb ed="#P" n="101"/>prioritatem intelligatur independentia et sufficientia 
+      <lb ed="#P" n="102"/>causandi: et ex parte voluntatis dependentia et insuf 
+      <lb ed="#P" n="103"/>ficientia et indigentia seu necessaria exigentia. Secun 
+      <lb ed="#P" n="104"/>do modo quod antecedenter dedit voluntatem ad vsum et ex 
+      <lb ed="#P" n="105"/>ercitium bonorumactuum: et ad hoc eanordinauit. et antecedenter 
+      <lb ed="#P" n="106"/>dedit praecepta incitatiua: et antecedenter quantum est ex se 
+      <lb ed="#P" n="107"/>est paratus et expositus agere ad illos. quasi antecedenr of 
+      <lb ed="#P" n="108"/>ferens et incitans vel inuitans. Tertio modo. deus prius 
+      <lb ed="#P" n="109"/>agit ad actus bonos: quia prius se solo dedit nonsolum 
+      <lb ed="#P" n="110"/>voluntatem que est principium agendi: nec solum conset 
+      <lb ed="#P" n="111"/>uat eam in esse continue per causalitatem effectiuam 
+      per<lb ed="#P" n="112" break="no"/>manentem: sed etiam prius se solo dedit charitatem quae est prin 
+      <lb ed="#P" n="113"/>cipium supernaturale actus boni: vt boni: et tam 
+      bo<lb ed="#P" n="114" break="no"/>nitatem quam charitatem dedit et ordinauit antecedenter 
+      <lb ed="#P" n="115"/>ad bonorum actuum vsum.
+    </p>
+            <p xml:id="D78nca-e73000-d1e499">
+      ¶ Quarto modo. quia 
+      pre<lb ed="#P" n="116" break="no"/>ter charitatem preexistentem frequenter prius mouet / in 
+      <lb ed="#P" n="117"/>clinati / et incitat causando prius in anima vel corpore 
+      <lb ed="#P" n="118"/>aliquod dispositiuum et inclinatiuum et excitatiuum ad 
+      <lb ed="#P" n="119"/>bonum: vel aliquam occasionem bene agendi: administram 
+      <lb ed="#P" n="120"/>do extrinsecus vel intrinsecus. Sicut malignus spi 
+      <lb ed="#P" n="121"/>ritus dicitur interdum tentare incitando / inclinando / allici 
+      <lb ed="#P" n="122"/>endo ad malum: et administrando aliquam occasionem 
+      <lb ed="#P" n="123"/>mali.
+    </p>
+            <p xml:id="D78nca-e73000-d1e519">
+      ¶ Quinto dicitur deus prius agere ad nostras acti 
+      <lb ed="#P" n="124"/>ones bonas: quia voluntas nostra bene agit per praesup 
+      <lb ed="#P" n="125"/>positionem divine causalitatis et motionis non solum 
+      <lb ed="#P" n="126"/>in se / sed est in aliqua antecedente noticia / et dilectione / et 
+      <lb ed="#P" n="127"/>ordinatione imperatoria. Ad bonum enim actum 
+      praesup<lb ed="#P" n="128" break="no"/>ponitur non solum causalitas diuina in se formaliter 
+      <lb ed="#P" n="129"/>ed etiam presupponitur actualis vel habitualis noti 
+      <lb ed="#P" n="130"/>cia dei et mandatorum eius: et actualis vel habitualis 
+      <lb ed="#P" n="131"/>dilectio vel timor dei. Si igitur dominus imperans vel amicus 
+      <lb ed="#P" n="132"/>cuius amore aliquid agimns / dicitur primus motor ad hu 
+      <!--234.xml-->
+      <pb ed="#P" n="112-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>iusmodi actiones: ita de deo. maxime quia deus non 
+      so<lb ed="#P" n="2" break="no"/>lum in huiusmodi noticia vel dilectione vel praeordinatione mouet 
+      <lb ed="#P" n="3"/>et agit: sed etiam in se formaliter est prius in causando per se in 
+      <lb ed="#P" n="4"/>dependenter. Item. in hoc etiam mouet primo vt finis 
+      <lb ed="#P" n="5"/>qui est primus et principalis in intentione actuali vel ha 
+      <lb ed="#P" n="6"/>bituali. In hoc igitur multiplici intellectu conceditur 
+      <lb ed="#P" n="7"/>quod deus prius causat et preuenit voluntatem nostram in 
+      <lb ed="#P" n="8"/>actibus bonis.
+    </p>
+            <p xml:id="D78nca-e73000-d1e566">
+      ¶ Ad primum igitur in oppositum 
+      Cri<lb ed="#P" n="9" break="no"/>sosto. intendit quod deus comni lege non dat adultis grati 
+      <lb ed="#P" n="10"/>am iustificantem et gratum facientem: nisi in illis 
+      preces<lb ed="#P" n="11" break="no"/>serit aliqua actio libera aliquo modo bona 
+      morali<lb ed="#P" n="12" break="no"/>ter per modum dispositionis meritorie de congruo: et 
+      <lb ed="#P" n="13"/>quod talis adultus per modum liberi arbitrii bene vtatur 
+      <lb ed="#P" n="14"/>naturalibus: faciendo quod in se est secundum influentiam 
+      <lb ed="#P" n="15"/>generalem. Intendit etiam quod deus non preuenit per 
+      mo<lb ed="#P" n="16" break="no"/>dum cause totalis aut cogentis aut necessitantis volutatem 
+      <lb ed="#P" n="17"/>respectu actuum bonorum.
+    </p>
+            <p xml:id="D78nca-e73000-d1e588">
+      ¶ Ad secundum. licet antecedens in 
+      <lb ed="#P" n="18"/>quodam sensu sit falsum: negatur tamen conequentia. Ad proba 
+      <lb ed="#P" n="19"/>tionem. Le illi actus interdum sunt eiusdem rationis 
+      <lb ed="#P" n="20"/>secundum re alitates phisicas: non tamen probatur consequentia. quia 
+      mul<lb ed="#P" n="21" break="no"/>te / circumstantie et differentie concurrunt antecedenter et 
+      <lb ed="#P" n="22"/>cocomitantur in actione bona: que non in mala. pro 
+      <lb ed="#P" n="23"/>pter quas non sic preuenit deus in malis / sicut in bo 
+      <lb ed="#P" n="24"/>nis. vt declarabitur questione sequenti.
+    </p>
+            <p xml:id="D78nca-e73000-d1e606">
+      ¶ Ad tertium 
+      <lb ed="#P" n="25"/>negatur consequentia specialiter in causis liberis. quando ex 
+      par<lb ed="#P" n="26" break="no"/>te prioris non stat quin ponatur habitus. sed ipsum pr 
+      <lb ed="#P" n="27"/>us quantum est ex se paratum est ad ponendum habitum 
+      <lb ed="#P" n="28"/>sed ex parte posterioris stat ratione sue libertatis  
+      <lb ed="#P" n="29"/>quod non ponatur habitus oppositus. De hoc magis 
+      ar<lb ed="#P" n="30" break="no"/>ticulo sequenti.
+    </p>
+            <p xml:id="D78nca-e73000-d1e622">
+      ¶ Ad quartum. Psalmista non diciut 
+      <lb ed="#P" n="31"/>se preuenire deum et dei causalitatem et auxilium simpliciter: 
+      <lb ed="#P" n="32"/>sed preue nit horam communem: et prius accedit quam soleant 
+      <lb ed="#P" n="33"/>communiter homines ad deum accedere. vel intelligitur 
+      preuen<lb ed="#P" n="34" break="no"/>tio orationis respectu aliorum negociorum et operum 
+      ter<lb ed="#P" n="35" break="no"/>renorum. Prius enim seruiebat deo in orationibus: quam 
+      <lb ed="#P" n="36"/>vacaret temporalibus. Illa etiam preoccupatio 
+      intel<lb ed="#P" n="37" break="no"/>igitur respectu punitionis: vt scilicet confiteamur et 
+      ve<lb ed="#P" n="38" break="no"/>niam postulemus priusquam puniat. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e642">
+               <lb ed="#P" n="39"/>¶ An ideo voluntas 
+      <lb ed="#P" n="40"/>Secuudus aritulub. agit b / actum bo 
+      <lb ed="#P" n="41"/>num / quia deus agit ad illum: vel econtra.
+    </p>
+            <p xml:id="D78nca-e73000-d1e651">
+      ¶ Primo a 
+      <lb ed="#P" n="42"/>guitur ad vtramque partem. Secundo respondebitur. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e657">
+               <lb ed="#P" n="43"/>¶ Quo ad primum arguitur quod ideo voluntas creata 
+      <lb ed="#P" n="44"/>agit actum bonum: quia deus agit non econtra. Et ad 
+      <lb ed="#P" n="45"/>hec possunt adduci multa tacta in hac conclusione 
+      <lb ed="#P" n="46"/>et questione precedenti. Sed ad presens arguitur primo 
+      <lb ed="#P" n="47"/>Ita est de bono perseuerantie: igitur pari ratione de 
+      <lb ed="#P" n="48"/>bono actionis. Antecedens probatur per Ansel. de casu dia 
+      <lb ed="#P" n="49"/>boli: ca. 3. Ideo angelus bonus perseuerantiam 
+      acce<lb ed="#P" n="50" break="no"/>pit et habuit / quia deus dedit: non econtra. Preterea 
+      <lb ed="#P" n="51"/>Augu. de perfectione iusticie. et ponitur. 2. senten. 
+      dis<lb ed="#P" n="52" break="no"/>26. ca 1. Non ideo miseretur deus alicuius quia 
+      volu<lb ed="#P" n="53" break="no"/>it et concurrit: sed ideo voluit et concurrit: quia misertus 
+      <lb ed="#P" n="54"/>est deus. Paratur enim voluntas hoinis a deo et a domino 
+      <lb ed="#P" n="55"/>gressus hominis diriguntur. Preterea non ideo deus ab 
+      <lb ed="#P" n="56"/>eterno voluit hunc bane victurum et saluandum / quia iste erat ben 
+      <lb ed="#P" n="57"/>victurus et saluandus: sed econtra. quia similiter de praesenti. Antecedens 
+      <lb ed="#P" n="58"/>pabtet. quia merita futura non erant ratio: et propter quid pre 
+      <lb ed="#P" n="59"/>destinationis. Preterea. quod agitur et ducitur a deo 
+      <lb ed="#P" n="60"/>ad bene agendum: immo nec agit recte nisi agatur et du 
+      <lb ed="#P" n="61"/>catur et moueatur a deo ad recte agendum: ideo banen agit 
+      <lb ed="#P" n="62"/>quia deus agit. Sic est non enim minus regitur et ducitur 
+      <lb ed="#P" n="63"/>voluntas nostra a deo ad bene operandum: quam 
+      poten<lb ed="#P" n="64" break="no"/>tie exteriores a voluntate. Et Rom. 8. Qui spum deui 
+      <lb ed="#P" n="65"/>aguntur. etc. Preterea. illa voluntas ideo recte agit / 
+      <lb ed="#P" n="66"/>quia deus mouet et agit: quam voluntatem deus mouet et 
+      <!--234.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>facit recte agere: et que voluntas non recte agit nisi 
+      <lb ed="#P" n="68"/>deus faciat eam recte agere. Sed voluntas nostra est 
+      <lb ed="#P" n="69"/>huiusmodi. igitur. Maior patet. quia facere / notat causalitatem 
+      <lb ed="#P" n="70"/>aliquam. igitur si facit recte agere / sequitur quod habet ali 
+      <lb ed="#P" n="71"/>quam causalitatem. et propter quid respectu huius quod 
+      <lb ed="#P" n="72"/>est voluntatem recte agere. Patet iterum. quia si quis 
+      <lb ed="#P" n="73"/>faciat mefacere b. et queritur a me quare ago b. re 
+      <lb ed="#P" n="74"/>spondeo: quia ille facit me agere vel facere. Minor 
+      <lb ed="#P" n="75"/>probatur multipliciter. Primo / quia vt supra 
+      volun<lb ed="#P" n="76" break="no"/>tas facit alias potentias sibi subiectas et obedientes 
+      <lb ed="#P" n="77"/>Iterum deus vult voluntatem recte agere. igitur facit vo 
+      <lb ed="#P" n="78"/>luntatem recte agere. quia idem est aliquid esse deo 
+      vo<lb ed="#P" n="79" break="no"/>lente quod deo agente: secundum Augu. Iterum voluntas 
+      no<lb ed="#P" n="80" break="no"/>uiter haberet aliquam conditionem perfectionis et lau 
+      <lb ed="#P" n="81"/>dabilem quam non acciperet a deo causaliter. Iterum peti 
+      <lb ed="#P" n="82"/>mus in oratione quod faciat nobis bene velle et banen age 
+      <lb ed="#P" n="83"/>re: et excitet nos ad bene agendum. Iterum Augustinus 
+      <lb ed="#P" n="84"/>de predestinatione sanctorum: circa medium sic ait. Bo 
+      <lb ed="#P" n="85"/>na opera ideo nobis praecipiuntur / et dona dei esse 
+      modo<lb ed="#P" n="86" break="no"/>strantur vt intelligatur quod et nos ea facimus et deo 
+      <lb ed="#P" n="87"/>facit / vt illa faciamus. Sicut per Ezechielem prophetam 
+      <lb ed="#P" n="88"/>apertissime dicit. Ego faciam: vt faciatis. Sequitur 
+      <lb ed="#P" n="89"/>Ostendit deus se reddere hominibus bona pro malis: cum 
+      <lb ed="#P" n="90"/>ipse facit vt faciant diuina mandata. Iterum in eodem 
+      <lb ed="#P" n="91"/>libro. Et si homines faciant ea quae pertinent ad colendum 
+      <lb ed="#P" n="92"/>deum: ipse facit vt illi faciant que precepit: non illi 
+      fa<lb ed="#P" n="93" break="no"/>ciunt vt ipse faciat que promisit. Iterum Augu. de 
+      ve<lb ed="#P" n="94" break="no"/>ra innocentia. Quotiens bona agimus deus in nobis 
+      <lb ed="#P" n="95"/>et nobiscum: vt operemur / operatur. Et in eodem libro. 
+      <lb ed="#P" n="96"/>Multa facit deus in homine bona: quae non facit homo. 
+      <lb ed="#P" n="97"/>Nulla autem homo facit / que deus non facit: vt 
+      faci<lb ed="#P" n="98" break="no"/>at homo. Iterum Augu. de gram. et libe. arbi. vltra me 
+      <lb ed="#P" n="99"/>dium. Ille facit vt velimus bonum: de quo dictum est 
+      <lb ed="#P" n="100"/>Deus est qui operatur in nobis velle et perficere. 
+      <lb ed="#P" n="101"/>Certum est enim nos facere cum facimus. Sed ille facit vt 
+      <lb ed="#P" n="102"/>faciamus prebendo vires efficacissimas voluntati: quia 
+      <lb ed="#P" n="103"/>dicit / Faciam: vt in iustificationibus meis ambuletis. 
+      <lb ed="#P" n="104"/>Iterum super illud Rom. 8. Spositus postulat 
+      prono<lb ed="#P" n="105" break="no"/>bis gentibus. etc. Slo. Postulare et gemere nos fa 
+      <lb ed="#P" n="106"/>cit. et multa huiusmodi inueniuntur dicta a sanctins: et ex his conclu 
+      <lb ed="#P" n="107"/>ditur quod voluntatem bne causare est effectus dei prior et di 
+      <lb ed="#P" n="108"/>stinctus ab actu volendi elicito. Probo. quia talis actus 
+      <lb ed="#P" n="109"/>volendi elicitur a voluntate et deo: siue sit malus / siue 
+      <lb ed="#P" n="110"/>bonus: siue indifferens. Sed deus non facit 
+      volunta<lb ed="#P" n="111" break="no"/>tem facere nisi respectu actus boni. Iterum. Quic 
+      <lb ed="#P" n="112"/>quid deus facit causat effectiue: quia facere est 
+      effi<lb ed="#P" n="113" break="no"/>cere. Iterum. propter quid et causa sunt idem: igitur illud 
+      <lb ed="#P" n="114"/>est causa quod respondetur ad questionem propter quid 
+      <lb ed="#P" n="115"/>voluntas agit. In oppositum.
+    </p>
+            <p xml:id="D78nca-e73000-d1e822">
+      ¶ Sequitur quod ideo volun 
+      <lb ed="#P" n="116"/>tas non agit b / actum rectum et debitum: quia deus non 
+      <lb ed="#P" n="117"/>agit. consequentia probatur. quia. 1 posteriorum. Si affirmatio est 
+      <lb ed="#P" n="118"/>causa affirmationis / et negatio negationis. Falsitas 
+      <lb ed="#P" n="119"/>consequentis probatur. primo: quia si ideo voluntas 
+      <lb ed="#P" n="120"/>non bene agit / quia deus non influit nec vult influere 
+      <lb ed="#P" n="121"/>et coagere. igitur voluntas non peccat omittendo actum 
+      <lb ed="#P" n="122"/>precepti. Probatur. voluntas respectu illius 
+      omissi<lb ed="#P" n="123" break="no"/>onis est sufficienter excusata: respectu cuius habet cui 
+      <lb ed="#P" n="124"/>seu propter quid verum et iustum et rationabile sic erit. quia 
+      <lb ed="#P" n="125"/>si queritur quare non agit b / conuenienter respondetur 
+      <lb ed="#P" n="126"/>quia deus non influit nec voluit coagere. Secundo. omis 
+      <lb ed="#P" n="127"/>sio seu priuatio illius actus non imputatur deo ad cul 
+      <lb ed="#P" n="128"/>pam: igitur nec voluntati create. consequentia probatur. quia illa pri 
+      <lb ed="#P" n="129"/>uatio magis attribuenda et ascribenda esset deo cau 
+      <lb ed="#P" n="130"/>saliter et prius et principalius quam voluntati create: et 
+      <lb ed="#P" n="131"/>magis referenda in deum vt in causam.
+    </p>
+            <p xml:id="D78nca-e73000-d1e859">
+      ¶ Tertio. quia 
+      in<lb ed="#P" n="132" break="no"/>fluentia dei parata et exposita erat: quia non subtra 
+      <!--235.xml-->
+      <pb ed="#P" n="112-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>hit influentiam ad bene agendum ante culpam hominis 
+      <lb ed="#P" n="2"/>Pone autem quod sit primum peccatum alicuius preexistem 
+      <lb ed="#P" n="3"/>tis in gratia. igitur non ideo sortes omittit: quia deus 
+      pri<lb ed="#P" n="4" break="no"/>us non vellet influere.
+    </p>
+            <p xml:id="D78nca-e73000-d1e879">
+      ¶ Quarto. homo prius desere 
+      <lb ed="#P" n="5"/>retur a deo: quam desereret deum.
+    </p>
+            <p xml:id="D78nca-e73000-d1e884">
+      ¶ Quinto. per 
+      An<lb ed="#P" n="6" break="no"/>selmum de casu diaboli: ca. 3. Non ideo primus angelus 
+      <lb ed="#P" n="7"/>non habuit perseuerantiam quia deus non dedit cum 
+      de<lb ed="#P" n="8" break="no"/>us offerret eam: et exponeret influentiam generalem. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e893">
+               <lb ed="#P" n="9"/>¶ Sexto: quia cum nulla res creata sit causa et 
+      pro<lb ed="#P" n="10" break="no"/>pter quid respectu causalitatis vel volitionis 
+      diui<lb ed="#P" n="11" break="no"/>ne: igitur multominus priuatio.
+    </p>
+            <p xml:id="D78nca-e73000-d1e903">
+      ¶ Respondeo. Si per 
+      <lb ed="#P" n="12"/>istam causalem ideo voluntas agit bene vel bonum: quia 
+      <lb ed="#P" n="13"/>deus agit: notetur per se ordo dei et voluntatis secundum pri 
+      <lb ed="#P" n="14"/>us et posterius in causando actum bonum: et ex par 
+      <lb ed="#P" n="15"/>te dei notetur in causando prioritas et independentia 
+      <lb ed="#P" n="16"/>et sufficientia: et ex parte voluntatis notetur insufficien 
+      <lb ed="#P" n="17"/>tia / posterioritas / et dependentia / et indigentia. 
+      conce<lb ed="#P" n="18" break="no"/>ditur. et quod talis propositio causalis notet interdum non 
+      <lb ed="#P" n="19"/>solum ordinem et habitudinem cause ad causatum: sed ef 
+      <lb ed="#P" n="20"/>causarum inter se in causando. vt declaratum est que 
+      <lb ed="#P" n="21"/>stione precedenti. Et interdum quia talis dispositio 
+      no<lb ed="#P" n="22" break="no"/>tat ordinem effectuum in causari: vt ideo talis forma 
+      <lb ed="#P" n="23"/>introducitur / quia talis dispositio precedit. Et ideo sor 
+      <lb ed="#P" n="24"/>tes habebit gloriam: quia habet gratiam. Item. Si per 
+      <lb ed="#P" n="25"/>huiusmodi causalem notetur diuina preordinatio 
+      antece<lb ed="#P" n="26" break="no"/>denter obligans et excitans: quomodo dicunt subditi / ideo 
+      <lb ed="#P" n="27"/>facimus hoc / quia rex vult et ordinat hoc fieri 
+      conce<lb ed="#P" n="28" break="no"/>ditur. Item. Si notetur antecedens causalitas alicuius 
+      princi<lb ed="#P" n="29" break="no"/>pii motiui vel inclinatiui vel dispositiui tanquam auxilit 
+      <lb ed="#P" n="30"/>diuini specialis et supernaturalis: sic conceditur quod 
+      <lb ed="#P" n="31"/>charitas precedit: et frequenter aliquod speciale au 
+      <lb ed="#P" n="32"/>xilium. Item. si notetur causalitas diuina antecedens 
+      <lb ed="#P" n="33"/>non solum in se formaliter sed etiam in sui noticia et dile 
+      <lb ed="#P" n="34"/>ctione vel timore: sic adhuc conceditur. Causalitas 
+      <lb ed="#P" n="35"/>enim sufficiens et conueniens noticie vel amori vel timo 
+      <lb ed="#P" n="36"/>ri alicuius obiecti: interdum attribuitur illi obiecto: 
+      <lb ed="#P" n="37"/>vt obiectum dicatur facere illud quod eius amor facit. 
+      <lb ed="#P" n="38"/>Si vero per huiusmodi causalitatem notetur aliqua causa 
+      <lb ed="#P" n="39"/>litas diuina effectiua: cuius per se et immediatus 
+      ter<lb ed="#P" n="40" break="no"/>minus per modum causati sit voluntatem agere tamquam effe 
+      <lb ed="#P" n="41"/>ctus noui distincti ab habitu gratie et actu volendi: sic 
+      <lb ed="#P" n="42"/>negatur. vt probatum est questione precedenti. Et 
+      confira<lb ed="#P" n="43" break="no"/>matur. quia illud causatum non esset habitus. quia sufficit 
+      <lb ed="#P" n="44"/>habitus gratie nec actus. quia non necesse est 
+      volunta<lb ed="#P" n="45" break="no"/>tem habere semper duos actus: cum bene vult. Si dica 
+      <lb ed="#P" n="46"/>tur quod illud causatum est res relatiua de genere 
+      actio<lb ed="#P" n="47" break="no"/>nis.
+    </p>
+            <p xml:id="D78nca-e73000-d1e984">
+      ¶ Contra. Sequitur quod talis preuentio secundum quam 
+      <lb ed="#P" n="48"/>deus preuenit in bonis: et secundum quam deus facit volun 
+      <lb ed="#P" n="49"/>tatem agere bonum non erit specialis influentia 
+      effe<lb ed="#P" n="50" break="no"/>ctiua: nec speciale auxilium. et sequitur quod equaliter pre 
+      <lb ed="#P" n="51"/>uenit deus in malis et in actionibus naturalibus: et 
+      <lb ed="#P" n="52"/>facit facere sicut in bonis. consequens est falsum. quia talis cau 
+      <lb ed="#P" n="53"/>salitas preueniens que explicatur per hoc quod dicimus 
+      <lb ed="#P" n="54"/>ideo voluntas agit: quia deus agit. et dicendo deus fa 
+      <lb ed="#P" n="55"/>cit voluntatem agere / non est nisi respectu bonorum: 
+      <lb ed="#P" n="56"/>non malorum. consequentia probatur. quia talis res relatiua aut 
+      <lb ed="#P" n="57"/>non necessario ponitur / aut ponenda est in omni effectu 
+      <lb ed="#P" n="58"/>respectu sue cause. Rationes enim quibus arguitur 
+      <lb ed="#P" n="59"/>non sufficere res absolutas / eque concludunt in effe 
+      <lb ed="#P" n="60"/>ctu malo vel naturali.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1015">
+      ¶ Confirmatur. Preuenire vo 
+      <lb ed="#P" n="61"/>luntatem et facere eam agere magis conueniret cause 
+      se<lb ed="#P" n="62" break="no"/>cunde quam prime. quia si preter res absolutas necesse sit 
+      <lb ed="#P" n="63"/>ponere rem relatiuam mediatam: maxime necesse erit 
+      <lb ed="#P" n="64"/>ponere illam in agente creato: vel in effectu vel passo 
+      <lb ed="#P" n="65"/>relato ad agens creatum. Probatio. quia potius moti 
+      <lb ed="#P" n="66"/>uum ponendi huiusmodi relatiuum actionis preter absoluta 
+      <!--235.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>est. quia idem vel omnino similis effectus qui est ab hoc actu 
+      <lb ed="#P" n="68"/>uo creato in hoc passo posset et iam a solo deo esse 
+      <lb ed="#P" n="69"/>presente actiuo creato. et ita potest esse et non esse 
+      ab<lb ed="#P" n="70" break="no"/>actiuo creato presente. non autem potest esse quin a deo 
+      <lb ed="#P" n="71"/>sit. Item. respectus secundum quem deus facit voluntatem face 
+      <lb ed="#P" n="72"/>re et secundum quem preuenit in causando voluntatem est 
+      re<lb ed="#P" n="73" break="no"/>spectus et ordo causarum effectiuarum inter se in cau 
+      <lb ed="#P" n="74"/>ando. Sed illa res relatiua que est actio non est re 
+      <lb ed="#P" n="75"/>spectus causarum effectiuarum secundum ordinem causandi ef 
+      <lb ed="#P" n="76"/>fectum: sed est per se respectus actiui ad terminum qui 
+      <lb ed="#P" n="77"/>igitur vel ad passum in quod agitur. Item. siue tale can 
+      <lb ed="#P" n="78"/>satum precedens naturaliter actum volendi sit res 
+      re<lb ed="#P" n="79" break="no"/>latiua siue forma absoluta dicatur a / aut igitur est a / 
+      to<lb ed="#P" n="80" break="no"/>taliter a solo deo: aut a deo et voluntate. Si primum 
+      <lb ed="#P" n="81"/>igitur voluntas necessitatur ad bene agendum: nec erit 
+      <lb ed="#P" n="82"/>libera in agendo: et secundum quod agens. quia voluntas non se 
+      <lb ed="#P" n="83"/>habet libere in eo respectu cuius se habet pure pas 
+      <lb ed="#P" n="84"/>siue. Et quia voluntatem agere erit per se effectus 
+      praeue<lb ed="#P" n="85" break="no"/>niens causalitatem voluntatis. sed effectus non habet 
+      <lb ed="#P" n="86"/>formaliter libertatem: licet ab alio libere producatur. 
+      vi<lb ed="#P" n="87" break="no"/>detur etiam oppositio in adiecto quod voluntas sit agens 
+      <lb ed="#P" n="88"/>a solo deo: et quod voluntas secundum quod agens se habeat 
+      pu<lb ed="#P" n="89" break="no"/>re passiue. Si secundum / aut igitur ideo voluntas agit 
+      <lb ed="#P" n="90"/>et causat a / quia deus preagit per causalitatem effecti 
+      <lb ed="#P" n="91"/>uam preuenientem qua faciat voluntatem agere: et erit 
+      pro<lb ed="#P" n="92" break="no"/>cessus in infinitum in causalitatibus. Aut non / igitur pa 
+      <lb ed="#P" n="93"/>ri ratione ideo voluntas agit b / actum volendi / quia deus 
+      <lb ed="#P" n="94"/>agit. et tamen non oportet ponere causalitatem diuinam 
+      <lb ed="#P" n="95"/>effectiuam priorem: cuius terminus sit voluntatem agere 
+      <lb ed="#P" n="96"/>b. Et iterum. Si detur secundum / aut igitur deus concur 
+      <lb ed="#P" n="97"/>rit ad a / generali influentia: aut speciali. Si primum 
+      <lb ed="#P" n="98"/>igitur sine preuentione que sit specialis influentia et spe 
+      <lb ed="#P" n="99"/>cialis causalitas effectiua noua / producitur actus vo 
+      <lb ed="#P" n="100"/>lendi a deo et voluntate. Si secundum / igitur voluntas ad 
+      <lb ed="#P" n="101"/>causandum a / preuenitur speciali causalitate et auxilio 
+      <lb ed="#P" n="102"/>per quod deus facit voluntatem facere a. igitur erit alius 
+      <lb ed="#P" n="103"/>effectus prior ipso a / in infinitum. Item. aut huiusmodi 
+      pre<lb ed="#P" n="104" break="no"/>uentio que sit specialis causalitas effectima terminata ad 
+      <lb ed="#P" n="105"/>voluntatem agere requiritur ad substantiam actus volen 
+      <lb ed="#P" n="106"/>di ponendam in esse. Aut ad hoc quod actus sit bonus. 
+      <lb ed="#P" n="107"/>Non primum / quia etiam sine gratia possit produci simil 
+      <lb ed="#P" n="108"/>actus secundum entitatem naturalem et phisicam. Nec secundum 
+      <lb ed="#P" n="109"/>quia deus sine tali speciali causalitate effectiua potest 
+      <lb ed="#P" n="110"/>ictum productum a voluntate habente causalitatem 
+      ac<lb ed="#P" n="111" break="no"/>ceptare ad praemium. Dico igitur quod hec causalis / ideo vo 
+      <lb ed="#P" n="112"/>luntas agit bonum quia deus agit vel coagit: non est vo 
+      <lb ed="#P" n="113"/>ra in hoc vltimo intellectu. Nec etiam in simili 
+      intel<lb ed="#P" n="114" break="no"/>lectu verum est quod deus faciat voluntatem facere: sed hoc 
+      <lb ed="#P" n="115"/>dictum est intelligendum primo quod deus facit nos 
+      face<lb ed="#P" n="116" break="no"/>re bona / quia dat potentias ad hunc finem: et gratia 
+      hu<lb ed="#P" n="117" break="no"/>ius finis scilicet ad vsum et exercitium bonorum actuum 
+      <lb ed="#P" n="118"/>et hoc modo facit etiam agentia naturalia agere 
+      effe<lb ed="#P" n="119" break="no"/>ctus suos: quia ordinat ea ad huiusmodi exercicia. Sed hoc 
+      <lb ed="#P" n="120"/>modo non facit facere mala: immo facit non facere: 
+      <lb ed="#P" n="121"/>quia non ad hoc dedit potentias. Secundo. quia antecedem 
+      <lb ed="#P" n="122"/>ter statuit / mandat / et ordinat nos facere bona ordi 
+      <lb ed="#P" n="123"/>natione / et lege preceptoria / et obligatoria / vel 
+      con<lb ed="#P" n="124" break="no"/>sultoria / vel promissoria / vel comminatoria. Iuxta hunc 
+      <lb ed="#P" n="125"/>modum dicunt serui / nos facimus hoc: quia dominus facis 
+      <lb ed="#P" n="126"/>nos facere hoc. Isto modo non facit facere: sed non 
+      <lb ed="#P" n="127"/>facere mala: quia prohibet fieri. Hoc etiam modo non facit 
+      <lb ed="#P" n="128"/>causas naturales vel irratioales agere effectus suos: quia non 
+      <lb ed="#P" n="129"/>sunt capaces talium legum et ordinationum. Iuxta illud 1. 
+      <lb ed="#P" n="130"/>Corin. 9. Nunquam deo cura est de bobus.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1174">
+      ¶ Tertio 
+      <lb ed="#P" n="131"/>modo. quia se solo speciali causalitate dedit donum su 
+      <lb ed="#P" n="132"/>pernaturale inclinatiuum voluntatis ad bene agendum 
+      <!--236.xml-->
+      <pb ed="#P" n="113-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>scilicet charitatem. Et ad hoc dedit scilicet vt 
+      ho<lb ed="#P" n="2" break="no"/>mo bene vtatur illa tanquam talento multiplicando. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1192">
+               <lb ed="#P" n="3"/>¶ Quarto modo. quia preter charitatem et gratiam 
+      <lb ed="#P" n="4"/>gratum facientem deus frequenter causat in homi 
+      <lb ed="#P" n="5"/>ne ad bene agendum aliquod accidens inclinatiuum antecedens 
+      <lb ed="#P" n="6"/>et dispositiuum et occasionale incitatiuum / aut 
+      effi<lb ed="#P" n="7" break="no"/>cacius coagit voluntati quasi supplendo vicem ma 
+      <lb ed="#P" n="8"/>ioris habitus inclinatiui iuxta dictum Augustini de 
+      <lb ed="#P" n="9"/>gratia et libero arbitrio. vt supra. deus facit vt facia 
+      <lb ed="#P" n="10"/>mus prebendo vires efficacissimas voluntati. iuxta 
+      <lb ed="#P" n="11"/>hunc modum solet dici quod dyabolus facit homines 
+      <lb ed="#P" n="12"/>operari iniquitatem. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1216">
+               <lb ed="#P" n="13"/>¶ Quinto. quia mouet per modum finis principa 
+      <lb ed="#P" n="14"/>lis in intentione actuali vel virtuali. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1224">
+               <lb ed="#P" n="15"/>¶ Sexto. quia actualis / vel habitualis noticia 
+      <lb ed="#P" n="16"/>mandatorum eius / et dilectio etimor mouet 
+      homi<lb ed="#P" n="17" break="no"/>nem ad agendum bonum. Illud autem cuius memo 
+      <lb ed="#P" n="18"/>ria vel dilectio / vel timor mouet nos ad agendum 
+      <lb ed="#P" n="19"/>dicitur facere nos illud agere. Conceditur igitur 
+      pre<lb ed="#P" n="20" break="no"/>dicta causalis affirmatiua. quia habet plures causas 
+      <lb ed="#P" n="21"/>vel plures sensus veritatis.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1242">
+      ¶ Ad rationem in op 
+      <lb ed="#P" n="22"/>positum. aliqui concedunt consequentiam et consequens 
+      <lb ed="#P" n="23"/>dicentes quod illa regula est vniuersaliter vera: si 
+      affii<lb ed="#P" n="24" break="no"/>matio est ausa propter quid affirmationis et nega 
+      <lb ed="#P" n="25"/>tio negationis. Consequens aatem probant 
+      mul<lb ed="#P" n="26" break="no"/>tipliciter 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1255">
+               <lb ed="#P" n="27"/>¶ Primo in his que sunt causabilia a causis na 
+      <lb ed="#P" n="28"/>turalibus illud quod non est ideo non est quia deus non 
+      <lb ed="#P" n="29"/>ponit nec vult ponere illud in esse: vt in sequentibus 
+      <lb ed="#P" n="30"/>probabitur. Ideo enim hoc indiuiduum producitur et non 
+      <lb ed="#P" n="31"/>illud cinno simile eque possibile: quia deus determinat 
+      <lb ed="#P" n="32"/>et vult illud produci. non illud et ab eterno 
+      determina<lb ed="#P" n="33" break="no"/>uit hoc esse futurum non illud igitur. Similiter in ef 
+      <lb ed="#P" n="34"/>fectibus voluntatis: quia non minus dependent a 
+      pri<lb ed="#P" n="35" break="no"/>ma causa / et ab eius determinatione.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1277">
+      ¶ Secundo. 
+      <lb ed="#P" n="36"/>quia in mouentibus per se ordinatis secundum 
+      pri<lb ed="#P" n="37" break="no"/>us / et posterius: quorum secundum non potest mo 
+      <lb ed="#P" n="38"/>uere nisi per primum. Ideo secundum non mouet 
+      <lb ed="#P" n="39"/>quia primum non mouet. Patet de voluntate 
+      im<lb ed="#P" n="40" break="no"/>perante / et brachio et baculo / et pila / et aere 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1290">
+               <lb ed="#P" n="41"/>¶ Tertio per philosophum secundo phisicorum cu 
+      <lb ed="#P" n="42"/>ius positio et praesentia est causa habitus. eius remotio est 
+      <lb ed="#P" n="43"/>causa priuations. vt de praesentia et absentia naute respe 
+      <lb ed="#P" n="44"/>ctu nauis. et de presentia et absentia solis repectu lu 
+      <lb ed="#P" n="45"/>minis et tenebre. et specialiter hoc videtur verum 
+      de<lb ed="#P" n="46" break="no"/>eo cuius presentia et positio est primo et principaliter 
+      <lb ed="#P" n="47"/>causa positionis habitus: sed deus est huiusmodi 
+      re<lb ed="#P" n="48" break="no"/>spectu actus boni. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1310">
+               <lb ed="#P" n="49"/>¶ Quarto. Priuatio actus cum sit defectus non 
+      <lb ed="#P" n="50"/>habet causam nisi defectiuam: igitur non habet pro 
+      <lb ed="#P" n="51"/>causa nisi deficientiam causandi in causa superiore / et 
+      <lb ed="#P" n="52"/>principaliore. Si vero habet pro causa deficientiam 
+      <lb ed="#P" n="53"/>causandi in causa inferiore: multo magis in causa su 
+      <lb ed="#P" n="54"/>periore et principaliore.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1327">
+      ¶ Quint. si aliqua causa 
+      <lb ed="#P" n="55"/>libera requiratur ad positionem alicuius effectus / 
+      possi<lb ed="#P" n="56" break="no"/>bile est illum effectum non poni: quia illa causa libera 
+      <lb ed="#P" n="57"/>non causat. Probatio. quia ex quo talis causa libera 
+      <lb ed="#P" n="58"/>requiritur: igitur sceteris causis positis / potest non 
+      po<lb ed="#P" n="59" break="no"/>ni effectus ex eo solum quod illa causa libera non vult 
+      <lb ed="#P" n="60"/>agere. Sed deus est causa libera necessario requisita 
+      <lb ed="#P" n="61"/>ad actum bonum: igitur.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1345">
+      ¶ Sexto per aristotelem pri 
+      <lb ed="#P" n="62"/>mo posteriorum. Si affirmatio est ratio propter quid 
+      <lb ed="#P" n="63"/>respectu affirmationis et negatio negationis et hoc 
+      <lb ed="#P" n="64"/>specialiter habet veritatem in causis precisis. sed 
+      <lb ed="#P" n="65"/>deus est causa totalis / et precisa iusticie habitualis 
+      <lb ed="#P" n="66"/>que est charitas. Si igitur ideo homo habet iustici 
+      <!--236.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>am: et est iustus: quia deus dat: sequitur quod id o non 
+      <lb ed="#P" n="68"/>habet iusticiam nec est iustus: quia deus non dat 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1367">
+               <lb ed="#P" n="69"/>¶ Rgula etiam Philosophi est vera in causa con 
+      <lb ed="#P" n="70"/>uertibili cum causato sed deum dare gratiam vel 
+      <lb ed="#P" n="71"/>perseuerantiam creature rationali: et creaturam ra 
+      <lb ed="#P" n="72"/>tionalem accipere illam conuertibiliter se inferunt 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1378">
+               <lb ed="#P" n="73"/>¶ Ulterius. ista regula videtur etiam vera de cau 
+      <lb ed="#P" n="74"/>sa non precisa: quia .b. actus malus sicut ideo est: 
+      <lb ed="#P" n="75"/>quia voluntas causat illum. Ita quando non est et 
+      <lb ed="#P" n="76"/>desinit esse ideo non est: quia voluntas non agit: 
+      <lb ed="#P" n="77"/>neciconseruat: et tamen voluntas non est precisa 
+      <lb ed="#P" n="78"/>causa. similiter de eclypsi lune et interpositione terre 
+      <lb ed="#P" n="79"/>tum tamen deus possit esse causa eclypsis. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1396">
+               <lb ed="#P" n="80"/>¶ Septimo. Ideo .b. actus bonus debitus non 
+      <lb ed="#P" n="81"/>ionitur: quia voluntas non causat illum: igitur 
+      <lb ed="#P" n="82"/>ideo voluntas non causat illum: quia deus non agit 
+      <lb ed="#P" n="83"/>ad illum. Consequentia probatur: quia sicut ideo 
+      <lb ed="#P" n="84"/>effectus ponitur: quia voluntas causat. Ita ideo 
+      <lb ed="#P" n="85"/>voluntas causat: quia deus causat. et sicut effectus 
+      <lb ed="#P" n="86"/>dependet a causalitate voluntatis. Et causalitas 
+      <lb ed="#P" n="87"/>voluntatis est prior effectu. Ita de causalitate vo 
+      <lb ed="#P" n="88"/>luntatis respectu diuine causalitatis. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1418">
+               <lb ed="#P" n="89"/>¶ Octauo. Uoluntatem non agere .b. actum debi 
+      <lb ed="#P" n="90"/>tum habet propter quid. Et huius conuenit quere 
+      <lb ed="#P" n="91"/>re propter quid si contingit querere et assignare pro 
+      <lb ed="#P" n="92"/>pter quid agit cum agit Sed illud propter quid non 
+      <lb ed="#P" n="93"/>erit vltimate nisi quia deus non agit. Probatur 
+      <lb ed="#P" n="94"/>quia si assignatur ratio quod ideo non agit: quia est 
+      li<lb ed="#P" n="95" break="no"/>pera. igitur pari ratione hec ratio. Et istud assigna 
+      <lb ed="#P" n="96"/>bitur conuenienter / et sufficienter pro causa 
+      qua<lb ed="#P" n="97" break="no"/>re voluntas agit. Nec oportebit assignare quod ideo 
+      <lb ed="#P" n="98"/>agat quia deus agat. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1443">
+               <lb ed="#P" n="99"/>¶ Nono. Aut ideo voluntas non agit: quia deus 
+      <lb ed="#P" n="100"/>non agit: et propositum. aut econtra. Et hoc non: 
+      <lb ed="#P" n="101"/>quia diuine voluntatis / vel causalitatis non est ali 
+      <lb ed="#P" n="102"/>ud propter quid: sed magis econtra. Aut nec sic: 
+      <lb ed="#P" n="103"/>nec sic. igitur nullus per se ordo et prioritas inter 
+      <lb ed="#P" n="104"/>causam primam et secundam. Quod etiam non possit 
+      <lb ed="#P" n="105"/>dici secundum probatur per Augustinum de 
+      corre<lb ed="#P" n="106" break="no"/>ctione / et gratia vigesimoquinto. Si a me queritur 
+      <lb ed="#P" n="107"/>tur eis perseuerantiam deus non dedit: quibus vt 
+      <lb ed="#P" n="108"/>christiane viuerent dedit me ignorare
+    </p>
+            <p xml:id="D78nca-e73000-d1e1467">
+      ¶ Respon 
+      <lb ed="#P" n="109"/>deo audiens oppositum dicens. O homo tu quis es 
+      <lb ed="#P" n="110"/>qui respondeas deo. Nunc autem si ideo deus non 
+      <lb ed="#P" n="111"/>dat: quia homo non accipit: facile erit 
+      Augusti<lb ed="#P" n="112" break="no"/>non respondere ad illam questionem. Et 
+      Augusti<lb ed="#P" n="113" break="no"/>nus super Iohannem Omelia vigesimasexta. qua 
+      <lb ed="#P" n="114"/>re hunc trahat: et illum non trahat: noli velle 
+      iu<lb ed="#P" n="115" break="no"/>dicare si non vis errare. Si vero causa esset: quia 
+      <lb ed="#P" n="116"/>iste disposuit se: et ille non se disposuit facile erat 
+      <lb ed="#P" n="117"/>iudicare sine periculo. Ex quo videtur dictum An 
+      <lb ed="#P" n="118"/>selmi non esse verum quo dicit de casu dyaboli. 
+      <lb ed="#P" n="119"/>3o. capitulo. quod ideo deus non dedit primo Angelo 
+      <lb ed="#P" n="120"/>perseuerantiam: quia Angelus non accipit. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1496">
+               <lb ed="#P" n="121"/>¶ Confirmatur. Vel non accipere est non dandi 
+      <lb ed="#P" n="122"/>causa positiua. Et patet quod non. Aut priuatiua 
+      <lb ed="#P" n="123"/>quia priuat causam dandi sed non priuat per se 
+      <lb ed="#P" n="124"/>nisi accipere igitur accipere esset causa dandi quod 
+      <lb ed="#P" n="125"/>est contra ipsum Anselmum ibidem. Unde si 
+      ab<lb ed="#P" n="126" break="no"/>sentia solis sit causa priuatiua tenebre hoc est quia 
+      <lb ed="#P" n="127"/>priuat causam luminis. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1514">
+               <lb ed="#P" n="128"/>¶ Item. Illud dictum Anselmi videtur repugna 
+      <lb ed="#P" n="129"/>re alteri dicto eiusdem ibidem capitulo precedenti 
+      <lb ed="#P" n="130"/>Dixerat enim quod ipsius non esse nulla est causa. Eti 
+      <lb ed="#P" n="131"/>im nec ipse deus. sed quod non est habet ex se non esse secundum ipsum. 
+      <lb ed="#P" n="132"/>Igitur quomodo ipsius non dationis causa erit 
+      <!--237.xml-->
+      <pb ed="#P" n="113-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non acceptio.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1536">
+      ¶ Decimo principaliter. Ideo 
+      Pe<lb ed="#P" n="2" break="no"/>trus non habet scientie / vel philosophie donum 
+      <lb ed="#P" n="3"/>quia deus non dedit: igitur pari ratione de causali 
+      <lb ed="#P" n="4"/>tate vel perseuerantia vel aliis donis gratuitis. antecedens patet 
+      <lb ed="#P" n="5"/>Si enim paulus habet scientiam phisicalem et petri 
+      <lb ed="#P" n="6"/>non habet hoc non est nisi quia spiritus sanctus qui 
+      <lb ed="#P" n="7"/>diuidit singulis gratiam prout vult: dedit isti et non 
+      <lb ed="#P" n="8"/>illi nec reuelauit illi. Nec valet dicere quod isti non dat 
+      <lb ed="#P" n="9"/>vel reuelat propter peccatum suum vel negligenti 
+      <lb ed="#P" n="10"/>am et desidiam.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1558">
+      ¶ Contra. quia malis hominibus posi 
+      <lb ed="#P" n="11"/>set reuelare si vellet. ymo interdum reuelationes fa 
+      <lb ed="#P" n="12"/>cit Si dicatur quod non est simile de huiusmodi donis 
+      <lb ed="#P" n="13"/>requisitis ad salutem et de dono gratie vel perseue 
+      <lb ed="#P" n="14"/>rantie quia deus gratis cuilibet offert gratiam et para 
+      <lb ed="#P" n="15"/>tus est dare quantum est ex se. immo pulsat ad ostium 
+      <lb ed="#P" n="16"/>cordis: dum tamen homo aperiat sinum cordis sui 
+      <lb ed="#P" n="17"/>Qui ergo non accipit: non ideo non accipit quia deus 
+      <lb ed="#P" n="18"/>non dat. et non offert sed econtra sicut si tibi offero et 
+      po<lb ed="#P" n="19" break="no"/>rigo aliquid et tu non accipis.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1581">
+      ¶ Contra. Cum deus 
+      <lb ed="#P" n="20"/>secundum te offert tali gratiam. aut intendit et vult 
+      <lb ed="#P" n="21"/>quod ille recipiat. aut non. Si primum. igitur ille 
+      acci<lb ed="#P" n="22" break="no"/>piet quod est contra casum. Si secundum. igitur cum 
+      <lb ed="#P" n="23"/>sciat quod ille non recipiet nec velit nec intendat quod 
+      il<lb ed="#P" n="24" break="no"/>le recipiat. igitur non offert. Aut vane et derisorie 
+      <lb ed="#P" n="25"/>offert. Immo non solum videtur derisio siue 
+      delu<lb ed="#P" n="26" break="no"/>sio sed duplicitas et fictio.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1599">
+      ¶ Confirmatur. ad hoc quod 
+      <lb ed="#P" n="27"/>iste accipiat gratiam vel perseuerantiam necessarie 
+      <lb ed="#P" n="28"/>sunt alique dispositiones preparatorie et meritorie 
+      <lb ed="#P" n="29"/>de congruo necessum etiam est auxilium dei specia 
+      <lb ed="#P" n="30"/>le et preseruatiuum. Tunc sic. Deus non vult nec 
+      in<lb ed="#P" n="31" break="no"/>tendit dare isti antecedentia necessaria ad hoc quod re 
+      <lb ed="#P" n="32"/>cipiat et habeat gratiam et perseuerantiam. igitur non 
+      <lb ed="#P" n="33"/>offert gratiam / et perseuerantiam nisi vane et ficte 
+      <lb ed="#P" n="34"/>Consequentia probatur. quia si indigens elemosy 
+      <lb ed="#P" n="35"/>na non potest habere antecedens requisitum sine mei 
+      <lb ed="#P" n="36"/>auxilio speciali. vt si non possit extendere brachium 
+      <lb ed="#P" n="37"/>nisi me adiuuante si offero et porrigo sibi illud quo 
+      <lb ed="#P" n="38"/>indiget et non volo nec intendo sibi conferre ante 
+      <lb ed="#P" n="39"/>cedentia sibi necessaria ad accipiendum. hec oblatio 
+      <lb ed="#P" n="40"/>videtur delusoria / ymo videtur duplicitas et 
+      aggra<lb ed="#P" n="41" break="no"/>uatio misarie illius. Si vero ad aliqua predictorum 
+      <lb ed="#P" n="42"/>dicitur quod deus cuilibet offert gratiam: et paratus est 
+      <lb ed="#P" n="43"/>set dare: sed quidam ponunt obicem vel non tollunt 
+      <lb ed="#P" n="44"/>obicem: ideo non recipiunt sicut de clausione 
+      fene<lb ed="#P" n="45" break="no"/>stre contra solem.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1643">
+      ¶ Contra. Primo quia si angeli 
+      <lb ed="#P" n="46"/>et primi parentes fuerunt creati sine culpa et sine 
+      gra<lb ed="#P" n="47" break="no"/>tia gratum faciente: que facit habentem dignum vi 
+      <lb ed="#P" n="48"/>ta eterna: steterunt in huiusmodi dispositione par 
+      <lb ed="#P" n="49"/>aliquod tempus in quo non erat in eis aliquis obex 
+      <lb ed="#P" n="50"/>gratie. Igitur non ideo non acceperunt: quia pone 
+      <lb ed="#P" n="51"/>rent obicem. nec deus eis offerebat gratiam. Sed 
+      <lb ed="#P" n="52"/>ideo non habuerunt: quia deus non dedit nec dare 
+      <lb ed="#P" n="53"/>tunc voluerit.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1663">
+      ¶ Secundo duorum paruulorum omni 
+      <lb ed="#P" n="54"/>no consimilium vnum vocat ad gratiam baptisma 
+      <lb ed="#P" n="55"/>lem: et alium non vocat. igitur. non quia iste non po 
+      <lb ed="#P" n="56"/>nat vel non tollat obicem magis quam ille.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1672">
+      ¶ Simili 
+      <lb ed="#P" n="57"/>ter duorum adultorum equalium deus vnum vocat 
+      <lb ed="#P" n="58"/>speciali gratia et suscitat. et non alium. ymo 
+      inter<lb ed="#P" n="59" break="no"/>dum illum qui magis peccauerat vocati / et suscitat: 
+      <lb ed="#P" n="60"/>quasi violenter trahens illum et dans illi perseueram 
+      <lb ed="#P" n="61"/>tiam. vt de Paulo et Maria magdalena. Igitur 
+      <lb ed="#P" n="62"/>non ideo confert isti et non illi: quia ille magis ponatis 
+      <lb ed="#P" n="63"/>vel non tollat obicem. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1690">
+               <lb ed="#P" n="64"/>¶ Confirmatur. Duorum equalium in gratia et pre 
+      <lb ed="#P" n="65"/>sente equali tentatione vnum speciali auxilio pre 
+      <lb ed="#P" n="66"/>seruat et alium cadere permittit: ymo interdum mi¬ 
+      <!--237.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>nus bonum et presente maiori tentatione preseruat. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1707">
+               <lb ed="#P" n="68"/>¶ Tertio. Homo vel angelus non habens tantam 
+      <lb ed="#P" n="69"/>gratiam ideo non habet tantam quia deus non 
+      <lb ed="#P" n="70"/>dedit tantam. Igitur pari ratione non habens 
+      <lb ed="#P" n="71"/>simpliciter. Ideo non habet. quia deus non dat 
+      <lb ed="#P" n="72"/>Ante. edens patet. Angeli enim in sua 
+      confirma<lb ed="#P" n="73" break="no"/>tione / vel paruulus in baptismo ideo non recipit 
+      <lb ed="#P" n="74"/>tantam vel maiorem: quia deus non dat nisi 
+      mino<lb ed="#P" n="75" break="no"/>rem precise. Quarto. ideo isl e non tollit obicem: quia 
+      <lb ed="#P" n="76"/>deus non tollit illum obicem / nec vult tollere / vel 
+      <lb ed="#P" n="77"/>specialiter adiuuare auxilio necessario ad tollendum 
+      <lb ed="#P" n="78"/>igitur. Ideo iste non recipit gratiam: quia deus non 
+      <lb ed="#P" n="79"/>dat nec dare vult. Antecedens probatur. quia cum 
+      <lb ed="#P" n="80"/>deus facillime possit tollere hunc obicem si vellet 
+      <lb ed="#P" n="81"/>nec potest tolli nisi per ipsum specialiter 
+      adiuuan<lb ed="#P" n="82" break="no"/>tem si non tollitur. igitur deus non vult illum tolli 
+      <lb ed="#P" n="83"/>nec preuenit ad tollendum in illis in quibus tollit 
+      <lb ed="#P" n="84"/>hoc est per preuentionem specialem auxilii. Unde 
+      <lb ed="#P" n="85"/>Exodi trigesimotertio. Miserebor cui voluero / et 
+      <lb ed="#P" n="86"/>clemens ero cui michi placuerit. Et ezechielis 
+      tri<lb ed="#P" n="87" break="no"/>gesimosexto. Auferam cor lapideum. etc. Glosa. 
+      <lb ed="#P" n="88"/>Omnem duriciam et cor incredulum. Et vigesimo 
+      <lb ed="#P" n="89"/>primo. Cuius vult miseretur: et quem vult indurat 
+      <lb ed="#P" n="90"/>Quod tractans Augustinus de predestinatione di 
+      <lb ed="#P" n="91"/>uina sic dicit. Indurare deus dicitur quem mollire 
+      <lb ed="#P" n="92"/>noluerit. Sic etiam excecare dicitur: quem 
+      illumi<lb ed="#P" n="93" break="no"/>nare noluerit Sic etiam repellere dicitur eum quem 
+      <lb ed="#P" n="94"/>vocare noluerit
+    </p>
+            <p xml:id="D78nca-e73000-d1e1768">
+      ¶ Et Augustinus super Senesim 
+      <lb ed="#P" n="95"/>11. capitulo sexto. Posset inquit deus ipsorum vo 
+      <lb ed="#P" n="96"/>luntatem in bonum conuertere quoniam omperius est. posset 
+      <lb ed="#P" n="97"/>plane. Cur ergo non fecit: quia noluit. Cur noluerit 
+      <lb ed="#P" n="98"/>penes ipsum est. Debemus enim non plus sapere. quam 
+      <lb ed="#P" n="99"/>oportet sapere. Et magister id est sententiarum distin 
+      <lb ed="#P" n="100"/>ctione quarta capitulo primo. Reprobatio dei est 
+      <lb ed="#P" n="101"/>nolle misereri. vt non a deo irrogetur aliquid quo fit 
+      <lb ed="#P" n="102"/>homo deterior: sed tantum quo sit melior non ero: 
+      <lb ed="#P" n="103"/>getur.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1790">
+      ¶ Patet igitur ex his quod ideo obex manet in 
+      <lb ed="#P" n="104"/>aliquibus: quia deus est nolens et respuens illum tol 
+      <lb ed="#P" n="105"/>lere.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1797">
+      ¶ Confirmatur. Ambrosius super Lucam 
+      li<lb ed="#P" n="106" break="no"/>pro quinto. Quos Iesus respicit plorant. Negauit 
+      <lb ed="#P" n="107"/>primo Petrus et non fleuit: quia non respexit 
+      do<lb ed="#P" n="108" break="no"/>minus. Negauit secundo et non fleuit: quia adhuc 
+      <lb ed="#P" n="109"/>non respexit dominus. Negauit tertio et respexit ie 
+      <lb ed="#P" n="110"/>sus: et ille amarissime fleuit
+    </p>
+            <p xml:id="D78nca-e73000-d1e1810">
+      ¶ Quinto. qui non cre 
+      <lb ed="#P" n="111"/>dit: ideo non credit quia deus est nolens eum crede 
+      <lb ed="#P" n="112"/>re et esse fidelem. Igitur pari ratione de aliis 
+      virtu<lb ed="#P" n="113" break="no"/>tibus et obice apposito: ideo obex non tollitur quia 
+      <lb ed="#P" n="114"/>deus non tollit: nec vult illum tollere. Antecedenas 
+      <lb ed="#P" n="115"/>probatur per Augustinum de predestinatione 
+      san<lb ed="#P" n="116" break="no"/>ctorum capitulo decimo tractans illud Iohannis 
+      <lb ed="#P" n="117"/>sexto. Omnis qui audiuit a patre meo et didicit 
+      ve<lb ed="#P" n="118" break="no"/>nit ad me. Cur non omnes docet pater vt veniant 
+      <lb ed="#P" n="119"/>ad Christum: nisi quia omnes quos docet 
+      miseri<lb ed="#P" n="120" break="no"/>cordi a docet. Quos autem non docet: ideo non 
+      <lb ed="#P" n="121"/>docet: quia cuius vult miseretur: et quem vult 
+      in<lb ed="#P" n="122" break="no"/>durat. sequitur. 
+      <lb ed="#P" n="123"/>Cum ergo predicatur: euangelium quidam 
+      cre<lb ed="#P" n="124" break="no"/>dunt: quidam non credunt. Istis datur vt credant 
+      <lb ed="#P" n="125"/>illis non datur: quia nemo venit ad me: nisi pater 
+      <lb ed="#P" n="126"/>traxerit eum.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1847">
+      ¶ Item quod huiusmodi incredulitatis  
+      <lb ed="#P" n="127"/>diuinum velle lit causa. Isapre sexto. Exceca cor 
+      <lb ed="#P" n="128"/>populi huius et aures eius aggraua: et oculos ei 
+      <lb ed="#P" n="129"/>claude ne forte ocul suis videat: et auribus audiat: et 
+      <lb ed="#P" n="130"/>corde intelligat et conuertatur et sanem eum. Et 
+      <lb ed="#P" n="131"/>hec allegat Christus. Iohannis. .12. Cum tanta 
+      <lb ed="#P" n="132"/>signa fecisset coram eis non credebant in eum: vt secunmumo 
+      <!--238.xml-->
+      <pb ed="#P" n="114-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Isa ve impleretur quem dixit. Domine quis cred 
+      <lb ed="#P" n="2"/>dit auditui nostro: Propterea non poterant crede 
+      <lb ed="#P" n="3"/>re: quia dicit iterum Isayas. Excecauit oculos eo 
+      <lb ed="#P" n="4"/>rum: et indurauit cor eorum: vt non videant oculis 
+      <lb ed="#P" n="5"/>etc.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1881">
+      ¶ Item quod causa incredulitatis non stat primo 
+      <lb ed="#P" n="6"/>et principaliter ex parte hominis: sed ex parte vell 
+      <lb ed="#P" n="7"/>diuini Augustinus de bono perseueran. quarti. Ie 
+      <lb ed="#P" n="8"/>perditionis massa relicti sunt Tyri / et Sidoni  
+      <lb ed="#P" n="9"/>qui credere potuerunt: si mira Christi vidissent: 
+      <lb ed="#P" n="10"/>Sed quoniam vt crederent non eis erat datum 
+      <lb ed="#P" n="11"/>et vnde crederent est negatum.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1897">
+      ¶ Ex quo apparet 
+      <lb ed="#P" n="12"/>quosdam habere in ingenio diuinum munus intell 
+      <lb ed="#P" n="13"/>gibile quo moueantur ad fidem: si congrua suis men 
+      <lb ed="#P" n="14"/>tibus: vel audiant verba: vel conspiciant signa. E 
+      <lb ed="#P" n="15"/>tamen si alto dei iudicio a perditionis massa non 
+      <lb ed="#P" n="16"/>sunt gratia predestinationis discreti. Nec eis adhi 
+      <lb ed="#P" n="17"/>bentur dicta: nec facta per que possent credere: si 
+      <lb ed="#P" n="18"/>audirent / vel viderent. hec ille.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1915">
+      ¶ Ex quibus vel 
+      <lb ed="#P" n="19"/>bis potest sexto argui.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1920">
+      ¶ Sic ideo isti vocantu 
+      <lb ed="#P" n="20"/>ad fidem et reuocantur ab infidelitate et peccatis 
+      <lb ed="#P" n="21"/>aliis. Et preseruantur et perseuerant et non illi: 
+      <lb ed="#P" n="22"/>quia isti sunt predestinati et non illi. sed ideo isti sunt 
+      <lb ed="#P" n="23"/>predestinati et non illi: quia diuina voluntas volu 
+      <lb ed="#P" n="24"/>it hos eligere: et ad beatitudinem ordinare. et non il 
+      <lb ed="#P" n="25"/>los. igitur ideo isti non vocantur nec perseuerant: 
+      <lb ed="#P" n="26"/>quia deus non vult nec voluit. Secunda pars an 
+      <lb ed="#P" n="27"/>tecedentis patet: quia diuina voluntas ei prima. 
+      <lb ed="#P" n="28"/>et principalis causa et ratio predestinationis isto 
+      <lb ed="#P" n="29"/>rum. Placuit enim sibi gratis non propter merita 
+      <lb ed="#P" n="30"/>preeligere illos. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1946">
+               <lb ed="#P" n="31"/>¶ Prima pars antecedentis patet ex autctoritate 
+      <lb ed="#P" n="32"/>Augustini preallegata. Si enim Tyriis / et Sydo 
+      <lb ed="#P" n="33"/>niis predicatum fuisset euangelium / et miracul 
+      <lb ed="#P" n="34"/>Christi vidissent credidissent / et conuersi penitentiam 
+      <lb ed="#P" n="35"/>egissent. Quibusdam autem ciuitatibus vt Capha 
+      <lb ed="#P" n="36"/>naum / et Bethsayde non crediderunt: quibus pre 
+      <lb ed="#P" n="37"/>dicatum est euangelium / et multe virtutes ostense 
+      <lb ed="#P" n="38"/>vt hbetur Matthei. 11i.
+    </p>
+            <p xml:id="D78nca-e73000-d1e1966">
+      ¶ Huius autem causa est se 
+      <lb ed="#P" n="39"/>cundum Augustinum: quia illi non erant predesti 
+      <lb ed="#P" n="40"/>nati. Unde Augustinus vbi supra subdit. Sed  
+      <lb ed="#P" n="41"/>nec illis profuit quod poterant credere: quia predest 
+      <lb ed="#P" n="42"/>nati non erant ab illo cuius inscrutabilia sunt 
+      iu<lb ed="#P" n="43" break="no"/>dicia. Nec aliis obfuisset non posse credere: si pri 
+      <lb ed="#P" n="44"/>destinati essent. Nec eos cecos deus illuminaret 
+      <lb ed="#P" n="45"/>et induratis cor lapideum vellet auferre 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1985">
+               <lb ed="#P" n="46"/>¶ Item Augustinus ibidem capitulo quadragest 
+      <lb ed="#P" n="47"/>moquarto vltra medium libri. Ideo nondum su 
+      <lb ed="#P" n="48"/>rexistis: quia nondum vos adiutorium gratie mise 
+      <lb ed="#P" n="49"/>rantis erexit. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e1996">
+               <lb ed="#P" n="50"/>¶ Sequitur. Si impredestinati estis: subtra 
+      hen<lb ed="#P" n="51" break="no"/>tur obediendi vires. vt etiam obedire cessetis: 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2003">
+               <lb ed="#P" n="52"/>¶ Item. quod non predestinari sit causa non perseue 
+      <lb ed="#P" n="53"/>rantie. Ad hec Augustinus de bono perseuerat 
+      <lb ed="#P" n="54"/>tie. 40. adducit / et exponit illud Prime epistol 
+      <lb ed="#P" n="55"/>Iohannis secundo. Ex vobis proderunt quidam 
+      <lb ed="#P" n="56"/>sed ex vobis non erant. Nam et si fuissent ex vobis 
+      <lb ed="#P" n="57"/>permansissent vtique vobiscum: 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2019">
+               <lb ed="#P" n="58"/>¶ Confirmatur ratio. Deus est causa per se 
+      qua<lb ed="#P" n="59" break="no"/>re tantus / et non maior sit numerus electorum / et 
+      <lb ed="#P" n="60"/>saluandorum et perseueraturorum: igitur est 
+      cau<lb ed="#P" n="61" break="no"/>sa quaere alii non perseuerant nec saluantur. Consequent 
+      <lb ed="#P" n="62"/>tia patet. quod enim est causa quare in celo sunt tot ste 
+      <lb ed="#P" n="63"/>le precise ex libera preordinatione sua est causa qua 
+      <lb ed="#P" n="64"/>re alie possibiles non sunt ibi. Causa etiam quare 
+      <lb ed="#P" n="65"/>celum non est maius est deus qui fecit celum 
+      ade<lb ed="#P" n="66" break="no"/>quate et precise et tantum. Dicit igitur ista opi¬ 
+      <!--238.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>nio quod ideo iste non accipit gratiam vel perseueran 
+      <lb ed="#P" n="68"/>tiam sed induratur: quia deus non dat / nec vult 
+      <lb ed="#P" n="69"/>dare. ymo est nolens dare. licet propter demerita 
+      <lb ed="#P" n="70"/>hominis deus auferat gratiam et inferat penam. 
+      <lb ed="#P" n="71"/>Quandoque etiam non dat gratiam propter culpam 
+      <lb ed="#P" n="72"/>non recipientis. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2058">
+               <lb ed="#P" n="73"/>¶ Contra istam opinionem. Sortes non ideo 
+      o<lb ed="#P" n="74" break="no"/>mittit illum actum: quia deus antecedenter non in  
+      <lb ed="#P" n="75"/>fluat nec velit influere. ad quem actum 
+      producen<lb ed="#P" n="76" break="no"/>dum diuina causalitas et influentia quantum est ex 
+      <lb ed="#P" n="77"/>se foret parata et exposita. sic est igitur. Maior pa 
+      <lb ed="#P" n="78"/>tet: etiam ex communi conceptione hominum. Si 
+      <lb ed="#P" n="79"/>enim paratus es quantum est ex te michi coagere 
+      <lb ed="#P" n="80"/>et auxilium tuum michi offers et exponis. Nec stat: 
+      <lb ed="#P" n="81"/>ex parte tui quin agam si dicerem ideo non ago. quia 
+      <lb ed="#P" n="82"/>me non adiuuas: vel michi non coagis: nec 
+      coage<lb ed="#P" n="83" break="no"/>re vis. Contradices michi et excusabis te. Minor 
+      <lb ed="#P" n="84"/>probatur. quia dei causalitas et influentia non 
+      mi<lb ed="#P" n="85" break="no"/>nus est parata et exposita et oblata sorti ad agendum 
+      <lb ed="#P" n="86"/>actum precepti: quem sortes faciliter et libere ex se 
+      <lb ed="#P" n="87"/>posset elicere quam platoni idem preceptum obseruan 
+      <lb ed="#P" n="88"/>ti: vel ceteris causis naturalibus specialiter quia com 
+      <lb ed="#P" n="89"/>tingit quod sortes preerat in gratia maiori quam plato: et 
+      <lb ed="#P" n="90"/>quod primo cadat per obmissionem .b. actus 
+      precepti<lb ed="#P" n="91" break="no"/>Patet iterum minor: quia multi obmittunt actus de 
+      <lb ed="#P" n="92"/>bitos: ad quos eliciendos deus inuitat et vocat et 
+      <lb ed="#P" n="93"/>suggerit. Prouerbiorum primo.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2106">
+      ¶ Conuertimi 
+      <lb ed="#P" n="94"/>ni ad correctionem meam: en proferam vobis spir 
+      <lb ed="#P" n="95"/>tum meum. Sequitur. Uocaui et renuistis. Extem 
+      <lb ed="#P" n="96"/>di manum meam et non fuit qui aspiceret. Desper 
+      <lb ed="#P" n="97"/>xistis omne consilium meum. Et apocalypsis tertio 
+      <lb ed="#P" n="98"/>Ego sto ad ostium et pulso.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2120">
+      ¶ Item hec ponit 
+      An<lb ed="#P" n="99" break="no"/>selmus de casu dyaboli tertio. Licet bonus angelus 
+      <lb ed="#P" n="100"/>ideo acceperit et habuerit gratiam et perseueranti 
+      <lb ed="#P" n="101"/>am: quia deus dedit: non tamen ideo malus non ha 
+      <lb ed="#P" n="102"/>buit quia deus non dedit: et ponit exemplum de eo 
+      <lb ed="#P" n="103"/>cui aliquid offertur et ille respuit. Et hec approbat 
+      <lb ed="#P" n="104"/>dominus altissiodoren. libro secundo questione nona 
+      <lb ed="#P" n="105"/>Muic etiam consonat quasi communis conceptio 
+      <lb ed="#P" n="106"/>hominum. Si enim a me petis tibi dari. b. et ego 
+      re<lb ed="#P" n="107" break="no"/>nuo dare: conuenienter dicitur quod ideo non habee 
+      <lb ed="#P" n="108"/>nec accipis: quia non do. Si vero illud tibi 
+      porrigo<lb ed="#P" n="109" break="no"/>et offero: et tu libere posses illud accipere et non ad 
+      <lb ed="#P" n="110"/>cipis. Non conuenienter refertur in me vel michi 
+      <lb ed="#P" n="111"/>ascribitur causa non acceptionis. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2151">
+               <lb ed="#P" n="112"/>¶ Item secundum aduersarium deus non agit: nec 
+      <lb ed="#P" n="113"/>vult coagere nec dare gratiam propter culpam non 
+      <lb ed="#P" n="114"/>recipientium. Igitur hominem aliqualiter sic se ha 
+      <lb ed="#P" n="115"/>bere assignatur conuenienter propter quid et causa 
+      re<lb ed="#P" n="116" break="no"/>spectu huius quod est deum non conferre. Et hoc est 
+      <lb ed="#P" n="117"/>propositum. quia per non accipere intelligitur que 
+      <lb ed="#P" n="118"/>dam dispositio / vel dispositionis negatio ex parte 
+      <lb ed="#P" n="119"/>hominis.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2171">
+      ¶ Ad rationem igitur principalem neg 
+      <lb ed="#P" n="120"/>tur consequentia et consequens. quia hec proposi 
+      <lb ed="#P" n="121"/>tio ideo non agit .b. actum debitum: quia deus non 
+      <lb ed="#P" n="122"/>agit nec influit. Aut ex sua formali significatione 
+      <lb ed="#P" n="123"/>aut saltem secundum sensum quo communiter sic et 
+      <lb ed="#P" n="124"/>accipitur importat non solum negationem abso 
+      <lb ed="#P" n="125"/>lutam actualis causationis divine: sed notat 
+      ante<lb ed="#P" n="126" break="no"/>cedentem repulsam et refutationem ex parte dei: 
+      <lb ed="#P" n="127"/>quamuis non stet vel non staret ex parte creature 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2191">
+               <lb ed="#P" n="128"/>¶ Ad probationem. Cum dicitur si affirmatio est 
+      <lb ed="#P" n="129"/>causa affirmationis et negatio negationis. Aliqui 
+      <lb ed="#P" n="130"/>putant Anselmum et aristotelem in hoc sibi discor 
+      <lb ed="#P" n="131"/>dare: et Anselmum reuocare regulam Aristotelis 
+      <lb ed="#P" n="132"/>Sed potest dici quod vtrunque dictum est verum in de¬ 
+      <!--239.xml-->
+      <pb ed="#P" n="114-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bito intellectu. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2213">
+               <lb ed="#P" n="2"/>¶ Notandum quod affirmatio 
+      cau<lb ed="#P" n="3" break="no"/>salis que assignat propter quid respectu alterius 
+      <lb ed="#P" n="4"/>affirmationis potest esse assignatio cause: et 
+      pro<lb ed="#P" n="5" break="no"/>pter quid dupliciter. Uno modo accipiendo / et 
+      as<lb ed="#P" n="6" break="no"/>signando illud absolutum: quod est per se et imme 
+      <lb ed="#P" n="7"/>diate causa et principium alicuius causati: vt dicen 
+      <lb ed="#P" n="8"/>do ideo asinus respirat quia habet pulmonem Et 
+      <lb ed="#P" n="9"/>ideo luna eclypsatur: quia terra interponitur. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2233">
+               <lb ed="#P" n="10"/>¶ Alio modo accipiendo / et assignando illud prin 
+      <lb ed="#P" n="11"/>cipium sub respectu et ratione actualis causatio 
+      <lb ed="#P" n="12"/>nis. vt dicendo Ideo .b. fit et producitur: quia. a. 
+      <lb ed="#P" n="13"/>producit vel causat. vel ideo .b. capit esse: quia 
+      de<lb ed="#P" n="14" break="no"/>us dat esse. Et hoc modo omnis causa 
+      vniuersali<lb ed="#P" n="15" break="no"/>ter infert positionem effectus. et negatio effectus 
+      <lb ed="#P" n="16"/>infert negationem talis cause. Loquendo igitur de 
+      <lb ed="#P" n="17"/>affirmatione et acceptione cause primo modo. Sit 
+      <lb ed="#P" n="18"/>hec propositio. Si affirmatio est causa affirmatio 
+      <lb ed="#P" n="19"/>nis: et negatio est causa negationis: non est vera 
+      <lb ed="#P" n="20"/>in causa libera siue totali / siue partiali.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2260">
+      ¶ Si enim 
+      <lb ed="#P" n="21"/>affirmatio seu positio et praesentia ipsius .a. sit causa 
+      <lb ed="#P" n="22"/>et propter quid sufficiens ipsius .b. non oportet quod nega 
+      <lb ed="#P" n="23"/>tionis et priuationis .b. causa et propter quid sit re 
+      <lb ed="#P" n="24"/>motio et absentia vel non positio ipsius. a.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2271">
+      ¶ Ite 
+      <lb ed="#P" n="25"/>rum dicta propositio non vniuersaliter est vera de cau 
+      <lb ed="#P" n="26"/>sa non requisita licet sufficiente. vt si tam .a. quam .b. di 
+      <lb ed="#P" n="27"/>uisim foret per sui presentiam sufficiens causa ad 
+      <lb ed="#P" n="28"/>ponendum .b. non oportet quod negatio et priuatio ip 
+      <lb ed="#P" n="29"/>sius .a. sit causa et propter quid sufficiens priuatio 
+      <lb ed="#P" n="30"/>nis .b. quia cum negatione ipsius .a. potest poni .b. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2287">
+               <lb ed="#P" n="31"/>¶ Iterum dicta propositio non vniuersaliter est 
+      <lb ed="#P" n="32"/>vera de causa non sufficiente nec totali siue 
+      intelli<lb ed="#P" n="33" break="no"/>gendo de non totali in determinato genere causali 
+      <lb ed="#P" n="34"/>tatis siue de non totali propter requisitionem alte 
+      <lb ed="#P" n="35"/>rius causalitatis secundum genus. Uerbi gratia 
+      <lb ed="#P" n="36"/>quamuis luminosum in genere cause effectiue foret suf 
+      <lb ed="#P" n="37"/>ficiens causa generationis luminis. tamen propter 
+      <lb ed="#P" n="38"/>pensitatem medii non causabitur lumen ad presen 
+      <lb ed="#P" n="39"/>tiam luminosi.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2309">
+      ¶ Similiter. quamuis lumen in medio 
+      <lb ed="#P" n="40"/>et color presens essent in genere cause effectiue cau 
+      <lb ed="#P" n="41"/>sa sufficiens speciei generande in oculo. Tamen 
+      <lb ed="#P" n="42"/>potest illis presentibus non generari huiusmodi spe 
+      <lb ed="#P" n="43"/>cies propter indispositionem organi. et propter ab 
+      <lb ed="#P" n="44"/>sentiam dispositionis que est circunstantia 
+      causa<lb ed="#P" n="45" break="no"/>lis secundum causalitatem materialem. Et iuxta 
+      <lb ed="#P" n="46"/>hunc modum non sequitur. Si ideo sortes agit .b 
+      <lb ed="#P" n="47"/>quia deus agit. quod ideo sortes non agit: quia deus non 
+      <lb ed="#P" n="48"/>agit: quia ipsius .b. sunt due cause partiales. Et 
+      con<lb ed="#P" n="49" break="no"/>tingit quod negatio effectus non est propter absenti 
+      <lb ed="#P" n="50"/>am et negationem huius cause: quin ipsa sit presens 
+      <lb ed="#P" n="51"/>et ex se parata et exposita ad agendum: sed quia alb 
+      <lb ed="#P" n="52"/>tera causa est absens vel respuit agere. iuxta etiam 
+      <lb ed="#P" n="53"/>hunc modum non sequitur. Petrus habet et 
+      acci<lb ed="#P" n="54" break="no"/>pit gratiam et perseuerantiam: quia deus dat. igir 
+      <lb ed="#P" n="55"/>tur sortes non habet nec accipit: quia deus non dat 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2346">
+               <lb ed="#P" n="56"/>¶ Preexigitur enim ex parte cause per modum cir 
+      <lb ed="#P" n="57"/>cunstantie causalls dispositio vel negatio contrari 
+      <lb ed="#P" n="58"/>indispositionis et voluntatem creatam facere quod 
+      <lb ed="#P" n="59"/>in se est vel non ponere obicem vel remouere / nec 
+      <lb ed="#P" n="60"/>habere.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2359">
+      ¶ Sicut enim colore et lumins 
+      presenti<lb ed="#P" n="61" break="no"/>bus oculo ceco. non ideomon generatur visio: quia 
+      <lb ed="#P" n="62"/>assit obiectum / et lumen: sed quia ex parte passi est 
+      <lb ed="#P" n="63"/>indispositio.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2369">
+      ¶ Licet ideo oculus sanus 
+      reci<lb ed="#P" n="64" break="no"/>piat speciem: quia color / et lumen sunt presentia. 
+      <lb ed="#P" n="65"/>ideo non ita sortes non habet perseuerantiam et 
+      <lb ed="#P" n="66"/>gratiam quia diuina voluntas non sit presens / et parata 
+      <!--239.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>influere quantum esset ex se: sed ex parte peccatoris 
+      <lb ed="#P" n="68"/>est indispositio. ita quod diuina voluntas est 
+      causali<lb ed="#P" n="69" break="no"/>tas oblata et parata influere proportionabiliter pre 
+      <lb ed="#P" n="70"/>sentie luminis et obiecti. Sed indispositio pecca 
+      <lb ed="#P" n="71"/>torum proportionatur oculo ceco vel clauso. 
+      <lb ed="#P" n="72"/>Dicere autem quod ideo sortes non habet quia deus 
+      <lb ed="#P" n="73"/>non dat denotatur quod ideo non habet: quia antecedenter 
+      <lb ed="#P" n="74"/>deus non est paratus dare. immo antecedenter 
+      re<lb ed="#P" n="75" break="no"/>spuit et refutat siue stet ex parte creature siue none 
+      <lb ed="#P" n="76"/>Et hoc est intentio Anselmi. quod cum in 
+      affirmatio<lb ed="#P" n="77" break="no"/>ne assignante propter quid alicuius causati 
+      conti<lb ed="#P" n="78" break="no"/>nentur quasi plura partialia propter quid vel quasi 
+      <lb ed="#P" n="79"/>circunstantie causales non oportet quod negationes 
+      <lb ed="#P" n="80"/>causate causa / et propter quid sit cuiuslibet cause  
+      <lb ed="#P" n="81"/>vel circunstantie causalis negatio. Sed sufficit in 
+      <lb ed="#P" n="82"/>terdum quod negatio solius vnius circunstantie 
+      cau<lb ed="#P" n="83" break="no"/>salis / siue principalis siue secundarie incluse in to 
+      <lb ed="#P" n="84"/>tali propter quid / sit causa et propter quid negatio 
+      <lb ed="#P" n="85"/>nis causati. Sicut cum offero tibi . b. et tm accipis 
+      <lb ed="#P" n="86"/>huiusmodi acceptionis causa integra est 
+      volun<lb ed="#P" n="87" break="no"/>tas mea offerens et parata et causa. etiam aliquo 
+      <lb ed="#P" n="88"/>modo ex parte tui est volitio accipiendi et extensio 
+      <lb ed="#P" n="89"/>manus vel negatio refutationis ex parte tui. Con 
+      <lb ed="#P" n="90"/>tingit igitur quod non ponitur acceptio: non quin ha 
+      <lb ed="#P" n="91"/>beam voluntatem paratam. Sed quia non facis 
+      <lb ed="#P" n="92"/>quod in te est de accipiendo.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2439">
+      ¶ Aristoteles autem 
+      <lb ed="#P" n="93"/>intelligit de causa naturali et sufficiente et conue 
+      <lb ed="#P" n="94"/>tibiliter necessario inferente causatum. 
+      Sumen<lb ed="#P" n="95" break="no"/>do causam etiam pro absoluto non solum sub ratio 
+      <lb ed="#P" n="96"/>ne actualis causationis 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2450">
+               <lb ed="#P" n="97"/>¶ Notandum enim quod causa suf 
+      <lb ed="#P" n="98"/>ficiens vno modo dicitur causa que est totalis in suo 
+      <lb ed="#P" n="99"/>genere causandi vt totalis effectiua. 
+      <lb ed="#P" n="100"/>Alio modo causa sic accipitur quod eius affirmatiua ta 
+      <lb ed="#P" n="101"/>lis acceptio infert vniuersaliter et conuertibiliter 
+      <lb ed="#P" n="102"/>positionem effectus. Primo modo lumen / et color 
+      <lb ed="#P" n="103"/>et potentia visiua sunt sufficiens causa speciei in 
+      <lb ed="#P" n="104"/>visu. Non secundo modo: quia potest interuenire 
+      <lb ed="#P" n="105"/>impedimentum.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2472">
+      ¶ Secundo autem modo ideo a 
+      <lb ed="#P" n="106"/>liquid est risibile: quia habet animam rationalem 
+      <lb ed="#P" n="107"/>et sic intelligit philosophus.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2479">
+      ¶ Si igitur in hac 
+      pro<lb ed="#P" n="108" break="no"/>positione. Ideo sortes non accipit. quia deus non 
+      <lb ed="#P" n="109"/>dat: non denotaretur nisi quod negatio actualis datio 
+      <lb ed="#P" n="110"/>nis est aliquo modo causa non receptionis posset con 
+      <lb ed="#P" n="111"/>cedi: quia negatio illius actualis est circunstantia 
+      <lb ed="#P" n="112"/>causalis. Sed talis propositio causalis esset assignatio 
+      in<lb ed="#P" n="113" break="no"/>sufficiens cause et diminuta: nec sufficienter termi 
+      <lb ed="#P" n="114"/>nans questionem propter quid iste non accipit: im 
+      <lb ed="#P" n="115"/>mo istud partiale propter quid esset resoluendum 
+      <lb ed="#P" n="116"/>in aliud propter quid ex parte passi. Ideo enim non 
+      <lb ed="#P" n="117"/>dat atualiter: quia in passo est impedimentum. 
+      Il<lb ed="#P" n="118" break="no"/>la autem propositio plus importat in communi ac 
+      <lb ed="#P" n="119"/>ceptione: quam puram negationem actualis causatio 
+      <lb ed="#P" n="120"/>nis vt dictum est: ideo non est concedenda 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2510">
+               <lb ed="#P" n="121"/>¶ Respondendum est igitur ad ea quibus proba 
+      <lb ed="#P" n="122"/>tur consequens illius rationis principalis esse ve 
+      <lb ed="#P" n="123"/>rum scilicet quod ideo homo non agit .b. actum debi 
+      <lb ed="#P" n="124"/>tum: quia deus non agit nec agere vult. Et quod ideo 
+      <lb ed="#P" n="125"/>homo non habet gratiam et perseuerantiam: quia 
+      <lb ed="#P" n="126"/>deus non dat 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2527">
+               <lb ed="#P" n="127"/>¶ Ad primum. Negatur consequentia. Si enim 
+      <lb ed="#P" n="128"/>presentibus causis naturalibus perducitur .b. et non 
+      <lb ed="#P" n="129"/>c. Deus non preordinauerat antecedenter .c. 
+      pro<lb ed="#P" n="130" break="no"/>duci ex illis causis: sed .b. loquendo de ordinationem 
+      <lb ed="#P" n="131"/>dispositoria / qua deus predisposuit ordinem 
+      cau<lb ed="#P" n="132" break="no"/>sarum naturalium 
+      <!--240.xml-->
+      <pb ed="#P" n="115-r"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="D78nca-e73000-d1e2549">
+               <lb ed="#P" n="1"/>¶ Sed si sortes tenetur producere .b. / et non 
+      pro<lb ed="#P" n="2" break="no"/>ducit: deus antecedenter preordinauerat ordina 
+      <lb ed="#P" n="3"/>tione preceptoria / et obligatoria produci .b. vel 
+      con<lb ed="#P" n="4" break="no"/>simile a talibus causis. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2560">
+               <lb ed="#P" n="5"/>¶ Si etiam ex imperfectione causarum 
+      naturali<lb ed="#P" n="6" break="no"/>um sequitur. c. effectus imperfectior: et non. d. effi 
+      <lb ed="#P" n="7"/>ctus perfectior.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2569">
+      ¶ Adhuc potest dici quod ideo non 
+      <lb ed="#P" n="8"/>producitur .d. quia deus non agit nec vult agere ad 
+      <lb ed="#P" n="9"/>d. quia licet non stet ex parte diuine causalitatis: 
+      <lb ed="#P" n="10"/>quin ponatur .d. quantum est ex potentia sufficientia 
+      <lb ed="#P" n="11"/>dei: sed ex insufficientia cause secunde. tamen stat 
+      <lb ed="#P" n="12"/>ex parte dei: sic quod deus antecedenter ordinauit / et 
+      <lb ed="#P" n="13"/>disposuit talem / et tantum effectum sequi ex tali 
+      <lb ed="#P" n="14"/>proportione causarum.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2587">
+      ¶ Ad secundum / dictum 
+      <lb ed="#P" n="15"/>est supra. Talsum enim est quando mouens 
+      pri<lb ed="#P" n="16" break="no"/>mum est quantum est ex se paratum mouere: sed stat 
+      <lb ed="#P" n="17"/>ex parte mouentis secundi / ratione sue libertatis./ 
+      <lb ed="#P" n="18"/>exemplum etiam quod posuit: procedit de mouente 
+      se<lb ed="#P" n="19" break="no"/>cundo recipiente a primo aliquam dispositionem 
+      <lb ed="#P" n="20"/>nouiter necessitantem ad effectum vlteriorem. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2603">
+               <lb ed="#P" n="21"/>¶ Ad tertium. Illud intelligitur de causa naturali: vel 
+      <lb ed="#P" n="22"/>si de libera intelligitur de libera absente secundum 
+      <lb ed="#P" n="23"/>illud quod est vel antecedenter respuente / et inud 
+      <lb ed="#P" n="24"/>luntaria agere: vel insufficiente ad agendum  
+    </p>
+            <p xml:id="D78nca-e73000-d1e2615">
+               <lb ed="#P" n="25"/>¶ Ad quartum. Non oportet quod defectus in effi 
+      <lb ed="#P" n="26"/>ctu referatur ad quamlibet causam: vel ascribatur 
+      <lb ed="#P" n="27"/>et imputetur cuilibet cause. Sufficit enim quod alicu 
+      <lb ed="#P" n="28"/>cause etiam instrumentali. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2626">
+               <lb ed="#P" n="29"/>¶ Ad quintum. Proceditur de possibili: et 
+      conce<lb ed="#P" n="30" break="no"/>ditur conclusio de possibili vt duarum creaturarum 
+      <lb ed="#P" n="31"/>rationalium in puris naturalibus conditarum si si in 
+      <lb ed="#P" n="32"/>ne aliqua differentia antecedente in illis: deus dat 
+      <lb ed="#P" n="33"/>gratiam: vel aliud donum vni / et non alteri: ideo al 
+      <lb ed="#P" n="34"/>tera non habet: quia deus non dat.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2642">
+      ¶ Non 
+      <lb ed="#P" n="35"/>sic autem est secundum legem communem 
+      ordina<lb ed="#P" n="36" break="no"/>tam.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2649">
+      ¶ Ad sextum. Causa precisa potest accipi 
+      <lb ed="#P" n="37"/>pro causa sufficiente / et totali in tali genere cause 
+      <lb ed="#P" n="38"/>ad positionem effectus: et sic non vniuersaliter 
+      <lb ed="#P" n="39"/>est illa propositio vera: quia non de causa libera / vel 
+      <lb ed="#P" n="40"/>includente causam liberam / vel etiam de causa 
+      na<lb ed="#P" n="41" break="no"/>turali: vt si sit impedimentum ex parte alterius 
+      cau<lb ed="#P" n="42" break="no"/>se: vt de luminoso respectu luminis praesente opaco den 
+      <lb ed="#P" n="43"/>so.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2667">
+      ¶ Alio modo pro causa sufficiente et totali par 
+      <lb ed="#P" n="44"/>exclusionem alterius cause vel causalis circunstan 
+      <lb ed="#P" n="45"/>tie que non contineatur in illa causa precisa forma 
+      <lb ed="#P" n="46"/>liter / vel implicite per illi nota. et sic diuina 
+      volun<lb ed="#P" n="47" break="no"/>tas non est precisa causa actus meritorii / vel accep 
+      <lb ed="#P" n="48"/>tionis gratie: quia secundum leges communes pre 
+      <lb ed="#P" n="49"/>exigitur / quasi per modum circunstantie causalis 
+      <lb ed="#P" n="50"/>marerialis dispositio aliqua in voluntate creata vel 
+      <lb ed="#P" n="51"/>indispositionis remotio. Cum vero additur quod illa 
+      <lb ed="#P" n="52"/>regula tenet in causis conuertibilibus cum causato 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2689">
+               <lb ed="#P" n="53"/>¶ Dicendum est quod causam conuertibiliter inferre 
+      <lb ed="#P" n="54"/>causatum postest esse dupliciter. vno modo vt illud 
+      <lb ed="#P" n="55"/>absolutum quod est per se / et immediate principium 
+      <lb ed="#P" n="56"/>causati: et illud absolutum cui denominatiue 
+      attri<lb ed="#P" n="57" break="no"/>buitur causari: concomitentur seinuicem conuert 
+      <lb ed="#P" n="58"/>biliter. Et sic causa que importatur per diuinam do 
+      <lb ed="#P" n="59"/>nationem / et gratia non se conuertibiliter inferunt: 
+      <lb ed="#P" n="60"/>quia diuinum velle potest poni sine effectu exteriori 
+      <lb ed="#P" n="61"/>Isto modo conuertuntur habere pulmonem / et re 
+      <lb ed="#P" n="62"/>pirare. Alio modo vt illud quod est causa accepti 
+      <lb ed="#P" n="63"/>sub ratione actualis causationis actiue. Et illud 
+      <lb ed="#P" n="64"/>absolutum quod causatur vt acceptum sub 
+      ratio<lb ed="#P" n="65" break="no"/>ne actualis causationis passiue conuertantur vt li 
+      <lb ed="#P" n="66"/>minosum illuminare: et subiectum illuminari / vel 
+      <!--240.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>deum dare / et creaturam accipere: et sic non vniuer 
+      <lb ed="#P" n="68"/>saliter est vera: quod si affirmatio est causalis 
+      respe<lb ed="#P" n="69" break="no"/>ctu affirmationis negatio sit causalis respectu 
+      ne<lb ed="#P" n="70" break="no"/>gationis maxime quando illud absolutum quod na 
+      <lb ed="#P" n="71"/>tum est causare est presens: nec stat in eo si non 
+      fo<lb ed="#P" n="72" break="no"/>ret impedimentum ex parte alterius. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2740">
+               <lb ed="#P" n="73"/>¶ Iterum potest dici quod dare potest accipi prooffer 
+      <lb ed="#P" n="74"/>re antecedenter / et sufficienter. Alio modo pro 
+      a<lb ed="#P" n="75" break="no"/>ctuali traditione / et transtatione dati in alterum vel 
+      <lb ed="#P" n="76"/>pro vtroque simul. Aut sub aliis verbis aliquis dici 
+      <lb ed="#P" n="77"/>tur dare vel simpliciter / et actualiter / vel quantum 
+      <lb ed="#P" n="78"/>est ex se.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2756">
+      ¶ Consimiliter non dare potest accipi vt 
+      <lb ed="#P" n="79"/>pure / et precise neget actualem traditionem. et sic 
+      <lb ed="#P" n="80"/>posset concedi: quod ideo sortes non accipit: quia 
+      de<lb ed="#P" n="81" break="no"/>us non dat. sed etiam negat velle simpliciter. quia 
+      <lb ed="#P" n="82"/>deus non vult formaliter / et simpliciter dare illud. 
+      <lb ed="#P" n="83"/>quod nunquam dat. Alio modo vt neget non solum 
+      <lb ed="#P" n="84"/>actualem traditionem: sed est antecedentem 
+      oblatio<lb ed="#P" n="85" break="no"/>nem / seu neget dationem tam simpliciter quam quantum est 
+      <lb ed="#P" n="86"/>ex parte dei: ita quod notet quasi repulsam et refutatio 
+      <lb ed="#P" n="87"/>nem antecedenter / et simpliciter ex parte dei: 
+      quan<lb ed="#P" n="88" break="no"/>uis non esset aliqua ratio ex parte creature. et sic 
+      <lb ed="#P" n="89"/>negatur illa negatiua causalis. Et sic accipit 
+      An<lb ed="#P" n="90" break="no"/>selmus: quia sic etiam accipitur talis negatiua secum 
+      <lb ed="#P" n="91"/>dum communem intellectum. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2787">
+               <lb ed="#P" n="92"/>¶ Ad septimum negatur consequentia. Ad 
+      pro<lb ed="#P" n="93" break="no"/>bationem. non infert propositum: quia non stat ex 
+      <lb ed="#P" n="94"/>parte dei / quin voluntas agat: sicut stat ex parte vo 
+      <lb ed="#P" n="95"/>luntatis quod actus non est: et non procedit ratio / et 
+      <lb ed="#P" n="96"/>circunstantia causalis ex parte actus. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2800">
+               <lb ed="#P" n="97"/>¶ Ad octauum huius quod voluntas non agat .b. non 
+      <lb ed="#P" n="98"/>oportet assignare aliquod extrinsecum propter quid 
+      <lb ed="#P" n="99"/>ipsam voluntatem licet causam agere posset reduci 
+      <lb ed="#P" n="100"/>in aliud propter quid: quia defectus culpe vltima 
+      <lb ed="#P" n="101"/>te refertur ad voluntatem causatam: non autem 
+      <lb ed="#P" n="102"/>bene agere sic precise et vltimate sibi ascribitur. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2816">
+               <lb ed="#P" n="103"/>¶ Ad nonum. Accipiendo proprie propter quid 
+      <lb ed="#P" n="104"/>Et quia etiam vt potest proprie accipi in negatiuis 
+      <lb ed="#P" n="105"/>neutra pars est dicenda: quia vna pars denotaret 
+      <lb ed="#P" n="106"/>diuinam causalitatem dependere a creatura: et alte 
+      <lb ed="#P" n="107"/>ra pars secundum communem acceptionem deno 
+      <lb ed="#P" n="108"/>taret deum antecedenter respuere: siue sit ratio vel 
+      <lb ed="#P" n="109"/>impedimentum ex per se creature / siue non. tamen 
+      <lb ed="#P" n="110"/>sumendo propositiones causales large / et 
+      impro<lb ed="#P" n="111" break="no"/>prie potest dici quod ideo deus non influit nec agit ad 
+      <lb ed="#P" n="112"/>b. quia voluntas creata non agit eo modo quo dicit 
+      <lb ed="#P" n="113"/>Anselmus. Quod ideo deus non dedit angelo 
+      perse<lb ed="#P" n="114" break="no"/>uerantiam: quia ille non accepita 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2845">
+               <lb ed="#P" n="115"/>¶ Ad improbationem. Dicendum est quod talis 
+      ypo<lb ed="#P" n="116" break="no"/>thetica causalis non denotat aliquam causalitatem 
+      <lb ed="#P" n="117"/>in creatura respectu alicuius formaliter existentis  
+      <lb ed="#P" n="118"/>in deo: sed solum denotatur quod ratio talis 
+      priua<lb ed="#P" n="119" break="no"/>tionis et defectus non est ex parte dei: sed volun 
+      <lb ed="#P" n="120"/>tatis create. Et non est: quia deus 
+      anteceden<lb ed="#P" n="121" break="no"/>ter refutet voluntati facienti quod in se est: sed 
+      <lb ed="#P" n="122"/>quia voluntas ex sua libertate omittit: et 
+      inter<lb ed="#P" n="123" break="no"/>pretatiue respuit. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2868">
+               <lb ed="#P" n="124"/>¶ Ad dicta Augustini. Eque sunt contra alios 
+      <lb ed="#P" n="125"/>quia si ideo voluntas non agit nec accipit: quia de 
+      <lb ed="#P" n="126"/>us non dat nec agit: igitur poterat faciliter respon 
+      <lb ed="#P" n="127"/>deri. Dicendum igitur quod Augustinus non vult 
+      de<lb ed="#P" n="128" break="no"/>terminate / et assertiue assignare causas quare 
+      duo<lb ed="#P" n="129" break="no"/>rum diu bene viuentium vnus cadit finaliter: et 
+      a<lb ed="#P" n="130" break="no"/>lius perseuerat: vel quare duorum diu male 
+      viuen<lb ed="#P" n="131" break="no"/>tium deus vnum specialiter vocat et suscitat et alie 
+      <lb ed="#P" n="132"/>us manet finaliter impenitens. Asserere enim quod 
+      <!--241.xml-->
+      <pb ed="#P" n="115-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>deus hoc non faciat nisi ex defectu antecedente in 
+      <lb ed="#P" n="2"/>llis priusquam alter caderet vel priusquam alter 
+      incipe<lb ed="#P" n="3" break="no"/>ret.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2903">
+      ¶ Asserere etiam quod hoc prouenit sine differen 
+      <lb ed="#P" n="4"/>tia antecedente in illis que sit ratio illius casus vel 
+      <lb ed="#P" n="5"/>conuersionis consequentis: et quod deus nunquam iuuat 
+      <lb ed="#P" n="6"/>aliquem ex speciali gratia magis quam alium siue vocan 
+      <lb ed="#P" n="7"/>do siue preseruando. Sic inquam asserere videtur pre 
+      <lb ed="#P" n="8"/>sumptuosum. quia hec dei iudicia sunt nobis occul 
+      <lb ed="#P" n="9"/>ta.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2919">
+      ¶ Probabiliter tamen potest dici: quod quamuis 
+      <lb ed="#P" n="10"/>duorum equalium / siue in bono / siue in malo deus 
+      <lb ed="#P" n="11"/>speciali auxilio gratuito posset vltra communem vsum 
+      <lb ed="#P" n="12"/>vnum preseruare a casu vel reuocare: tamen cuilet iusto 
+      <lb ed="#P" n="13"/>paratus est assistere et influere generali influentia ad 
+      fa<lb ed="#P" n="14" break="no"/>ciendum quod debet. et peccatori indulgere: si ante 
+      <lb ed="#P" n="15"/>cedenter faciat quod in se est: vel non fuerit in 
+      cau<lb ed="#P" n="16" break="no"/>sa impotentie. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e2937">
+               <lb ed="#P" n="17"/>¶ Ad primam improbationem. Dicta Anselmi 
+      <lb ed="#P" n="18"/>loquendo de causa large / et improprie / et 
+      metha<lb ed="#P" n="19" break="no"/>phorice Dicendum quod non accipere est causa pri 
+      <lb ed="#P" n="20"/>uatiua non dationis. Et eum infertur igitur 
+      pri<lb ed="#P" n="21" break="no"/>uat causam dandi. Negatur sed priuat disposi 
+      <lb ed="#P" n="22"/>tionem presuppositam ad dationem / vel ponit 
+      in<lb ed="#P" n="23" break="no"/>pedimentum dationis et consequenter priuat actua 
+      <lb ed="#P" n="24"/>lem causationem sicut densitas subiecti: Dicitur 
+      <lb ed="#P" n="25"/>causa priuatiua non illuminationis: non tamen 
+      <lb ed="#P" n="26"/>priuat per se et immediate causam illuminationis: quia 
+      <lb ed="#P" n="27"/>contingit luminosum esse praesens. Similiter indispo 
+      <lb ed="#P" n="28"/>sitio oculi est causa non habendi speciem non tamen 
+      <lb ed="#P" n="29"/>priuat primo causam productiuam speciei in 
+      oculo<lb ed="#P" n="30" break="no"/>scilicet lumen et obiectum priuat etiam dispositionem vel 
+      <lb ed="#P" n="31"/>lonit impedimentum causationis.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2972">
+      ¶ Notandum tamen 
+      <lb ed="#P" n="32"/>quod cum ansel. dicit non acceptionem causam dationis 
+      <lb ed="#P" n="33"/>Per non acceptionem intelligit ex parte voluntatis  
+      <lb ed="#P" n="34"/>create refutationem expresse vel implicite et interpre 
+      <lb ed="#P" n="35"/>tatiue. Et per non dare intelligit negationem actualis 
+      <lb ed="#P" n="36"/>traditionis et causationis vel negationem volendi 
+      <lb ed="#P" n="37"/>impliciter dare. Sed dicendo econtra quod ideo volun 
+      <lb ed="#P" n="38"/>tas non anccipit: quia deus non dat: denotaretur non quod ne 
+      <lb ed="#P" n="39"/>gatio dationis causalis et actiue sit causa negationis 
+      <lb ed="#P" n="40"/>dati: sed notaretur quod antecedens repulsa et refutatio ex 
+      par<lb ed="#P" n="41" break="no"/>te dei esset ratio non accipiendi.
+    </p>
+            <p xml:id="D78nca-e73000-d1e2996">
+      ¶ Ad secundam impro 
+      <lb ed="#P" n="42"/>bationem. dicta anselmi non repugnant. Primum enim 
+      <lb ed="#P" n="43"/>dictum eius sic intelligitur quod deus non facit creatu 
+      <lb ed="#P" n="44"/>ram que non est non esse tanquam illa creatura non ha 
+      <lb ed="#P" n="45"/>beret ex se non esse: nisi deus expelleret eam 
+      ab<lb ed="#P" n="46" break="no"/>esse vel impediret esse: quomodo diceres quod tu fal 
+      <lb ed="#P" n="47"/>cis me cadere: quia ego ex meipso / vel aliundem 
+      <lb ed="#P" n="48"/>stetissem nisi me impulisses. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e3015">
+               <lb ed="#P" n="49"/>¶ Secundum dictum est. quod aliquam rem non esse 
+      <lb ed="#P" n="50"/>huiusmodi: puta non dare vel non accipere potest 
+      <lb ed="#P" n="51"/>habere causam et propter quid. Ethec dicta non 
+      <lb ed="#P" n="52"/>repugnant. De huiusmodi propositionibus causa 
+      <lb ed="#P" n="53"/>libus improprie dicetur amplius in sequentibus 
+      <lb ed="#P" n="54"/>distin. 38.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3031">
+      ¶ Ad decimum. conceditur secunda re 
+      <lb ed="#P" n="55"/>sponsio ibi posita.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3036">
+      ¶ Ad improbationem. Dico quod vult 
+      <lb ed="#P" n="56"/>et intendit quod ille recipiat: vult inquam et intendit non sim 
+      <lb ed="#P" n="57"/>pliciter et efficaciter: quia non vult dare inuito nec 
+      in<lb ed="#P" n="58" break="no"/>disposito et respuenti explicite vel implicite: tamen 
+      <lb ed="#P" n="59"/>vult aliqualiter: quia quantum est ex se paratus est dare 
+      <lb ed="#P" n="60"/>si voluntas vellet que potest libere velle. Et licet ta 
+      <lb ed="#P" n="61"/>lis modus volendi non sit velle simpliciter et absolu 
+      <lb ed="#P" n="62"/>te: est tamen velle formaliter et actualiter / seu quas 
+      <lb ed="#P" n="63"/>conditionaliter et secundum quid: vt offero me 
+      ti<lb ed="#P" n="64" break="no"/>bi ad dandum sanitatem vel auferendum .b. sordem 
+      <lb ed="#P" n="65"/>et non volo hoc simpliciter et efficaciter et vltima 
+      <lb ed="#P" n="66"/>te: quia hoc perficerem / sed aliquem modum volendi 
+      <!--241.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>formaliter habeo: tamen non faciam illud nisi 
+      li<lb ed="#P" n="68" break="no"/>pere assentias: et ita nec vane offero. nec tamen 
+      se<lb ed="#P" n="69" break="no"/>luitur receptio.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3073">
+      ¶ Ad confirmationem per 
+      <lb ed="#P" n="70"/>dem.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3078">
+      ¶ Responsio ibidem adiuncta conceditur. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e3081">
+               <lb ed="#P" n="71"/>¶ Ad primam improbationem. Loquendo de tem 
+      <lb ed="#P" n="72"/>ore paruo precedente lapsum concedo quod ideo non 
+      <lb ed="#P" n="73"/>pabuerunt: nec receperunt: quia deus non dabat 
+      <lb ed="#P" n="74"/>Non enim ex parte eorum erat indispositio / quam 
+      <lb ed="#P" n="75"/>tenerentur auferre: et non habere. Sed loquendo 
+      <lb ed="#P" n="76"/>de tempore quo quidem acceperunt illi quinon acce 
+      <lb ed="#P" n="77"/>perunt: non ideo non acceperunt: quia deus non 
+      <lb ed="#P" n="78"/>dedit: sed econtra.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3102">
+      ¶ Deus enim preordinauerat vtsi 
+      <lb ed="#P" n="79"/>starent vsque ad certum tempus: daret eis gratiam 
+      <lb ed="#P" n="80"/>Similiter de primis parentibus.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3109">
+      ¶ Si enim 
+      stetis<lb ed="#P" n="81" break="no"/>sent per aliquod tale tempus obseruantes 
+      precep<lb ed="#P" n="82" break="no"/>tum / et resistentes diabolo accepissent gratiam 
+    </p>
+            <p xml:id="D78nca-e73000-d1e3116">
+               <lb ed="#P" n="83"/>¶ Ad secundam. quamuis sint omnino similes: et ille 
+      <lb ed="#P" n="84"/>qui vocatur ad baptismum ideo recipit gratiam: 
+      <lb ed="#P" n="85"/>quia deus dat: non tamen ideo alter non vocatur 
+      <lb ed="#P" n="86"/>et non recipit: quia deus non dat: quia in vtroque 
+      pre<lb ed="#P" n="87" break="no"/>erat obex reddens vtrunque indignum gratia et 
+      di<lb ed="#P" n="88" break="no"/>gnum pena scilicet peccatum originale: vt si quantum est 
+      <lb ed="#P" n="89"/>ex me paratus sum dare .b. beneficium eque 
+      digno<lb ed="#P" n="90" break="no"/>vel non contrarie indigno. Et Sortes / et Plato 
+      <lb ed="#P" n="91"/>sint equaliter indigni: et dignifico sortem dando ei 
+      <lb ed="#P" n="92"/>b. et non dignifico platonem. sed sic relinquo. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e3140">
+               <lb ed="#P" n="93"/>¶ Tunc quamuis ideo sortes accipiat / quia do: non ta 
+      <lb ed="#P" n="94"/>men ideo plato non accipit: quia non do iuxta 
+      intel<lb ed="#P" n="95" break="no"/>iectum supra expositum. Tamen est aliqua 
+      diffe<lb ed="#P" n="96" break="no"/>rentia inter huiusmodi paruulum non vocatum: 
+      <lb ed="#P" n="97"/>et adultum propter quam differentiam hec 
+      propo<lb ed="#P" n="98" break="no"/>sitio. Ideo deus non dat: quia ille non accipit 
+      <lb ed="#P" n="99"/>pabet aliquam causam veritatis: et aliquem 
+      sen<lb ed="#P" n="100" break="no"/>um verum in respectu adulti / quem non habet 
+      <lb ed="#P" n="101"/>respectu paruuli. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e3162">
+               <lb ed="#P" n="102"/>¶ Ad tertiam. licet antecedens sit negandum in casu 
+      <lb ed="#P" n="103"/>quo deus antecedenter erat paratus dare tantam 
+      <lb ed="#P" n="104"/>tratiam si iste produxisset talem et tantum actum qua 
+      <lb ed="#P" n="105"/>lem et quantum poterat producere et preordinauerat 
+      <lb ed="#P" n="106"/>deus dare tantam gratiam post talem actum tamen ne 
+      <lb ed="#P" n="107"/>gatur consequentia: quia et si deus antecedenter paratus 
+      <lb ed="#P" n="108"/>sit dare gratiam omni non indigno non tamen ex preordina 
+      <lb ed="#P" n="109"/>tione antecedenti paratus est dare quantamlibet cuilibet non in 
+      <lb ed="#P" n="110"/>digno contrarie.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3184">
+      ¶ Ad quartam negatur antecedens 
+      <lb ed="#P" n="111"/>equiualet enim isti ideo iste non se disponit faciendo 
+      <lb ed="#P" n="112"/>quod in se est et quod preexigitur: quia deus non 
+      <lb ed="#P" n="113"/>vult eum antecedenter iuuare ymo antecedenter re 
+      <lb ed="#P" n="114"/>spueret quamuis ille faceret quod in se est nec staret ex 
+      <lb ed="#P" n="115"/>parte eius.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3198">
+      ¶ Ad probationem conceditur quod deus 
+      <lb ed="#P" n="116"/>non vult simpliciter et absolute tollere illum obicen 
+      <lb ed="#P" n="117"/>vel preuenire speciali auxilio ad tollendum non ta 
+      <lb ed="#P" n="118"/>men ex hoc sequitur quod ideo iste non tollit: quia 
+      de<lb ed="#P" n="119" break="no"/>us non vult eum adiuuare. et conceditur quod in quibus 
+      <lb ed="#P" n="120"/>ollit hoc est speciali auxilio gratuito et quod in 
+      qui<lb ed="#P" n="121" break="no"/>pusdam non tollit hoc est iusto iudicio per culpam 
+      <lb ed="#P" n="122"/>in eis existentem: quia sunt indignigratia et gratui 
+      <lb ed="#P" n="123"/>to beneficio. Et eum dicitur quod secundum 
+      Augu<lb ed="#P" n="124" break="no"/>stinum ideo deus quorundam voluntatem non con 
+      <lb ed="#P" n="125"/>uertit quia noluit.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3222">
+      ¶ Potest dici quod posset eorum 
+      <lb ed="#P" n="126"/>conuertere voluntatem speciali / et singulari 
+      mo<lb ed="#P" n="127" break="no"/>do / preter modum communem sicut conuertit pau 
+      <lb ed="#P" n="128"/>lum: et tali modo non conuertit: quia non vult ta 
+      <lb ed="#P" n="129"/>li modo conuertere.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3233">
+      ¶ Sed Augustinus non 
+      ac<lb ed="#P" n="130" break="no"/>tipit nolle pro antecedente respuitione auxilii com 
+      <lb ed="#P" n="131"/>nunis si homo faceret quod in se est de tollendo 
+      o<lb ed="#P" n="132" break="no"/>bicem vel potest dici quod circa pecoatorem impenitentem 
+      <!--242.xml-->
+      <pb ed="#P" n="116-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>est intellectiue quasi tria / secundum prius et posterius 
+      <lb ed="#P" n="2"/>ordinata primo culpam peccatoris cum negatione 
+      <lb ed="#P" n="3"/>faciendi quod in se est: et quod debet antecedenter 
+      <lb ed="#P" n="4"/>Secundum est deum non velle: vel etiam nolle 
+      conuer<lb ed="#P" n="5" break="no"/>tere: et hoc nolle habet aliqualem mixtionem volun 
+      <lb ed="#P" n="6"/>tarii. Tertium est negatio gratie: licet igitur secundum 
+      <lb ed="#P" n="7"/>vt dicit solum negationem volendi vel causandi 
+      pos<lb ed="#P" n="8" break="no"/>sit assignari ratio et propter quid respectu tertii. tamen 
+      <lb ed="#P" n="9"/>talis assignatio est secundum quid et reducibilis in aliam 
+      <lb ed="#P" n="10"/>assignationem significantem culpam et 
+      indispositio<lb ed="#P" n="11" break="no"/>nem in peccatore. Ideo enim non vult misereri: quia 
+      <lb ed="#P" n="12"/>iste indignus est: nec facit quod faciendum exigitur 
+      <lb ed="#P" n="13"/>ex parte sui. Ex hiis autem non sequitur quod ideo iste 
+      <lb ed="#P" n="14"/>non agit nec se disposuit: quia deus antecedenter 
+      re<lb ed="#P" n="15" break="no"/>spuat ei coagere quod tamen importaret illa causalis 
+      <lb ed="#P" n="16"/>quam negaui supra. vel potest dici quod Augustinus. Po 
+      <lb ed="#P" n="17"/>nit illam causalem. ideo deus non conuertit. quia non 
+      <lb ed="#P" n="18"/>vult conuertere vt negatio volitionis intelligatur 
+      <lb ed="#P" n="19"/>quasi propter quid / respectu negationis 
+      executio<lb ed="#P" n="20" break="no"/>nis et actualis causationis diuine. Ex hoc autem 
+      <lb ed="#P" n="21"/>non sequitur causalis illa que principaliter 
+      nega<lb ed="#P" n="22" break="no"/>tur.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3296">
+      ¶ Ad illud Ambrosiis per illud non 
+      respice<lb ed="#P" n="23" break="no"/>re non intendit Ambrosius. negationem et 
+      repul<lb ed="#P" n="24" break="no"/>sam influentie / et auxilii diuini parati secundum  
+      <lb ed="#P" n="25"/>communem vsum et modum peccatoribus volenti 
+      <lb ed="#P" n="26"/>bus redire: sed intendit puram negationem 
+      singula<lb ed="#P" n="27" break="no"/>ris auxilii quod non est antecedenter paratum et ex 
+      <lb ed="#P" n="28"/>positum omnibus peccatoribus: et conceditur quod ne 
+      <lb ed="#P" n="29"/>gatio illius specialis auxilii poterat tunc assignari 
+      <lb ed="#P" n="30"/>aliquale propter quid / respectu non stetus proillo 
+      <lb ed="#P" n="31"/>tempore. quia deus disposuerat illud auxilium sin 
+      <lb ed="#P" n="32"/>gulare conferre certo tempore. Ex hoc autem non 
+      se<lb ed="#P" n="33" break="no"/>quitur / illa causalis in sensu quo negata est supra / 
+      <lb ed="#P" n="34"/>que etiam intelligitur de repulsa auxilii secundum 
+      <lb ed="#P" n="35"/>communem cursum preparatum peccatoribus vo 
+      <lb ed="#P" n="36"/>lentibus facere quod in se est et quod debent ad 
+      re<lb ed="#P" n="37" break="no"/>uertendum.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3331">
+      ¶ Ad quintum / negatur antecedens 
+      <lb ed="#P" n="38"/>vt deum non velle tales credere assignatur propter 
+      <lb ed="#P" n="39"/>quid vltimum / et neget influentiam dei anteceden 
+      <lb ed="#P" n="40"/>ter esse paratam: immo propter demerita / et 
+      indi<lb ed="#P" n="41" break="no"/>spositionem illorum non adiuuat illos / nec illi 
+      fa<lb ed="#P" n="42" break="no"/>ciunt antecedenter quod in se est et quod possent 
+      <lb ed="#P" n="43"/>secundum influentiam dei generalem. et etiam quod 
+      <lb ed="#P" n="44"/>deberent secundum ordinationes diuinas.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3349">
+      ¶ Ad  
+      <lb ed="#P" n="45"/>probationem / non negatur / quin negatio volendi 
+      <lb ed="#P" n="46"/>dare posset aliquo modo assignari / tanquam propter 
+      <lb ed="#P" n="47"/>quid respectu negationis dationis actualis. et con 
+      <lb ed="#P" n="48"/>sequenter negationis ipsius causati: sed non est pro 
+      <lb ed="#P" n="49"/>pter quid vltimatum: sed reducitur quasi in propter 
+      <lb ed="#P" n="50"/>quid in negationem dispositionis et faciendi quod 
+      <lb ed="#P" n="51"/>in se est: et in affirmationem indignitatis circa 
+      pec<lb ed="#P" n="52" break="no"/>catorem. Et hoc intendit Anselmus per 
+      ne<lb ed="#P" n="53" break="no"/>gationem acceptionis. id est. non facere quod in se 
+      <lb ed="#P" n="54"/>est ad accipiendum: sed habere indispositionem in 
+      <lb ed="#P" n="55"/>dignificantem: et ita implicite et equiualenter 
+      re<lb ed="#P" n="56" break="no"/>pulsam acceptionis per non dare. etiam Anselmus 
+      <lb ed="#P" n="57"/>non intelligit puram negationem dationis: sed 
+      anteceden<lb ed="#P" n="58" break="no"/>tem determinatam et absolutam refutationem ex 
+      <lb ed="#P" n="59"/>parte dei / siue stet antecedenter ex per te creature siue non 
+      <lb ed="#P" n="60"/>Intendit etiam Augustinus quod illi qui credunt per 
+      <lb ed="#P" n="61"/>fidem formatam ideo credunt: quia deus speciali 
+      <lb ed="#P" n="62"/>auxilio et gratia adiuuat eos / et illi qui non credunt 
+      <lb ed="#P" n="63"/>non adiuuantur illo speciali auxilio: sed 
+      huiusmo<lb ed="#P" n="64" break="no"/>di ratio. antecedens est in illis: quia non bene vtun 
+      <lb ed="#P" n="65"/>tur generali dei influentia et auxilio sibi exposito. 
+    </p>
+            <p xml:id="D78nca-e73000-d1e3398">
+               <lb ed="#P" n="66"/>¶ Ad aliud deus non exce cat nec indurat causa 
+      <!--242.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>do in eis speciali influentia actus inordinatos: sed  
+      <lb ed="#P" n="68"/>deserendo et non adiuuando speciali auxilio: quia 
+      <lb ed="#P" n="69"/>illi non antecedenter faciunt quod deberent et 
+      pos<lb ed="#P" n="70" break="no"/>sent ex generali auxilio. vt in sequenti questione de 
+      <lb ed="#P" n="71"/>clarabitur.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3418">
+      ¶ Ad aliud Tirii et Sidonii / non 
+      fece<lb ed="#P" n="72" break="no"/>runt antecedenter quod possent de querendo fidem 
+      <lb ed="#P" n="73"/>et notitiam veritatis. Si enim fecissent / deus illis 
+      <lb ed="#P" n="74"/>misisset: vnde ad notitiam veritatis peruenissent. 
+      <lb ed="#P" n="75"/>Deus autem propter culpam eorum non misit: 
+      li<lb ed="#P" n="76" break="no"/>cet quidam credidissent si deus speciali gratia pre 
+      <lb ed="#P" n="77"/>dicatores illis cum miraculis misisset.
+    </p>
+            <p xml:id="D78nca-e73000-d1e3434">
+      ¶ Ad 
+      sex<lb ed="#P" n="78" break="no"/>tum / loquendo de vocatione et preseruatione com 
+      <lb ed="#P" n="79"/>muni que intelligitur secundum precepta et 
+      docu<lb ed="#P" n="80" break="no"/>menta antecedenter tradita / et secundum 
+      influen<lb ed="#P" n="81" break="no"/>tiam dei generalem expositam. et consequenter 
+      se<lb ed="#P" n="82" break="no"/>cundum dei influentiam specialem aliquam / 
+      suppo<lb ed="#P" n="83" break="no"/>sito b ono vsu influentie generalis. negatur prima 
+      <lb ed="#P" n="84"/>pars antecedentis. quia illa sunt atnecedenter expo 
+      <lb ed="#P" n="85"/>sita predestinatis et non predestinatis. Loquendo 
+      <lb ed="#P" n="86"/>vero de vocatione et preseruatione quadam 
+      singula<lb ed="#P" n="87" break="no"/>ri et rara preter modum communem quali vocatio 
+      <lb ed="#P" n="88"/>ne deus ex speciali priuilegio / et cum speciali 
+      mira<lb ed="#P" n="89" break="no"/>culo aliquos vocat et preseruat / vt paulum. 
+      Con<lb ed="#P" n="90" break="no"/>ceditur quod ideo quidam interdum sic vocantur vel 
+      <lb ed="#P" n="91"/>preseruantur / et alii non vt iniuisti non sic 
+      vocan<lb ed="#P" n="92" break="no"/>tur vel preseruantur: quia isti sunt predestinati. et 
+      <lb ed="#P" n="93"/>non illi: et consequenter potest concedi / quod ideo illi 
+      <lb ed="#P" n="94"/>non sic vocantur. quia deus non vult eos tali 
+      sin<lb ed="#P" n="95" break="no"/>gulari modo vocare licet etiam hoc posset reduci 
+      <lb ed="#P" n="96"/>in aliud propter quid. quia illi sunt indigni tali gra 
+      <lb ed="#P" n="97"/>tia et auxilio: et licet alii sint eque indigni non 
+      se<lb ed="#P" n="98" break="no"/>quitur quod ideo de hoc non tribuat illis propter indigni 
+      <lb ed="#P" n="99"/>tatem eorum. Sed hec non sunt contra 
+      principa<lb ed="#P" n="100" break="no"/>le propositum: quia et licet deus non offerat 
+      ante<lb ed="#P" n="101" break="no"/>cedenter illis talem modum auxilii. tamen 
+      antece<lb ed="#P" n="102" break="no"/>denter est paratus conferre auxilium influentie ge 
+      <lb ed="#P" n="103"/>neralis / et consequenter influentie specialis. qua 
+      <lb ed="#P" n="104"/>solet de communi lege adtuuare bene vtentes 
+      in<lb ed="#P" n="105" break="no"/>fluentia generali faciendo antecedenter quod in se 
+      <lb ed="#P" n="106"/>est secundum naturalia sibi data. Negatur etiam 
+      <lb ed="#P" n="107"/>ille singularis modus auxilii / merito propter 
+      cul<lb ed="#P" n="108" break="no"/>pas hominum. Cum ergo dicit Augustinus quod ideo 
+      <lb ed="#P" n="109"/>peccator non surrexit. quia nondum deus hunc ere 
+      <lb ed="#P" n="110"/>xit. potest dici quod vel ly quia notat concomitantiam 
+      <lb ed="#P" n="111"/>vel si sit assignatio propter quid / est assignatio 
+      im<lb ed="#P" n="112" break="no"/>perfecta et diminuta tanquam propter quid secundum 
+      <lb ed="#P" n="113"/>quid et conditionale / et in aliud propter quid redu 
+      <lb ed="#P" n="114"/>cibile. Ideo enim hic non resurgit: quia indignus 
+      <lb ed="#P" n="115"/>est releuari: et ex libertate / et malicia impeditur 
+      <lb ed="#P" n="116"/>facere quod in se est: immo implicite et interpretative 
+      <lb ed="#P" n="117"/>repellit auxilium. licet sibi paratum esset: et ob hoc deus 
+      <lb ed="#P" n="118"/>eum non erigit auxilio speciali. Inde sequitur con 
+      <lb ed="#P" n="119"/>tinuatio more: in priori statu et negatio effectus 
+      op<lb ed="#P" n="120" break="no"/>positi. Ad aliud. non videtur concedendum quod ideo 
+      <lb ed="#P" n="121"/>iste non perseueret quia non est predestinatus. quia hec 
+      <lb ed="#P" n="122"/>denotaret quod ratione non predestinationis deus iste 
+      <lb ed="#P" n="123"/>substraheret influentiam et auxilium: propter quam 
+      <lb ed="#P" n="124"/>substractionem iste caderet. vel quod non predestinato 
+      <lb ed="#P" n="125"/>existenti in peccato deus non esset paratus influere 
+      <lb ed="#P" n="126"/>sed respueret antecedenter influere ad penitendum 
+      <lb ed="#P" n="127"/>et reuertendum: quamuis iste faceret non minus quod 
+      <lb ed="#P" n="128"/>in se est: quam alius predestinatus: tamen interdum 
+      pre<lb ed="#P" n="129" break="no"/>destinatum adiuuat quodam singulari modo 
+      ratio<lb ed="#P" n="130" break="no"/>ne predestinationis. Et cum arguitut quod deus est cau 
+      <lb ed="#P" n="131"/>sa quare precise tantus et non maior sit numerus pre 
+      <lb ed="#P" n="132"/>destinatorum. etc. Potest dici quod accipiendo non praedestinari 
+      <!--243.xml-->
+      <pb ed="#P" n="116-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>pro mera negatione predestinationis abstrahendo a 
+      <lb ed="#P" n="2"/>reprobatione et deputatione ad gehennam / et a cul 
+      <lb ed="#P" n="3"/>pa / quamuis posset concedi quod deus est causa quare illi 
+      <lb ed="#P" n="4"/>non sunt predestinati. Tamen accipiendo non pre 
+      <lb ed="#P" n="5"/>destinari. prout implicat reprobationem et finalem 
+      im<lb ed="#P" n="6" break="no"/>penitentiam et mansionem in peccatis. Negatur quod 
+      <lb ed="#P" n="7"/>deus sit causa quare illi non sunt predestinati. et ne 
+      <lb ed="#P" n="8"/>gatur antecedens. In hoc enim quod dicitur deus est causa 
+      <lb ed="#P" n="9"/>quare tantus precise vt non maior. etc. Implicatur vni 
+      <lb ed="#P" n="10"/>affirmatiua / scilicet quod deus sit causa quare isti sunt praede 
+      <lb ed="#P" n="11"/>stinati: et implicatur vna negatiua: scilicet / quod deus sit cau 
+      <lb ed="#P" n="12"/>sa quare alii non sunt predestinati: sed reprobati. 
+      <lb ed="#P" n="13"/>Muius autem deus non est causa: saltem totalis vel 
+      <lb ed="#P" n="14"/>vltimata. sed habet resolui in propter quid ex 
+      par<lb ed="#P" n="15" break="no"/>te non predestinatorum: scilicet propter demerita. vt in 
+      <lb ed="#P" n="16"/>sequentibus ostendetur. Ad argumentum in 
+      prin<lb ed="#P" n="17" break="no"/>cipio questionis patet questione sequenti. Et sic de 
+      <lb ed="#P" n="18"/>ista presenti questione. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

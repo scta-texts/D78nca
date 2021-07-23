@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="23-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-e14615"><!-- l1d1q3 -->
+            <head xml:id="D78nca-e14615-Hd1e108">Quaestio 3</head>
+            <head xml:id="D78nca-e14615-Hd1e111" type="question-title">
+      utrum voluntas 
+      referens illud quo vtitur in illud quo fruitur velit 
+      utrumque per vnicum actum simplicem.
+    </head>
+            <p xml:id="D78nca-e14615-d1e114">
+               <lb ed="#P" n="115"/>¶ Questio tertia.  
+      <lb ed="#P" n="116"/>de actu intellectus comparatiuo / viden 
+    </p>
+            <p xml:id="D78nca-e14615-d1e121">
+               <lb ed="#P" n="117"/>¶ Uiso dum est vltimo circa primam distinctionem 
+      <lb ed="#P" n="118"/>de actu voluntatis relatiuo. Et quero vtrum voluntas 
+      <lb ed="#P" n="119"/>referens illud quo vtitur in illud quo fruitur / velit 
+      <lb ed="#P" n="120"/>vtrumque per vnicum actum simplicem.
+    </p>
+            <p xml:id="D78nca-e14615-d1e132">
+      Quod non. quia vti et frui 
+      <lb ed="#P" n="121"/>sunt actus distincti. sunt enim de per se differentiis vo 
+      <lb ed="#P" n="122"/>lendi: sed actus quo voluntas vult illud quo vtitur est 
+      <lb ed="#P" n="123"/>vti et actus quo vnlt illud quo fruitur est frui. igitur. 
+    </p>
+            <p xml:id="D78nca-e14615-d1e142">
+               <lb ed="#P" n="124"/>¶ Contra. vbi vnum propter alterum vtrobique vnum tantum 
+      <lb ed="#P" n="125"/>secundum Boetium 
+    </p>
+            <p xml:id="D78nca-e14615-d1e149">
+               <lb ed="#P" n="126"/>¶ Contingit volunta 
+      <lb ed="#P" n="127"/>Primma conclusio. tem velle aliquod ob 
+      <lb ed="#P" n="128"/>iectum non pure absolutes / sed formaliter in ordine et re 
+      <lb ed="#P" n="129"/>latiue ad alterum. probatur. quia voluntas non minus est 
+      <lb ed="#P" n="130"/>virtus collatiua et comparatiua nec minus potens refer 
+      <lb ed="#P" n="131"/>re vnum obiectum ad aliud quam intellectus: sed 
+      intelle<lb ed="#P" n="132" break="no"/>ctus potest sic intelligere. ergo.
+    </p>
+            <p xml:id="D78nca-e14615-d1e167">
+      <!--57.xml-->
+               <pb ed="#P" n="23-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Secunda conclusio. ¶ Contingit voluntatem 
+      <lb ed="#P" n="2"/>creatam velle aliquid 
+      pro<lb ed="#P" n="3" break="no"/>pter alterum et in relatione ad alterum / volendo vtrumque 
+      <lb ed="#P" n="4"/>per vnicum actum simplicem. probatur. illud quod offertur vo 
+      <lb ed="#P" n="5" break="no"/>luntati et in quod fertur voluntas non sub aliqua ratio 
+      <lb ed="#P" n="6" break="no"/>ne bonitatis vel diligibilitatis in se et absolute / se qdi 
+      <lb ed="#P" n="7"/>praecise sub ratione diligibilitatis propter alterum et in 
+      relatio<lb ed="#P" n="8" break="no"/>ne ad alterum. si diligitur non diligitur proprie et distincte 
+      <lb ed="#P" n="9"/>actu: sed eodem actu quo diligitur illud ad alterum / sed 
+      <lb ed="#P" n="10"/>contingit aliquid dilectum et volitum propter alterum sic oni 
+      <lb ed="#P" n="11"/>ferri voluntati igitur. minor patet. quia contingit potionem 
+      <lb ed="#P" n="12"/>amaram et sumptionem eius praesentari voluntati / non sul 
+      <lb ed="#P" n="13"/>aliqua ratione diligibilitatis et eligibilitatis in se 
+      ab<lb ed="#P" n="14" break="no"/>solute intrinsece: sed tantum in habitudine ad sanitatem 
+      <lb ed="#P" n="15"/>et quatinus conferens ad sanitatem ita quod hac 
+      habitudi<lb ed="#P" n="16" break="no"/>ne circumscripta voluntas non amaret nec diligeret: 
+      <lb ed="#P" n="17"/>sed omnino refugeret sumere potionem amaram. maior pro 
+      <lb ed="#P" n="18" break="no"/>batur. quia si voluntas habet actum proprium et distinctum 
+      <lb ed="#P" n="19"/>quo formaliter vult et diligit a. obiectu: ita quod actus non 
+      <lb ed="#P" n="20"/>terminatur nisi ad a. obiectum. sequitur quod .a. habet in se 
+      <lb ed="#P" n="21"/>secundum rem formaliter / vel secundum apparentiam et ostensionem 
+      pro<lb ed="#P" n="22" break="no"/>priam bonitatem et diligibilitatem secundum quam terminat illum 
+      <lb ed="#P" n="23"/>actum ratione dilectionis recte. per illum enim actum diligitur 
+      <lb ed="#P" n="24"/>aliqua bonitas existens vel apparens et per illum voluntas 
+      <lb ed="#P" n="25"/>tendit in aliquam bonitatem praexistentem vel apparentem 
+      <lb ed="#P" n="26"/>Non autem in bonitatem ipsius .b. propter quod vult .a. quia in 
+      <lb ed="#P" n="27"/>le actus non terminatur obiectiue ad .b. sed tantum ad. a. igitur 
+      <lb ed="#P" n="28"/>per illum actum diligitur .a. vt bonum in se eodem modo potest 
+      <lb ed="#P" n="29"/>argui de dilectione moraliter bona et virtuosa secundum quam 
+      <lb ed="#P" n="30"/>aliquis vult assumere penam sibi vt conferentem ad vi 
+      <lb ed="#P" n="31" break="no"/>tutem et perfectionem moralem. hec autem ratio non videur 
+      <lb ed="#P" n="32"/>probare quod habitualis notitia et habitualis dilectio fi 
+      <lb ed="#P" n="33" break="no"/>nis non sufficit ad dilectionem actualem distinctam 
+      ta<lb ed="#P" n="34" break="no"/>lis entis ad alterum. quia tunc haberetur actus dile 
+      <lb ed="#P" n="35" break="no"/>ctionis proprius quo formaliter et praecise voluntas dilige 
+      <lb ed="#P" n="36" break="no"/>ret tale ens in se et absolute et in se sisteret 
+    </p>
+            <p xml:id="D78nca-e14615-d1e254">
+               <lb ed="#P" n="37"/>Tertia conclusio. ¶ Omnis voluntas vo 
+      <lb ed="#P" n="38" break="no"/>lens aliquid actualiter et 
+      for<lb ed="#P" n="39" break="no"/>maliter propter alterum et in ordine et relatione ad alterm 
+      <lb ed="#P" n="40"/>fertur in vtrunque vnico actu simplici. probatur. 
+      intel<lb ed="#P" n="41" break="no"/>lectus cognoscens formaliter aliquod obiectum in relatione 
+      <lb ed="#P" n="42"/>ad alterum cognoscit vtrunque vnico actu. vt patet ex su 
+      <lb ed="#P" n="43"/>perioribus igitur. pari ratione de voluntate.
+    </p>
+            <p xml:id="D78nca-e14615-d1e272">
+      ¶ Preterea 
+      <lb ed="#P" n="44"/>sit.a. actus per quem formaliter voluntas diligat ens ad 
+      <lb ed="#P" n="45"/>finem et per illum non diligat finem et sit .b. actus quo formaliter 
+      <lb ed="#P" n="46"/>diligat finem. et per illum non diligat ens ad finem circumscri 
+      <lb ed="#P" n="47"/>bendo omnem alium actum. probo quod per istos actus non diligat 
+      <lb ed="#P" n="48"/>actualiter et formaliter hoc in ordine ad illud quia a. actu exintte 
+      <lb ed="#P" n="49"/>praecise in voluntate per potentiam dei / aut per .a. actum diligo 
+      <lb ed="#P" n="50"/>formaliter .c. obiectum propter finem et in ordine et respectu 
+      <lb ed="#P" n="51"/>ad finem et referendo in d. finem vt gratia alterius et vt or 
+      <lb ed="#P" n="52"/>dinatum ad aliud aut non: sed diligo. .c. in se et absolute 
+      <lb ed="#P" n="53"/>Si primum. habetur propositum quia contradictio est volunta 
+      <lb ed="#P" n="54"/>tem actualiter et formaliter sic diligere .c. in habitudine 
+      <lb ed="#P" n="55"/>ad d. finem et referendo in d. finem cum voluntas habeat 
+      <lb ed="#P" n="56"/>aliquem actum circa. d. sicut contradictio est intellectum 
+      <lb ed="#P" n="57"/>actualiter ferri super hoc obiectum in relatione ad illud 
+      <lb ed="#P" n="58"/>quin habeat aliquem actum circa illud. Si secundum. igitur 
+      <lb ed="#P" n="59"/>propter appositionem ipsius .b. actus voluntas per. a. actum 
+      <lb ed="#P" n="60"/>non diligit .c. obiectum in relatione ad aliud vt finem. pro 
+      <lb ed="#P" n="61"/>batio huius consequentie. quia voluntas non diligit.c. obiectum 
+      <lb ed="#P" n="62"/>aliter quam prius propter solam appositionem illius actus 
+      <lb ed="#P" n="63"/>qui nullo modo est dilectio ipius c. nec habet c. pro obit 
+      <lb ed="#P" n="64"/>cto.
+    </p>
+            <p xml:id="D78nca-e14615-d1e320">
+      ¶ Confirmatur. Si a. propter appositionem ipius .b 
+      <lb ed="#P" n="65"/>est dilectio sui obiecti aliter quam prius. igitur est 
+      actua<lb ed="#P" n="66" break="no"/>liter et formaliter dilectio huius obiecti non absolute sed 
+      <!--57.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>in relatione ad alterum. igitur per ipsum vt distinctum ab omni 
+      <lb ed="#P" n="68"/>alio actu volo formaliter hoc in habitudine ad alterm 
+      <lb ed="#P" n="69"/>igitur per ipsum volo aliquid quod non prius. igitur est 
+      <lb ed="#P" n="70"/>vnus actus respectu vtriusque obiecti. Eodem modo 
+      <lb ed="#P" n="71"/>potest argui de b. actu quo voluntas diligit d. finem non in se 
+      <lb ed="#P" n="72"/>et absolute sed vt finenseu causam finalem.
+    </p>
+            <p xml:id="D78nca-e14615-d1e345">
+      ¶ Preterea 
+      <lb ed="#P" n="73"/>diligere hoc propter illud vt finem gratia cuius aut est 
+      vo<lb ed="#P" n="74" break="no"/>luntatem aliquo vno actu relatiuo determinate ferri 
+      <lb ed="#P" n="75"/>in hoc et in illud et habetur propositum. aut est praecise habe 
+      <lb ed="#P" n="76"/>re dilectionem illius et hoc non. quia hoc non magis 
+      dili<lb ed="#P" n="77" break="no"/>geretur propter illud quam econtra. et quia voluntas potest ali 
+      <lb ed="#P" n="78"/>qua simul diligere. licet non diligat hoc propter illud 
+      <lb ed="#P" n="79"/>aut hoc est dilectionem huius causare dilectionem ilius 
+      <lb ed="#P" n="80"/>et hoc improbatur infra quaestione quarta. 
+      <lb ed="#P" n="81"/>vltimas duas conclusiones arguitur primo 
+      <lb ed="#P" n="82"/>Contto quod Arist. 3 eth. c. 5. vbi probat quod electio 
+      <lb ed="#P" n="83"/>non sit voluntas. arguendo sic voluntas est respectu fi 
+      <lb ed="#P" n="84"/>nis. Electio autem est respectu eorum que sunt ad finem 
+      igitu<lb ed="#P" n="85" break="no"/>tur electio non est voluntas hec ratio non videtur 
+      <lb ed="#P" n="86"/>valere: sed idem actus potest esse respectu finis et entis ad 
+      <lb ed="#P" n="87"/>finem. immo electio que est respectu entis ad finem esset 
+      <lb ed="#P" n="88"/>etiam respectu finis. Secundo. ille actus non est formaliter 
+      <lb ed="#P" n="89"/>dilectio finis quo manente stat voluntatem non 
+      dilige<lb ed="#P" n="90" break="no"/>re finem et desinit voluntas diligere finem: sed dilectio 
+      en<lb ed="#P" n="91" break="no"/>tis ad finem est huiusmoi. probo. quia si quis propter amorem dei 
+      <lb ed="#P" n="92"/>incipiat orare / aut aliquod aliud opus agere voluntas 
+      <lb ed="#P" n="93"/>volet et aget illud opus propter deum: sed contingit quod de 
+      <lb ed="#P" n="94"/>sinendo cogitare de deo potest voluntas libere 
+      perse<lb ed="#P" n="95" break="no"/>uerare in eodem opere. ergo volet et aget illud 
+      conti<lb ed="#P" n="96" break="no"/>nue propter deum non diligendo actualiter deum. Tertio. idem 
+      <lb ed="#P" n="97"/>actus esset vti et frui. immo esse vti esset frui. consequentia patet quia 
+      <lb ed="#P" n="98"/>amor finis propter se est fruitio et amor entis ad finem 
+      <lb ed="#P" n="99"/>propter finem est vsus. consequens est falsum. quia videntur differentie 
+      <lb ed="#P" n="100"/>opposite actuum voluntatis et habent modos 
+      opposi<lb ed="#P" n="101" break="no"/>tos tendentie et terminationis ad obiecta puta propi 
+      <lb ed="#P" n="102"/>se et non propter se / sed propter aliud.
+    </p>
+            <p xml:id="D78nca-e14615-d1e413">
+      ¶ Dices. consequens non 
+      <lb ed="#P" n="103"/>est inconueniens respectu diuersorum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e418">
+      ¶ Contra. Pri 
+      <lb ed="#P" n="104"/>mo. vti et frui sunt differentie actuum voluntatis diuisiue. igitur 
+      <lb ed="#P" n="105"/>tur differunt genere vel specie. ergo numero. ex. 55. 
+      <lb ed="#P" n="106"/>metha. igitur realiter. antecedens probatur. quia velle videtur 
+      pri<lb ed="#P" n="107" break="no"/>maria sui diuisione distingui in velle aliquid propter 
+      <lb ed="#P" n="108"/>se et propter alterum. Etiam amandi actus videtur 
+      pri<lb ed="#P" n="109" break="no"/>mo distingui in amorem amicitie quo scilicet aliquid dili 
+      <lb ed="#P" n="110"/>gitur propter se et in amorem concupiscentie scilicet quo di 
+      <lb ed="#P" n="111"/>ligitur aliquid alteri et propter alterum: sed frui est al 
+      <lb ed="#P" n="112"/>cui amori inherere propter se / et vti est referre aliquid 
+      <lb ed="#P" n="113"/>in alterum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e442">
+      ¶ Confirmatur. plus distinguitur vsus a frut 
+      <lb ed="#P" n="114"/>tione quam vsus ab vsu supposita equali diuersitate ex 
+      <lb ed="#P" n="115"/>parte obiectorum. quia ista continentur sub vna differentia prima 
+      <lb ed="#P" n="116"/>rie diuisionis actuum voluntatis: sed vsus realiter 
+      distin<lb ed="#P" n="117" break="no"/>guitur ab vsu igitur.
+    </p>
+            <p xml:id="D78nca-e14615-d1e453">
+      ¶ Item. contra responsionem. pari ratione 
+      <lb ed="#P" n="118"/>diceretur quod idem actus est dilectio respectu vnius et 
+      <lb ed="#P" n="119"/>tristicia rei pectu alterius et consequeter posset idem actus esse 
+      <lb ed="#P" n="120"/>in summo dilectio et in summo tristicia.
+    </p>
+            <p xml:id="D78nca-e14615-d1e462">
+      ¶ Consimi 
+      <lb ed="#P" n="121"/>liter quod idem actus est virtus et vicium respectu diuerso 
+      <lb ed="#P" n="122"/>rum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e470">
+      ¶ Consimiliter quod idem actus intelectus esset 
+      scien<lb ed="#P" n="123" break="no"/>tia respectu vnius et error vel falsitas respectu alte 
+      <lb ed="#P" n="124"/>rius. Etiam quod idem actus esset beatitudo respectu vnius 
+      <lb ed="#P" n="125"/>obiecti et miseria respectu alterius obiecti et idem esset 
+      <lb ed="#P" n="126"/>simul miser et beatus / et per augmentationem illius actus 
+      <lb ed="#P" n="127"/>erit summe miser et simul summe beatus. Et quanto fiet 
+      <lb ed="#P" n="128"/>peatior / tanto fiet miserior et sic de quibuscumque differentis  
+      <lb ed="#P" n="129"/>oppositis et diuisiuis.
+    </p>
+            <p xml:id="D78nca-e14615-d1e488">
+      ¶ Item. quod sit fruitio respectu 
+      <lb ed="#P" n="130"/>entis ad finem. probo. illo obiecto fruitur potentia / quod est 
+      <lb ed="#P" n="131"/>per se obiectum fruitionis formaliter et absolute: sed cre 
+      <lb ed="#P" n="132"/>atura erit huiusmoi. probo. quia erit per se obiectum actus qui 
+      <!--58.xml-->
+      <pb ed="#P" n="24-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>qui est fruitio.
+    </p>
+            <p xml:id="D78nca-e14615-d1e506">
+      ¶ Item. voluntas eodem actu diligeret 
+      <lb ed="#P" n="2"/>aliquid in se et absolute et aliquid aliud. igitur relatiue 
+      <lb ed="#P" n="3"/>patet consequentia. quia frui est amore inherere alicui propter se. se 
+      <lb ed="#P" n="4"/>cundum Aug. et ita illud diligitur non in relatione ad a 
+      <lb ed="#P" n="5"/>terum. vsus autem est amor obiecti in relatione ad aliud 
+      <lb ed="#P" n="6"/>falsitas consequentis probatur. quia impossibile est intellectum 
+      <lb ed="#P" n="7"/>eodem actu concipere aliquid absolute a se / et aliud in 
+      <lb ed="#P" n="8"/>relatione. quia idem conceptus esset in diuersis praedicamen 
+      <lb ed="#P" n="9"/>tis: scilicet absoluto et respectio. Quarto. sequitur quod omnis 
+      <lb ed="#P" n="10"/>diligens ens ad finem propter finem habet duas fruitio 
+      <lb ed="#P" n="11"/>nes eiusdem finis. sequitur etiam quod in patria quilibet bea 
+      <lb ed="#P" n="12"/>tus habet plures fruitiones dei beatificas. consequens est 
+      <lb ed="#P" n="13"/>falsum. quia illud est superfluum. probatur consequentia. quia volun 
+      <lb ed="#P" n="14"/>tate habente dilectionem finis propter se potest voluntas 
+      <lb ed="#P" n="15"/>diligere nouiter aliquid propter finem. ergo acquirit 
+      no<lb ed="#P" n="16" break="no"/>uum actum qui est respectuentis ad finem et respectu 
+      <lb ed="#P" n="17"/>finis simul secundum te. ergo qui est fruitio sed prior manet 
+      <lb ed="#P" n="18"/>secundum te et videtur necessario praexigi vt causa illius actus 
+      <lb ed="#P" n="19"/>relatiui quem ponis respectu vtriusque obiecti sicut 
+      <lb ed="#P" n="20"/>notitia absoluta obiecti praesupponitur notitie compa 
+      <lb ed="#P" n="21"/>ratiue eiusdem et similiter in patria cum aduenit nouus 
+      <lb ed="#P" n="22"/>beatus ceteri nouiter diligunt illum et in relatione ad de 
+      <lb ed="#P" n="23"/>um vt finem qui nouo actu simul diligunt creaturam et 
+      <lb ed="#P" n="24"/>deum. igitur accipiunt nouam fruitionem dei sed prior frui 
+      <lb ed="#P" n="25"/>tio que est essentialis beatitudo non tollitur. ergo plu 
+      <lb ed="#P" n="26"/>res fruitiones dei sunt simul. et quelibet est 
+      beatifi<lb ed="#P" n="27" break="no"/>ca. quia sequitur visionem dei. Quinto. voluntas nolens et 
+      <lb ed="#P" n="28"/>odiens hoc propter aliud et in ordine ad aliud non 
+      eo<lb ed="#P" n="29" break="no"/>dem actu tendit et fertur in vtrumque. igitur. similiter de 
+      <lb ed="#P" n="30"/>dilectione et volitione. antecedens probatur. quia interdum volun 
+      <lb ed="#P" n="31"/>tas odit a. propter b. quod non odit sed amat: sed amat 
+      <lb ed="#P" n="32"/>sicut odit petrum propter deum quem amat. ergo actus 
+      odi<lb ed="#P" n="33" break="no"/>quo fertur in hoc non est actus amoris quo diligit 
+      <lb ed="#P" n="34"/>illud. dices negatur antecedens. quia idem actus est amor et odium 
+      <lb ed="#P" n="35"/>respectu diuersorum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e582">
+      ¶ Contra. primo. odium naturalis 
+      <lb ed="#P" n="36"/>causat tristiciam et displicentiam et amor / delectationem 
+      <lb ed="#P" n="37"/>et gaudium et complacentiam. igitur idem actus causabit 
+      <lb ed="#P" n="38"/>simul in voluntate contrarios effectus et per intensionem 
+      <lb ed="#P" n="39"/>illius actus poterit haberi delectatio / et tristicia in sum 
+      <lb ed="#P" n="40"/>mo / et ad augmentationem vnius non sequitur 
+      diminu<lb ed="#P" n="41" break="no"/>tio alterius: sed augmentatio contra Arist. 5. ethico. 
+      <lb ed="#P" n="42"/>c. penul.
+    </p>
+            <p xml:id="D78nca-e14615-d1e600">
+      ¶ Item idem indiuiduum non est sub generibus 
+      <lb ed="#P" n="43"/>vel speciebus oppositis in eodem praedicamento: sed amor 
+      <lb ed="#P" n="44"/>et odium velle et nolle sunt differentie generice vel specifice 
+      <lb ed="#P" n="45"/>diuisiue actuum voluntatis. igitur.
+    </p>
+            <p xml:id="D78nca-e14615-d1e609">
+      ¶ Item. sequitur quod deus 
+      <lb ed="#P" n="46"/>oditur. probo. illud oditur quod est per se obiectum odii deus 
+      <lb ed="#P" n="47"/>erit huiusmodi. quia erit per se obiectum actus qui est odium et actus 
+      <lb ed="#P" n="48"/>odii per se terminatur ad ipsum ergo. maior probatur. quia 
+      <lb ed="#P" n="49"/>aliquid odiri non est nisi ipsum esse obiectum odii sicut proportio 
+      <lb ed="#P" n="50"/>nabiliter aliquid intelligi non est nisi ipsum esse obiectum 
+      <lb ed="#P" n="51"/>actus intellectus et aliquid sentiri non est nisi ipsum esse 
+      <lb ed="#P" n="52"/>obiectum actus sentiendi.
+    </p>
+            <p xml:id="D78nca-e14615-d1e628">
+      ¶ Confirmatur. b. actus eque 
+      <lb ed="#P" n="53"/>naturaliter et necessario et eque per se terminatur obiectiue ad 
+      <lb ed="#P" n="54"/>deum sicut ad peccatum. ergo non minus oditur deus per il 
+      <lb ed="#P" n="55"/>lum quam peccatum. consequentia probatur. quia non est ratio quare 
+      <lb ed="#P" n="56"/>pectantum dicitur odiri per illum nisi quia ille actus obiective ten 
+      <lb ed="#P" n="57"/>minatur ad peccatum. antecedens patet. quia ille actus non minus 
+      <lb ed="#P" n="58"/>habet ex sua natura quod terminetur ad deum quam ad pecca 
+      <lb ed="#P" n="59"/>tum. immo videtur magis per se et principaliter 
+      termi<lb ed="#P" n="60" break="no"/>nari obiectiue ad deum. quia propter quod vnumquodque 
+      <lb ed="#P" n="61"/>tale et illud magis et quia priuatio non est per se nata te 
+      <lb ed="#P" n="62"/>minare actum anime. quia non est intelligibilis nisi per accidens 
+    </p>
+            <p xml:id="D78nca-e14615-d1e652">
+               <lb ed="#P" n="63"/>¶ Confirmatur. qualis est in se essentialiter et formaliter actus 
+      <lb ed="#P" n="64"/>taliter denominatur obiectum ab illo secundum 
+      denominatio<lb ed="#P" n="65" break="no"/>nem extrinsecam. obicctum enim den ominatur ab actu / secundum 
+      <lb ed="#P" n="66"/>naturam intrinsecam actus vt si actus sit sensatio dicitur 
+      <!--58.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>sentiri si sit auditio dicitur audiri. Sed ille actus est 
+      <lb ed="#P" n="68"/>essentialiter et intrinsece odium non minus quam amor igitur. 
+      <lb ed="#P" n="69"/>eius obiectum non minus denominabitur oditum quamamatum 
+      <lb ed="#P" n="70"/>Sexto. sequitur quod idem actus erit maior et perfectior 
+      <lb ed="#P" n="71"/>seipso. probo. quia cum diligitur aliquid propter finem. dilectio 
+      <lb ed="#P" n="72"/>finis est maior et perfectior quam dilectio entis ad finem 
+      <lb ed="#P" n="73"/>vt dei quam creature. perfectius enim diligitur finis. quia 
+      prim<lb ed="#P" n="74" break="no"/>mo posteriorum propter quod vnumquodque tale. etc. et po 
+      <lb ed="#P" n="75"/>ponitur ibi exemplum specialiter cum quid diligitur propter 
+      <lb ed="#P" n="76"/>aliud. dices idem actus non est maior seipso: sed per 
+      eun<lb ed="#P" n="77" break="no"/>dem actum diliguntur duo. et tamen vnum minus diligitur quam 
+      <lb ed="#P" n="78"/>alterum. contra probo quod si magis diligitur deus quam creatu 
+      <lb ed="#P" n="79"/>ra sequitur dilectionem dei esse maiorem sic / tantum etam 
+      perfe<lb ed="#P" n="80" break="no"/>cte diligitur aliquod obiectum quanto et quam perfecto 
+      amo<lb ed="#P" n="81" break="no"/>re diligitur et quantus et quam perfectus est amor quo diligi 
+      <lb ed="#P" n="82"/>tur sed secundum te tanto et tam perfecto amore diligitur 
+      <lb ed="#P" n="83"/>creatur a sicut deus quia eodem actu. ergo tantum et tam 
+      <lb ed="#P" n="84"/>perfecto amore diligitur creatura sicut deus. maior 
+      <lb ed="#P" n="85"/>probatur primo. quanta est dilectio in voluntate. tantum 
+      <lb ed="#P" n="86"/>est voluntas diligens: sed quantum est voluntas diligens 
+      <lb ed="#P" n="87"/>tantum est obiectum dilectum. igitur
+    </p>
+            <p xml:id="D78nca-e14615-d1e713">
+      ¶ Secundo. aliquod ens 
+      <lb ed="#P" n="88"/>magis diligi a voluntate aut est actum dilectionis esse 
+      <lb ed="#P" n="89"/>maiorem et perfectiorem et propositum / aut obiectum esse maius et 
+      <lb ed="#P" n="90"/>hoc non. quia contingit idem obiectum magis et minus diligi 
+      <lb ed="#P" n="91"/>ab eadem voluntate nunc et prins.
+    </p>
+            <p xml:id="D78nca-e14615-d1e724">
+      ¶ Ex his arguitur sic 
+      <lb ed="#P" n="92"/>illa equeliter vel essentialiter amantur quae equali vel non ine 
+      <lb ed="#P" n="93"/>quali amore amantur sed que eodem omnino actu amantur 
+      <lb ed="#P" n="94"/>equali vel non inequali amore: igitur. maior probatur 
+      <lb ed="#P" n="95"/>quia magis vel minus amari non est formaliter nisi secundum 
+      <lb ed="#P" n="96"/>differentiam amoris. propter enim solam intensionem vel re 
+      <lb ed="#P" n="97"/>missionem actus ceteris paribus dicitur aliquid magis 
+      <lb ed="#P" n="98"/>vel minus amari sicut de magis et minus cognosci 
+      <lb ed="#P" n="99"/>secundum maiorem vel minorem perfectionem et claritatem no 
+      <lb ed="#P" n="100"/>titie.
+    </p>
+            <p xml:id="D78nca-e14615-d1e746">
+      ¶ Confirmatur. cum dicis quod per .a. actum magis et 
+      <lb ed="#P" n="101"/>perfectius diligitur b. quam c. quero quare et in quo 
+      for<lb ed="#P" n="102" break="no"/>maliter sit hec inequalitas et maioritas et excessus s 
+      <lb ed="#P" n="103"/>vt huiusmodi. plus si in actu voluntatis sequitur propositum 
+      <lb ed="#P" n="104"/>si in obiecto arguitur vt prius.
+    </p>
+            <p xml:id="D78nca-e14615-d1e757">
+      ¶ Confirmatur. quero 
+      <lb ed="#P" n="105"/>penes quid mensuratur et attenditur et quantificatur 
+      <lb ed="#P" n="106"/>magis et minus diligi obiectiue. si penes quantitatem 
+      <lb ed="#P" n="107"/>et latitudinem dilectionis habetur propositum. si obiecti 
+      <lb ed="#P" n="108"/>contra vt prius. idem enim obiectum potest et magis et minus 
+      <lb ed="#P" n="109"/>diligi. immo contingit obiectum imperfectius magis di 
+      <lb ed="#P" n="110"/>ligi.
+    </p>
+            <p xml:id="D78nca-e14615-d1e774">
+      ¶ Confirmatur. si per .a. actum voluntas diligit ma 
+      <lb ed="#P" n="111"/>gis deum quam creaturam. sit b. gradus quo diligit deum 
+      <lb ed="#P" n="112"/>seu quo plus diligitur deus et quo diligi deum excedit diligi 
+      <lb ed="#P" n="113"/>creaturam et sit .c. gradus quo diligitur creatura. Tunc. aut 
+      <lb ed="#P" n="114"/>b et c. distinguuntur / aut sunt idem. si secundum ergo creatura 
+      <lb ed="#P" n="115"/>diligitur .b. gradu et ita non minus perfecte quam deus. Si 
+      <lb ed="#P" n="116"/>primum. igitur .b. gradus est distinctus et maior quam. c. 
+      <lb ed="#P" n="117"/>sed iste gradus est in actu diligendi. ergo est distinctio 
+      <lb ed="#P" n="118"/>ectuum diligendi hoc et illud.
+    </p>
+            <p xml:id="D78nca-e14615-d1e794">
+      ¶ Item. iste actus est eque 
+      <lb ed="#P" n="119"/>perfectus et intensus amor respectu creature sicut 
+      <lb ed="#P" n="120"/>respectu dei et quatinus terminatur ad creaturam et fer 
+      <lb ed="#P" n="121"/>tur super creaturam sicut quatinus fertur in deum. er 
+      <lb ed="#P" n="122"/>go per istum actum eque amaturcreatura sicut deus. consequentia 
+      <lb ed="#P" n="123"/>patet. quia tam perfecte amatur obiectum quam perfectus est 
+      a<lb ed="#P" n="124" break="no"/>mor respectu eius quatinus est respectu eius. antecedens probatur 
+      <lb ed="#P" n="125"/>quia quam perfectus et intensus est iste actus in se formaliter 
+      <lb ed="#P" n="126"/>tam perfectus et intensus est respectu sui obiecti. quia se 
+      <lb ed="#P" n="127"/>cundum totam et precisam latitudinem sue entitatis est 
+      a<lb ed="#P" n="128" break="no"/>mor sui obiecti et quia quam perfectum et intensum est aliquid 
+      <lb ed="#P" n="129"/>in se formaliter et intrinsece tam intensum et perfectum est 
+      <lb ed="#P" n="130"/>cuicumque comparetur ipso non diminuto. quia comparatio 
+      <lb ed="#P" n="131"/>rius ad aliud non imperficit ipsum. Septimo. sequitur quod 
+      <lb ed="#P" n="132"/>huiusmodi actu non magis diligeretur creatura propter deum 
+      <!--59.xml-->
+      <pb ed="#P" n="24-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quam deus propter creaturam et per consequens omnis vtens creatu 
+      <lb ed="#P" n="2"/>ra vteretur deo vel fruens deo frueretur creatura pro 
+      <lb ed="#P" n="3"/>batio consequentiae primo. quia ex quo actus est ominino 
+      indistin<lb ed="#P" n="4" break="no"/>ctus et per se et essentialiter ex natura sua terminatur 
+      <lb ed="#P" n="5"/>non minus ad hoc obiectum quam ad illud et eque causatur 
+      <lb ed="#P" n="6"/>ex propria dilectione huius sicut ex propria et distincta di 
+      <lb ed="#P" n="7"/>lectione illius. quia actus comparatiuus extremorum 
+      causa<lb ed="#P" n="8" break="no"/>tur ex actibus propriis et distinctis extremorum non 
+      vide<lb ed="#P" n="9" break="no"/>tur ratio quare per illum tertium actum diligatur hoc ob 
+      <lb ed="#P" n="10"/>iectum propter illud magisquam econtra.
+    </p>
+            <p xml:id="D78nca-e14615-d1e855">
+      ¶ Confirmatur 
+      <lb ed="#P" n="11"/>illa voluntas vtitur deo quae diligit deum referendo in aliud 
+      <lb ed="#P" n="12"/>patet ex diffinitione vsus que ponitur supra sed voluntas 
+      <lb ed="#P" n="13"/>per illum actum est huiusmodi. quia per illum actum non fertur in 
+      <lb ed="#P" n="14"/>deum pure absolute. quia est actus essentialiter relatiuus et con 
+      <lb ed="#P" n="15"/>paratiuus sicut igitur per actum intellectus relatiuum et con 
+      <lb ed="#P" n="16"/>paratiuum non cognoscitur obiectum absolute: sed 
+      rela<lb ed="#P" n="17" break="no"/>tiue. quia ille actus est de praedicamento respectiuo ita 
+      <lb ed="#P" n="18"/>de actu volnutatis comparatiuo.
+    </p>
+            <p xml:id="D78nca-e14615-d1e875">
+      ¶ Confirmatur 
+      <lb ed="#P" n="19"/>si huiusmodi actus vel voluntas per huiusmodi actum fertur di 
+      <lb ed="#P" n="20"/>formiter in hoc obiectum et illud aut hoc difformitas est 
+      <lb ed="#P" n="21"/>formaliter in obiectis / aut in actu / si secundum propositum 
+      <lb ed="#P" n="22"/>quia erit distinctio actus. Si primum. contra. tum quia obie 
+      <lb ed="#P" n="23"/>ctum non est illud quo formaliter voluntas diligit 
+      <lb ed="#P" n="24"/>nec est illud quo difformiter est diligens. tum quia 
+      sequi<lb ed="#P" n="25" break="no"/>tur quod quantum deus differt a. creatura tantum differret dili 
+      <lb ed="#P" n="26"/>gere deum et creaturam. ergo diligere deum esset deus quod 
+      <lb ed="#P" n="27"/>est falsum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e897">
+      ¶ Per idem arguitur. quod non eodem actu di 
+      <lb ed="#P" n="28"/>ligitur deus et oditur peccatum propter deum. quia tantum difi 
+      <lb ed="#P" n="29"/>ferret odire peccatum et diligere deum quantum deus difi 
+      <lb ed="#P" n="30"/>ferret a peccato.
+    </p>
+            <p xml:id="D78nca-e14615-d1e906">
+      ¶ Octauo. aut huiusmodi actus eque 
+      <lb ed="#P" n="31"/>primo et immediate respicit illa obiecta et sine ordine 
+      <lb ed="#P" n="32"/>terminatur ad illa et fertur et tendit in illa / aut non 
+      <lb ed="#P" n="33"/>sed ordine quodam. Si primum. ergo per huiusmodi actum non 
+      <lb ed="#P" n="34"/>magis diligitur hoc propter illud quam contra nec magis 
+      <lb ed="#P" n="35"/>est fruitio huius quam illius. quia non magis principaliter dili 
+      <lb ed="#P" n="36"/>gitur hoc quam illud. Si secundum. aut igitur per prius et imme 
+      <lb ed="#P" n="37"/>diatius fertur in deum finem aut creaturam. si primum contra 
+      <lb ed="#P" n="38"/>primo. quia per actum tendentem in duo obiecta ordine 
+      <lb ed="#P" n="39"/>quodam voluntas procedit ab obiecto primario et 
+      immedia<lb ed="#P" n="40" break="no"/>to ad obiectum secundarium et mediatum. Sed per actum 
+      <lb ed="#P" n="41"/>quo voluntas diligit creaturam propter deum seu ens ad 
+      <lb ed="#P" n="42"/>finem propter finem voluntas tendit et procedit a creatura ad 
+      <lb ed="#P" n="43"/>deum. quia refert creaturam in deum vt in finem et terminum ad 
+      <lb ed="#P" n="44"/>quem tendit et in quo sistit et quiescit. Secundo. quia actus 
+      <lb ed="#P" n="45"/>magis specificatur a primario obiecto. igitur ille actus 
+      <lb ed="#P" n="46"/>magis dicendus est fruitio quam vsus quod est falsum 
+      <lb ed="#P" n="47"/>quia distinguendo vsum contra fruitionem nihil est ita sim 
+      <lb ed="#P" n="48"/>pliciter et proprie actus vtendi sicut actus quo creatura 
+      <lb ed="#P" n="49"/>refertur in deum et ens ad finem propter finem. Tertio. quia finis 
+      <lb ed="#P" n="50"/>est circumstantia actus sed circumstantia extrinseca non est 
+      <lb ed="#P" n="51"/>obiectum primarium et principale sed potius quasi indirectum 
+      <lb ed="#P" n="52"/>et circumstas. Si secundum. contra. quia primarium obiectum dilectum di 
+      <lb ed="#P" n="53"/>ligitur principalius quam obiectum secundarium. quia est ratio 
+      dili<lb ed="#P" n="54" break="no"/>gendi alterum et ita propter ipsum et ratione ipsius diligitur 
+      <lb ed="#P" n="55"/>obiectum secundarium. ergo magis diligitur. ergo finis non 
+      <lb ed="#P" n="56"/>magis diligitur nec est ratio diligendi ens propter fi 
+      <lb ed="#P" n="57"/>nem.
+    </p>
+            <p xml:id="D78nca-e14615-d1e968">
+      ¶ Nono. sequitur quod actus vtendi esset perfectior 
+      <lb ed="#P" n="58"/>actu fruendi accipiendo fruitionem vt distinguitur ab 
+      <lb ed="#P" n="59"/>vsu. puta dilectionem finis propter se et dilectionem esntis 
+      <lb ed="#P" n="60"/>ad finem propter finem. consequens est falsum. tum quia beatitudo 
+      <lb ed="#P" n="61"/>stat primo et principaliter non in actu vtendi sed fruendi et 
+      <lb ed="#P" n="62"/>dilectionis dei propter se .b. charitatis sicut habitus 
+      <lb ed="#P" n="63"/>charitatis est nobilior omni alio habitu. tum quia per se prin 
+      <lb ed="#P" n="64"/>cipalis et immediatus actus charitatis est nobilior omni 
+      <lb ed="#P" n="65"/>alio secundario actu. sed per se et principalis actus cha 
+      <lb ed="#P" n="66"/>ritatis est dilectio dei propter se. secundarius autem est dile 
+      <!--59.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>ctio proximin propter deum. consequentia probatur. quia actus quo cogno 
+      <lb ed="#P" n="68"/>scerentur duo obiecta perfectior est actu quo 
+      cogno<lb ed="#P" n="69" break="no"/>sceretur alterum illorum tantum et non perfectius neque distin 
+      <lb ed="#P" n="70"/>ctius. ergo pari ratione actus voluntatis quo diliguntur 
+      <lb ed="#P" n="71"/>duo obiecta est perfectior actu quo diligitur alterum 
+      <lb ed="#P" n="72"/>tantum illorum et non perfectius diligitur sed ille actus quem 
+      <lb ed="#P" n="73"/>ponis habet creaturam et deum pro obiecto. actus autem 
+      <lb ed="#P" n="74"/>fruitionis quo diligitur deus propter se et in se vt distin 
+      <lb ed="#P" n="75"/>guitur ab actu vtendi habet tantum deum pro obiecto et non 
+      per<lb ed="#P" n="76" break="no"/>fectius diligitur deus per illum quamper alium. probo. quia 
+      <lb ed="#P" n="77"/>per alium diligitur deus super omnia et vt finis et propter se 
+      <lb ed="#P" n="78"/>et sequitur cognitionem eque perfectam et est actus eque in 
+      <lb ed="#P" n="79"/>tensus. immo causatur a pluribus et perfectioribus cau 
+      <lb ed="#P" n="80"/>sis. quia non solum a notitia dei / sed a notitia et amore cre 
+      <lb ed="#P" n="81"/>ature excitantis ad deum diligendum. et ita omnem rationem bo 
+      <lb ed="#P" n="82"/>nitatis obiecti. et motiuum quod habet iste habet ille et 
+      an<lb ed="#P" n="83" break="no"/>plius.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1031">
+      ¶ Decimo. causa distinguitur a causato: sed cum 
+      <lb ed="#P" n="84"/>ens ad finem diligitur propter finem. dilectio finis 
+      cau<lb ed="#P" n="85" break="no"/>sat dilectionem entis ad finem. dilectio enim finis mouet 
+      <lb ed="#P" n="86"/>ad dilectionem eorum que sunt ad finem. et illa ideo dili 
+      <lb ed="#P" n="87"/>guntur. quia finis diligitur 
+      <lb ed="#P" n="88"/>videtur enim eque procedere 
+      <lb ed="#P" n="89"/>Ad ista respondeo. contra actum voluntatis 
+      diui<lb ed="#P" n="90" break="no"/>ne quo fruitur se et alia diligit propter i psum et quo dili 
+      <lb ed="#P" n="91"/>git bonos / et odit peccata et quo magis diligit et ap 
+      <lb ed="#P" n="92"/>probat magis bonum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1053">
+      ¶ Ad primum igitur Arist. per illud 
+      <lb ed="#P" n="93"/>argumentum probat solum quod non sunt idem conuertibiliter 
+      <lb ed="#P" n="94"/>constat enim quod electio est actus voluntatis: sed non eft 
+      <lb ed="#P" n="95"/>sufficiens descriptio.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1062">
+      ¶ Ad secundum. negatur minor. ad  
+      <lb ed="#P" n="96"/>probationem cum desinet actu cogitare de deo non vult 
+      <lb ed="#P" n="97"/>nec diligit actualiter et expresse illud opus propter deum  
+      <lb ed="#P" n="98"/>et non manet actus secundum quem formaliter et expresse vo 
+      <lb ed="#P" n="99"/>lebat vel proponebat vel imperabat illud opus propter 
+      <lb ed="#P" n="100"/>deum fieri. tamen continuatur opus virtute alicuius 
+      noti<lb ed="#P" n="101" break="no"/>tie et virtutis habitualis amoris dei. ideo dicitur fie 
+      <lb ed="#P" n="102"/>ri propter deum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1080">
+      ¶ Ad tertium. licet huiusmodi actus relatiuus 
+      <lb ed="#P" n="103"/>creature in deum proprie et absolute loquendo / sit vsus 
+      <lb ed="#P" n="104"/>non fruitio conceditur. tamen secundum responsionem positam quod est vsus 
+      <lb ed="#P" n="105"/>entis ad finem et fruitio finis si sit respectu vltimi 
+      fi<lb ed="#P" n="106" break="no"/>nis.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1091">
+      ¶ Ad primam improbationem. dicendum quod differentie di 
+      <lb ed="#P" n="107"/>uisiue alicuius communis de genere respectiuo possunt 
+      <lb ed="#P" n="108"/>conuenire eidem obiectiue et materialiter respectu diuer 
+      <lb ed="#P" n="109"/>sorum vt ralstio potest diuidi secundum simillitudinem et 
+      dissimili<lb ed="#P" n="110" break="no"/>tudinem equalitatem et inequalitatem. que tamen dicuntur de 
+      <lb ed="#P" n="111"/>eodem respectu diuersorum. dicuntur aut opposite. quia non 
+      <lb ed="#P" n="112"/>conueniunt eidem respectu eiusdem.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1108">
+      ¶ Ad cofirmationem 
+      <lb ed="#P" n="113"/>idem posset argui de simili et dissili duploet dimidio. di 
+      <lb ed="#P" n="114"/>cendum igitur. negando maiorem si intelligitur vniversaliter quod omnis 
+      <lb ed="#P" n="115"/>vsus plus distinguitur a fruitione eiusdem obiecti quam 
+      <lb ed="#P" n="116"/>quisquam vsus a quocumque vsu. quia idem non distinguitur a 
+      <lb ed="#P" n="117"/>seipso. sed conceditur quod vsus alicuius obiecti plus di 
+      <lb ed="#P" n="118"/>stinguitur a fruitione eiusdem obiecti quam vsus alicuius 
+      <lb ed="#P" n="119"/>obiecti ab alio vsu vel consimili eiusdem obiectio 
+    </p>
+            <p xml:id="D78nca-e14615-d1e1126">
+               <lb ed="#P" n="120"/>¶ Ad aliud contra responsionem negatur consequentia. licet enim 
+      <lb ed="#P" n="121"/>quidam denominationes sint sibi inuicem opposite et repugnam 
+      <lb ed="#P" n="122"/>tes ita vt non dicuntur de eodem siue in respcum ad diuersa fi 
+      <lb ed="#P" n="123"/>ue in respectu ad idem. tamen aliquae denominationes respectiue 
+      <lb ed="#P" n="124"/>osesunt conueinre eidem respcum diuersorum et non respctum eiusudem 
+      <lb ed="#P" n="125"/>vt idem potest non respectu eiusdem sed respectu diuerso 
+      <lb ed="#P" n="126"/>tum esse pater et filius duplum et dimidium. non tamen mortale et 
+      <lb ed="#P" n="127"/>immortale rationale et irronale plenum et vacuum et hoc 
+      pro<lb ed="#P" n="128" break="no"/>uenit ex rationibus formalibus talium praedicabilium et exre 
+      <lb ed="#P" n="129"/>significata.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1150">
+      ¶ Ad aliud. negatur maior. si ille actus non 
+      <lb ed="#P" n="130"/>sit solum fruitio: sed sit etiam simpliciter et absolute vsus vel 
+      <lb ed="#P" n="131"/>si non sit obiectum respectu fruitionis vt fruitio est 
+      <lb ed="#P" n="132"/>et sic ille actus non est fruitio respectu illius et quatinus 
+      <!--60.xml-->
+      <pb ed="#P" n="25-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>est illius
+    </p>
+            <p xml:id="D78nca-e14615-d1e1168">
+      ¶ Ad aliud. aliquid diligi vel intelligi in se absolu 
+      <lb ed="#P" n="2"/>te potest esse vel proprie et simpliciter: quia nec tanquam prin 
+      <lb ed="#P" n="3"/>cipium habitudinis et comparationis: nec tanquam ten 
+      <lb ed="#P" n="4"/>minus / nec tanquam illud quod comparatur alicui: et quod 
+      <lb ed="#P" n="5"/>referatur in aliud / nec tanquam illud cui aliquod competur et ad quod 
+      <lb ed="#P" n="6"/>aliquid comperetur.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1181">
+      ¶ Alio mo quia non tanquam principium habi 
+      <lb ed="#P" n="7"/>tudinis / et relationis seu non tanquam illud quod compa 
+      <lb ed="#P" n="8"/>retur alicui / et referatur et a quo anima tendat / et pro 
+      <lb ed="#P" n="9"/>cedat in alterum. Primo modo negatur consequentia. secundo 
+      <lb ed="#P" n="10"/>modo conceditur consequens.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1192">
+      ¶ Ad quartam nega 
+      <lb ed="#P" n="11"/>tur consequentia accipiendo proprie et simpliciter frui 
+      <lb ed="#P" n="12"/>tionem in via / et accipiendo fruitionem per se 
+      beatifi<lb ed="#P" n="13" break="no"/>cam in patria: quia actus quo formaliter ordinatur 
+      crea<lb ed="#P" n="14" break="no"/>tura in deum non est proprie et simpliciter fruitio sed vsus 
+      <lb ed="#P" n="15"/>actus autem qui est primo et immediate respectu fi 
+      <lb ed="#P" n="16"/>nis est proprie fruitio sed accipiendo large 
+      fruitio<lb ed="#P" n="17" break="no"/>nem pro omni dilectione finis recta et ordinata. con 
+      <lb ed="#P" n="18"/>sequens non est inconueniens in patria. Est tantum vna 
+      <lb ed="#P" n="19"/>fruitio per se essentialiter et principaliter beatifica et il 
+      <lb ed="#P" n="20"/>la habet praecise aut primario / et directe et immediate deo 
+      <lb ed="#P" n="21"/>um pro obiecto. Si autem beatus habet aliquos actus 
+      <lb ed="#P" n="22"/>in quibus consistat accidentalis beatitudo: potest 
+      <lb ed="#P" n="23"/>omnes illos referre in deum per vnicum actum in quo 
+      <lb ed="#P" n="24"/>non erit principaliter et essentialiter beatitudo vo 
+      <lb ed="#P" n="25"/>luntatis.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1228">
+      ¶ Ad quintum. Responsio ibi posita 
+      con<lb ed="#P" n="26" break="no"/>ceditur: sic enim deus huic vnico actu approbat: et 
+      <lb ed="#P" n="27"/>reprobat.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1235">
+      ¶ Ad primam improbationem. idem 
+      ar<lb ed="#P" n="28" break="no"/>gumentum est contra alios: quia si sunt diuersi actus 
+      <lb ed="#P" n="29"/>causabunt simul contraria. Dicendum igitur quod non 
+      <lb ed="#P" n="30"/>vniuersaliter odium causat tristiciam. Patet i bea 
+      <lb ed="#P" n="31"/>tis: etiam in via non vniuersaliter odium rei non ad 
+      <lb ed="#P" n="32"/>cedentis causat tristiciam: sed si odium accedat et con 
+      <lb ed="#P" n="33"/>tingat contra efficacem vel simplicem et absolutam 
+      <lb ed="#P" n="34"/>voluntatem alicuius: tunc causabitur tristicia non delecta 
+      <lb ed="#P" n="35"/>tio. si autem fiat liberatio vel immunitas: tunc causabitur 
+      <lb ed="#P" n="36"/>delectatio.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1257">
+      ¶ Ad aliud. verum est de eo quod est per 
+      <lb ed="#P" n="37"/>se in praedicamento vt praedicabile / et subiicibile / vel vt 
+      <lb ed="#P" n="38"/>conceptus et signum: tamen idem materialiter et 
+      ob<lb ed="#P" n="39" break="no"/>iective potest pertinere ad diuersa genera vt Sortes 
+      <lb ed="#P" n="40"/>pater et agens.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1268">
+      ¶ Ad aliud. negatur maior: si actus 
+      <lb ed="#P" n="41"/>non sit praecise odium vel si non sit obiectum illius actus 
+      <lb ed="#P" n="42"/>quatinus est odium: et si ille actus non sit odium 
+      respe<lb ed="#P" n="43" break="no"/>ctu illius et quatinus est eius.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1277">
+      ¶ Ad confirmationem 
+      <lb ed="#P" n="44"/>negatur consequentia. Natura enim illius actus 
+      <lb ed="#P" n="45"/>est quod sit odium / et respuitio huius / et amor illius 
+      si<lb ed="#P" n="46" break="no"/>cut demonstratis duobus actibus .a. et .b. quorum vni 
+      <lb ed="#P" n="47"/>sit amor alicuius obiecti: et .b. sit odium eiusdem tunc 
+      <lb ed="#P" n="48"/>eque per se terminatur vterque ad illud obiectum / et 
+      <lb ed="#P" n="49"/>tamen vnus est amor illius: et alter est odium eiusdem 
+    </p>
+            <p xml:id="D78nca-e14615-d1e1293">
+               <lb ed="#P" n="50"/>¶ Ad confirmationem aliam. Illud non est vniversaliter verum de quacum 
+      <lb ed="#P" n="51"/>que determinatione sumptibili a tali actu et de quocun 
+      <lb ed="#P" n="52"/>que obiecto illius actus / et praecipue de denominationibus respe 
+      <lb ed="#P" n="53"/>ctiuis: et non respectu eiusdem conuenientibus alicui 
+      con<lb ed="#P" n="54" break="no"/>ceditur tamen quod quodliet obiectum alicuius denominatur conueniens 
+      <lb ed="#P" n="55"/>secundum aliquem modum conuenientem ad illum actum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1310">
+      ¶ Ad 
+      <lb ed="#P" n="56"/>sextum. responsio ibi posita conceditur. ad primam improbationem 
+      <lb ed="#P" n="57"/>conceditur tantum et tam perfecte diligitur aliquod obecntum etc. dicen 
+      <lb ed="#P" n="58"/>dum quod ly tantum / et ly tam perfecte si attendatur penes 
+      inten<lb ed="#P" n="59" break="no"/>sionem gradualem et phisicam seu materialem actus dile 
+      <lb ed="#P" n="60"/>ctionis. conceditur quod tantum diligitur creatura per illum actum quantum 
+      <lb ed="#P" n="61"/>deus si autem attendatur penes acceptationem et appreciatio 
+      <lb ed="#P" n="62"/>nem / et praepositionem seu praeponderationem obiectiuam: 
+      <lb ed="#P" n="63"/>sic negatur maior scilicet quod tantum secundum appreciabilitatem ob 
+      <lb ed="#P" n="64"/>iectiuam diligatur aliud obiectum quanto amore se 
+      <lb ed="#P" n="65"/>cundum gradualem intensionem diligitur.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1334">
+      ¶ Item posset ini 
+      <lb ed="#P" n="66"/>nor vniformiter distingui: quia creaturam diligit tanto 
+      <!--60.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>et tam perfecto amore sicut deum potest intelligi secundum causa 
+      <lb ed="#P" n="68"/>litatem et perfectionem gradualem formalem et 
+      intrinseca<lb ed="#P" n="69" break="no"/>actus amoris: et sic conceditur minor. vel secundum 
+      apprae<lb ed="#P" n="70" break="no"/>ciabilitatem et ponderationem extrinsecam et obiectiuam 
+      <lb ed="#P" n="71"/>et sic negatur: quia licet ille actus amandi sit idem 
+      mate<lb ed="#P" n="72" break="no"/>rialiter et phisice: tamen est in infinitum magis amor 
+      <lb ed="#P" n="73"/>dei quam creature: quia per illum in infinitum plus appreciatur 
+      <lb ed="#P" n="74"/>et ponderatur et praeponitur deus creature. Deinde idem 
+      <lb ed="#P" n="75"/>argumentum potest reduci contra alios: non solum de actu di 
+      <lb ed="#P" n="76"/>vine dilectionis quo diligit seipsum et creaturam: sed 
+      <lb ed="#P" n="77"/>etiam de actibus nostre voluntatis: quia si alio et alio 
+      <lb ed="#P" n="78"/>actu diligitur deus et creatura: possibile est quod sint 
+      <lb ed="#P" n="79"/>actus eque intense quomodo igitur plus diligitur 
+      de<lb ed="#P" n="80" break="no"/>us quam creatura. Si vero actus amoris dei sit duplo 
+      <lb ed="#P" n="81"/>intensior: igitur deus per illum non magis diligitur: 
+      <lb ed="#P" n="82"/>quam creatura nisi in duplo. igitur aliqua creatura in 
+      du<lb ed="#P" n="83" break="no"/>plo melior recte diligeretur tantum / quantum deus 
+      <lb ed="#P" n="84"/>sicut igitur deus diligitur in infinitum magis quam creatu 
+      <lb ed="#P" n="85"/>ra per actum non infinitum intensiorem. ita per actum 
+      <lb ed="#P" n="86"/>non magis intensum naturaliter potest magis 
+      di<lb ed="#P" n="87" break="no"/>igi quam creatura
+    </p>
+            <p xml:id="D78nca-e14615-d1e1389">
+      ¶ Ad primam improbationem maioris 
+      <lb ed="#P" n="88"/>procedit in primo sensu: et sic conceditur conclusio. 
+    </p>
+            <p xml:id="D78nca-e14615-d1e1394">
+               <lb ed="#P" n="89"/>¶ Ad secundam probationem. obiectum magis dili 
+      <lb ed="#P" n="90"/>gi potest dupliciter intelligi et attendi: aut vt ly magis no 
+      <lb ed="#P" n="91"/>tet intensionem gradualem phisicam actus vel vt no 
+      <lb ed="#P" n="92"/>tet appraeciationem et preelectionem obiectiuam: et hi 
+      <lb ed="#P" n="93"/>nodi differunt: quia aliquis interdum magis intensi 
+      <lb ed="#P" n="94"/>ue gradualiter diligit aliquod repertum: et magis 
+      <lb ed="#P" n="95"/>complacet et gaudet in illo quam de aliquo bono equali 
+      <lb ed="#P" n="96"/>vel maiori quod numquam perdidit. mallet enim illud perditum 
+      <lb ed="#P" n="97"/>numquam fuisse repertum quam istud perdi. hoc docet Aug. li. 
+      <lb ed="#P" n="98"/>8 cofess. cap. 5. Sic est pastor plus gaudet super vna 
+      <lb ed="#P" n="99"/>oue reparta quamsuper. 90. relictis in deserto. luc. 15. Licet 
+      <lb ed="#P" n="100"/>illas plus diligat: sic quia mallet illam perditam periisse 
+      <lb ed="#P" n="101"/>quam. 90. et in eodem capitulo filio reuertenti qui 
+      perdi<lb ed="#P" n="102" break="no"/>tus fuerat fecit pater maius gaudium quam seniori: quem tamen 
+      <lb ed="#P" n="103"/>plus diligebat.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1429">
+      ¶ Ad rationem igitur dicendum quod 
+      obie<lb ed="#P" n="104" break="no"/>ctum magis diligi est in vno sensu dilectione maiori 
+      <lb ed="#P" n="105"/>secundum gradualem intensionem formaliter diligi: et 
+      <lb ed="#P" n="106"/>in alio sensu est ipsum ad aliquod maius bonum ad 
+      <lb ed="#P" n="107"/>ceptari vel ipsum sic virtualiter diligi: quod diligens 
+      <lb ed="#P" n="108"/>virtute illius amoris plus fugeret illud perdi quam 
+      prim<lb ed="#P" n="109" break="no"/>nationem alterius si necesse esset alterum perdi / et tol 
+      <lb ed="#P" n="110"/>li et alicui praepositnere hoc cui non praeponeret illud. iste igitur 
+      <lb ed="#P" n="111"/>secundus sensus non est praecise secundum maioritatem intrinsecam 
+      <lb ed="#P" n="112"/>et phisicam actus: nec praecise secundum realem maioritatem obie 
+      <lb ed="#P" n="113"/>iecti intrinsecam obiecto: sed secundum maioritatem ob 
+      <lb ed="#P" n="114"/>iecti in approbatione anime: et acceptione et ap praeciatione 
+      <lb ed="#P" n="115"/>et prestitutione anime: vel secundum maioritatem virtualem 
+      ali<lb ed="#P" n="116" break="no"/>cuius amoris: quia virtute illius amans plus vellet 
+      <lb ed="#P" n="117"/>gere vel pati pro acquisitione vel conseruationem 
+      <lb ed="#P" n="118"/>huius quam illius / et plura dare vel refugere quam pro illo. 
+      <lb ed="#P" n="119"/>Ex his patet ad formam.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1466">
+      ¶ Ad confirmationem 
+      <lb ed="#P" n="120"/>potest dici quod non oportet illud plus secundum 
+      maio<lb ed="#P" n="121" break="no"/>rem excessum esse realiter / et materialiter in aliqua re: sed 
+      <lb ed="#P" n="122"/>est in actu dilectionis virtualiter et implicite vt dictum est. actus 
+      <lb ed="#P" n="123"/>enim ille est elicitus et continet implicite actus exteriores 
+      <lb ed="#P" n="124"/>absolutos. Est et in obiecto acceptive et approbative 
+      <lb ed="#P" n="125"/>et imputatiue per voluntatem quae praestituit sibi libere illud tamquam 
+      <lb ed="#P" n="126"/>maius bonum: sicut cum intellectus iudicat hoc esse magis bonum 
+      <lb ed="#P" n="127"/>licet non ita sit huiusmodi maioritas non est in alique realiter et formliter 
+      <lb ed="#P" n="128"/>sed est in obieto secundum apparentiam: et repraesenta 
+      <lb ed="#P" n="129"/>tionem. Illud etiam plus / et maius potest attendi 
+      <lb ed="#P" n="130"/>n obiectins quibus voluntas praepositioeret: et hoc non illud. 
+      pluri<lb ed="#P" n="131" break="no"/>pus enim vel maiori dono diligibili praepositioneret hoc quamillud 
+    </p>
+            <p xml:id="D78nca-e14615-d1e1496">
+               <lb ed="#P" n="132"/>¶ Ad aliam confirmationem per idem. Ad aliam. si per .a. gra¬ 
+      <!--61.xml-->
+      <pb ed="#P" n="25-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dum notetur determinatus gradus intensiuus ma 
+      <lb ed="#P" n="2"/>terialiter et phisice in actu. patet quid sit dicendum: quia 
+      <lb ed="#P" n="3"/>non maiori gradu diligitur tunc deus quam creatura: si 
+      <lb ed="#P" n="4"/>vero notetur quantitas apprehensionis / et praestitutionis 
+      <lb ed="#P" n="5"/>obiectiue sic .a. gradus et .c. gradus non sunt idem. 
+      <lb ed="#P" n="6"/>sed distinguitur sicut obiectum dilectum dicitur distingun 
+      <lb ed="#P" n="7"/>ab alio dilecto: et sunt gradus obiectiue dilecti: et 
+      <lb ed="#P" n="8"/>vnus in infinitum excedit alterum secundum praestitutionem. 
+      <lb ed="#P" n="9"/>voluntatis: quia si hoc in infinitum augeretur / vel in infi 
+      <lb ed="#P" n="10"/>nitum fieret ei additio adhuc praeponeret et eligeret 
+      <lb ed="#P" n="11"/>illud voluntas.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1531">
+      ¶ Ad aliud. si ly eque sumitur vniuoce 
+      <lb ed="#P" n="12"/>et vniformiter in antecedente et consequente consequenter 
+      concedi<lb ed="#P" n="13" break="no"/>tur consequens si difformiter negatur consequentia.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1538">
+      ¶ Ad 
+      <lb ed="#P" n="14"/>septimum principale. negatur consequentia: quia per idem 
+      <lb ed="#P" n="15"/>argueretur de volitione diuina.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1545">
+      ¶ Ad probationem. 
+      di<lb ed="#P" n="16" break="no"/>cendum quod aliquis actus / siue intellectus / siue voluntatis  
+      <lb ed="#P" n="17"/>habet ex natura sua ferri super aliquae obiecta determina 
+      <lb ed="#P" n="18"/>to modo / et alius actus super eadem obiecta.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1554">
+      ¶ Alio modo 
+      <lb ed="#P" n="19"/>et secundum aliam habitudinem: ita quod repugnantia est idem 
+      <lb ed="#P" n="20"/>obiectum respectu eiusdem se habere simul vniformiter 
+      <lb ed="#P" n="21"/>sed vt vtrique actui. sicut non est idem actus / quo perci 
+      <lb ed="#P" n="22"/>ditur petrus vt pater platonis: et actus quo forma 
+      <lb ed="#P" n="23"/>liter concipitur plato vt pater petri.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1567">
+      ¶ Ad confirma 
+      <lb ed="#P" n="24"/>tionem. Uoluntas potest diligere aliquid in relationem 
+      <lb ed="#P" n="25"/>ad aliud dupliciter: vel referendo ipsum vt finibile in 
+      <lb ed="#P" n="26"/>aliud / et gratia cuius.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1577">
+      ¶ Alio modo referendo ipsum vt 
+      <lb ed="#P" n="27"/>causam finalem in aliud vt causatum / quod est gratia ips 
+      <lb ed="#P" n="28"/>sius sicut cum diligitur deus formaliter vt finis aliorum 
+      <lb ed="#P" n="29"/>primo modo voluntas vtitur eo quod refert sic non se 
+      <lb ed="#P" n="30"/>cundo modo
+    </p>
+            <p xml:id="D78nca-e14615-d1e1588">
+      ¶ Item voluntas dicitur ferri relatiue et 
+      <lb ed="#P" n="31"/>respectiue super aliud obiectum dupliciter. vno modo quia 
+      <lb ed="#P" n="32"/>fertur in illud quasi in principium a quo procedit: et a quo 
+      <lb ed="#P" n="33"/>incipit comparatio mentalis: et sic voluntas non fertur 
+      <lb ed="#P" n="34"/>in deum relatiue cum diligit creaturam propter deum 
+      <lb ed="#P" n="35"/>et in relatione ad deum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1601">
+      ¶ Alio modo quia fertur in 
+      il<lb ed="#P" n="36" break="no"/>lud tanquam in finem et terminum ad quem tendit per hu 
+      <lb ed="#P" n="37"/>iusmodi processum comparatiuum et quasi in terminum 
+      <lb ed="#P" n="38"/>ad quem compositionis et tanquam in illud non quod pro 
+      <lb ed="#P" n="39"/>prie comparat et refert: sed cui comparat et refert: et sic 
+      <lb ed="#P" n="40"/>diligitur deus relatiue terminatiue cum diligitur 
+      crea<lb ed="#P" n="41" break="no"/>tura propter deum / et in ordine ad deum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1617">
+      ¶ Ad aliam 
+      <lb ed="#P" n="42"/>confirmationem dicendum quod hec difformitas non est 
+      <lb ed="#P" n="43"/>proprie realiter et materialiter in aliquo: sed est in actu 
+      <lb ed="#P" n="44"/>voluntatis virtualiter et implicite vel equiualenter 
+      <lb ed="#P" n="45"/>Actus enim ille habet quandam illimitationem: et equi 
+      <lb ed="#P" n="46"/>ualet actibus difformibus quos continet: quorum 
+      <lb ed="#P" n="47"/>vnus est dilectio finis: et alius esset dilectio entis ad 
+      <lb ed="#P" n="48"/>finem praecise et ex illis est causabilis: et sic continet vil 
+      <lb ed="#P" n="49"/>tualiter difformitatem: quia per huiusmodi actum illa 
+      obie<lb ed="#P" n="50" break="no"/>cta sic diliguntur: quod virtute illius dilectionis 
+      vo<lb ed="#P" n="51" break="no"/>luntas mallet in casu perdere creaturam quam deum 
+      <lb ed="#P" n="52"/>et tenere deum quam creaturam: et aliqua praeponeret creatu 
+      <lb ed="#P" n="53"/>re qua non deo: et quodam postponeret deo quae non 
+      creatu<lb ed="#P" n="54" break="no"/>re tali. virtute etiam illius amoris aliter se haberet / 
+      <lb ed="#P" n="55"/>et operaretur circa hoc et circa illud: sic etiam solet dici 
+      <lb ed="#P" n="56"/>deum velle aliter ea quae vult voluntate signi: et ea que vult 
+      <lb ed="#P" n="57"/>voluntate bene placite vel efficaci
+    </p>
+            <p xml:id="D78nca-e14615-d1e1654">
+      ¶ Item huiusmodi 
+      <lb ed="#P" n="58"/>difformitas licet extrinsece materialiter correspon 
+      <lb ed="#P" n="59"/>deat interdum in obiecto: puta quando est ordinata dilectio 
+      <lb ed="#P" n="60"/>tamen non oportet quod huiusmodi difformitas sic 
+      cor<lb ed="#P" n="61" break="no"/>respondeat in obiectis realiter sed imputatiue / vel pre 
+      <lb ed="#P" n="62"/>stitutiue: quia per talem actum voluntas praestituit sibi hoc 
+      <lb ed="#P" n="63"/>tanquam principale dilectum / et magis bonum et causam 
+      <lb ed="#P" n="64"/>finalem: alius autem tanquam secundarium
+    </p>
+            <p xml:id="D78nca-e14615-d1e1672">
+      ¶ Ad octauum. 
+      li<lb ed="#P" n="65" break="no"/>cet non sit ibi proprie realiter ordo / quia actus est vnus 
+      <lb ed="#P" n="66"/>et obiecta contingit non esse / vel non habere ordinem cor 
+      <!--61.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>respondentem tamen in quadam similitudine ad ea in 
+      <lb ed="#P" n="68"/>quibus reperitur proprie et re aliter ordo potest dici quod 
+      <lb ed="#P" n="69"/>actus vsus per quem voluntas diligit ens ad finem in ordine 
+      <lb ed="#P" n="70"/>ad finem fertur primo et immediate super ens ad finem. talis enim 
+      <lb ed="#P" n="71"/>operatio anime relatiua et comperatiua est: quasi quidam 
+      <lb ed="#P" n="72"/>preocessus et tendentia specialis incipiens ab ente ad 
+      <lb ed="#P" n="73"/>nnem et tendens in finem quasi in terminum / ad quem 
+      <lb ed="#P" n="74"/>talis processus.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1702">
+      ¶ Ad improbationem. negatur assum 
+      <lb ed="#P" n="75"/>ptum loquendo de primaritate immediationis termina 
+      <lb ed="#P" n="76"/>tiue. Licet enim sit obiectum primarium quia immediatum 
+      <lb ed="#P" n="77"/>a quo incipit quasi processus et tendentia anime ta 
+      <lb ed="#P" n="78"/>men non est principale dilectum: quia non ideo alterum 
+      <lb ed="#P" n="79"/>obiectum mediatum diligitur: quia hoc obiectum immediatu 
+      <lb ed="#P" n="80"/>diligitur: nec ideo alterum apparet bonum quia hoc immediatum 
+      <lb ed="#P" n="81"/>obiectum appeat bonum: nec est ratio diligendi illud aliud 
+      <lb ed="#P" n="82"/>nec in ipso si sit vel terminatur ipsa tendentia 
+      volun<lb ed="#P" n="83" break="no"/>tatis: sed ab eo tendit in aliud: quasi in terminum ad 
+      <lb ed="#P" n="84"/>quem.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1726">
+      ¶ Ad nonam. ceteris paribus actus fruendi est 
+      <lb ed="#P" n="85"/>potior / et praestantior: quia per ipsum perfectius et immediatius 
+      <lb ed="#P" n="86"/>et purius fertur voluntas in deum: negetur igitur consequentia 
+    </p>
+            <p xml:id="D78nca-e14615-d1e1733">
+               <lb ed="#P" n="87"/>¶ Ad probationem: est dicendum quod non eque perfecte et sin 
+      <lb ed="#P" n="88"/>cere et directe et immediate diligitur deus per hunc et 
+      <lb ed="#P" n="89"/>illum: quia per alterum diligitur deus vt obiectum 
+      <lb ed="#P" n="90"/>totale dilectionis / vel vt primum et immediatum: non 
+      <lb ed="#P" n="91"/>autem per alterum: sed creatura / et amor creature ad  
+      <lb ed="#P" n="92"/>miscetur vt obiecti primi et immediati. vnde argumentum 
+      <lb ed="#P" n="93"/>videtur posse reduci contra alios: quia quamuis diuersis 
+      <lb ed="#P" n="94"/>actibus diligatur creatura propter deum: videtur quod diligere cre 
+      <lb ed="#P" n="95"/>aturam propter deum: includeret istos duos actus: quorum vnus 
+      <lb ed="#P" n="96"/>causet alterum non autem diligere deum propter se: sic etiam ab 
+      <lb ed="#P" n="97"/>gueretur quod actus exterior circa creaturam propter 
+      <lb ed="#P" n="98"/>deum esset principalior quam actus factus propter de 
+      <lb ed="#P" n="99"/>um et immediate ordinatus in deum. 
+    </p>
+            <p xml:id="D78nca-e14615-d1e1764">
+               <lb ed="#P" n="100"/>¶ Ad decimum. Maior non videtur vera: licet enim 
+      <lb ed="#P" n="101"/>aliqua dilectio entis ad finem causetur interdum ex 
+      <lb ed="#P" n="102"/>aliqua dilectione finis a qua distinguitur: non tamen 
+      <lb ed="#P" n="103"/>omnis dilectio entis ad finem propter finem causa 
+      <lb ed="#P" n="104"/>tur ex qualibet dilectione finis inexistente termino 
+      <lb ed="#P" n="105"/>nec hoc est vniuersaliter / et precise aliquid diligi 
+      pro<lb ed="#P" n="106" break="no"/>ter finem dilectione finis causare dilectionem illi
+    </p>
+            <p xml:id="D78nca-e14615-d1e1782">
+               <lb ed="#P" n="107"/>Quarta conclusio. is: vnde occasione illius ponatur: 
+      <lb ed="#P" n="108"/>voluntatem 
+      <lb ed="#P" n="109"/>creatam actualiter diligere aliquid propter finem 
+      <lb ed="#P" n="110"/>et in relatione / et ordine ad finem non est precise et 
+      <lb ed="#P" n="111"/>formaliter dilectionem finis causare dilectionem 
+      <lb ed="#P" n="112"/>illius. Probatur: quia si actus per quem / vel per quos 
+      <lb ed="#P" n="113"/>diligo creaturam propter deum causarentur imme 
+      <lb ed="#P" n="114"/>diate a deo: et mihi infunderentur adhuc diligerem 
+      <lb ed="#P" n="115"/>creaturam propter deum: ergo hoc non est forma 
+      <lb ed="#P" n="116"/>liter / et precise dilectionem huius causare dilectio 
+      <lb ed="#P" n="117"/>nem illius. Antecedens probatur: quia diligere 
+      <lb ed="#P" n="118"/>ordinate sicut nunc / et quia per eundem actum vel 
+      <lb ed="#P" n="119"/>per eosdem actus voluntas fertur vniformiter in 
+      <lb ed="#P" n="120"/>obiecta illorum actuum: et illi actus vniformiter 
+      <lb ed="#P" n="121"/>terminantur ad sua obiecta a quibus causantur: quia mere 
+      <lb ed="#P" n="122"/>naturaliter terminantur ad illa: sicut est de actibus intellectus 
+    </p>
+            <p xml:id="D78nca-e14615-d1e1819">
+               <lb ed="#P" n="123"/>¶ Preterea. non est licitum diligere finem propter 
+      <lb ed="#P" n="124"/>ens ad finem et deum propter creaturam: sicut econuerso: sed 
+      <lb ed="#P" n="125"/>licitum est sic diligere dilectione entis ad finem. probo: quia 
+      <lb ed="#P" n="126"/>licitum est vt consideratio mei proprii esse: et baenenficii creationis 
+      <lb ed="#P" n="127"/>et confuationis et redemptionis et aliorum besnenficiorum recordatio 
+      <lb ed="#P" n="128"/>moueat me ad dilectionem dei et causet i me dilectio 
+      <lb ed="#P" n="129"/>nem dei. creature enim amate et banficia amata interdum nos 
+      <lb ed="#P" n="130"/>mouent et excitant ad amorem et laudem dei: et sactin docent 
+      <lb ed="#P" n="131"/>nos ex amore creaturarum exurgere in amorem crea¬ 
+      <!--62.xml-->
+      <pb ed="#P" n="26-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>toris: nec ex hoc creatura diligitur vt finis. 
+    </p>
+            <p xml:id="D78nca-e14615-d1e1851">
+               <lb ed="#P" n="2"/>¶ Preterea. magis bonum et magis amatum non diligi 
+      <lb ed="#P" n="3"/>tur propter minus bonum et minus amatum: sed 
+      con<lb ed="#P" n="4" break="no"/>tingit amorem magis boni et magis amati causari 
+      <lb ed="#P" n="5"/>ex amore minoris boni / et minus amati. Contingit 
+      <lb ed="#P" n="6"/>enim interdum vt concupiscentia et desiderium 
+      mi<lb ed="#P" n="7" break="no"/>noris boni sit causa et principum maioris concupiscentie 
+      <lb ed="#P" n="8"/>et desiderii: et respectu maioris boni.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1869">
+      ¶ Preterea 
+      <lb ed="#P" n="9"/>diligere finem propter se positiue non est habere duos 
+      <lb ed="#P" n="10"/>actus: quorum vnus causet alterum / et quilibet sit prece 
+      <lb ed="#P" n="11"/>se respectu finis: sed est amare finem amore compara 
+      <lb ed="#P" n="12"/>timo finis ad seipsum vel ad alia: quibus praefertur vt 
+      <lb ed="#P" n="13"/>causa: igitur pari ratione diligi aliquem propter alte 
+      <lb ed="#P" n="14"/>rum vt finem non est precise dilectionem huius cau 
+      <lb ed="#P" n="15"/>sare dilectionem illius
+    </p>
+            <p xml:id="D78nca-e14615-d1e1887">
+      ¶ Preterea cum dicitur voluntas 
+      <lb ed="#P" n="16"/>diligere aliquid propter finem: ly propter notat causa 
+      <lb ed="#P" n="17"/>litatem finalem et non causalitatem effectiuam: nisi 
+      <lb ed="#P" n="18"/>per accidens: sed si dilectio huius causat dilectio 
+      <lb ed="#P" n="19"/>nem illius. in hoc non notatur per se causalitas: nisi 
+      <lb ed="#P" n="20"/>effectiua / vel magis quam finalis: igitur.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1900">
+      ¶ Item con 
+      <lb ed="#P" n="21"/>uenientius diceretur quod homo diligit creaturam propter 
+      <lb ed="#P" n="22"/>dilectionem dei quam propter deum: quia sic dicendo ly propter 
+      <lb ed="#P" n="23"/>expressius notat causalitatem effectiuam vnius dilectiois re 
+      <lb ed="#P" n="24"/>spectu alterius
+    </p>
+            <p xml:id="D78nca-e14615-d1e1911">
+      ¶ Preterea diligere actualiter et 
+      for<lb ed="#P" n="25" break="no"/>maliter ens ad finem propter finem / et in ordine ad 
+      fi<lb ed="#P" n="26" break="no"/>nem est diligere ens ad finem amore relatiuo et 
+      con<lb ed="#P" n="27" break="no"/>paratiuo non absoluto: sed non ex hoc quod dilectio 
+      <lb ed="#P" n="28"/>huius obiecti causaret dilectionem huius diligitur 
+      <lb ed="#P" n="29"/>igitur illud amore relatiuo et comparatiuo ad istud 
+      <lb ed="#P" n="30"/>sicut si noticia huius causet noticiam alterius vel 
+      <lb ed="#P" n="31"/>alia noticia eiusdem non ex hoc cognoscitur hoc re 
+      <lb ed="#P" n="32"/>latiue ad illud vt si noticia exterioris sensus causet 
+      <lb ed="#P" n="33"/>noticiam in phantasia vel in intellectu: et si noticia 
+      crea<lb ed="#P" n="34" break="no"/>ture causet noticiam dei: non ex hoc cognoscitur de 
+      <lb ed="#P" n="35"/>us propter creaturam vt causam finalem: vel si cogni 
+      <lb ed="#P" n="36"/>tio causet dilectionem non ex hoc dilectio esset relatiua 
+    </p>
+            <p xml:id="D78nca-e14615-d1e1940">
+               <lb ed="#P" n="37"/>¶ Contra. illud sufficit ad hoc vt creatura diliga 
+      <lb ed="#P" n="38"/>tur propter deum: quo posito circumscripto omni 
+      ali<lb ed="#P" n="39" break="no"/>diligitur creatura propter deum: sed posito quod dilectio 
+      <lb ed="#P" n="40"/>dei ordinata causet dilectionem creature circumscri 
+      <lb ed="#P" n="41"/>bendo illum tertium actum comparatiuum diligitur 
+      <lb ed="#P" n="42"/>creatura propter deum. Probo: quia si deus summe 
+      <lb ed="#P" n="43"/>diligatur et virtute huius dilectionis moueatur vo 
+      <lb ed="#P" n="44"/>luntas ad dilectionem proximi diligitur proximum 
+      <lb ed="#P" n="45"/>propter deum: quia dilectione recta et ordinata que eli 
+      <lb ed="#P" n="46"/>citur sicut et a quo oportet: igitur superfluum est 
+      po<lb ed="#P" n="47" break="no"/>nere tertium actum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e1967">
+      ¶ Et confirmatur. Non oportet 
+      <lb ed="#P" n="48"/>quod deus sit per se obiectum illius dilectionis qua dili 
+      <lb ed="#P" n="49"/>gitur creatura propter deum : ergo non oportet 
+      <lb ed="#P" n="50"/>esse tertium / qui habeat vtrunque pro obiecto. 
+      an<lb ed="#P" n="51" break="no"/>tecedens probatur: quia cum dicitur creatura dili 
+      <lb ed="#P" n="52"/>gi propter deum. ly propter deum est 
+      circunstan<lb ed="#P" n="53" break="no"/>tia actus finis / est circunstantia extrinseca actus 
+      <lb ed="#P" n="54"/>sed non est necesse actum voluntatis virtuosum 
+      <lb ed="#P" n="55"/>habere ci rcunstantias pro obiecto. Patet de 
+      lo<lb ed="#P" n="56" break="no"/>co et tempore / in quibus fit de modo vel de causa a 
+      <lb ed="#P" n="57"/>qua fit: igitur non est necesse quod deus sit obiectum 
+      <lb ed="#P" n="58"/>illius actus / quo diligitur creatura propter deum  
+    </p>
+            <p xml:id="D78nca-e14615-d1e1993">
+               <lb ed="#P" n="59"/>¶ Secundo: si a diligitur propter .b. vt finem: igitur 
+      <lb ed="#P" n="60"/>tur ideo .a. diligitur: quia .b. diligitur: igitur dilectio 
+      <lb ed="#P" n="61"/>ipsius .b. est causa difectionis ipsius. a.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2002">
+      ¶ Secun 
+      <lb ed="#P" n="62"/>da consequentia patet eo: quia ly quia notat causa 
+      <lb ed="#P" n="63"/>litatem.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2009">
+      ¶ Confirmatur conclusio / et prima conse 
+      <lb ed="#P" n="64"/>quentia sic. illud est causa alicuius quo 
+      conuenien<lb ed="#P" n="65" break="no"/>ter respondetur ad questionem factam propter quid 
+      <lb ed="#P" n="66"/>de eo. propter quid enim notat causam: et tot modis dici 
+      <!--62.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>tur causa quot modis dicitur propter quid secundo phi 
+      <lb ed="#P" n="68"/>si. et. 5. methaphi. sed si a. diligitur propter .b. vt 
+      fi<lb ed="#P" n="69" break="no"/>nem ad questionem factam quare diligitur. a. Respon 
+      <lb ed="#P" n="70"/>detur conuenienter quia diligitur .b. et ita dilectio finis 
+      <lb ed="#P" n="71"/>conuenienter assignatur pro causa diligendi ens ad 
+      <lb ed="#P" n="72"/>finem: igitur. Tertio. cum voluntas diligit .a. propter 
+      <lb ed="#P" n="73"/>b. importatur vel includitur aliqua causalitas qua 
+      <lb ed="#P" n="74"/>ly propter notat causalitatem. aut igitur hec 
+      causali<lb ed="#P" n="75" break="no"/>tas se tenet ex parte actuum voluntatis: et habetur 
+      <lb ed="#P" n="76"/>propositum: quia non denotatur nisi vnam dilectionem 
+      <lb ed="#P" n="77"/>causari ab alia / et non nisi dilectionem b. esse causam 
+      <lb ed="#P" n="78"/>dilectionis .a. aut se tenet ex parte rei: et hoc non: quia 
+      <lb ed="#P" n="79"/>voluntas potest libere diligere .a. propter .b. quamuis 
+      <lb ed="#P" n="80"/>in re nulla sit realis causalitas in . b. rei pectu a. 
+      Quar<lb ed="#P" n="81" break="no"/>to: si voluntas diligit .a. propter .b. vt finem: igitur 
+      <lb ed="#P" n="82"/>voluntas prestituit sibi: b. pro fine ipsius .a. siue in 
+      re<lb ed="#P" n="83" break="no"/>extra sit .b. siue causa similis ipsius .a. siue non.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2059">
+      ¶ Quero 
+      <lb ed="#P" n="84"/>igitur quare prestituit .b. vt causam finalem: si per 
+      <lb ed="#P" n="85"/>hoc quod amat .b. tali amore / virtute cuius mouetur 
+      <lb ed="#P" n="86"/>ad amandum .a. et sic habetur propositum: si per hoc 
+      <lb ed="#P" n="87"/>quod vtrunque diligit: simul et diligit hoc in habitudine 
+      <lb ed="#P" n="88"/>ad aliud. Patet: quod hoc non sufficit quia quodlibet 
+      <lb ed="#P" n="89"/>illorum diligitur in habitudine ad alterum: et quia 
+      vo<lb ed="#P" n="90" break="no"/>lnntas post est diligere hoc in habitudine ad aliud:  
+      <lb ed="#P" n="91"/>licet non diligit hoc propter illud vt finem. vt 
+      pa<lb ed="#P" n="92" break="no"/>trem et filium in diuinis: si per hoc quod prefertis 
+      <lb ed="#P" n="93"/>et preponit hoc illi et plus amat / vel appreciatur 
+      <lb ed="#P" n="94"/>hoc quam illud.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2085">
+      ¶ Patet etiam quod hoc non 
+      suffi<lb ed="#P" n="95" break="no"/>cit: quia multa sunt amata: quorum vnum 
+      volun<lb ed="#P" n="96" break="no"/>tas prefert alteri in bonitate et amabilitate: et 
+      ta<lb ed="#P" n="97" break="no"/>men non diligit hoc propter illud vt finem: gratia 
+      <lb ed="#P" n="98"/>cuius nec sibi prestituit hoc finem illius: ergo si vo 
+      <lb ed="#P" n="99"/>luntas diligit .a. propter .b. vt finem: igitur .b. est cau 
+      <lb ed="#P" n="100"/>sa finalis illius dilectionis qua diligitur .a. est enim a 
+      <lb ed="#P" n="101"/>finis propter quem diligitur .a. ergo dilectio ipsius et 
+      <lb ed="#P" n="102"/>b. causat effectiue dilectionem ipsius .a. Probatur 
+      <lb ed="#P" n="103"/>consequentia. quia in agentibus a proposito 
+      causa<lb ed="#P" n="104" break="no"/>re per modum finis non est nisi amare finem tali amo 
+      <lb ed="#P" n="105"/>re: virtute cuius amoris causetur ille effectus: 
+      igi<lb ed="#P" n="106" break="no"/>tur si .b. est finis propter quem diligitur .a. sequitur quod 
+      <lb ed="#P" n="107"/>dilectio ipsius .b. mouet ad producendum effectum 
+      <lb ed="#P" n="108"/>dilectionis respectu. a.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2119">
+      ¶ Sexto. sicut se habet 
+      intel<lb ed="#P" n="109" break="no"/>lectus ad cognoscere hoc propter illlud: sic voluntas 
+      <lb ed="#P" n="110"/>ad velle / vel nolle hoc propter illud: sed intellectum 
+      <lb ed="#P" n="111"/>cognoscere hoc propter illud non est intellectum co 
+      <lb ed="#P" n="112"/>gnoscere hoc in habitudine ad illud vnico actu 
+      re<lb ed="#P" n="113" break="no"/>latiuo: sed magis est cognitionem huius causare 
+      co<lb ed="#P" n="114" break="no"/>gnitionem illius. Probo: quia intellectus cogno 
+      <lb ed="#P" n="115"/>scens duo alba esse similia: cognoscit hoc in habitudine 
+      <lb ed="#P" n="116"/>ad illud: nec tamen dicitur cognoscere hoc propter 
+      il<lb ed="#P" n="117" break="no"/>lud magis quam econtra. sed dicitur cognoscere et sci 
+      <lb ed="#P" n="118"/>re conclusionem propter premissas: quia noticia prae 
+      <lb ed="#P" n="119"/>missarum causat noticiam conclusionis: vel quia pre 
+      <lb ed="#P" n="120"/>nisse in intellectu sunt causa conclusionis primo 
+      po<lb ed="#P" n="121" break="no"/>steriorum: igitur.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2150">
+      ¶ Septimo. si creaturam diligi pro 
+      <lb ed="#P" n="122"/>pter deum non sit dilectionem dei causare dilectio 
+      <lb ed="#P" n="123"/>nem creature: sed sit vnico actu relatimo diligere crea 
+      <lb ed="#P" n="124"/>turam et deum: sequitur quod diligere creaturam 
+      pro<lb ed="#P" n="125" break="no"/>pter deum eque potest esse illicitum et esse 
+      indiffe<lb ed="#P" n="126" break="no"/>rens ad recte et non recte diligere: sicut diligere 
+      crea<lb ed="#P" n="127" break="no"/>turam absolute propter deum. Probo: quia ille. 
+      <lb ed="#P" n="128"/>vnus actus qui habebit deum / et creaturam pro ob  
+      <lb ed="#P" n="129"/>iecto: poterit causari ex concupiscentia vel cupidi  
+      <lb ed="#P" n="130"/>tate proprii commodi: et ex aliquo amore recipro 
+      <lb ed="#P" n="131"/>co ad amantem. 
+    </p>
+            <p xml:id="D78nca-e14615-d1e2174">
+               <lb ed="#P" n="132"/>¶ Octauo. hec videtur intentio Augustini secundo 
+      <!--63.xml-->
+      <pb ed="#P" n="26-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>de trinitate capitulo sexto vbi ponit quod si quis velit 
+      <lb ed="#P" n="2"/>videre fenestram: vt per fenestram videat transeur 
+      <lb ed="#P" n="3"/>tes: non erit vnica voluntas / que finem habeat visio 
+      <lb ed="#P" n="4"/>nem transeuntium: sed sunt due voluntates: id est due 
+      <lb ed="#P" n="5"/>volitiones quarum vna erit voluntas videndi fene 
+      <lb ed="#P" n="6"/>stram: et hec habet pro fine visionem fenestre tantum 
+    </p>
+            <p xml:id="D78nca-e14615-d1e2198">
+               <lb ed="#P" n="7"/>¶ Alia est voluntas / que ex illa nascitur: et cum illa 
+      <lb ed="#P" n="8"/>nectitur scilicet voluntas videndi transeuntes. Et hec 
+      <lb ed="#P" n="9"/>voluntas habet pro fine visionem transeuntium 
+      <lb ed="#P" n="10"/>ta quod prima voluntas non habet pro fine nisi visionem 
+      <lb ed="#P" n="11"/>fenestre: siue illud referat ad aliud: siue non. Aliud  
+      <lb ed="#P" n="12"/>etiam exemplum ponit ibi de voluntate videndi cir 
+      <lb ed="#P" n="13"/>catricem vt probatur ibi vulnus fuisse: igitur.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2216">
+      ¶ Ad ista 
+      <lb ed="#P" n="14"/>non nego quin possibile sit finem / et ens ad finem 
+      si<lb ed="#P" n="15" break="no"/>diligi: quod dilectio finis causabit dilectionem entis ad 
+      <lb ed="#P" n="16"/>finem / et consequenter quin posset dici hoc diligi pro 
+      <lb ed="#P" n="17"/>pter illud in isto sensu / quod dilectio illius causat dili 
+      <lb ed="#P" n="18"/>ctionem huius.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2229">
+      ¶ Sed dico quod hoc non est 
+      actuali<lb ed="#P" n="19" break="no"/>ter / et formaliter diligere hoc in ordine ad illud: nec 
+      <lb ed="#P" n="20"/>hoc est formaliter referre hoc in illud vti in finem 
+      <lb ed="#P" n="21"/>gratia cuius ideo est alius modus secundum quem 
+      <lb ed="#P" n="22"/>voluntas refert hoc in illud per actum 
+      compara<lb ed="#P" n="23" break="no"/>tiuum / vel relatiuum huius ad illud sicut intellectis 
+      <lb ed="#P" n="24"/>habet formaliter actum relatiuum huius ad illud 
+    </p>
+            <p xml:id="D78nca-e14615-d1e2246">
+               <lb ed="#P" n="25"/>¶ Ad primum negatur minor. Ad probationem di 
+      <lb ed="#P" n="26"/>co quod et si illa dilectio creature sit licita / et laudabilis 
+      <lb ed="#P" n="27"/>tamen est imperfecta: nec est perfectus vsus 
+      crea<lb ed="#P" n="28" break="no"/>ture: quia non est actualiter / et formaliter relatio crea 
+      <lb ed="#P" n="29"/>ture in deum sed tantum virtualiter / et inchoatiue 
+      <lb ed="#P" n="30"/>ideo non superfluit alius actus relationis creatu 
+      <lb ed="#P" n="31"/>re in deum: ymo imperfectionis esset in voluntate 
+      <lb ed="#P" n="32"/>si non posset habere alium actum formaliter 
+      com<lb ed="#P" n="33" break="no"/>paratiuum et relatiuum creature in deum sicut 
+      in<lb ed="#P" n="34" break="no"/>tellectus.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2270">
+      ¶ Ad confirmationem negatur antece 
+      <lb ed="#P" n="35"/>dens. ad probationem / siue actus virtuosus 
+      habe<lb ed="#P" n="36" break="no"/>at circunstantias pro obiecto siue non: tamen 
+      om<lb ed="#P" n="37" break="no"/>nis actus siue virtuosus / siue viciosus / qui est 
+      for<lb ed="#P" n="38" break="no"/>maliter relatiuus alicuius ad aliud: et per quem 
+      ani<lb ed="#P" n="39" break="no"/>ma fertur super aliquod obiectum in habitudine ad  
+      <lb ed="#P" n="40"/>alterum habet illud alterum pro obiecto: et ideo si 
+      <lb ed="#P" n="41"/>aliqua circunstantia est terminus huius 
+      composi<lb ed="#P" n="42" break="no"/>tionis et habitudinis est obiectum illius actus non 
+      <lb ed="#P" n="43"/>absolute quatinus circunstantia sed quatinus illud 
+      <lb ed="#P" n="44"/>cui alterum refertur: igitur.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2294">
+      ¶ Ad secundum. Si 
+      <lb ed="#P" n="45"/>in ista propositione ideo .a. diligitur quia .b. diligitur 
+      <lb ed="#P" n="46"/>ly ideo notat causalitatem realem / et actualem 
+      cira<lb ed="#P" n="47" break="no"/>ca dilectionem .b. respectu dilectionis .a. negatur 
+      <lb ed="#P" n="48"/>onsequentia prima: deus enim diligit creaturam 
+      pro<lb ed="#P" n="49" break="no"/>pter seipsum: et tamen ibi non causatur dilectio a 
+      <lb ed="#P" n="50"/>dilectione. Si vero notetur causalitas in quadam 
+      <lb ed="#P" n="51"/>equiualentia et virtute conceditur prima consequen 
+      <lb ed="#P" n="52"/>tia. si enim voluntas diligit .a. propter .b. vt finem: 
+      <lb ed="#P" n="53"/>sequitur quod sic diligit .b. finem quod dilectio ipsius .b. cum no 
+      <lb ed="#P" n="54"/>ticia ipsius .a. causaret statim dilectionem ipsius a 
+      <lb ed="#P" n="55"/>in voluntate nata recipere dilectionem causatam 
+      <lb ed="#P" n="56"/>sed tunc negatur secunda consequentia: quia sic 
+      <lb ed="#P" n="57"/>ideo deus diligit creaturas: quia diligit se: et tamen hu 
+      <lb ed="#P" n="58"/>insmodi dilectio non causat dilectionem illius: quia 
+      <lb ed="#P" n="59"/>eadem est.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2329">
+      ¶ Ad confirmationem in huiusmodi interro 
+      <lb ed="#P" n="60"/>gationibus / et responsionibus secundum propositiones can 
+      <lb ed="#P" n="61"/>ales non vniuersaliter oportet in re extra correspon 
+      <lb ed="#P" n="62"/>dere causalitatem propriam et veram rei a re. 
+      pa<lb ed="#P" n="63" break="no"/>tet. dicimus enim quod deus ideo hunc reprobat: quia 
+      <lb ed="#P" n="64"/>rescit eius finalem impenitentiam: licet actus 
+      pre<lb ed="#P" n="65" break="no"/>scientie non causet actum reprobandi in deo / et 
+      sor<lb ed="#P" n="66" break="no"/>tes ideo est risibilis: quia est homo: licet hominis ad  
+      <!--63.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>sortem non sit realis causalitas. Sufficit igitur causa 
+      <lb ed="#P" n="68"/>litas in quadam equiualentis et proportione: et virtua 
+      <lb ed="#P" n="69"/>li / seu eminenti contiuentia vt dicetur infra distin 
+      <lb ed="#P" n="70"/>ctione. 38.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2360">
+      ¶ Ad tertium dicendum quod in voluntate 
+      crea<lb ed="#P" n="71" break="no"/>ta diligitur .a. propter .b. vt finem: semper est causal 
+      <lb ed="#P" n="72"/>tas effectiua in quadam dilectione finis respectu di 
+      <lb ed="#P" n="73"/>lectionis entis ad finem respectu scilicet dilectionis 
+      for<lb ed="#P" n="74" break="no"/>maliter taliter entis ad finem in finem: quia ista causatur ex 
+      <lb ed="#P" n="75"/>dilectione finis naturaliter praesupposita a noticia: 
+      <lb ed="#P" n="76"/>quod hoc sit finis gratia cuius illud est.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2376">
+      ¶ Item 
+      no<lb ed="#P" n="77" break="no"/>tatur causalitas effectiua virtualiter in dilectionem 
+      <lb ed="#P" n="78"/>finis respectu dilectionis entis ad finem: qui a 
+      di<lb ed="#P" n="79" break="no"/>lectiofinis est causa vel esset causa et ratio diligen 
+      <lb ed="#P" n="80"/>di ens ad finem: etiam si ens ad finem non aliundem 
+      <lb ed="#P" n="81"/>prius diligeretur aut etiam si aliunde non esset in 
+      <lb ed="#P" n="82"/>eo formaliter / et intrinsece propria / et absoluta ratio 
+      <lb ed="#P" n="83"/>diligibilitatis / vel bonitatis. Item notatur causa 
+      <lb ed="#P" n="84"/>litas finalis in aliquo respectu entis ad finem secundum 
+      <lb ed="#P" n="85"/>tem / vel secundum prestitutionem voluntatis 
+      vo<lb ed="#P" n="86" break="no"/>luntas enim prestituit sibi hoc quasi finem illius et 
+      <lb ed="#P" n="87"/>se habet ad illa quasi hoc foret gratia huius: sicut eim 
+      <lb ed="#P" n="88"/>aliquid est tale vel secundum rem / vel secundum 
+      appa<lb ed="#P" n="89" break="no"/>rentiam et iudicium intellectus. Ita aliquid est finis 
+      <lb ed="#P" n="90"/>secundum rem / vel secundum prestitutionem volunta 
+      <lb ed="#P" n="91"/>tis.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2412">
+      ¶ Item ibi notatur causalitas finalis in tali ob 
+      <lb ed="#P" n="92"/>iecto respectu dilectionis. Uoluntas enim prestitu 
+      <lb ed="#P" n="93"/>tuit sibi illud tanquam finem sue dilectionis / et tedentie 
+      <lb ed="#P" n="94"/>Si igitur dilectio erit recta: erit causalitas finalis 
+      <lb ed="#P" n="95"/>in re. siue autem sit recta / siue non semper notatur 
+      <lb ed="#P" n="96"/>causalitas finalis in obiecto vt super ipsum fertur ta 
+      <lb ed="#P" n="97"/>lis dilectio: quia secundum habitudinem causalitatis  
+      <lb ed="#P" n="98"/>finalis: sicut proportionabiliter de actu 
+      intellec<lb ed="#P" n="99" break="no"/>tus quo apprehenditur hoc: vt gratia illius siue sit 
+      <lb ed="#P" n="100"/>apprehensio vera siue non.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2434">
+      ¶ Ad quartum: 
+      <lb ed="#P" n="101"/>voluntatem prestituere sibi .b. pro fine ipsius .a. est 
+      <lb ed="#P" n="102"/>voluntatem secundum dilectionem ferri super .a. 
+      <lb ed="#P" n="103"/>et .b. vt feratur super .a. tanquam causatum finale: et su 
+      <lb ed="#P" n="104"/>ter .b. tanquam finem gratia cuius fit .a. et per actum vo 
+      <lb ed="#P" n="105"/>litionis et dilectionis referre hoc in illud secundum 
+      <lb ed="#P" n="106"/>talem habitudinem sicut proportionabiliter intellectus 
+      <lb ed="#P" n="107"/>secundum suam operationem refert hoc vt causatum 
+      <lb ed="#P" n="108"/>in illud vt causam finalem / siue ita sit in re siue non 
+      <lb ed="#P" n="109"/>quomodo deus per actum dilectionis diligit creatu 
+      <lb ed="#P" n="110"/>ras propter se vt finem prestitutum
+    </p>
+            <p xml:id="D78nca-e14615-d1e2458">
+      ¶ Ad quintur 
+      <lb ed="#P" n="111"/>si concederetur vtrunque consequens non haberetur 
+      <lb ed="#P" n="112"/>contra propositum: quia quedam dilectio finis 
+      pre<lb ed="#P" n="113" break="no"/>supponitur qua causat illam dilectionem relatiuam 
+      <lb ed="#P" n="114"/>entis ad finen. si autem inferatur quod non habetur 
+      di<lb ed="#P" n="115" break="no"/>lectio finis: nisi que est causa dilectionis entis ad finem 
+      <lb ed="#P" n="116"/>negatur secundo consequentia. Ad probationem. assumptum 
+      <lb ed="#P" n="117"/>non est vniversaliter verum quod habita dilectione solius finis 
+      <lb ed="#P" n="118"/>adhuc finis posset dici causa finalis illius amoris: non 
+      <lb ed="#P" n="119"/>tamen causaretur ille amor ex alio amore finis: igitur. Allud 
+      <lb ed="#P" n="120"/>autem assumptum est verum de effectu exteriori importato 
+      <lb ed="#P" n="121"/>a voluntate amante finem. prima est consequentia non videtur valere: quia 
+      <lb ed="#P" n="122"/>deus diligit creaturas propter seipsum vt finem: licet nihil sit 
+      <lb ed="#P" n="123"/>causa illius dilectionis scilicet obiecti dilecti propter alterum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2489">
+      ¶ Ad  
+      <lb ed="#P" n="124"/>sextum. conceditur quod sicut non vniversaliter intelligere hoc in 
+      habi<lb ed="#P" n="125" break="no"/>tudine ad illud est cognoscere hoc propter illud est non vniversalite 
+      <lb ed="#P" n="126"/>velle hoc in habitudine ad illud est velle hoc propter 
+      <lb ed="#P" n="127"/>illud quia deus diligitur vt finis creaturarum gratia cuius sunt 
+      <lb ed="#P" n="128"/>creature et ita diligitur in ordine ad creaturas et non propter 
+      <lb ed="#P" n="129"/>creaturas: cum autem dicitur quod intellectum cognoscere hoc propter 
+      <lb ed="#P" n="130"/>llud: est cognitionem illius causare cognitionem huius. dicen 
+      <lb ed="#P" n="131"/>dum quod intellectum cognoscere hoc propter illud potest dici 
+      <lb ed="#P" n="132"/>dupliciter vel quia cognitio illius causat cognitionem hu 
+      <!--64.xml-->
+      <pb ed="#P" n="27-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ius vel quia cognoscet hoc in habitudine ad illud 
+      <lb ed="#P" n="2"/>non qualitercunque sed quia cognoscet sic se habere 
+      <lb ed="#P" n="3"/>quia illud sic se habet vel potest negari similitudo 
+      <lb ed="#P" n="4"/>de intellectu / et voluntate: quia intellectum referre 
+      <lb ed="#P" n="5"/>hoc ad illud vt causatum in causam finalem non est 
+      <lb ed="#P" n="6"/>intellectionem illius causare cognitionem huius nec 
+      <lb ed="#P" n="7"/>etiam est intellectum cognoscere hoc propter illud 
+      <lb ed="#P" n="8"/>et tamen voluntatem secundum dilectionem referre 
+      <lb ed="#P" n="9"/>hoc in illud vt in finem est voluntatem diligere hoc 
+      <lb ed="#P" n="10"/>propter illud: ly propter igitur aliud et aliud denotat se 
+      <lb ed="#P" n="11"/>cundum quod applicatur variis rebus. 
+    </p>
+            <p xml:id="D78nca-e14615-d1e2541">
+               <lb ed="#P" n="12"/>¶ Ad septimum negatur consequentia: quia huiusmo 
+      <lb ed="#P" n="13"/>di actus non habet determinate circunstantiam 
+      fi<lb ed="#P" n="14" break="no"/>nis debiti siue hoc sufficiat nec possit malefieri: siue 
+      <lb ed="#P" n="15"/>non sufficiat: sed possit non benefieri propter 
+      defe<lb ed="#P" n="16" break="no"/>ctum alterius circunstantie debite: vel propter 
+      appo<lb ed="#P" n="17" break="no"/>sitionem alicuius circunstantie indebite Potest ta 
+      <lb ed="#P" n="18"/>men dici quod si talis dilectio causetur ex inordinata con 
+      <lb ed="#P" n="19"/>cupiscentia / et ex amore proprii commodi iam non est 
+      <lb ed="#P" n="20"/>creature propter deum vt finem vltimum / et summe di 
+      <lb ed="#P" n="21"/>lectum: sed potius vt finem sub fine / et vt finem 
+      sub<lb ed="#P" n="22" break="no"/>ordinatum alteri fini / et relatum in alterum finem. 
+    </p>
+            <p xml:id="D78nca-e14615-d1e2567">
+               <lb ed="#P" n="23"/>¶ Ad octauum patet quod Augustinus non negat quin 
+      <lb ed="#P" n="24"/>actus per quem actualiter et formaliter volo 
+      vide<lb ed="#P" n="25" break="no"/>re fenestram vt videam transeuntes posset ferri su 
+      <lb ed="#P" n="26"/>per omnia alia obiecta ordinate et relatiue: sed inten 
+      <lb ed="#P" n="27"/>dit quod ibi non est precise vnica volitio sed 
+      presuppo<lb ed="#P" n="28" break="no"/>muntur due volitiones: quarum vna est prior / et cau 
+      <lb ed="#P" n="29"/>sa alterius. Prius enim habet voluntatem videndum 
+      <lb ed="#P" n="30"/>transeuntes: et hec volitio mouet ad volendum 
+      ac<lb ed="#P" n="31" break="no"/>cedere ad fenestram. 
+      <lb ed="#P" n="32"/>an sit aliquis actus voluntatis medius 
+      <lb ed="#P" n="33"/>Bubiuminter frui et vti. Roitirter quod sic: quia actu 
+      <lb ed="#P" n="34"/>quo voluntas diligit diuinum suppositum patris vt 
+      <lb ed="#P" n="35"/>pater est: et vt distinctum suppositum est: et vt sum 
+      <lb ed="#P" n="36"/>ptum sub proprietate relatiua conueniente tantum 
+      <lb ed="#P" n="37"/>prime persone non est vsus: quia persona diuina non 
+      <lb ed="#P" n="38"/>est vtendum nec referendum in aliud vt finem nec 
+      <lb ed="#P" n="39"/>est fruitio. Probo: quia persona vel proprietas rela 
+      <lb ed="#P" n="40"/>tiua vt sic non dicit aliquem gradum perfectionis sim 
+      <lb ed="#P" n="41"/>pliciter vel aliquem gradum bonitatis diligibilis 
+      <lb ed="#P" n="42"/>quia aliquid tale deesset alteri persone et illa esset: 
+      <lb ed="#P" n="43"/>imperfecta: nec vt sic est causa finalis et obiectum 
+      <lb ed="#P" n="44"/>beatificans causans et quietans: igitur vt sic non est fruibi 
+      <lb ed="#P" n="45"/>lis.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2620">
+      ¶ Secundo. actus quo diligitur deus vt causa 
+      <lb ed="#P" n="46"/>effectiua / puta vt creator / vel conseruator / vel redem 
+      <lb ed="#P" n="47"/>ptor / vel beneficii alterius dator non est vsus: quia non 
+      <lb ed="#P" n="48"/>est vtendum deo secundum Augustinum primo de 
+      doctri<lb ed="#P" n="49" break="no"/>na christiana capitulso sexto et. 83 q. quane. 32. nec frui 
+      <lb ed="#P" n="50"/>tio probo: quia secundum illum actum non 
+      diligi<lb ed="#P" n="51" break="no"/>tur deus propter se absolute: sed in relatione ad 
+      ali<lb ed="#P" n="52" break="no"/>quatinus bonum / et conferens alteri beneficium: et ita 
+      <lb ed="#P" n="53"/>beneficium vel beneficiatus est terminus principa 
+      <lb ed="#P" n="54"/>lis / et obiectum terminans vltimate illum actum: et quod 
+      <lb ed="#P" n="55"/>diligitur amore amicicie.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2644">
+      ¶ Tertio. virtutes sunt 
+      di<lb ed="#P" n="56" break="no"/>igibiles propter se / et circunscripto respectu / et 
+      or<lb ed="#P" n="57" break="no"/>dine ad aliud secundum Ambrosium vt allegatur 
+      <lb ed="#P" n="58"/>distinctione prima capitulo sexto. honestum dicitur quia 
+      <lb ed="#P" n="59"/>per se expetendum est. Et secundum aristotelem primo ethi 
+      <lb ed="#P" n="60"/>corum. ca. viii. bonum honestum cuiusmodi est virtus 
+      <lb ed="#P" n="61"/>est appetibile propter se: igitur actus non erit vsus 
+      <lb ed="#P" n="62"/>quia vti est rererre ad aliud vt finem: nec est fruitio 
+      <lb ed="#P" n="63"/>quia non est fruendum aliis rebus a deo: sed 
+      vten<lb ed="#P" n="64" break="no"/>dum secundum augustinum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2666">
+      ¶ Quarto. actus voluntatis 
+      in<lb ed="#P" n="65" break="no"/>differens / vel tantum moraliter bonus non merito 
+      <lb ed="#P" n="66"/>rie videtur nec est vsus / nec fruitio. probo: quia si esset 
+      <!--64.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>fruitio dei / vel vsus creature esset bonus: si autem 
+      <lb ed="#P" n="68"/>vsus dei vel fruitio creature esset simpliciter malus 
+    </p>
+            <p xml:id="D78nca-e14615-d1e2682">
+               <lb ed="#P" n="69"/>¶ Quinto. actus existentis in mortali circa deum per 
+      <lb ed="#P" n="70"/>quem actum preparatur / et disponitur ad gratiam non 
+      <lb ed="#P" n="71"/>est fruitio dei: quia frui deo non conuenit existenti in 
+      <lb ed="#P" n="72"/>mortali. talis enim preponit deo creaturam: nec est 
+      <lb ed="#P" n="73"/>vsus quia esset mortalis.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2695">
+      ¶ Sexto. amor quo quis di 
+      <lb ed="#P" n="74"/>ligit parentes et consanguineos affectione 
+      natura<lb ed="#P" n="75" break="no"/>li / et ratione cognationis corporalis / non est fruitio dei 
+      <lb ed="#P" n="76"/>et vsus creature: quia non propter deum / nec in deum  
+      <lb ed="#P" n="77"/>secundum Gregorium in omelia. nec est fruitio creature: quia 
+      <lb ed="#P" n="78"/>illi dilectioni sacra eloquia non contradicunt. Idem 
+      <lb ed="#P" n="79"/>videtur ceum quis amat amicum amicitia et compla 
+      <lb ed="#P" n="80"/>tentia huinana et naturali. Probatur: quia vel per 
+      il<lb ed="#P" n="81" break="no"/>lum actum voluntatis sistit in tali obiecto / vel refert 
+      <lb ed="#P" n="82"/>ad aliud. Diligit etiam illud vel propter se vel prop 
+      <lb ed="#P" n="83"/>ter aliud. si primum: igitur fruitur illa / quia secundum 
+      Au<lb ed="#P" n="84" break="no"/>gustinum frui est amore inherere alicui propter se. 
+      <lb ed="#P" n="85"/>et. 10. de trinitate. Fruamur cognitis in quibus 
+      pro<lb ed="#P" n="86" break="no"/>pter se voluntas delectata conquiescit. si secundum  
+      <lb ed="#P" n="87"/>igitur est vsus.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2728">
+      ¶ Confirmatur. intellectus non assen 
+      <lb ed="#P" n="88"/>tit vero: nec dissentit falso: nisi propter se vel prop 
+      <lb ed="#P" n="89"/>ter aliud. igitur nec voluntas respectu amoris et 
+      odii<lb ed="#P" n="90" break="no"/>igitur. Respondeo. frui et vti possunt sumi multipli 
+      <lb ed="#P" n="91"/>citer: et secundum aliquas acceptiones est actus medius et 
+      <lb ed="#P" n="92"/>secundum aliquas non frui igitur circa voluntatem 
+      <lb ed="#P" n="93"/>creatam dicitur tripliciter secundum quod tripliciter potest 
+      <lb ed="#P" n="94"/>dici voluntas diligere aliquid propter se: vno 
+      mo<lb ed="#P" n="95" break="no"/>do frui aliquo est amare illud amore absoluto 
+      abs<lb ed="#P" n="96" break="no"/>que hoc quod actualiter / et formaliter refertur secundum 
+      <lb ed="#P" n="97"/>amorem in aliud magis amatum vt finem gratia cum 
+      <lb ed="#P" n="98"/>ius diligatur et sic frequenter diceremur frui creatu 
+      <lb ed="#P" n="99"/>ris et amare eas propter se: sed hoc est improprie Secun 
+      <lb ed="#P" n="100"/>do frui seu amare .a. propter se: est amare .a. non so 
+      <lb ed="#P" n="101"/>lum absque actuali / et formali relatione in aliud vt 
+      fi<lb ed="#P" n="102" break="no"/>nem magis dilectum: sed est sic amare quod amaretur 
+      <lb ed="#P" n="103"/>circunscripta noticia actuali / et habituali alterius 
+      <lb ed="#P" n="104"/>tanquam finis: ratione cuius foret a. diligendum: et per con 
+      <lb ed="#P" n="105"/>sequens sic amare .a. quod quamuis in voluntate non esset ad 
+      <lb ed="#P" n="106"/>tualis / nec habitualis amor alterius vt finis magis dile 
+      <lb ed="#P" n="107"/>cti: adhuc anima diligeret a. et reperiret in a. vnde 
+      dili<lb ed="#P" n="108" break="no"/>geret .a. et sic dicimur frui virtutibus / et bono hone 
+      <lb ed="#P" n="109"/>sto. et sic dilexerunt bonum honestum et virtutem philo 
+      <lb ed="#P" n="110"/>sophi multi gentiles / multum autem vtilia diligimus quae non 
+      <lb ed="#P" n="111"/>diligeremus nisi forent media ad alterum finem gratia cuius 
+      <lb ed="#P" n="112"/>sunt / et ad quem conferunt vt edificia: et etiam potio 
+      <lb ed="#P" n="113"/>amara: et iuxta hunc modum bestie dicuntur frui cibis 
+      <lb ed="#P" n="114"/>pelectabilibus secundum augusti. 83. q. quaine. 32. Tertio modo 
+      <lb ed="#P" n="115"/>frui .a. et amare .a. propter se est amare .a. absque 
+      ac<lb ed="#P" n="116" break="no"/>tuali / et habituali relatione in alterum magis 
+      ama<lb ed="#P" n="117" break="no"/>tum vt finem / gratia cuius diligatur actualiter et ha 
+      <lb ed="#P" n="118"/>bitualiter et accipiendo / et prestituendo positiue .a. 
+      <lb ed="#P" n="119"/>pro fine vltimato non referibili in aliud: et amare .a 
+      <lb ed="#P" n="120"/>amore repugnante amori relatimo ipsius .a. in aliud vt finem 
+      <lb ed="#P" n="121"/>magis amatum ita quod est amor conformis dictamin di 
+      <lb ed="#P" n="122"/>ctanti a. esse diligendum propter se vt finis non au 
+      <lb ed="#P" n="123"/>tem vt refertur ad aliud: sed vt finis in quo vltima 
+      <lb ed="#P" n="124"/>te sistendum est: et sic soli deo est fruendum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2812">
+      ¶ Item 
+      <lb ed="#P" n="125"/>frui potest sumi pro actuali exercitio potentie 
+      vi<lb ed="#P" n="126" break="no"/>talis vt distinguitur contra ocium / vel cessationem 
+      <lb ed="#P" n="127"/>ab operatione: et sic fruitio est vsus vt dicit Magi 
+      <lb ed="#P" n="128"/>ster distinctione prima capitulo secundo.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2823">
+      ¶ Secun 
+      <lb ed="#P" n="129"/>do modo pro amore alicuius actualiter / et 
+      formali<lb ed="#P" n="130" break="no"/>ter relatimo illius in alterum vt finem: gratia cuius ma 
+      <lb ed="#P" n="131"/>gis dilectum: et sic suitur proprie et stricte nec conueint proprie nisi 
+      <lb ed="#P" n="132"/>appetitui actu ratioali secundum aug. 83. q. q. 32. vti aliquae re 
+      <!--65.xml-->
+      <pb ed="#P" n="27-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non potest nisi animal quod est rationis particeps 
+      sci<lb ed="#P" n="2" break="no"/>re namque quo quid datum est referendum non aduenit rationis ex partibus 
+      <lb ed="#P" n="3"/>Tertio mo pro amore alicuius: et si non actualiter et for 
+      <lb ed="#P" n="4"/>maliter / tamen habitualiter / et virtualiter relatiuo illius in alte 
+      <lb ed="#P" n="5"/>rum vt finem magis dilectum / et gratia cuius diligatur 
+      habitua<lb ed="#P" n="6" break="no"/>liter: nec ille amor repugnat amori relatiuo illius in ab 
+      <lb ed="#P" n="7"/>terum vt finem ymo sic amans habet cuiusdam alterius habitua 
+      <lb ed="#P" n="8"/>lem noticiam et habitualem dilectionem virtute cuius est in po 
+      <lb ed="#P" n="9"/>tentia accidentali ad statim et prompte diligendum illud 
+      <lb ed="#P" n="10"/>amore relatiuo in alterum / si intellectus actualiter co 
+      <lb ed="#P" n="11"/>gitaret de vtroque.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2865">
+      ¶ Ad hos duos modos vtendi 
+      re<lb ed="#P" n="12" break="no"/>ducitur omnis actus nollendi / vel odii: quia omne odium 
+      <lb ed="#P" n="13"/>et nolle alicuius est actualiter / vel habitualiter relatiuum illius 
+      <lb ed="#P" n="14"/>in aliud dilectum / ratione et gratia cuius illud est nollitum 
+      <lb ed="#P" n="15"/>vel oditum. Dicendum igitur quod quamuis non omnis actus volun 
+      <lb ed="#P" n="16"/>tatis sit vsus vnico tantum dictorum duorum modorum acce 
+      <lb ed="#P" n="17"/>ptus / vel fruitio vnico tantum dictorum modorum accepta 
+      <lb ed="#P" n="18"/>tamen omnis actus voluntatis libere elicitus videtur 
+      redu<lb ed="#P" n="19" break="no"/>ci ad vsum 2o vel 3o modo acceptum: vel ad fruitionem 
+      <lb ed="#P" n="20"/>secundo vel tertio modo acceptam Si enim voluntas diligit. a. 
+      <lb ed="#P" n="21"/>aut igitur sic quod actualiter / vel habitualiter refert illud in ab 
+      <lb ed="#P" n="22"/>terum vt finem magis amatum: gratia cuius actualiter / vel 
+      ha<lb ed="#P" n="23" break="no"/>bitualiter diligitur: vel non: si primum: ergo est vsus secundo vel 
+      <lb ed="#P" n="24"/>tertio modo. si secundum sic dicitur fruitio secundo vel tertio modo 
+    </p>
+            <p xml:id="D78nca-e14615-d1e2896">
+               <lb ed="#P" n="25"/>¶ Item vel sic diligit illum quod quamuis circumscriberetur 
+      ac<lb ed="#P" n="26" break="no"/>tualis et habitualis noticia et dilectio alterius vt finis 
+      <lb ed="#P" n="27"/>adhuc voluntas illud diligeret: aut non. si primum 
+      frui<lb ed="#P" n="28" break="no"/>tio: ergo primo veltertio modo. si secundum: ergo vsus secundo vel 
+      <lb ed="#P" n="29"/>tertio modo.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2909">
+      ¶ Ad primum in oppositum dicendum quod si sit di 
+      <lb ed="#P" n="30"/>lectio ordinata quod erit fruitio: quia illud esset summum bo 
+      <lb ed="#P" n="31"/>num.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2916">
+      ¶ Ad improbationem diceretur quod quamuis proprietas 
+      re<lb ed="#P" n="32" break="no"/>latiua secundum illam rationem sic accepta non dicat 
+      formali<lb ed="#P" n="33" break="no"/>gradum perfectionis: simpliciter tamen ipsa secundum illud quod 
+      <lb ed="#P" n="34"/>est formaliter est diligibilis dilectione fruitionis: quia est 
+      <lb ed="#P" n="35"/>simpliciter et essentialiter summum / et summe perfectionis / et 
+      <lb ed="#P" n="36"/>boaionitatis. vel diceretur quod paternitas diuina est forma 
+      <lb ed="#P" n="37"/>liter bonitas / et perfectio simpliciter: quia et si non in quolib 
+      <lb ed="#P" n="38"/>supposito sit melius ipsum quam non ipsum: tamen in qualibet es 
+      <lb ed="#P" n="39"/>sentia melius est ipsum quam non ipsum: sic quod omni essentie 
+      <lb ed="#P" n="40"/>cui non conuenit: est aliqua essentia perfectior / cui conuenit 
+      <lb ed="#P" n="41"/>nec repugnat summe perfectioni essentie: sed infert es 
+      <lb ed="#P" n="42"/>sentiam non esse summe perfectam / cui non conuenit: nec fil 
+      <lb ed="#P" n="43"/>us est imperfectus si sibi deest talis perfectio / tum quia si sibi 
+      <lb ed="#P" n="44"/>desit suppositaliter: non tamen essentialiter quia est essentia 
+      <lb ed="#P" n="45"/>liter idem illi: tum quia sibi non deest aliqua perfectio: quam me 
+      <lb ed="#P" n="46"/>ius sit in quolet supposito esse quam non esse: et quo exigatur 
+      <lb ed="#P" n="47"/>ad perfectionem suppositi: et quo inferat perfectius esse aliquod 
+      <lb ed="#P" n="48"/>cui inest: omni eo supposito cui deest. Si vero desit sibi 
+      <lb ed="#P" n="49"/>quidam ratio perfectionis simpliciter quae infert omni essentia cui 
+      de<lb ed="#P" n="50" break="no"/>est esse alia perfectiorem cui adest et quo infert imperfectionem 
+      <lb ed="#P" n="51"/>in essentia cui desit. Sic non est inconueniens filio per 
+      <lb ed="#P" n="52"/>sonaliter non conuenire huiusmodi perfectionem: dum modo habeat eande 
+      <lb ed="#P" n="53"/>equiualenter persiotnaliter / et eandem essentialiter.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2967">
+      ¶ Ad secundum. si di 
+      <lb ed="#P" n="54"/>ligitur deus quia dator benficii: sic quod bennicium / vel benficia 
+      <lb ed="#P" n="55"/>tus diligatur principalius et deus referatur secundum amorem 
+      <lb ed="#P" n="56"/>in benficiatum vt principalius dilectum: et vt finem: gratia cui 
+      <lb ed="#P" n="57"/>et non vlterius referendum actualiter vel habitualiter in de 
+      <lb ed="#P" n="58"/>um: sic est vti deo: et est dilectio inordinata. Si vero 
+      di<lb ed="#P" n="59" break="no"/>ligitur deus amore relatiuo ipsius ad banficium / seu 
+      baenficia<lb ed="#P" n="60" break="no"/>tum non tanquam medii ad causam finalem: gratia cuius tota 
+      <lb ed="#P" n="61"/>liter / vel principaliter sed tamquam cause effectiue ad ef 
+      <lb ed="#P" n="62"/>fectum / et terminum sue commnicationis vlterius referibilem 
+      <lb ed="#P" n="63"/>actu vel habitu in deum vt causatum finibile in causam 
+      <lb ed="#P" n="64"/>finalem: sic est fruitio tertio modo.
+    </p>
+            <p xml:id="D78nca-e14615-d1e2993">
+      ¶ Ad tertium. si vil 
+      <lb ed="#P" n="65"/>tutes ipse diliguntur propter se secundo modo: sic dicitur 
+      <lb ed="#P" n="66"/>fruitio secundo modo: et est vsus tertio modo: quia non repu 
+      <!--65.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>gnant. si vero diligantur propter se tertio modo sic est frui 
+      <lb ed="#P" n="68"/>tio inordinata: vnde Mag. d. prima ca. quarto / et et 
+      au<lb ed="#P" n="69" break="no"/>gustinus primo de doctrina christiana ca. vi. Si rei quae dili 
+      <lb ed="#P" n="70"/>igitur inheseris atque permanseris: finem in ea ponens 
+      <lb ed="#P" n="71"/>leticie tue: tunc vere et proprie frui dicendus es etiam 
+      <lb ed="#P" n="72"/>quo modo virtutes propter se diligende sunt: patet 
+      <lb ed="#P" n="73"/>ibidem.
+    </p>
+            <p xml:id="D78nca-e14615-d1e3019">
+      ¶ Ad quartum. si sit primo et directe 
+      respe<lb ed="#P" n="74" break="no"/>ctu creature erit vsus / vel fruitio primo modo: si sit 
+      re<lb ed="#P" n="75" break="no"/>spectu dei erit quadam fruitio vt infinibili aliquo.
+    </p>
+            <p xml:id="D78nca-e14615-d1e3026">
+      ¶ Ad  
+      <lb ed="#P" n="76"/>quintum: erit fruitio imperfecta informis et dispositiua 
+      <lb ed="#P" n="77"/>ad formatam.
+    </p>
+            <p xml:id="D78nca-e14615-d1e3033">
+      ¶ Ad sextum: si huiusmodi amor non habeat 
+      <lb ed="#P" n="78"/>aliquam circunstantiam charitati repugnantem nec est 
+      <lb ed="#P" n="79"/>repugnantem amori relatiuo illius amati in deum / et 
+      <lb ed="#P" n="80"/>cum illo amore stet quod talis diligat summe deum 
+      si<lb ed="#P" n="81" break="no"/>cut finem vltimum: sic est fruitio primo / et secundo mo 
+      <lb ed="#P" n="82"/>do dicta: non tertio modo. potest etiam reduci ad vsum 
+      <lb ed="#P" n="83"/>secundo modo sumptum.
+    </p>
+            <p xml:id="D78nca-e14615-d1e3049">
+      ¶ Ad argumentum principale 
+      <lb ed="#P" n="84"/>patet ex dictis.
+    </p>
+            <p xml:id="D78nca-e14615-d1e3055">
+      ¶ Ad tertium contra tertiam conclusionem 
+    </p>
+            <p xml:id="D78nca-e14615-d1e3058">
+               <lb ed="#P" n="85"/>¶ Tinis prime distinctionis
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

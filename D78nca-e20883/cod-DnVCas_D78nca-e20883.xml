@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="32-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-e20883"><!-- l1d2-3q2 -->
+            <head xml:id="D78nca-e20883-Hd1e108">Quaestio 2</head>
+            <head xml:id="D78nca-e20883-Hd1e111" type="question-title">
+      utrum sola veritas affirma 
+      tiua sit per se obiectum assenssus 
+      secundum quem formaliter assentimus 
+      quod deus est vnus essentialiter et trinus 
+      personaliter
+    </head>
+            <p xml:id="D78nca-e20883-d1e114">
+               <lb ed="#P" n="82"/>SEcundo circa distin 
+      <lb ed="#P" n="83"/>ctionem secundam vsque ad octauam. 
+      <lb ed="#P" n="84"/>Quero vtrum sola veritas affirma 
+      <lb ed="#P" n="85"/>tiua sit per se obiectum assenssus 
+      se<lb ed="#P" n="86" break="no"/>cundum quem formaliter assentimus 
+      <lb ed="#P" n="87"/>quod deus est vnus essentialiter et trinus 
+      <lb ed="#P" n="88"/>personaliter.
+    </p>
+            <p xml:id="D78nca-e20883-d1e132">
+      Quod sic. quia illud solum est 
+      <lb ed="#P" n="89"/>obiectum alicuius assensus cui per illum assensum 
+      assen<lb ed="#P" n="90" break="no"/>timus. sed hec est propositio veridica secundum rem vel se 
+      <lb ed="#P" n="91"/>cundnm apparentiam. probo. quia illi assentimus quod con 
+      <lb ed="#P" n="92"/>cedimus et illi dissentimus quod negamus sed solam 
+      <lb ed="#P" n="93"/>enunciationem concedimus vel negamus. igitur.
+    </p>
+            <p xml:id="D78nca-e20883-d1e145">
+      ¶ Con 
+      <lb ed="#P" n="94"/>tra. per assensum fidei assentimus illi vt per se obiecto 
+      <lb ed="#P" n="95"/>cui credimus et quod credimus per huiusmodi assensum: sed 
+      <lb ed="#P" n="96"/>hoc est deus trinus et vnus. igitur
+    </p>
+            <p xml:id="D78nca-e20883-d1e155">
+               <lb ed="#P" n="97"/>Prima conclusio. Per se obiectum assen 
+      <lb ed="#P" n="98" break="no"/>sus et iudici quo forma 
+      <lb ed="#P" n="99"/>liter assentimus vel iudicamus deum esse trinum persona 
+      <lb ed="#P" n="100"/>liter non est hec affirmatio veridica deus est trinus 
+      <lb ed="#P" n="101"/>personaliter nec est aliqua propositio seu apprehensio comple 
+      <lb ed="#P" n="102"/>xa significans deum esse trinum et vnum. et conformiter in 
+      <lb ed="#P" n="103"/>telligendum est de ceteris iudiciis et de propositionibus illis 
+      <lb ed="#P" n="104"/>correspondentibus. probatur. per se obiectum iudicii quo iu 
+      <lb ed="#P" n="105"/>dico deum esse trinum est necessarium et eternum. iudico 
+      <lb ed="#P" n="106"/>enim deum esse eternaliter et necessario trinum. sed nulla 
+      <lb ed="#P" n="107"/>propositio mentalis vel signum complexe significans hoc est 
+      <lb ed="#P" n="108"/>necessarium et eternum. igitur.
+    </p>
+            <p xml:id="D78nca-e20883-d1e184">
+      ¶ Preterea. per se obie 
+      <lb ed="#P" n="109"/>ctiue iudicatum a me per huiusmodi iudicium ponitur extra 
+      <lb ed="#P" n="110"/>animam circumscripto opere intellectus patet. certus enim 
+      <lb ed="#P" n="111"/>sum petrum currere extra. immo illud ponitur in certo si 
+      <lb ed="#P" n="112"/>tu et distantia a me. non autem huiusmodi propositio vel signum 
+      com<lb ed="#P" n="113" break="no"/>plexum. non dico quod sum certus circumscripto opere in 
+      <lb ed="#P" n="114"/>tellectus: sed sum certus petrum esse huiusmodi circumscri 
+      <lb ed="#P" n="115"/>pto opere intellectus.
+    </p>
+            <p xml:id="D78nca-e20883-d1e202">
+      ¶ Preterea. per se obiectum 
+      <lb ed="#P" n="116"/>apprehensionis complexe qua formaliter apprehendo pe 
+      <lb ed="#P" n="117"/>trum esse est extra. igitur et iudicium. quia idem per se et di 
+      <lb ed="#P" n="118"/>recte apprehendo et iudico cum apprehendo petrum esse / 
+      <lb ed="#P" n="119"/>et ly petrum esse in vtraque tenetur personaliter et pro eodem 
+    </p>
+            <p xml:id="D78nca-e20883-d1e213">
+               <lb ed="#P" n="120"/>¶ Preterea. per se obiectum iudicii et assensus 
+      pre<lb ed="#P" n="121" break="no"/>erat mee apprehensioni et assensui et remanebit 
+      ces<lb ed="#P" n="122" break="no"/>sante mea apprehensione vel iudicio. iudico enim .a 
+      <lb ed="#P" n="123"/>sse illud quod preerat et quod postea erit.
+    </p>
+            <p xml:id="D78nca-e20883-d1e224">
+      ¶ Preterea. pi 
+      <lb ed="#P" n="124"/>se obiectum assensus et iudicii quo iudico .a. fuisse vel 
+      <lb ed="#P" n="125"/>fore huiusmodi non est propositio vel apprehensio vel signum com 
+      <lb ed="#P" n="126"/>plexum formatum vel formabile. igitur nec per se ob 
+      <lb ed="#P" n="127"/>ectum iudicii quo iudico. a. esse huiusmodi. antecedens probatur quia 
+      <lb ed="#P" n="128"/>obiectiue per se iudicatum a me per huiusmodi iudicium est 
+      <lb ed="#P" n="129"/>preteritum vel futurum et non est praesens. quia vere iudico ob 
+      <lb ed="#P" n="130"/>iectum fuisse vel fore huiusmodi et non esse nunc huiusmodi. mea autem 
+      <lb ed="#P" n="131"/>propositio et apprehensio est presens.
+    </p>
+            <p xml:id="D78nca-e20883-d1e244">
+      ¶ Confirmatur. 
+      <!--76.xml-->
+      <pb ed="#P" n="33-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>per se obliectum assensus / et iudicii recordatiui non est 
+      pro<lb ed="#P" n="2" break="no"/>positio quam format sic iudicans quia per se obiectum re 
+      <lb ed="#P" n="3"/>cordationis et illud de quo obiectiue recordor est 
+      prae<lb ed="#P" n="4" break="no"/>teritum.
+    </p>
+            <p xml:id="D78nca-e20883-d1e263">
+      ¶ Preterea per se obiectum iudicii ne 
+      <lb ed="#P" n="5"/>gatiui non est propositio negatiua: igitur consimiliter de 
+      <lb ed="#P" n="6"/>iudicio affirmatiuo. Antecedens probatur: quia interdum illud 
+      ni<lb ed="#P" n="7" break="no"/>chil est: et accidit illud esse: vt cum iudico petrum non 
+      <lb ed="#P" n="8"/>esse.
+    </p>
+            <p xml:id="D78nca-e20883-d1e274">
+      ¶ Preterea illud quod est per se obiectum iudicii 
+      <lb ed="#P" n="9"/>cuiusdam intellectualis est sensibiliter / et experimenta 
+      <lb ed="#P" n="10"/>liter notum. de eodem enim iudico intellectualiter quod ex 
+      <lb ed="#P" n="11"/>perimentaliter et sensibiliter video vel vidi: et ideo 
+      <lb ed="#P" n="12"/>sic iudico / et testimonium perhibeo sic esse: quia vidi sic 
+      <lb ed="#P" n="13"/>esse: puta petrum currere. Confirmatur: quia illud intel 
+      <lb ed="#P" n="14"/>lectualiter iudico quod apparet mihi et bruto: et quod 
+      <lb ed="#P" n="15"/>estimatur per brutum.
+    </p>
+            <p xml:id="D78nca-e20883-d1e292">
+      ¶ Preterea idem iudico hodis 
+      <lb ed="#P" n="16"/>quod heri quando iudico et credo deum esse trinum: sed non 
+      <lb ed="#P" n="17"/>iudicarem idem: quia non eadem est propositio formata a mo 
+      <lb ed="#P" n="18"/>heri / et hodie.
+    </p>
+            <p xml:id="D78nca-e20883-d1e301">
+      ¶ Preterea. idem est per se obiectum iu 
+      <lb ed="#P" n="19"/>dicii mei et iudicii tui. Iudicamus enim omnino idem / et 
+      <lb ed="#P" n="20"/>testimonium perhibemus super omnino eadem: sed non est 
+      ea<lb ed="#P" n="21" break="no"/>dem propositio mei et tui: nec eadem cognitio: quia nihil 
+      <lb ed="#P" n="22"/>cogitas de actibus meis. vnde nulli duo idem iudica 
+      <lb ed="#P" n="23"/>rent / et crederent: nec super eodem testimonium perhibe 
+      <lb ed="#P" n="24"/>rent.
+    </p>
+            <p xml:id="D78nca-e20883-d1e317">
+      ¶ Preterea. de illo eodem de quo prius 
+      dubita<lb ed="#P" n="25" break="no"/>bam sum modo certus: sed non eadem est apprehensio con 
+      <lb ed="#P" n="26"/>plexa nunc et prius: quia nunc est intuitiua et euidens: 
+      <lb ed="#P" n="27"/>Ideo enim sum certus: quia intuitiue cognoscitur modo sic esse 
+    </p>
+            <p xml:id="D78nca-e20883-d1e326">
+               <lb ed="#P" n="28"/>¶ Preterea eidem obiective assentio cui plato dissentit 
+      <lb ed="#P" n="29"/>sed pluro non dissentit per se obiectiue propositioni formate a 
+      <lb ed="#P" n="30"/>me: quia de me nihil cogitat: igitur. Maior patet cum enim 
+      as<lb ed="#P" n="31" break="no"/>sentio quod petrus est albus et plato dissentit: contradicimus 
+      <lb ed="#P" n="32"/>nobis: et sunt iudicia contraria. igitur iste assensus et 
+      il<lb ed="#P" n="33" break="no"/>le dissensus sunt respectu eiusdem. si dicatur quod nunc 
+      <lb ed="#P" n="34"/>iudico idem quod prius / vel idem quod plato / vel illud 
+      <lb ed="#P" n="35"/>cui plato dissentit non quia per se immediatum 
+      ob<lb ed="#P" n="36" break="no"/>iectum vtriusque iudicii sit formaliter idem: sed quia est 
+      equi<lb ed="#P" n="37" break="no"/>ualenter idem: quia propositiones ille quibus per se et imme 
+      <lb ed="#P" n="38"/>diate obiectiue assentimus: significant idem. Proposi 
+      <lb ed="#P" n="39"/>tio autem per se est obiectum assensus: non vt est quidam 
+      quali<lb ed="#P" n="40" break="no"/>tas naturalis: sed vt est signum et exemplar / et imago ab 
+      <lb ed="#P" n="41"/>terius.
+    </p>
+            <p xml:id="D78nca-e20883-d1e360">
+      ¶ Contra. si ideo dicimur iudicare idem equiua 
+      <lb ed="#P" n="42"/>lenter: quia significatum illorum complexorum est idem Aut igitur 
+      <lb ed="#P" n="43"/>huiusmodi iudicia feruntur obiectiue tantum super illud signi 
+      <lb ed="#P" n="44"/>ficatum non super huiusmodi propositiones. aut super propositio 
+      <lb ed="#P" n="45"/>nes tantum / et non super significatum ipsarum. aut 
+      <lb ed="#P" n="46"/>super vtrunque simul. si primum / propositum. si secundum 
+      <lb ed="#P" n="47"/>contra. tum quia superfluum est ponere vtrunque. Ex quo 
+      <lb ed="#P" n="48"/>enim significatum extra est natum esse per se obiec 
+      <lb ed="#P" n="49"/>tum assensus sufficienter poterit poni obiectiue iudi 
+      <lb ed="#P" n="50"/>catum ex parte significati. sicut enim significatum ex 
+      <lb ed="#P" n="51"/>tra est totale / et sufficiens obiectum apprehensionis 
+      <lb ed="#P" n="52"/>complexe / qua apprehendo petrum esse hic. pari 
+      ra<lb ed="#P" n="53" break="no"/>tione poterit esse obiectum sufficiens iudicii 
+      confor<lb ed="#P" n="54" break="no"/>mis. idem enim apprehendo et iudico: cum 
+      apprehen<lb ed="#P" n="55" break="no"/>do et iudico petrum esse hic. tum quia partim 
+      iudica<lb ed="#P" n="56" break="no"/>remus idem: partim diuersa et iudicaremus: parti 
+      <lb ed="#P" n="57"/>sic esse extra animam. Tum quia non contradiceremus 
+      <lb ed="#P" n="58"/>nobis: nec essent iudicia contraria diuersorum huiusmodie si se 
+      <lb ed="#P" n="59"/>cundum: igitur nec formaliter nec equiualenter iudicamus idem:. 
+      <lb ed="#P" n="60"/>sed omnino diuersa: sicut actus nostri omnino sunt diuersi: immo 
+      <lb ed="#P" n="61"/>alterius rationis: quia vnus est assensus alter dissensus. 
+      <lb ed="#P" n="62"/>vnus est certitudo / alius dubitatio. vnus apprehensio cla 
+      <lb ed="#P" n="63"/>ra / alius est apprehensio obscura. Item contra rensionem. Si 
+      <lb ed="#P" n="64"/>huiusmodi iudicium est obiectiue respectu .a. signi 
+      complexi<lb ed="#P" n="65" break="no"/>existentis in mente. Aut igitur intellectus iudicans vtitur. a. 
+      <lb ed="#P" n="66"/>complexo propter se ibi sistendo et terminando iudicium. aut non 
+      <lb ed="#P" n="67"/>sed pro alio et pro significato. si secundum propositum: quia significatum esset principa 
+      <!--76.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="68"/>le obentum assensus: et est illud quod vltimate iudico: et cui ob 
+      <lb ed="#P" n="69"/>iectiue terminatiue assentio. si primum / contra. tum quia sequitur quod 
+      <lb ed="#P" n="70"/>neque formaliter neque equiualenter idem iudico nunc et heri: 
+      <lb ed="#P" n="71"/>quia omnino aliud / et aliud obectum. nec intellectus vt iudicans 
+      <lb ed="#P" n="72"/>vtitur illo: vt signo / sed vt vltimato terminatimo iudicii: et 
+      <lb ed="#P" n="73"/>tu et ego iudicamus omina diuersa situ distantia: et nul 
+      <lb ed="#P" n="74"/>lo modo idem. tum quia falsum esset iudicium qua iudicarem deum esse 
+      tri<lb ed="#P" n="75" break="no"/>num et vnum: quia per illud iudico illud esse obiective trinum et vnum 
+      <lb ed="#P" n="76"/>quod est in anima non res ad extra. hoc autem est falsum vnde arguitur 
+      <lb ed="#P" n="77"/>sic. Illud est obetum huius iudici de quo obiective iudico ipsum 
+      <lb ed="#P" n="78"/>esse trinum et vnum: sed res extra est huiusmodi: quia de illo 
+      obie<lb ed="#P" n="79" break="no"/>ctiue iudico ipsum esse trinum et vnum: quod est rea 
+      <lb ed="#P" n="80"/>liter trinum et vnum: alioquin deciperer: sed solus 
+      <lb ed="#P" n="81"/>deus existens extra animam et nihil aliud est trinum et vnum 
+      <lb ed="#P" n="82"/>etc. igitur.
+    </p>
+            <p xml:id="D78nca-e20883-d1e456">
+      ¶ Item contra responsionem: quia proportionabiliter / et vni 
+      <lb ed="#P" n="83"/>formiter iudicamus ideo sicut apprehendimus ideo: sed apprehendi 
+      <lb ed="#P" n="84"/>mus idem formliter cum ego apprehendo petrum esse in tali loco / et 
+      <lb ed="#P" n="85"/>tu similiter et testimonium perhibemus super eodem nunero formliter 
+      <lb ed="#P" n="86"/>Preterea: illud de quo iudicamus est obetum vel pars obiecti sed 
+      <lb ed="#P" n="87"/>illud est res extra significata: quia de hoc demonstrato in hoc 
+      lo<lb ed="#P" n="88" break="no"/>co iudico ipsum esse huiusmodi. Preterea. petrum esse album est per qeu 
+      <lb ed="#P" n="89"/>se obetum iudicii: et est id cui obiectiue assentio: sed petrum li 
+      <lb ed="#P" n="90"/>esse album non est signum complexum veridicum: sed intelligibile in 
+      <lb ed="#P" n="91"/>extra animam. probo: quia est prius et causa veritatis complexe secundum arist. in 
+      prae<lb ed="#P" n="92" break="no"/>dicamentis ca. de priori. et. 9. metha. Non propter nostra vere 
+      <lb ed="#P" n="93"/>existinare te esse album: tu es albus: sed propter te esse album nos 
+      <lb ed="#P" n="94"/>hoc dicentes verum dicimus. probatur iterum: quia causa naturalis facit 
+      <lb ed="#P" n="95"/>petrum esse album: non autem facit propositionem 
+    </p>
+            <p xml:id="D78nca-e20883-d1e487">
+               <lb ed="#P" n="96"/>Secunda conclusio. hec affirmatio veridica 
+      <lb ed="#P" n="97"/>deus estrinus personaliter non 
+      <lb ed="#P" n="98"/>est obintum totale neque partiale iudicii vel assensus / qua forliter 
+      <lb ed="#P" n="99"/>et adequate iudicamus / et assentimus deum esse trinum et vnum 
+      <lb ed="#P" n="100"/>probatur ex multis. mediis supra positis. Preterea sit .a. 
+      <lb ed="#P" n="101"/>omplexum mentale seu apprehensio complexa: per quam forma 
+      <lb ed="#P" n="102"/>liter et adequate apprehedit intellectus: quod binarius est par. 
+      <lb ed="#P" n="103"/>Tunc sic possibile est intellectum iudicare et assentire 
+      <lb ed="#P" n="104"/>binarium esse parem ipso .a. non cognito: igitur .a. non est 
+      <lb ed="#P" n="105"/>obiectum totale nec partiale huius iudicii / vel assensus. consequentia 
+      <lb ed="#P" n="106"/>patet: quia intellectus iudicaret obiectum / non cognitum 
+      <lb ed="#P" n="107"/>Antecedens probatur: quia circumscripta omni noticia refle 
+      <lb ed="#P" n="108"/>ca ipsius .a. non cognoscitur .a. ab intellectu in quo est 
+      <lb ed="#P" n="109"/>vt nunc supponitur. et probatur alibi. Sed possibile est 
+      <lb ed="#P" n="110"/>intellectum habentem .a. actum iudicare binarium esse parem 
+      <lb ed="#P" n="111"/>circumscripta omni alia noticia reflexa ipsius. a. igitur 
+      possi<lb ed="#P" n="112" break="no"/>bile est iudicare binarium esse parem ipso .a. non cognito 
+      <lb ed="#P" n="113"/>Secunda pars antecedentis probatur: quia intellectus euidem 
+      <lb ed="#P" n="114"/>ter cognoscens et binarium esse parem. aut assentit natu 
+      <lb ed="#P" n="115"/>raliter / et necessario: aut assentire potest circumscripta 
+      <lb ed="#P" n="116"/>alia noticia priori quam sit iudicium illud. sicut. enim intelle 
+      <lb ed="#P" n="117"/>ctus apprehendens hominem esse asinum dissentit naturaliter: ita 
+      <lb ed="#P" n="118"/>de contrario sensu. Si enim clara et euidens et certa 
+      no<lb ed="#P" n="119" break="no"/>ticia quod sic est non sufficiat ad iudicandum / et 
+      assentiendi<lb ed="#P" n="120" break="no"/>sic esse. nullum principium erit per se notum / et nulli intellectui 
+      <lb ed="#P" n="121"/>erit per se notum sic esse sicut significatur per principium: quia ad 
+      assen<lb ed="#P" n="122" break="no"/>tiendum requireretur alia noticia: sed intellectus per .a. actum 
+      <lb ed="#P" n="123"/>euidenter cogscit binarium esse parem. supponatur enim talis 
+      <lb ed="#P" n="124"/>apprehensio qulis est de per se / et ex se notis: igitur. praerea esto quod 
+      <lb ed="#P" n="125"/>a. esset formliter noticia suiipsius. adhuc iudicium quae formiliter et a 
+      <lb ed="#P" n="126"/>lequate iudico hunc binarium esse parem non habet .a. pro aliquo 
+      <lb ed="#P" n="127"/>sui obiecto: quatenus est huiusmodi iudicium probo primo: quia .a. qute 
+      <lb ed="#P" n="128"/>nus est noticia sui: non est noticia veridica / nec falsidica. si 
+      <lb ed="#P" n="129"/>enim esset veridica: tunc omnis noticia complexa esset 
+      ve<lb ed="#P" n="130" break="no"/>ridica / et si esset falsidica sequitur quod omnis propositio mentalis 
+      <lb ed="#P" n="131"/>esset falsidica: quia: quelibet est equaliter / et 
+      vnifor<lb ed="#P" n="132" break="no"/>miter apprehensio sui: et conformis sibi ipsi 
+      <lb ed="#P" n="133"/>Secundo. quia totale obiectum illius iudicui est binari 
+      <lb ed="#P" n="134"/>um hunc demonstratum esse parem. Sed .a. non est bi¬ 
+      <!--77.xml-->
+      <pb ed="#P" n="33-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>narium hunc esse parem / nec pars eius: quia signum eius 
+      <lb ed="#P" n="2"/>vt significati extrinseci: igitur.
+    </p>
+            <p xml:id="D78nca-e20883-d1e585">
+      ¶ Preterea si: a est 
+      ob<lb ed="#P" n="3" break="no"/>iectum partiale alicuius iudicii / quo intellectus iu 
+      <lb ed="#P" n="4"/>dicat de paritate binarii maxime videretur de iudicio 
+      <lb ed="#P" n="5"/>quo intellectus iudicat quod .a. complexum est verum. 
+      <lb ed="#P" n="6"/>vel conforme rei extra seu suo significato vel aliquod 
+      <lb ed="#P" n="7"/>equiualens. Patet. non enim est obiectum totale 
+      hu<lb ed="#P" n="8" break="no"/>ius iudicii. Si igitur est partiale obiectum aliquid 
+      <lb ed="#P" n="9"/>sibi attribuitur. vel ipsum alteri in habitudine ad bina 
+      <lb ed="#P" n="10"/>rium: quod non videtur nisi quod est verum: et confor 
+      <lb ed="#P" n="11"/>me tali significato. sed illud iudicium non est 
+      iudi<lb ed="#P" n="12" break="no"/>cium quo formaliter et primo iudicatur binarium 
+      es<lb ed="#P" n="13" break="no"/>se parem: sed est iudicium posterius / et presupponens 
+      <lb ed="#P" n="14"/>assensum quo formaliter assentio binarium esse paren 
+      <lb ed="#P" n="15"/>probo multipliciter prmo binarium esse parem est signum con 
+      <lb ed="#P" n="16"/>ilexum hoc significans esse verum: et vnum est prius / et 
+      <lb ed="#P" n="17"/>causa alterius secundum Aristotelem in praedicamentis: igitur re 
+      <lb ed="#P" n="18"/>spectu eorum nati sunt esse diuersi assensus et diuer 
+      <lb ed="#P" n="19"/>a iudicia. respectu enim diuersorum obiectiue 
+      cogno<lb ed="#P" n="20" break="no"/>scibilium complexe et veridice nati sunt esse varii ab 
+      <lb ed="#P" n="21"/>sensus.
+    </p>
+            <p xml:id="D78nca-e20883-d1e629">
+      ¶ Item quod vnus assensus sit prior et causa pa 
+      <lb ed="#P" n="22"/>tet quia ideo iudico et assentio .a. complexum esse verum 
+      <lb ed="#P" n="23"/>vel esse conforme suo significato: quia assentio et iudico 
+      <lb ed="#P" n="24"/>binarium esse parem. iudicare enim hoc signum esse 
+      <lb ed="#P" n="25"/>conforme rei: presupponit iudicium quo iudicatur 
+      <lb ed="#P" n="26"/>sic esse a parte rei sicut de complexo vocali vel 
+      scrip<lb ed="#P" n="27" break="no"/>to si iudicetur esse verum. item diuersis propositionibus: 
+      <lb ed="#P" n="28"/>quarum vna est naturaliter prior et notior altera: et 
+      <lb ed="#P" n="29"/>dicit propter quid respectu alterius correspondent diuer 
+      <lb ed="#P" n="30"/>si assensus / et iudicia: alioquin non esset alius habi 
+      <lb ed="#P" n="31"/>tus correspondens conclusioni et principio. hec 
+      propo<lb ed="#P" n="32" break="no"/>sitio / seu apprehensio binarius est par qua sit .a. et hec 
+      pro<lb ed="#P" n="33" break="no"/>positio .a. complexum est veridicum seu conforme rei 
+      <lb ed="#P" n="34"/>sunt diuerse propositiones. Patet primo: quia praedicatum 
+      <lb ed="#P" n="35"/>vnius non est idem cum praedicato alterius: nec subie 
+      <lb ed="#P" n="36"/>ctum cum subiecto: quia esse verum est praedicatum vnius 
+      <lb ed="#P" n="37"/>nec est conuertibile cum subiecto: sed commune om 
+      <lb ed="#P" n="38"/>ni propositioni vere. patet etiam: quia in propositionibus 
+      <lb ed="#P" n="39"/>vocalibus / vel scriptis correspondentibus aliud est 
+      <lb ed="#P" n="40"/>subiectum in hac / et in illa. Item subiectum huius 
+      <lb ed="#P" n="41"/>est praedicabile de genere substantie interdum. Subiectum 
+      <lb ed="#P" n="42"/>autem illius vel praedicatum de genere qualitatis vel 
+      <lb ed="#P" n="43"/>relationis. Subiectum etiam huius et predicatum sunt 
+      <lb ed="#P" n="44"/>termini prime intentionis: sed illius sunt secunde inten 
+      <lb ed="#P" n="45"/>tionis. huius etiam supponunt pro rebus extra. illius 
+      <lb ed="#P" n="46"/>autem pro actu anime
+    </p>
+            <p xml:id="D78nca-e20883-d1e686">
+      ¶ Secundo: quia circunscripto intelle 
+      <lb ed="#P" n="47"/>ctu ponitur ita esse in re sicut significatur per istam. Non 
+      <lb ed="#P" n="48"/>autem ita ponitur sicut per alteram significatur. Tertio 
+      <lb ed="#P" n="49"/>quia vna spectat ad scientiam arismetice: altera ad sci 
+      <lb ed="#P" n="50"/>entiam logice: scilicet quod hoc complexum sit verum. hic enim 
+      <lb ed="#P" n="51"/>terminus veridicum spectat ad logicam: et causat as 
+      <lb ed="#P" n="52"/>sensum mediante medio logico comuni omni pro 
+      <lb ed="#P" n="53"/>positioni vere: scilicet quia est conforme suo significatio 
+    </p>
+            <p xml:id="D78nca-e20883-d1e705">
+               <lb ed="#P" n="54"/>¶ Quarto. quia contingit quod vna sit apprehensio 
+      singu<lb ed="#P" n="55" break="no"/>aris / et intuitiua respectu singularis demonstrati in 
+      <lb ed="#P" n="56"/>tuitiue cogniti puta hoc .a. est verum. Altera autem 
+      <lb ed="#P" n="57"/>est apprehensio vniuersalis. Quinto. si eadem est 
+      pro<lb ed="#P" n="58" break="no"/>positio / et apprehensio in mente: quod binarius est par 
+      <lb ed="#P" n="59"/>quae sit .a. et quod .a est propositio vera igitur pari ratione 
+      <lb ed="#P" n="60"/>et quod .a. est propositio caihegorica affirmatiua 
+      vni<lb ed="#P" n="61" break="no"/>uersalis vel indefinita / etc. vel quod non est falsa nec ne 
+      <lb ed="#P" n="62"/>gatiua etc. consequens est falsum: quia praedicata sunt di 
+      <lb ed="#P" n="63"/>uersa: et quia vna est affirmatiua / et altera negatiua 
+    </p>
+            <p xml:id="D78nca-e20883-d1e729">
+               <lb ed="#P" n="64"/>¶ Sexto. pari ratione eadem erit apprehensio homo 
+      <lb ed="#P" n="65"/>est asinus: quae sit .b. et quod .b. non est vera: nec conformis 
+      <lb ed="#P" n="66"/>rei. consequens est falsum: quia vna est affirmatiua / et 
+      <!--77.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>falsa. altera est negatiua et vera. consequentia probatur: 
+      <lb ed="#P" n="68"/>quia formata .b. non minus est euidens ipsam esse fal 
+      <lb ed="#P" n="69"/>sam quam formata .a. euidens est .a. esse veram. Ex istis 
+      <lb ed="#P" n="70"/>patet quod quamuis .a. propositio mentalis esset formaliter 
+      <lb ed="#P" n="71"/>seipsa apprehensio sui adhuc non esset apprehensio p 
+      <lb ed="#P" n="72"/>quam formaliter apprehenditur .a. esse verum. Et con 
+      <lb ed="#P" n="73"/>firmatur: quia omnis propositio vera formata in men 
+      <lb ed="#P" n="74"/>te cognosceretur formaliter seipsa esse vera. 
+      con<lb ed="#P" n="75" break="no"/>sequens est falsum: quia contingit intellectum habentem 
+      <lb ed="#P" n="76"/>illam esse dubium vel neutrum: de hoc consequentiam 
+      <lb ed="#P" n="77"/>probatur: quia quaelibet erit equaliter et vniformiter noticia in 
+      <lb ed="#P" n="78"/>tuitiua suiipsius: igitur non est ratio quare vna 
+      ostendat<lb ed="#P" n="79" break="no"/>formaliter seipsam esse veram magis quam alia ex hoc 
+      <lb ed="#P" n="80"/>quod est noticia sui
+    </p>
+            <p xml:id="D78nca-e20883-d1e773">
+      ¶ Item propositio contingenter vera 
+      <lb ed="#P" n="81"/>non est apprehensio qua apprehenditur esse vera contin 
+      <lb ed="#P" n="82"/>genter: igitur pari ratione nec de alia: quia non minus erit 
+      <lb ed="#P" n="83"/>noticia sui hec quam illa. antecedens probatur: quia ipsa eadem 
+      <lb ed="#P" n="84"/>manens potest nunc esse vera: nunc esse falsa propter 
+      <lb ed="#P" n="85"/>mutationem in re. Patet igitur multipliciter quod huiusmodi ap 
+      <lb ed="#P" n="86"/>prehensiones sunt distincte: quod autem vna sit prior et no 
+      <lb ed="#P" n="87"/>tior: et causalis respectu alterius. probatur: ideo enim .a. 
+      <lb ed="#P" n="88"/>signum complexum est verum: quia binarius est par 
+      <lb ed="#P" n="89"/>et ideo prima est vera: quia secunda est vera: et prima est de 
+      <lb ed="#P" n="90"/>monstrabilis per secundam: quia ab eo quod res est vel non 
+      <lb ed="#P" n="91"/>est oratio dicitur esse vera / vel falsa: et in praedicamentis capi. de 
+      <lb ed="#P" n="92"/>priori. prius natura est homine esse quam orationem hoc si 
+      <lb ed="#P" n="93"/>gnificantem veram esse. Et. 9. methaphisice. non 
+      pro<lb ed="#P" n="94" break="no"/>pter nos vere etc. Ex his patet quod quamuis quaelibet noticia in 
+      <lb ed="#P" n="95"/>tellectus esset formaliter noticia intuitiua sui 
+      ad<lb ed="#P" n="96" break="no"/>huc assensus quo formaliter assentio binarium esse 
+      <lb ed="#P" n="97"/>parem non esset assensus quo formaliter assentio .a 
+      <lb ed="#P" n="98"/>complexum esse verum: et per consequens ille assensus vt 
+      <lb ed="#P" n="99"/>est assensus quod binarius est par non habet .a. pro obiecto. 
+      <lb ed="#P" n="100"/>Primo 
+      <lb ed="#P" n="101"/>Contra duas conclusiones 
+      assen<lb ed="#P" n="102" break="no"/>tio et iudico quod binarius est par et assensus seu iudicium 
+      <lb ed="#P" n="103"/>est respectu eius quod binarius est par: sed quod binarius est 
+      <lb ed="#P" n="104"/>par est propositio: magiter.
+    </p>
+            <p xml:id="D78nca-e20883-d1e828">
+      ¶ Confirmatur. Illud est obis 
+      <lb ed="#P" n="105"/>ctiue creditum / et iudicatum quo conuenienter respondetur ad 
+      <lb ed="#P" n="106"/>stionem qua quaeritur de aliquo quid credit / et iudicat 
+      <lb ed="#P" n="107"/>sed conuenienter respondetur per hoc complexum immo 
+      <lb ed="#P" n="108"/>ter nihil aliud conuenientius respondetur: puta cum 
+      responde<lb ed="#P" n="109" break="no"/>tur quoniam credit / et iudicat quod binarius est par.
+    </p>
+            <p xml:id="D78nca-e20883-d1e841">
+      ¶ Secundo 
+      <lb ed="#P" n="110"/>intellectus non assentit nisi vero simpliciter / vel 
+      appa<lb ed="#P" n="111" break="no"/>renter nec dissentit nsi falso simpliciter vel apparenter 
+      <lb ed="#P" n="112"/>d est ei quod est vel apparet verum vel falsum: sed so 
+      <lb ed="#P" n="113"/>lum complexum est verum vel falsum. veritas enim / et 
+      <lb ed="#P" n="114"/>falsitas sunt proprietates signi complexi: igitur. Maior 
+      <lb ed="#P" n="115"/>probatur: quia aut iudicando erramus / et decipimur / et 
+      <lb ed="#P" n="116"/>tunc iudicamus falsum. aut non: et tunc iudicamus vel  
+      <lb ed="#P" n="117"/>rum.
+    </p>
+            <p xml:id="D78nca-e20883-d1e861">
+      ¶ Et confirmatur per Augustinum ench. 17 
+      <lb ed="#P" n="118"/>non est conueniens vt continuo aliquis erret si 
+      ali<lb ed="#P" n="119" break="no"/>id nescit: sed quisquis existimat se aliquid scire quod 
+      <lb ed="#P" n="120"/>nescit pro vero quippe approbat falsum / quod est 
+      erro<lb ed="#P" n="121" break="no"/>ris officium et proprium. Confirmatur: sicut bonum / et 
+      <lb ed="#P" n="122"/>malum ad volutatem: sic verum et falsum circa intel 
+      <lb ed="#P" n="123"/>ectum: sed voluntas non consentit nisi bono simpli 
+      <lb ed="#P" n="124"/>liter: aut secundum quid seu existentis aut apparentis: igitur. Sid 
+      <lb ed="#P" n="125"/>distinguitur de vero vt est passio signi complexi: et vt est 
+      <lb ed="#P" n="126"/>passio entis conuertibilis cum ente.
+    </p>
+            <p xml:id="D78nca-e20883-d1e884">
+      ¶ Contra quia chy 
+      <lb ed="#P" n="127"/>meram esse figmentum vel nihil esse / nec posse esse non est 
+      <lb ed="#P" n="128"/>ens hoc esse tale / et esse tantum: et tamen assentioquod chymera ni 
+      <lb ed="#P" n="129"/>chil est et quod .b. fuit et non est. igitur si verum est cui assentio 
+      <lb ed="#P" n="130"/>et non verum quod est ens sequitur quod verum complexum.
+    </p>
+            <p xml:id="D78nca-e20883-d1e895">
+      ¶ 
+      Confir<lb ed="#P" n="131" break="no"/>matur. concedis id cui assentis et negas illud cui dissentis 
+      <lb ed="#P" n="132"/>sed non concedis nisi complexum quod apparet tibi verum 
+      <!--78.xml-->
+      <pb ed="#P" n="34-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nec negas nisi complexum quod apparet tibi falsum 
+    </p>
+            <p xml:id="D78nca-e20883-d1e911">
+               <lb ed="#P" n="2"/>¶ Tertio principaliter intellectus assentit 
+      natura<lb ed="#P" n="3" break="no"/>liter ei quod est per se notum et euidens: sed multe propositiones 
+      <lb ed="#P" n="4"/>ex actibus nostris sunt per se note et euidentes circum 
+      <lb ed="#P" n="5"/>scripta reflexione: igitur illis intellectus obiectiue asse 
+      <lb ed="#P" n="6"/>tit. Maior patet quia noticia certa / et euidens: vel est 
+      <lb ed="#P" n="7"/>assensus vel sufficiens causa assensus respectu eum 
+      <lb ed="#P" n="8"/>denter noti. Tali enim intellectus assentit propter se: 
+      <lb ed="#P" n="9"/>Minor probatur de principiis scientiarum per se notis 
+    </p>
+            <p xml:id="D78nca-e20883-d1e931">
+               <lb ed="#P" n="10"/>¶ Confirmatur. intellectus non assentit naturaliter 
+      <lb ed="#P" n="11"/>nisi ei quod est per se notum vel ex per se notis deductum 
+      <lb ed="#P" n="12"/>vel ex probabilibus: sed huiusmodi solum sunt principia et 
+      <lb ed="#P" n="13"/>conclusiones illate. igitur.
+    </p>
+            <p xml:id="D78nca-e20883-d1e942">
+      ¶ Quarto. sit .a. hoc comple 
+      <lb ed="#P" n="14"/>xum binarius est par: tunc sic. Assensus quo assen 
+      <lb ed="#P" n="15"/>tio et iudico .a. esse verum est obiectiue respectu 
+      ip<lb ed="#P" n="16" break="no"/>sius .a. complexi: igitur et assensus quo assentio quod 
+      bi<lb ed="#P" n="17" break="no"/>narius est par. Consequentia probatur: quia idem 
+      <lb ed="#P" n="18"/>assensus et iudicium est quo assentio quod binarius  
+      <lb ed="#P" n="19"/>est par: et quo assentio hoc complexum esse verum. 
+      <lb ed="#P" n="20"/>probo primo: quia si sint assensus diuersi / et 
+      respec<lb ed="#P" n="21" break="no"/>tu diuersorum: igitur possibile est istum esse sine 
+      il<lb ed="#P" n="22" break="no"/>lo igitur esse cum opposito dissensu: et ita idem 
+      poteri<lb ed="#P" n="23" break="no"/>simul assentire quod binarius est par et dissentire hoc 
+      <lb ed="#P" n="24"/>complexum esse verum: et assentire quod est falsum. pro 
+      <lb ed="#P" n="25"/>bo: quia non erunt assensus et dissensus contrarii 
+      <lb ed="#P" n="26"/>sed tantum disparati: quia respectu obiectorum dispa 
+      <lb ed="#P" n="27"/>ratorum etiam situ distantium: quorum vnum est si 
+      <lb ed="#P" n="28"/>ne alio.
+    </p>
+            <p xml:id="D78nca-e20883-d1e977">
+      ¶ Secundo probatur: quia idem est binarium esse parem et 
+      <lb ed="#P" n="29"/>verum esse binarium esse parem: si enim non sunt idem: igitur vnu 
+      <lb ed="#P" n="30"/>esset prius et causa alterius: sed hoc est falsum: quia nul 
+      <lb ed="#P" n="31"/>lo genere cause patet inductiue.
+    </p>
+            <p xml:id="D78nca-e20883-d1e987">
+      ¶ Quinto. Assensus 
+      <lb ed="#P" n="32"/>fidei catholice est respectu propositionum: igitur pr 
+      <lb ed="#P" n="33"/>ri ratione de aliis. Antecedens probatur: quia per 
+      as<lb ed="#P" n="34" break="no"/>sensum fidei credimus articulis fidei: puta quod christu 
+      <lb ed="#P" n="35"/>resurrexit: sed articulus est propositio vera / et credibi 
+      <lb ed="#P" n="36"/>lis: et numerantur secundum numerum quarundam propo 
+      <lb ed="#P" n="37"/>sitionum.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1003">
+      ¶ Sexto. assensus conformis / et correspon 
+      <lb ed="#P" n="38"/>dens propositioni particulari vel indefinite signifi 
+      <lb ed="#P" n="39"/>canti immediate res extra non est obiectiue respectu 
+      <lb ed="#P" n="40"/>rerum significatarum: sed respectu complexi: igitur 
+      <lb ed="#P" n="41"/>pari ratione de assensu vniuersali vel singulari. an 
+      <lb ed="#P" n="42"/>tecedens probatur: quia formato isto complexo aliquis ho 
+      <lb ed="#P" n="43"/>mo dormit / vel currit potest aliquis assentire: non autem 
+      <lb ed="#P" n="44"/>assentit obiective alicui extra significato per illam. probo 
+      <lb ed="#P" n="45"/>quia de nullo homine singulari demonstrabili scit / vel 
+      as<lb ed="#P" n="46" break="no"/>sentit ipsum dormire. Quero igitur quod est illud ob 
+      <lb ed="#P" n="47"/>iectiue cui assentit: si illud complexum: habetur propositum 
+      <lb ed="#P" n="48"/>Si hunc singularem hominem demonstratum dor 
+      <lb ed="#P" n="49"/>mire / aut illum.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1032">
+      ¶ Contra: quia nec de hoc credo 
+      ip<lb ed="#P" n="50" break="no"/>sum dormire: nec de illo / aut hunc hominem et illum 
+      <lb ed="#P" n="51"/>dormire. Et patet quod non: aut hunc / vel illum: et hoc non 
+      <lb ed="#P" n="52"/>quia non format disiunctiuam. Et quia adhuc restat qua 
+      <lb ed="#P" n="53"/>stio de obiectiue iudicato: quia vel est quodliet significatum 
+      <lb ed="#P" n="54"/>per partes dsiunctiue: vel nullum / vel aliquod / et aliquod 
+      <lb ed="#P" n="55"/>non. et patet quod non. aut est propositio disiunctivma et habetur propositum 
+      <lb ed="#P" n="56"/>Est paralogismus accidentis: 
+      <lb ed="#P" n="57"/>Ad primum quia hoc quod dico binarius est par 
+      <lb ed="#P" n="58"/>in maiore stat personaliter / et significatiue: et in mino / 
+      <lb ed="#P" n="59"/>ti stat simpliciter / et materialiter.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1056">
+      ¶ Ad confirmatio 
+      <lb ed="#P" n="60"/>nem illud per quod conuenienter respondetur potest di 
+      <lb ed="#P" n="61"/>ci: et ipsa responsio seu dictum responsale vel 
+      significa<lb ed="#P" n="62" break="no"/>um per se per illam. Si primo modo. negatur maior: 
+      <lb ed="#P" n="63"/>quia tunc hec vox / Iohannes / esset causa homicidii: quia 
+      <lb ed="#P" n="64"/>si queritur quis fecit homicidium: conuenienter resper 
+      <lb ed="#P" n="65"/>detur / iohannes. Si secundo modo negatur minor 
+    </p>
+            <p xml:id="D78nca-e20883-d1e1072">
+               <lb ed="#P" n="66"/>¶ Ad secundum. Uerum / et falsum possunt sumi vt 
+      <!--78.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>sunt passiones propositionis. Alio modo vt verum est 
+      <lb ed="#P" n="68"/>passio entis et falsum non entis apparentis: tamen 
+      <lb ed="#P" n="69"/>esse huiusmodi vt .a. dicitur verum aurum / et .b. dicitur falsum 
+      <lb ed="#P" n="70"/>aurum et proprie loquendo potest dici quod verum secundo modo 
+      <lb ed="#P" n="71"/>est passio obiectiue significabilis: quatenus 
+      signifi<lb ed="#P" n="72" break="no"/>cabile per complexum verum / et falsum est passio 
+      ob<lb ed="#P" n="73" break="no"/>iecti significabilis vt significabile per complexum 
+      <lb ed="#P" n="74"/>falsum: vt si petrus est petrum esse est verum: quia est ens 
+      <lb ed="#P" n="75"/>sic significatum: sed si petrus non est petrum esse est fal 
+      <lb ed="#P" n="76"/>sum. vnde Aristot. quinto methaphisice. ca. de ente 
+      <lb ed="#P" n="77"/>dicit quod esse / et ens vno modo significat: quia verum 
+      <lb ed="#P" n="78"/>non esse: aut quia non verum sed falsum. Similiter autem 
+      <lb ed="#P" n="79"/>est in affirmatione / et negatione: et capitulo de 
+      fal<lb ed="#P" n="80" break="no"/>so dicit: quod falsum dicitur vno modo res falsa: et hu 
+      <lb ed="#P" n="81"/>iusmodi hoc quidem per non componi: vt te 
+      sede<lb ed="#P" n="82" break="no"/>re: aut per impossibile esse componi: vt dyametrum 
+      <lb ed="#P" n="83"/>esse commensurabilem. alia vero dicuntur falsa: quae sunt 
+      <lb ed="#P" n="84"/>quedam entia et apta nata videri: sed non qualia sunt 
+      <lb ed="#P" n="85"/>vt sonia / et ymbratica. hec enim sunt aliquid: 
+      <lb ed="#P" n="86"/>sed non quorum faciunt fantasiam. Res igitur false dicum 
+      <lb ed="#P" n="87"/>tur. aut quia non sunt ipse: aut quia ab eis fantasia 
+      <lb ed="#P" n="88"/>esset. hec Aristo. Et consequenter loquitur de 
+      falsi<lb ed="#P" n="89" break="no"/>tate orationis.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1131">
+      ¶ Ad rationem igitur accpiendo 
+      ve<lb ed="#P" n="90" break="no"/>rum vt est proprietas signi complexi. Negatur maior licet 
+      <lb ed="#P" n="91"/>possit reduci in aliquam veram. Intellectus en im 
+      <lb ed="#P" n="92"/>non assentit nisi habeat apprehensionem veram 
+      rea<lb ed="#P" n="93" break="no"/>liter vel apparenter id est nisi vel appareat secundum illam 
+      <lb ed="#P" n="94"/>et sic esse sicut significatur per illam: et in hoc sensu ad 
+      <lb ed="#P" n="95"/>cipiende sunt huiusmodi propositiones: scilicet secundum sensum intran 
+      <lb ed="#P" n="96"/>sitiuum. sed ille modus habuit ortum ex communi ima 
+      <lb ed="#P" n="97"/>ginatione / qua homines imaginantur propositiones esse 
+      <lb ed="#P" n="98"/>obiecta apprehensionis complexe: quo modo imaginam 
+      <lb ed="#P" n="99"/>tur obiecta vniuersalia correspondere intentionibus 
+      <lb ed="#P" n="100"/>vniuersalibus. ideo communiter dicimur intelligere 
+      <lb ed="#P" n="101"/>vniuersale: quia intelligimus vniuersaliter per 
+      inten<lb ed="#P" n="102" break="no"/>tionem vniuersalem. Sumendo autem verum secundo modo sic 
+      pro<lb ed="#P" n="103" break="no"/>prie sumendo verum vt est ens. adhuc negatur maior: quia 
+      <lb ed="#P" n="104"/>de non entibus formantur apprehensiones / et iudicia vera: tamen 
+      <lb ed="#P" n="105"/>impro cprie / et in similitudine / et trassumptione conceditur: quia 
+      <lb ed="#P" n="106"/>sicut dicimus quod quicumque propositione vera demonstrata ita 
+      po<lb ed="#P" n="107" break="no"/>nitur in re sicut significat: ita dicimus esse verum et ens hoc esse 
+      <lb ed="#P" n="108"/>vel non esse. huiusmodi tamen proprie non oportet quod sit ens.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1176">
+      ¶ Ad ter 
+      <lb ed="#P" n="109"/>tium. aliquid esse per se notum / et euidens intellectui dicitur dupliciter: 
+      <lb ed="#P" n="110"/>vel proprie scilicet obiectiue / et transitiue: et sic negatur minor. 
+      <lb ed="#P" n="111"/>Atio modo improprie et intransitiue non obiectiue: quia est 
+      noti<lb ed="#P" n="112" break="no"/>cia certificans et euidenter notificans sic esse: et euidenter 
+      no<lb ed="#P" n="113" break="no"/>tum faciens anime: et sic solet dici propositio per se nota: quaeita 
+      <lb ed="#P" n="114"/>euidenter ostendit sic esse quod intellectus habens illam 
+      <lb ed="#P" n="115"/>assentit naturaliter sic esse circumscripta alia noticia: et 
+      <lb ed="#P" n="116"/>sic est intelligendum dictum commune: quae dicitur de principiis quod sunt 
+      <lb ed="#P" n="117"/>propositiones per se note. Tante magis proprie dicerentur per se no 
+      <lb ed="#P" n="118"/>tificantes: et per se euidemper certificantes: vel possunt dici 
+      <lb ed="#P" n="119"/>per se note: quia si anima velit de illa iudicare: statim notum 
+      <lb ed="#P" n="120"/>est illam esse veram: et prius tamen notum est sic esse in re. hoc 
+      <lb ed="#P" n="121"/>secundo modo negatur maior si intelligitur vniversaliter
+    </p>
+            <p xml:id="D78nca-e20883-d1e1207">
+      ¶ Ad quartum 
+      <lb ed="#P" n="122"/>negatur conequentia. Ad probationem negatur assumptum. Ad  
+      <lb ed="#P" n="123"/>primam probationem dicendum quod euidens est naturalter 
+      <lb ed="#P" n="124"/>omni intellectui: quod si ita est in re propositio enuncum 
+      <lb ed="#P" n="125"/>anedens sic esse est vera: et est consequentia necessaria 
+      <lb ed="#P" n="126"/>et euidens. ideo naturaliter impossibile est 
+      assenti<lb ed="#P" n="127" break="no"/>re sic esse in re: et dissentire signum complexum esse 
+      <lb ed="#P" n="128"/>verum vel assentire esse falsum. quia virtualiter contrariantur 
+    </p>
+            <p xml:id="D78nca-e20883-d1e1225">
+               <lb ed="#P" n="129"/>¶ Ad secundam probationem. Non est simpliciter et 
+      <lb ed="#P" n="130"/>proprie realis causalitas: sed in similitudine et propor 
+      <lb ed="#P" n="131"/>tione et posset reduci ad causalitatem materialem 
+      <lb ed="#P" n="132"/>circa quam / vel ad causalitatem effectiuam quia sic  
+      <!--79.xml-->
+      <pb ed="#P" n="34-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>proprie realis causalitas: sed in similitudine et propor 
+      <lb ed="#P" n="2"/>tione: et posset reduci ad causalitatem materialem 
+      <lb ed="#P" n="3"/>esse in re videtur quasi conseruatiuum veritatis: et 
+      <lb ed="#P" n="4"/>quia habitudo obiecti ad noticiam veram est 
+      qua<lb ed="#P" n="5" break="no"/>si habitudo mensure ad mensuratum quinto methe 
+      <lb ed="#P" n="6"/>phisice. Mensura autem quantum est ex se si generaret 
+      <lb ed="#P" n="7"/>noticiam sui in intellectu disposito imprimeret ve 
+      <lb ed="#P" n="8"/>ram representationem / et similitudinem sui / et sibi 
+      <lb ed="#P" n="9"/>conformen. Posset etiam reduci ad causalitatem for 
+      <lb ed="#P" n="10"/>malem: quia sic esse in re est quasi illud per quod pro 
+      <lb ed="#P" n="11"/>positio denominatur vera: et ad illius variationem 
+      <lb ed="#P" n="12"/>variatur huiusmodi denominatio et ponitur in 
+      dif<lb ed="#P" n="13" break="no"/>finitione veri.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1271">
+      ¶ Ad quintum. assensus fidei potest 
+      <lb ed="#P" n="14"/>esse respectu propositionum / qua dicuntur articuli / et re 
+      <lb ed="#P" n="15"/>spectu significati per illas: sed sunt varii assensus 
+      <lb ed="#P" n="16"/>respectu diuersorum: licet vterque sit sensus catholic 
+      <lb ed="#P" n="17"/>et veritas vnius inferat euidenter veritatem alteri 
+      <lb ed="#P" n="18"/>us: tamen assensus quo assentio formaliter / et 
+      dir<lb ed="#P" n="19" break="no"/>cte christum resurrexisse non est per se respectu com 
+      <lb ed="#P" n="20"/>plexi.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1289">
+      ¶ Ad sextum. negatur antecedens. Ad pro 
+      <lb ed="#P" n="21"/>bationem dicendum quod illud cui obiectine 
+      assenti<lb ed="#P" n="22" break="no"/>tur per illum assensum non potest conuenientius ex 
+      <lb ed="#P" n="23"/>plicari: quam per hanc orationem hominem dormire 
+      <lb ed="#P" n="24"/>vel aliquis homo dormit: quia sunt orationes quia 
+      <lb ed="#P" n="25"/>bus conformiter correspondet ille assensus: vt 
+      si<lb ed="#P" n="26" break="no"/>gna adequata et conformia.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1305">
+      ¶ Cum autem queritur 
+      <lb ed="#P" n="27"/>quod est illud intelligibile vel illud ens vel illa res 
+      <lb ed="#P" n="28"/>cui assentio etc.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1313">
+      ¶ Respondeo. questio hec potest va 
+      <lb ed="#P" n="29"/>rie intelligi. Aut enim queritur quod est illud 
+      intel<lb ed="#P" n="30" break="no"/>gibile: quod obiectiue representatur per illum assen 
+      <lb ed="#P" n="31"/>sum / vel ad quod terminatur obiectiue ille assensus 
+      <lb ed="#P" n="32"/>et sicut dicendum quod omne illud intelligibile ad quod 
+      <lb ed="#P" n="33"/>terminatur obiectiue illa apprehensio complexa cui 
+      <lb ed="#P" n="34"/>correspondet: et est conformis. et potest dici quod illud 
+      <lb ed="#P" n="35"/>intelligibile est hunc hominem dormire: et illum ho 
+      <lb ed="#P" n="36"/>minem dormire: et sic de singulis que sunt intelligi 
+      <lb ed="#P" n="37"/>bilia entia actu / vel potentia: nec sequitur igitur pir 
+      <lb ed="#P" n="38"/>assensum illum assentio formaliter hunc homines 
+      <lb ed="#P" n="39"/>dormire: quia hec propositio importaret: quod habeo at 
+      <lb ed="#P" n="40"/>sensum singularem conformem huic propositioni 
+      <lb ed="#P" n="41"/>hic homo dormit. et quia determinate et distincte iu 
+      <lb ed="#P" n="42"/>dico hunc hominem dormire nec etiam sequitur 
+      <lb ed="#P" n="43"/>quod ad veritatem illius iudicii et assensus requiratur hunc 
+      <lb ed="#P" n="44"/>hominem dormire: quia hunc hominem dormire 
+      signifi<lb ed="#P" n="45" break="no"/>catur per huiusmodi apprehensionem / vel assensum 
+      <lb ed="#P" n="46"/>confuse / et indefinite vel particulariter: sic quod nulli 
+      <lb ed="#P" n="47"/>illorum significatorum requiritur ad veritatem ill 
+      <lb ed="#P" n="48"/>us apprehensionis / et iudicii / et quodlibet sufficit: aut 
+      <lb ed="#P" n="49"/>ad eius veritatem requiritur hoc vel illud animal do 
+      <lb ed="#P" n="50"/>mire. Si vero questio intelligitur. Quod est illud 
+      <lb ed="#P" n="51"/>ens vel illud obiectum intelligibile pro quo verifi 
+      <lb ed="#P" n="52"/>catur ille assensus: et quod sic se habet qualiter se ha 
+      <lb ed="#P" n="53"/>bere verificat sufficienter huiusmodi iudicium. Di 
+      <lb ed="#P" n="54"/>cendum quod illum hominem dormire qui realiter dormit: nec sequitur 
+      <lb ed="#P" n="55"/>quod assentias formaliter hunc hominem dormire: sicut nec 
+      <lb ed="#P" n="56"/>apprehendis formaliter hunc hominem dormire: licet illud quia 
+      <lb ed="#P" n="57"/>est hunc. hominem dormire sit aliquo modo signifi 
+      <lb ed="#P" n="58"/>catum per illam communem apprehensionem. vt 
+      <lb ed="#P" n="59"/>de argumentum potest reduci contra alios ponen 
+      <lb ed="#P" n="60"/>tes quod huiusmodi obiectum est complexe 
+      significa<lb ed="#P" n="61" break="no"/>bile representatum per huiusmodi assensum: quia ob 
+      <lb ed="#P" n="62"/>iectiue iudicatum erit complexe significabile / pro qui 
+      <lb ed="#P" n="63"/>verificatur illud iudicium. Sed petrum dormire est 
+      <lb ed="#P" n="64"/>complexe significabile pro quo verificatur illud iu 
+      <lb ed="#P" n="65"/>dicium: igitur petrum dormire erit intelligibile ob 
+      <lb ed="#P" n="66"/>iectum per se iudicatum per illud iudicium: igitur per 
+      <!--79.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>illud iudicium tu iudicas petrum dormire: quod est 
+      <lb ed="#P" n="68"/>falsum: quia vt ipsi arguunt tu iudicares et dubitares idem 
+      <lb ed="#P" n="69"/>s. per se obiectum assensus et 
+      <lb ed="#P" n="70"/>Textia conclu. ad iudicit quae formaliter 
+      assen<lb ed="#P" n="71" break="no"/>titur et iudicatur: quod deus est trinus personaliter 
+      <lb ed="#P" n="72"/>est intelligibile significatum per huiusmodi complexum vel 
+      <lb ed="#P" n="73"/>ridicum puta deum esse trinum sumendo dictum per 
+      <lb ed="#P" n="74"/>sonaliter / et significatiue / et conformiter de ceteris 
+      <lb ed="#P" n="75"/>propositionibus ex actibus rectis rerum extra et de 
+      <lb ed="#P" n="76"/>assensibus et de iudiciis correspondentibus. probatur. 
+      <lb ed="#P" n="77"/>quia vel est ipsamet propositio / vel eius significatum 
+      <lb ed="#P" n="78"/>Non primum patet supra.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1428">
+      ¶ Preterea adhoc sunt 
+      <lb ed="#P" n="79"/>rationes multe posite ad primam conclusionem
+    </p>
+            <p xml:id="D78nca-e20883-d1e1433">
+      ¶ Pre 
+      <lb ed="#P" n="80"/>terea illud est per se et directe obiectum assensus et 
+      iu<lb ed="#P" n="81" break="no"/>dicii: quod est per se directe obiectum 
+      apprehensioni<lb ed="#P" n="82" break="no"/>veridice causantis immediate illum assensum: aut qui 
+      <lb ed="#P" n="83"/>propter sui euidentiam est ille assensus. ideo enim 
+      apprehen<lb ed="#P" n="84" break="no"/>do per huiusmodi apprehensionem iudico: sed illud 
+      <lb ed="#P" n="85"/>est significatum apprehensionis: vt cum apprehen 
+      <lb ed="#P" n="86"/>do / et iudico petrum esse album.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1451">
+      ¶ Preterea 
+      apprae<lb ed="#P" n="87" break="no"/>hendat / et iudicet petrus quod .a. est huiusmodi / et consequeter 
+      <lb ed="#P" n="88"/>velit .a. esse huiusmodi. Tunc sic. a. est per se obiectum iudiciitus 
+      <lb ed="#P" n="89"/>et volitionis consequentis / et conformis. idem est enim per se obie 
+      <lb ed="#P" n="90"/>ctum dictamins / et volitionis conformis illi dictamin: sed 
+      si<lb ed="#P" n="91" break="no"/>gnificatum propositionis / et non propositio est per se obiectum illi 
+      <lb ed="#P" n="92"/>volitionis: quia per huiusmodi volitionem volo .a. substam 
+      <lb ed="#P" n="93"/>tiam huiusmodi esse extra animam. probatur etiam de 
+      <lb ed="#P" n="94"/>nolitioe et odio correspondente quia contingit quod assentio .a. esse 
+      <lb ed="#P" n="95"/>huiusmodi: et odio et nolo .a. esse huiusmodi sed mea propositio non est 
+      <lb ed="#P" n="96"/>nolita / vel odita a me: sed libere et complacenter forma 
+      <lb ed="#P" n="97"/>tur et conseruatur obiectum autem iudicatum. est nolitum et 
+      <lb ed="#P" n="98"/>oditum
+    </p>
+            <p xml:id="D78nca-e20883-d1e1480">
+      ¶ Confirmatur. dicat / et assentiat intellectus .a 
+      <lb ed="#P" n="99"/>fore vel fuisse huiusmodi / et voluntas desideret / vel speret: 
+      <lb ed="#P" n="100"/>vel timeat .a. fore huiusmodi. Tunc idem iudicatur ab itelleo 
+      <lb ed="#P" n="101"/>tu et desideratur vel sparatur vel tinetur a voluntate: sed non huiusmodi 
+      <lb ed="#P" n="102"/>complexum presens igitur.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1491">
+      ¶ Preterea sic est de obie 
+      <lb ed="#P" n="103"/>cto fidei probatur super illud Ephe. 4. vnus deo 
+      <lb ed="#P" n="104"/>vna fides. Glosa. Aliud sunt ea que creduntur al 
+      <lb ed="#P" n="105"/>ud fides qua creditur illa: quippe in rebus sunt: qua vel 
+      <lb ed="#P" n="106"/>esse vel fuisse / vel futura esse creduntur. fides autem qua cre 
+      <lb ed="#P" n="107"/>ditur in animo credentis est qua in fidelibus vna est: non nunero 
+      <lb ed="#P" n="108"/>sed genere quia similis. Et iterum ibidem fides dicitur illud quod 
+      <lb ed="#P" n="109"/>creditur / et illud quo creditur. si accipitur pro eo quod 
+      creditu<lb ed="#P" n="110" break="no"/>sensus est vna est fides quia iubemur idem credere et vnum 
+      <lb ed="#P" n="111"/>et idem est quod creditur a cunctis fidelibus. hec accipiuntur 
+      <lb ed="#P" n="112"/>ab augusti. 13. de trini. ca. 2. et idem. 14. de tri. ca. 8 
+      <lb ed="#P" n="113"/>rse obiectum adequa¬ 
+    </p>
+            <p xml:id="D78nca-e20883-d1e1518">
+               <lb ed="#P" n="114"/>¶ Quarta conclusio tum iudici et assensus 
+      <lb ed="#P" n="115"/>quo formaliter / et adequate assentit / et iudicat intelleus 
+      <lb ed="#P" n="116"/>quod deus est trinus personaliter non est aliquod intelligibile significabile 
+      <lb ed="#P" n="117"/>omplexe distinctum ab omnibus rebus / et entibus significabilibus 
+      <lb ed="#P" n="118"/>incomplexe. probatur: quia per se obiectum / est intelligibile significatum 
+      <lb ed="#P" n="119"/>per huiusmodi dictum deum esse trinum sed hoc est deus ens trinus 
+      <lb ed="#P" n="120"/>nec est intelligibile distinctum ab omnibus rebus incomplexe si 
+      <lb ed="#P" n="121"/>gnificabilibus vt probatum est multipliciter in superioribus. 
+    </p>
+            <p xml:id="D78nca-e20883-d1e1538">
+               <lb ed="#P" n="122"/>¶ Preterea quod propter actus iudicandi non oporteat po 
+      <lb ed="#P" n="123"/>nere tale intelligibile significabile complexe distinctum 
+      ab<lb ed="#P" n="124" break="no"/>entibus incomplexe significabilibus. Probo: idem 
+      om<lb ed="#P" n="125" break="no"/>nino intelligibile sigbile complexe correspondet certitudina 
+      <lb ed="#P" n="126"/>et dubitationi / vel ignorantie in eadem: igitur propter huiusmodi 
+      <lb ed="#P" n="127"/>differentiam actuum non oportet ponere differentiam obiec 
+      <lb ed="#P" n="128"/>torum complexe significabilium correspondentem. Antecedens probatur. quia 
+      <lb ed="#P" n="129"/>iudico petrum esse coloratum: non tamen iudico: sed 
+      <lb ed="#P" n="130"/>dubito ipsum esse album: licet in re petrum esse co 
+      <lb ed="#P" n="131"/>loratum sit petrum esse album / et econtra. 
+      Simili<lb ed="#P" n="132" break="no"/>ter credo petrum esse album: sed ipsum esse album in 4 
+      <!--80.xml-->
+      <pb ed="#P" n="35-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>gradu dubito licet contingat quod in re sunt actu idem 
+      <lb ed="#P" n="2"/>Similiter iudico aliquem hominem currere: et dubito pe 
+      <lb ed="#P" n="3"/>trum currere licet petrum currere sit quendam hominem curre 
+      <lb ed="#P" n="4"/>re. Similiter certus sum astra esse: sed dubito astra 
+      <lb ed="#P" n="5"/>paria esse: dubito etiam astra imparia esse: tamen in 
+      <lb ed="#P" n="6"/>re astra esse est astra paria esse / vel imparia esse: quia 
+      <lb ed="#P" n="7"/>astra vel sunt astra paria / vel sunt astra imparia: igitur 
+      <lb ed="#P" n="8"/>idem obiectiue correspondet variis differentiis 
+      iu<lb ed="#P" n="9" break="no"/>dicii.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1590">
+      ¶ Item hominem esse risibilem non esset ant 
+      <lb ed="#P" n="10"/>mal rationale esse risibile: quia hoc est mihi euiden 
+      <lb ed="#P" n="11"/>tius quam illud quia se habent vt conclusio et principium
+    </p>
+            <p xml:id="D78nca-e20883-d1e1597">
+               <lb ed="#P" n="12"/>Contra duas conclusiones vlti 
+      <lb ed="#P" n="13"/>mas sequitur quod fides nostra est de ni hilo: et per eam 
+      <lb ed="#P" n="14"/>credimus nihillo: quod est falsum quia esset vana 
+      <lb ed="#P" n="15"/>Consequentia probatur: quia contingit significatum exi 
+      <lb ed="#P" n="16"/>tra nihil esse: puta quia resurrectio / vel iudicium erit 
+    </p>
+            <p xml:id="D78nca-e20883-d1e1610">
+               <lb ed="#P" n="17"/>¶ Secundo sequitur quod aliquod iudicium est verum 
+      <lb ed="#P" n="18"/>et tamen iudicatum per illud est impossibile: et quod 
+      ali<lb ed="#P" n="19" break="no"/>quod iudicium est falsum: et tamen obiectum per se 
+      iu<lb ed="#P" n="20" break="no"/>dicatum per illud esset necessarinm. probo: quia forma 
+      <lb ed="#P" n="21"/>ta ista petrus est asinus dissentit intellectus: et iste 
+      dis<lb ed="#P" n="22" break="no"/>sensus est iudicium verum: quia est iudicium contra 
+      <lb ed="#P" n="23"/>rium assensui falso quo quis assentiret petrum esse 
+      <lb ed="#P" n="24"/>asinum: et tamen petrum esse asinum est 
+      impossibi<lb ed="#P" n="25" break="no"/>le et econtra formata ista petrus non est asinus 
+      intel<lb ed="#P" n="26" break="no"/>lectus dissentiat iste dissensus erit iudicium falsum 
+      <lb ed="#P" n="27"/>et per se obiectiue iudicatum erit necessarium.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1636">
+      ¶ Tep 
+      <lb ed="#P" n="28"/>tio specialiter contra quartam conclusionem. Illud 
+      <lb ed="#P" n="29"/>est sufficiens et conueniens obiectum iudicii: et asse 
+      <lb ed="#P" n="30"/>sus quo conuenienter respondetur ad interrogationem 
+      <lb ed="#P" n="31"/>qua queritur quid homo credit / et iudicat: et cui asse 
+      <lb ed="#P" n="32"/>tit: et non illud quo non conuenienter respondetur 
+      <lb ed="#P" n="33"/>Sed nulla re extra mere incomplexe significabili 
+      <lb ed="#P" n="34"/>respondetur conuenienter. Non enim 
+      conuenien<lb ed="#P" n="35" break="no"/>ter dicitur assentio lapidi / vel iudico / et credo 
+      lapu<lb ed="#P" n="36" break="no"/>dem: sed lapidem esse / vel esse huiusmodi.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1659">
+      ¶ Quarto 
+      se<lb ed="#P" n="37" break="no"/>quitur quod iudicans credens et assentiens quod deus est 
+      <lb ed="#P" n="38"/>trinus / et iudicans quod deus non est trinus iudicarent 
+      <lb ed="#P" n="39"/>et crederent omnino idem et assentirent precise et penitus 
+      <lb ed="#P" n="40"/>eidem. Consequens est falsum: quia iudicata 
+      repu<lb ed="#P" n="41" break="no"/>gnant: sicut et iudicia sunt contraria: et quia infidelius 
+      <lb ed="#P" n="42"/>non omnino credit idem cum fideli: et quia consequenter volens .a 
+      <lb ed="#P" n="43"/>esse huiusmodi et volens .a. non esse huiusmodi vellent omnino idem 
+      <lb ed="#P" n="44"/>quod est falsum: quia volita se interimunt: et vnus 
+      <lb ed="#P" n="45"/>per velle suum tolleret id quod alter poneret: et quia 
+      <lb ed="#P" n="46"/>idem esset .a. esse / et .a. non esse. Consequentia 
+      priu<lb ed="#P" n="47" break="no"/>cipalis probatur: quia totale obiectum primi 
+      assen<lb ed="#P" n="48" break="no"/>sus erit res que est deus: obiectum autem secundum 
+      <lb ed="#P" n="49"/>assensus non erit propositio / nec aliquod significa 
+      <lb ed="#P" n="50"/>bile complexe distinctum a rebus incomplexe signi 
+      <lb ed="#P" n="51"/>ficabilibus sceundum te: gitur non erit nisi res / que est 
+      <lb ed="#P" n="52"/>deus.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1696">
+      ¶ Confirmatur. sequitur quod iudicia contraris  
+      <lb ed="#P" n="53"/>sibi contradicentium erunt simul vera. Probo: quia non 
+      <lb ed="#P" n="54"/>minus ponitur in re extra obiectum iudicatum per vnum quam obiectum 
+      <lb ed="#P" n="55"/>iudicatum per alterum. probo. quia iudicii quod petrus est paulus et 
+      <lb ed="#P" n="56"/>iudicii quod petrus non est paulus: totale obiectum non 
+      <lb ed="#P" n="57"/>erit nisi res que sunt petrus / et paulus: et hec ponunt 
+      <lb ed="#P" n="58"/>extra animam.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1712">
+      ¶ Quinto sequitur quod tum assentis 
+      si<lb ed="#P" n="59" break="no"/>mul et dissentis omnino et praecise eidem et simul credis 
+      <lb ed="#P" n="60"/>et discredis eidem. Consequens est falsum. non enim 
+      <lb ed="#P" n="61"/>credis illud quod discredis: et quia assentire alicun 
+      <lb ed="#P" n="62"/>et dissentire eidem sunt opiniones contrarie ex quan 
+      <lb ed="#P" n="63"/>to methaphisice. Consequentia probatur: quia si 
+      as<lb ed="#P" n="64" break="no"/>sentis quod deus est: et dissentis quod deus non est obiectum 
+      <lb ed="#P" n="65"/>non erit nisi res que deus est: quia non aliqua alia 
+      <!--80.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="66"/>nec propositio nec complexe significabile distinctum 
+      <lb ed="#P" n="67"/>ab intelligibilibus incoplexe significabilibus 
+      secun<lb ed="#P" n="68" break="no"/>dum te.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1741">
+      ¶ Per idem arguitur quod firmiter 
+      dissen<lb ed="#P" n="69" break="no"/>tis et discredis deo: quia formato hoc complexo 
+      de<lb ed="#P" n="70" break="no"/>us non est finitus non minus firmiter dissentis et 
+      dis<lb ed="#P" n="71" break="no"/>credis quam credas formato hoc complexo deus est 
+      de<lb ed="#P" n="72" break="no"/>us.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1752">
+      ¶ Confirmatur. sequitur quod simul scis et opina 
+      <lb ed="#P" n="73"/>ris et ignoras / et dubitas omnino idem: et quod circa idem 
+      <lb ed="#P" n="74"/>et respectu eiusdem simul habes certitudinem et er 
+      <lb ed="#P" n="75"/>ras / et deciperis. Probo. scis deum esse / et opinaris 
+      <lb ed="#P" n="76"/>ipsum esse intelligentem extra se: et credis ipsum esse 
+      <lb ed="#P" n="77"/>trinum personaliter / et erras credendo ipsum esse 
+      <lb ed="#P" n="78"/>finitum secundum potentiam / et obiectum totale 
+      cu<lb ed="#P" n="79" break="no"/>iuslibet istorum non erit nisi res extra que est deus. 
+      <lb ed="#P" n="80"/>Dices. licet idem obiectum sit: tamen sub alia et alia 
+      <lb ed="#P" n="81"/>ratione. Contra. aut hec alia et alia ratio se tenet 
+      for<lb ed="#P" n="82" break="no"/>maliter ex parte obiectiue iudicati: et habetur 
+      pro<lb ed="#P" n="83" break="no"/>positum / aut non: igitur non iudicatur sub alia 
+      ra<lb ed="#P" n="84" break="no"/>tione. Et vltra sequitur quod iudicia / et volitiones con 
+      <lb ed="#P" n="85"/>trarie sunt respectu omnino et precise eiusdem non 
+      <lb ed="#P" n="86"/>comparati ad diuersa: quia intellectus et voluntas 
+      <lb ed="#P" n="87"/>non comparant illud ad suum actum circunscripta 
+      <lb ed="#P" n="88"/>reflexione.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1789">
+      ¶ Sexto. sequitur quod credis et assentis 
+      dya<lb ed="#P" n="89" break="no"/>bolo ita firmiter sicut deo. Probo: quia formato 
+      <lb ed="#P" n="90"/>isto complexo dyabolus est dpabolus: non minus 
+      <lb ed="#P" n="91"/>credis et assentis quam credas formato isto deus est 
+      de<lb ed="#P" n="92" break="no"/>us. sed obiectum illius iudicii primi non erit nisi res 
+      <lb ed="#P" n="93"/>que est dyabolus: sicut obiectum secundi assensus 
+      <lb ed="#P" n="94"/>est res que est deus: igitur.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1806">
+      ¶ Septimo. dissensus ve  
+      <lb ed="#P" n="95"/>ri de re extra obiectum totale / et adequatum non est 
+      <lb ed="#P" n="96"/>aliqua res extra incomplxe significabilis: igitur nec 
+      <lb ed="#P" n="97"/>assensus veri de re extra. Consequentia patet: si 
+      <lb ed="#P" n="98"/>enim res extra sit totale obiectum assensus quo as 
+      <lb ed="#P" n="99"/>sentio deum esse deum pari ratione: et dissensus / qua 
+      <lb ed="#P" n="100"/>dissentio deum non esse deum. huiusmodi enim dissen 
+      <lb ed="#P" n="101"/>sus veri non erit per se obiectum alia res a deo. An 
+      <lb ed="#P" n="102"/>tecedens probatur. quia aliter licite possem odire de 
+      <lb ed="#P" n="103"/>um. probo. quia formata ista deus est ens finitum et me 
+      <lb ed="#P" n="104"/>dissentiente tunc idem odio et detestor / cui dissentio 
+      <lb ed="#P" n="105"/>et idem est obiectum odii et dissensus. Patet quia idem 
+      <lb ed="#P" n="106"/>dictum est conneuiens explicatio eius quod odio / et 
+      <lb ed="#P" n="107"/>cui dissentio. Si igitur totale obiectum assensus est res 
+      <lb ed="#P" n="108"/>extra quae est deus: sequitur quod est obiectum odii liciti. 
+      <lb ed="#P" n="109"/>vnde potest sic argui. Dissensus conformis vni par 
+      <lb ed="#P" n="110"/>ti contradictionis non habet pro obiecto totali rem ex 
+      <lb ed="#P" n="111"/>tra: igitur nec assensus conformis alteri parti con 
+      <lb ed="#P" n="112"/>tradictionis. Consequentia patet: quia idem 
+      formali<lb ed="#P" n="113" break="no"/>ter / vel equiualenter iudicatur per vtrunque. si enim a 
+      <lb ed="#P" n="114"/>sentio et credo petrum esse album: etu dissentis et 
+      dis<lb ed="#P" n="115" break="no"/>credis ipsum non esse album: sequitur quod idem forma 
+      <lb ed="#P" n="116"/>liter / vel equiualenter credimus. Antecedens pro 
+      <lb ed="#P" n="117"/>batur vt prius.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1858">
+      ¶ Octauo. Si res extra incomplexe 
+      <lb ed="#P" n="118"/>demonstrabilis sit sufficiens et completum obiectum 
+      <lb ed="#P" n="119"/>iudicatum: sequitur quod habitasola noticia incomple 
+      <lb ed="#P" n="120"/>ca illius rei poterit intellectus habere iudicium / et 
+      <lb ed="#P" n="121"/>assensum / vel dissensum. Consequens falsum est: 
+      <lb ed="#P" n="122"/>quia talis apprehensio non est vera neque falsa: 
+      igi<lb ed="#P" n="123" break="no"/>tur nec sequitur iudicium verum / vel falsum: et quis 
+      <lb ed="#P" n="124"/>si incomplexa sufficit ad iudicandum: igitur frustra 
+      <lb ed="#P" n="125"/>formantur apprehensiones complexe Consequen 
+      <lb ed="#P" n="126"/>tia probatur: quia noticia clara et euidens de totali on 
+      <lb ed="#P" n="127"/>iecto iudicabili sufficit ad aliquod iudicium de 
+      ob<lb ed="#P" n="128" break="no"/>iectiue iudicabili.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1884">
+      ¶ Confirmatur. si noticia 
+      comple<lb ed="#P" n="129" break="no"/>xa sufficit: et noticia incomplexa non sufficit. aut 
+      <lb ed="#P" n="130"/>gitur hoc est quia noticia incomplexa non ostendit omnino 
+      <lb ed="#P" n="131"/>et precise idem quod noticia complexa ostendit: nec ostem 
+      <!--81.xml-->
+      <pb ed="#P" n="35-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dit totaliter obiectum iudiciabile: et habetur propo 
+      <lb ed="#P" n="2"/>situm: aut quia noticia complexa ostendit idem perfectius 
+      <lb ed="#P" n="3"/>Sed contra quia illa noticia incomplexa ponitur esse 
+      <lb ed="#P" n="4"/>clara / et euidens: et quia potest fieri clarior / et perfectior 
+      <lb ed="#P" n="5"/>et econtra complexa poterit fieri imperfectior: et stat pro 
+      <lb ed="#P" n="6"/>positum: quia equei / vel magis perfecte ostendet illud 
+      no<lb ed="#P" n="7" break="no"/>ticia incomplexa: et quia si imperfectio noticie impedit 
+      iu<lb ed="#P" n="8" break="no"/>dicium creatum: tamen non impedit assensum 
+      probabi<lb ed="#P" n="9" break="no"/>lem / vel dubitationem: et quia diuina noticia est simpli 
+      <lb ed="#P" n="10"/>cissima non complexa / vel composita: et tamen est 
+      iudi<lb ed="#P" n="11" break="no"/>catiua: igitur non impeditur intellectus iudicare 
+      ha<lb ed="#P" n="12" break="no"/>bens noticiam incoplexam ex eo quod illa noticia sit 
+      in<lb ed="#P" n="13" break="no"/>complexa si ipsa ostendit clare obiectum totale 
+      iudi<lb ed="#P" n="14" break="no"/>cabile et credibile. 
+      <lb ed="#P" n="15"/>I <!-- line coord error -->
+    </p>
+            <p xml:id="D78nca-e20883-d1e1934">
+               <lb ed="#P" n="16"/>Ad primum. sicut berum est quod 
+      <lb ed="#P" n="17"/>secundu tales apprehensiones apprehendimus nihil sic 
+      <lb ed="#P" n="18"/>quod huiusmodi apprehensiones sunt de nihilo: ita de assen 
+      <lb ed="#P" n="19"/>um vel fide. si igitur nihileitas referatur ad 
+      intelli<lb ed="#P" n="20" break="no"/>gere / vel iudicare: negatur consequentia. sic autem solet coni 
+      <lb ed="#P" n="21"/>ter accipi cum dicitur petrus nihil intelligit: vel ni 
+      <lb ed="#P" n="22"/>chil iudicat / et nihil credit. Si vero nihileitas se te 
+      <lb ed="#P" n="23"/>net ex parte obiecti sic accipiendo proprie aliquid pro 
+      <lb ed="#P" n="24"/>to quod est ens in actu: et nihil pro eo quod non est posi 
+      <lb ed="#P" n="25"/>tiue actu: sic conceditur quod interdum apprehensio / et iudi 
+      <lb ed="#P" n="26"/>cium: verum est de nihilo: non quod apprehendatur vel 
+      <lb ed="#P" n="27"/>ludicetur esse: sed fore / vel fuisse: vel posse esse vel 
+      <lb ed="#P" n="28"/>non esse: ideo est iudicium verum: licet illud obiectum intel 
+      <lb ed="#P" n="29"/>igibile non sit aliquid actualiter positiue. 
+      accipien<lb ed="#P" n="30" break="no"/>do autem large / et improprie aliquid et nihil vt aliquid  
+      <lb ed="#P" n="31"/>dicatur quodcunque intelligibile esse huiusmodi quod est huiusmodi: 
+      <lb ed="#P" n="32"/>et intelligibile non esse huiusmodi quod non est huiusmodi: et 
+      intel<lb ed="#P" n="33" break="no"/>ligibile fore huiusmodi quod erit huiusmodi. etc. Et si nihil dica 
+      <lb ed="#P" n="34"/>tur generaliter intelligibile esse huiusmodi quod non est 
+      <lb ed="#P" n="35"/>huiusmodi: vel intelligibile non esse huiusmodi: quod tamen est 
+      <lb ed="#P" n="36"/>huiusmodi: iuxta dictum philosophi. 5. methaphisice: quod 
+      <lb ed="#P" n="37"/>ens vno modo dicitur vt verum: et non ens vt falsum: 
+      <lb ed="#P" n="38"/>sic per omne iudicium verum iudicatur aliquid: et per omne 
+      <lb ed="#P" n="39"/>iudicium falsum iudicatum nihil est.
+    </p>
+            <p xml:id="D78nca-e20883-d1e1989">
+      ¶ Ad 
+      secun<lb ed="#P" n="40" break="no"/>dum. eque reducitur contra alios: quia ille dissensus erit 
+      <lb ed="#P" n="41"/>iudicium verum: cuius per se terminus / et obiectum erit 
+      <lb ed="#P" n="42"/>petrum esse asinum: igitur talis iudicat iudicio vero 
+      <lb ed="#P" n="43"/>petrum esse asinum. Dicendum igitur negando consequen 
+      <lb ed="#P" n="44"/>tiam accipiendo proprie iudicium vt communiter 
+      acci<lb ed="#P" n="45" break="no"/>pitur et accipiendo impossibilitatem obiecti: secundum quam 
+      <lb ed="#P" n="46"/>sit impossibile esse intelligibile huiusmodi cuiusmodi esse exigit 
+      <lb ed="#P" n="47"/>veritas illius iudicii.
+    </p>
+            <p xml:id="D78nca-e20883-d1e2009">
+      ¶ Ad probationem. dicendum quod 
+      <lb ed="#P" n="48"/>proprie loquendo dissensus respectu alicuius non 
+      di<lb ed="#P" n="49" break="no"/>citur iudicium respectu illius: et dissensus conformis 
+      ali<lb ed="#P" n="50" break="no"/>cui enunciationi non dicitur iudicium conforme illi 
+      <lb ed="#P" n="51"/>enunciationi: sed potius iudicium conforme 
+      enun<lb ed="#P" n="52" break="no"/>ciationi contradictorie: quia dissentire et discredere 
+      <lb ed="#P" n="53"/>petrum currere non dicitur iudicare petrum curre 
+      <lb ed="#P" n="54"/>re: sed potius est formaliter / vel virtualiter / et equi 
+      <lb ed="#P" n="55"/>ualenter iudicare petrum non currere. 
+      Accipien<lb ed="#P" n="56" break="no"/>do autem large iudicium et loquendo de 
+      impossibilita<lb ed="#P" n="57" break="no"/>te secundum quam intelligibile esse huiusmodi cuiusmoi exigit 
+      ve<lb ed="#P" n="58" break="no"/>ritas talis enunciationis impossibile est. Conced 
+      <lb ed="#P" n="59"/>tur consequens de iudicio dissensiuo / et discreditiuo: quia 
+      <lb ed="#P" n="60"/>iudicium non assensiuum sed dissensiuum huius quod 
+      <lb ed="#P" n="61"/>dico petrum esse asinum est verum.
+    </p>
+            <p xml:id="D78nca-e20883-d1e2043">
+      ¶ Ad tertium. Si 
+      <lb ed="#P" n="62"/>per illud quo conuenienter respondetur intelligitur 
+      <lb ed="#P" n="63"/>responsio seu dictum responsiuum: negatur maior: si 
+      <lb ed="#P" n="64"/>vero intelligitur importatum per responsionem concedi 
+      <lb ed="#P" n="65"/>tur maior: et negatur minor. Tamen non qualibet expli 
+      <lb ed="#P" n="66"/>catio / et expressio illius est conueniens / et sufficiens re 
+      <!--81.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>sponsio. Iudicium enim non est nisi de cognito con 
+      <lb ed="#P" n="68"/>plexe per determinatam apprehensionem formaliter si 
+      <lb ed="#P" n="69"/>gnificantem intelligibile esse vel non esse huiusmodi: ideo 
+      <lb ed="#P" n="70"/>non conuenienter / et sufficienter respondetur respondendo 
+      <lb ed="#P" n="71"/>illud obiectum qualitercumque et sub quacumque forma explica 
+      <lb ed="#P" n="72"/>tum sed explicatum complexe et dicendo iudico lapidem 
+      <lb ed="#P" n="73"/>vel assentio lapidi. aut est locutio falsa / aut impro 
+      <lb ed="#P" n="74"/>pria et inepta / et truncata. Hec enim propositio videtur 
+      <lb ed="#P" n="75"/>importare quod iudicium / habetur de lapide vt 
+      apprehen<lb ed="#P" n="76" break="no"/>ditur mere incomplexe non veridice nec falsidice. idem 
+      <lb ed="#P" n="77"/>igitur obiectum significatur per signum quod non est 
+      <lb ed="#P" n="78"/>forma conueniens quaestionis vel responsionis: et par 
+      <lb ed="#P" n="79"/>signum quod est forma conueniens quaestionis vel respon 
+      <lb ed="#P" n="80"/>sionis
+    </p>
+            <p xml:id="D78nca-e20883-d1e2091">
+      ¶ Questio etiam querens quid iudicas non 
+      so<lb ed="#P" n="81" break="no"/>lum querit de materia obiectiua: sed etiam de forma 
+      <lb ed="#P" n="82"/>et qualitate iudicii. Unde ad quaestionem qua quaeritur quid 
+      <lb ed="#P" n="83"/>est illud intelligibile quod est obiectiue iudicatum et cre 
+      <lb ed="#P" n="84"/>ditum potest dici quod est quastio truncata: quia proprie loquen 
+      <lb ed="#P" n="85"/>do nec iudico / nec credo aliquod intelligibile: sed 
+      <lb ed="#P" n="86"/>ego credo et iudico aliquod intelligibile esse vel non 
+      <lb ed="#P" n="87"/>esse huiusmodi: ideo si questio fiat conuenienter / et perfecte 
+      <lb ed="#P" n="88"/>debet sic formari. quod est illud intelligibile: quod  
+      <lb ed="#P" n="89"/>obiectiue iudico esse vel non esse: et tunc respondem 
+      <lb ed="#P" n="90"/>dum est quod est petrus vel lapis. si vero quaeritur quid est 
+      <lb ed="#P" n="91"/>per se / et complete / et adequate iudicatum et creditum 
+      <lb ed="#P" n="92"/>per illud iudicium / quo iudico petrum esse album / vel 
+      <lb ed="#P" n="93"/>quod petrus est albus
+    </p>
+            <p xml:id="D78nca-e20883-d1e2122">
+      ¶ Respondeo. questio offert quod 
+      <lb ed="#P" n="94"/>querit et respondit ad illud quod querit. Illud enim 
+      <lb ed="#P" n="95"/>est petrum esse album / vel quod petrus est albus: nec po 
+      <lb ed="#P" n="96"/>test conuenientius explicari / quam per complexum 
+      confor<lb ed="#P" n="97" break="no"/>ne iudicio vel per dictum correspondens. habes igitur 
+      <lb ed="#P" n="98"/>et offers illud quod queris. Si vero queris quid est 
+      <lb ed="#P" n="99"/>petrum esse album: patet quid respondendum ex 
+      su<lb ed="#P" n="100" break="no"/>perioribus: siue quaratur que res est vel fuit petrum 
+      <lb ed="#P" n="101"/>esse album. siue queratur quasi diffinitiue. quid est pe 
+      <lb ed="#P" n="102"/>trum esse album. Dices habetur propositum: quia si non iudico 
+      <lb ed="#P" n="103"/>a. sed .a. esse huius igitur a. esse. huius est intelligibile distinctum 
+      <lb ed="#P" n="104"/>ab .a.
+    </p>
+            <p xml:id="D78nca-e20883-d1e2148">
+      ¶ Respondetur. negatur consequentia nec est iudicare et non 
+      <lb ed="#P" n="105"/>ludicare idem: sed est habere hoc iudicium et non habere iudicium 
+      <lb ed="#P" n="106"/>conforme cognitioni mere incomplexe non 
+      veridi<lb ed="#P" n="107" break="no"/>ce nec falsidice: sicut iudico aliquem hominem esse bo 
+      <lb ed="#P" n="108"/>num: et non iudico petrum esse bonum: sed dubito vel 
+      <lb ed="#P" n="109"/>gnoro licet petrum esse bonum: sit de facto aliquem 
+      ho<lb ed="#P" n="110" break="no"/>minem esse bonum: sic etiam iudico petrum esse 
+      co<lb ed="#P" n="111" break="no"/>loratum: et non iudico petrum esse album / vel sanun 
+      <lb ed="#P" n="112"/>licet hoc actu sit illud.
+    </p>
+            <p xml:id="D78nca-e20883-d1e2168">
+      ¶ Aliter potest responderi ad quae 
+      <lb ed="#P" n="113"/>stionem qua quaeritur quid sit per se et adequate 
+      iudica<lb ed="#P" n="114" break="no"/>tum per iudicium / quo iudico quod .a. est huiusmodi. aut enim 
+      <lb ed="#P" n="115"/>questio quaerit quod intelligibile exhibetur / et repraesentatur 
+      <lb ed="#P" n="116"/>vel offertur obiectiue terminatiue complete per actum 
+      <lb ed="#P" n="117"/>udicii / et assensus: aut pro quo intelligibili 
+      verifi<lb ed="#P" n="118" break="no"/>catur / vel falsificatur iudicium huius: aut quod est il 
+      <lb ed="#P" n="119"/>lud intelligibile quod est a. esse huiusmodi: seu quod est illud 
+      <lb ed="#P" n="120"/>intelligibile de quo verificetur personaliter tale 
+      di<lb ed="#P" n="121" break="no"/>ctum explicans sufficienter obiectum iudicatum. Si 
+      <lb ed="#P" n="122"/>primum quaeritur. Respondendum quod omnia intelligibilia 
+      <lb ed="#P" n="123"/>que significantur per illud complexum conforme iu 
+      <lb ed="#P" n="124"/>licio vel per partes eius. Si secundum quaeritur. dicendum 
+      <lb ed="#P" n="125"/>quod est hanc rem esse huiusmodi vel tale intelligile sic se 
+      <lb ed="#P" n="126"/>habens. Si tertium quaeritur. sic dicendum quod illud 
+      intel<lb ed="#P" n="127" break="no"/>ligibile aliquando est ens actu praesens: vt cum est iudicium 
+      <lb ed="#P" n="128"/>verum affirmatiuum de inesse et de praesenti: aliquando au 
+      <lb ed="#P" n="129"/>tem est tantum aliquod ens in potentia. aliquando est aliquid  
+      <lb ed="#P" n="130"/>praeteritum: aliquando futurum: aliquando nihil est actu vel 
+      poten<lb ed="#P" n="131" break="no"/>tia: et nullum intelligibile potest dari pro quo verificetur tale iudi 
+      <lb ed="#P" n="132"/>cium vel propositio ei conformis: nec tali dicto corespondet aliquod 
+      <!--82.xml-->
+      <pb ed="#P" n="36-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quod intelligibile de quo vel pro quo verificetur tale dictum 
+    </p>
+            <p xml:id="D78nca-e20883-d1e2223">
+               <lb ed="#P" n="2"/>¶ Ad quartum. negatur consequentia. Ad probationem reduo 
+      <lb ed="#P" n="3"/>posset etiam contra alios quia crederent idem saltem quo ad 
+      <lb ed="#P" n="4"/>deitatem: et quo ad omnem entitatem incomplexe significa 
+      <lb ed="#P" n="5"/>bilem actualem / vel potentialem. Dicedum igitur quod consequenti 
+      <lb ed="#P" n="6"/>est falsum: quia non solum importat quod omne ens extra 
+      ani<lb ed="#P" n="7" break="no"/>mam quod est materiale obiectum huius fidei: sit 
+      materia<lb ed="#P" n="8" break="no"/>le obiectum illius fidei. et quod omne obiectum materiali 
+      <lb ed="#P" n="9"/>ter terminans per se huiusmodi fidem sit naturali 
+      <lb ed="#P" n="10"/>ter terminans illam fi ilem: sed et importat similitudi 
+      <lb ed="#P" n="11"/>nem fidei / et iudicii / et similem / et vniformitatem propositionum 
+      <lb ed="#P" n="12"/>quibus correspondent: et sunt conformes illi. assensus 
+      <lb ed="#P" n="13"/>importat etiam consequens quod obiectum se hus vt requiritur 
+      <lb ed="#P" n="14"/>et sufficit ad veritatem vnius fidei sit idem obiecto se 
+      <lb ed="#P" n="15"/>habenti / et enti vt requireretur et sufficeret ad veritatem 
+      <lb ed="#P" n="16"/>alterius fidei: et ita consequens importat quod deum esse trinum 
+      <lb ed="#P" n="17"/>vnum est idem ei quod est deum non esse trinum et vnum: quod est 
+      <lb ed="#P" n="18"/>falsum: quia nullum obiectiue et materialiter per se intel 
+      <lb ed="#P" n="19"/>ligibile terminatiue est deum non esse trinum et vnum: si 
+      <lb ed="#P" n="20"/>cut nullum obiectum per se intelligibile terminatiue 
+      <lb ed="#P" n="21"/>est deus ignorans: sed in quadam transsumptione et sim 
+      <lb ed="#P" n="22"/>litudine deum non esse trinum dicitur quoddam intelligi 
+      <lb ed="#P" n="23"/>bile: quia possibilis est intellectio conformis illi ora 
+      <lb ed="#P" n="24"/>tioni cuius veritas exigeret aliquod intelligibile esse 
+      <lb ed="#P" n="25"/>quod foret deus non ens trinus et vnus. Si tamenm par 
+      <lb ed="#P" n="26"/>consequens non plus intelligeretur nisi quod res quae est obiectum 
+      <lb ed="#P" n="27"/>materiale vnius iudicum est etiam obiectum materiale al 
+      <lb ed="#P" n="28"/>terius. Tunc concederetur: quia creditur idem materia 
+      <lb ed="#P" n="29"/>liter obiectiue: sed aliter et aliter. Ex hoc patet quod vo 
+      <lb ed="#P" n="30"/>lens .a. esse huius / et volens .a. non esse huiusmodi: non volunt 
+      <lb ed="#P" n="31"/>proprie idem: quia obiectum ens tale / vel taliter se 
+      haben<lb ed="#P" n="32" break="no"/>quale et qualiter se habens placet vni: et est conforme ad 
+      <lb ed="#P" n="33"/>tui vnius: et eius positio esset adimpletio vnius volitio 
+      <lb ed="#P" n="34"/>nis: non est huius respectu alterius volitionis 
+    </p>
+            <p xml:id="D78nca-e20883-d1e2298">
+               <lb ed="#P" n="35"/>¶ Ad confirmationem. negatur consequentia. ad probationem. si per 
+      <lb ed="#P" n="36"/>obetum iudicatum poni intelligiter quod obiectum tale ens / et ta 
+      <lb ed="#P" n="37"/>liter se habens quale requiritur ad veritatem illius iudicii: 
+      <lb ed="#P" n="38"/>ponitur negatiue quod obiectum iudicatum per vtrunque po 
+      <lb ed="#P" n="39"/>natur sed interdum impossibile est poni: nec alteriiu 
+      <lb ed="#P" n="40"/>dicio correspondere potest aliquod tale intelligibile: si 
+      <lb ed="#P" n="41"/>vero intelligitur intelligibile poni: quod materialiter obie 
+      <lb ed="#P" n="42"/>ctiue terminat illud iudicium: sic conceditur obiectum 
+      <lb ed="#P" n="43"/>vtriusque poni. sed non sequitur quod vtrunque sit verum: quia 
+      <lb ed="#P" n="44"/>illud obiectum non est totaliter se habens qualiter se habens 
+      <lb ed="#P" n="45"/>exigeretur ad veritatem illius iudicii: et pro eodem 
+      ob<lb ed="#P" n="46" break="no"/>iectiuo materiali est vnum iudicium verum et alterum 
+      <lb ed="#P" n="47"/>falsum / sicut assensus et dissensus sunt respectu om 
+      <lb ed="#P" n="48"/>nino eiusdem intelligibilis etiam complexe: et tamen assen 
+      <lb ed="#P" n="49"/>sus respectu illius est iudicium verum: et dissensus respe 
+      <lb ed="#P" n="50"/>ctu illius est iudicium falsum: sic pro eisdem rebus mate 
+      <lb ed="#P" n="51"/>rialiter obiective verificatur quod sortes non est. Plato. et 
+      <lb ed="#P" n="52"/>falsificatur quod sortes est plato
+    </p>
+            <p xml:id="D78nca-e20883-d1e2340">
+      ¶ Ad quintum. Negatur 
+      <lb ed="#P" n="53"/>consequentia proprie loquendo: et secundum sensum in quo so¬r 
+      <lb ed="#P" n="54"/>let fieri et accipi consequens. Argumentum etiam potest reduci com 
+      <lb ed="#P" n="55"/>tra alios: quia saltem omnino eidem intelligibili quod est deitas 
+      <lb ed="#P" n="56"/>assentires / et dissentires: et omnino eidem totali 
+      intelligibi<lb ed="#P" n="57" break="no"/>li significabili complexe.
+    </p>
+            <p xml:id="D78nca-e20883-d1e2353">
+      ¶ Dicendum igitur quod consequens est 
+      fal<lb ed="#P" n="58" break="no"/>sum: quia importat non solum quod illud intelligibile quod 
+      <lb ed="#P" n="59"/>est obiectum materiale assensus est obiectum materia 
+      <lb ed="#P" n="60"/>le dissensus exhibitum per iudicium et ad quod termina 
+      <lb ed="#P" n="61"/>et super quod obiectiue materialiter fertur: et in quod 
+      tendi<lb ed="#P" n="62" break="no"/>ille dissensus: sed etiam importat quod habes assensum com 
+      <lb ed="#P" n="63"/>formem tali complexo: et quod simul habes dissensum com 
+      <lb ed="#P" n="64"/>formem eidem coplexo: et hoc est habere assensum / et 
+      dissensi<lb ed="#P" n="65" break="no"/>contrarium importaret et quod idem omnino obectum est tale ens vel 
+      <lb ed="#P" n="66"/>taliter se habens / quale vel qualiter se habens requi¬ 
+      <!--82.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>reret veritas propositionis / et dicti conformis / et 
+      <lb ed="#P" n="68"/>correspondenter illi assensui: et est tale ens / et tali 
+      <lb ed="#P" n="69"/>ter se habens / quale / et qualiter exigeret verifica 
+      <lb ed="#P" n="70"/>tio prostinis / et dicti conformis illi dissensui et hoc est 
+      impor<lb ed="#P" n="71" break="no"/>tare quod .a. esse huiusmodi sit idem ei quod est .a. non esse hu 
+      <lb ed="#P" n="72"/>iusmoi. et quod .a. ens huiusmodi sit idem ipsi .a. non enti huiusmod 
+      <lb ed="#P" n="73"/>quod est falsum.
+    </p>
+            <p xml:id="D78nca-e20883-d1e2395">
+      ¶ Ad probationem consequentie probat solum quod ide 
+      <lb ed="#P" n="74"/>intelligibile est obiectum materiale vtriusque: sed non 
+      <lb ed="#P" n="75"/>ex hoc sequitur consequentia: cum etiam dicitur quod obie 
+      <lb ed="#P" n="76"/>ctum dissensus quo dissentio deum non esse deum erit 
+      <lb ed="#P" n="77"/>deus: et non erit nisi deus. Dicendum quod si intelligis quod 
+      <lb ed="#P" n="78"/>res que deus est sit obiectum. materiale huius iudicit et 
+      <lb ed="#P" n="79"/>nullum aliud intelligibile: quin etiam sit obiectum 
+      <lb ed="#P" n="80"/>assensus quo assentio deus est. Conceditur de 
+      obie<lb ed="#P" n="81" break="no"/>cto materiali per se et proprie terminante intellectionem 
+      <lb ed="#P" n="82"/>nec ex hoc sequitur quod assentio et dissentio eidem: quia 
+      <lb ed="#P" n="83"/>illa res non est tale ens nec idem tali enti quale exigit 
+      <lb ed="#P" n="84"/>verificatio propositionis et dicti conformis illi dissen 
+      <lb ed="#P" n="85"/>sui. Si vero per illam propositionem deus est totale 
+      ob<lb ed="#P" n="86" break="no"/>iectum illius dissensus intelligo quod deus est ens suffi 
+      <lb ed="#P" n="87"/>cienter tale et taliter se habens vel quod est idem obiec 
+      <lb ed="#P" n="88"/>to tali et taliter se habenti quale / et qualiter se habens 
+      <lb ed="#P" n="89"/>sufficeret totaliter ad verificationem dicti conformis 
+      <lb ed="#P" n="90"/>negatur: imo nullum tale intelligibile ei correspondet: 
+      <lb ed="#P" n="91"/>nec correspondere potest nisi in quadam similitudine / et fi 
+      <lb ed="#P" n="92"/>gura. Ad illud additum negatur consequentia: quia dissenti 
+      <lb ed="#P" n="93"/>re / et discredere deo non solum importat quod deus sit ob 
+      <lb ed="#P" n="94"/>iectum materiale terminative mei dissensus: sed etiam quod 
+      <lb ed="#P" n="95"/>habeo iudicium difforme dictis dei: et contrarium iudicio 
+      <lb ed="#P" n="96"/>conformi dictis eius.
+    </p>
+            <p xml:id="D78nca-e20883-d1e2447">
+      ¶ Ad confirmationem. Negatur 
+      <lb ed="#P" n="97"/>consequentia: quia consequens importat quod habeo iudicium / et 
+      dubi<lb ed="#P" n="98" break="no"/>tationem conformiter et correspondenter eidem 
+      propositio<lb ed="#P" n="99" break="no"/>ni et eidem apprehensioni complexe. Sed argumentum potest 
+      <lb ed="#P" n="100"/>reduci contra alios: quia iudico et assentio aliquem hominem 
+      <lb ed="#P" n="101"/>esse bonum / et non iudico sed dubito hunc petrum esse bonum 
+      <lb ed="#P" n="102"/>et tamen contigit quod petrum esse bonum sit realiter aliquem ho 
+      <lb ed="#P" n="103"/>minem esse bonum. et ita dubitarem de intelligibili com 
+      <lb ed="#P" n="104"/>plexe significabili: quod est intelligibile significabile con 
+      <lb ed="#P" n="105"/>plexe: pro quo verificaretur certitudo mea / et iudicium 
+      <lb ed="#P" n="106"/>meum certum. Similiter deum esse potentie infinite non 
+      <lb ed="#P" n="107"/>esset deum esse potentie alicuius: et quod petrum moueri 
+      <lb ed="#P" n="108"/>non esset petrum moueri velociter.
+    </p>
+            <p xml:id="D78nca-e20883-d1e2476">
+      ¶ Responsio ibi po 
+      <lb ed="#P" n="109"/>sita concedi potest quod large loquendo assentis et dissentis 
+      <lb ed="#P" n="110"/>eidem obiectiue materialiter: et sub alia et alia ratio 
+      <lb ed="#P" n="111"/>ne: et secundum aliud et aliud praedicabile.
+    </p>
+            <p xml:id="D78nca-e20883-d1e2486">
+      ¶ Ad improbatio 
+      <lb ed="#P" n="112"/>nem dicendum quod hec alia et alia ratio se tenet ex 
+      par<lb ed="#P" n="113" break="no"/>te intellectus licet alietati predicationum: si vere esset 
+      <lb ed="#P" n="114"/>necessarium esset correspondere alietatem vel non 
+      <lb ed="#P" n="115"/>identitatem rei.
+    </p>
+            <p xml:id="D78nca-e20883-d1e2497">
+      ¶ Ad sextum. negatur consequen 
+      <lb ed="#P" n="116"/>tia. Potest enim reduci contra alios quia etiam as 
+      <lb ed="#P" n="117"/>sentires dyabolo / cum dyabolus non sit minus ob 
+      <lb ed="#P" n="118"/>iectum huius assensus quam deus sit obiectum illius a 
+      <lb ed="#P" n="119"/>terius assensus. Consequens igitur importat non 
+      so<lb ed="#P" n="120" break="no"/>lum quod deus vel dyabolus sit materialiter obiectum 
+      <lb ed="#P" n="121"/>tui assensus. Sed quod assentis / et acquiescis dyabol 
+      <lb ed="#P" n="122"/>dictis: et eius monitioni / et suggestioni: et quod credis 
+      <lb ed="#P" n="123"/>res ita se habere / vel ita esse agendum: qualiter eas 
+      <lb ed="#P" n="124"/>se habere / vel qualiter agendum dictat dyabolus 
+    </p>
+            <p xml:id="D78nca-e20883-d1e2519">
+               <lb ed="#P" n="125"/>¶ Ad septimum. Licet antecedens possit distingur 
+      <lb ed="#P" n="126"/>vt statim ponetur: negatur tamen antecedens. Ad pro 
+      <lb ed="#P" n="127"/>probationem. negatur consequentia: ita enim 
+      po<lb ed="#P" n="128" break="no"/>test reduci contra alios: quia dens erit partiale 
+      ob<lb ed="#P" n="129" break="no"/>iectum illius odii: immo totale in ordine totalis 
+      ob<lb ed="#P" n="130" break="no"/>iecti incomplexe significabilis: et ita deus partialiter odiretur 
+    </p>
+            <p xml:id="D78nca-e20883-d1e2535">
+               <lb ed="#P" n="131"/>¶ Ad probationem consequentie dicendum quod hec 
+      <lb ed="#P" n="132"/>propositio deus est totale obiectum dissensus quo dis¬ 
+      <!--83.xml-->
+      <pb ed="#P" n="36-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sentio deum non esse vel odii quo odio deum non esse potest 
+      <lb ed="#P" n="2"/>dupliciter intelligi. vno modo quod deus est obiectum il 
+      <lb ed="#P" n="3"/>lius dissensus vel odii: et nullum aliud ens seu 
+      nul<lb ed="#P" n="4" break="no"/>lum aliud obiectum intelligibile. Et in isto sensu licet sit 
+      <lb ed="#P" n="5"/>falsa non tamen sequitur igitur dissentio deo et odio deum 
+      <lb ed="#P" n="6"/>sicut nec sequitur si deus sit partiale obiectum illiu 
+      <lb ed="#P" n="7"/>dissensus et odii: igitur per hoc odium odio partialiter deum 
+      <lb ed="#P" n="8"/>sicut deus est obiectum odii quo ipse odit peccato 
+      <lb ed="#P" n="9"/>res / et tamen non oditur illo odio. sicut etiam si ac  
+      <lb ed="#P" n="10"/>tus quo odio petrum propter deum / habet deum pro 
+      par<lb ed="#P" n="11" break="no"/>tiali obiecto non sequitur quod partialiter odiam deum et si actus 
+      <lb ed="#P" n="12"/>quae diligo creaturam in relatioe ad deum sit vsus et habeat 
+      <lb ed="#P" n="13"/>deum pro partiali obiecto: non sequitur igitur vtor deo par 
+      <lb ed="#P" n="14"/>tialiter: non sequitur igitur odio deum non esse: et hu 
+      <lb ed="#P" n="15"/>ius odii deus est obiectum: igitur odio deum sed po 
+      <lb ed="#P" n="16"/>tius sequitur oppositum: et est fallacia secundum quid ad 
+      <lb ed="#P" n="17"/>simpliciter per determinationem distrahentem quae ponit op 
+      <lb ed="#P" n="18"/>positum in adiecto vt vellem te non esse mortuum: igitur 
+      <lb ed="#P" n="19"/>tur vellem te non esse vel vellem te esse mortuum 
+      <lb ed="#P" n="20"/>ergo vellem te esse. Alio modo potest intelligi dictis 
+      <lb ed="#P" n="21"/>propositio quod deus non solum est obiectum illius 
+      dis<lb ed="#P" n="22" break="no"/>sensus vel odii: sed est totaliter obiectum tale ens 
+      <lb ed="#P" n="23"/>et taliter se habens: quale displicet: et quod respuitur 
+      <lb ed="#P" n="24"/>et quod tolleretur per illud odium quantum est ex 
+      ra<lb ed="#P" n="25" break="no"/>tione illius odii si esset efficax: et quod est obiectum ta 
+      <lb ed="#P" n="26"/>le ens / et taliter se habens: quale sufficit / et requiritur 
+      <lb ed="#P" n="27"/>ad veritatem enunciationis conformis et corresponden 
+      <lb ed="#P" n="28"/>tis illi dissensui vel odio: et sic negatur: imo nullum 
+      <lb ed="#P" n="29"/>obiectum intelligibile ei correspodet: nec correspon 
+      <lb ed="#P" n="30"/>dere potest nisi in similitudine et transumptione. intelligi 
+      <lb ed="#P" n="31"/>mus enim et volumus vel nolumus quasi corresponderet 
+      ta<lb ed="#P" n="32" break="no"/>le obiectum intelligibile terminatiue quod nihil sit 
+      ne<lb ed="#P" n="33" break="no"/>actu / nec potentia.
+    </p>
+            <p xml:id="D78nca-e20883-d1e2620">
+      ¶ Ad octauum. negatur conse 
+      <lb ed="#P" n="34"/>quentia: quia etiam de intelligibili illo complexe signifi 
+      <lb ed="#P" n="35"/>cabili: quod ponit contraria opinio potest haberi 
+      ap<lb ed="#P" n="36" break="no"/>prehensio incomplexa. que non sufficit ad indicium 
+      <lb ed="#P" n="37"/>Patet de noticia correspondente istis terminis si 
+      <lb ed="#P" n="38"/>gnificabile / intelligibile etiam complexe obiectum 
+      <lb ed="#P" n="39"/>totale assensus etc.
+    </p>
+            <p xml:id="D78nca-e20883-d1e2636">
+      ¶ Ad improbationem negatur ni 
+      <lb ed="#P" n="40"/>si loquendo de sufficientia secundum potentiam accidentalem 
+      <lb ed="#P" n="41"/>quia illa habita potest anima statim formare aliquas ap 
+      <lb ed="#P" n="42"/>prehensiones complexas diuersas: et habere assensus 
+    </p>
+            <p xml:id="D78nca-e20883-d1e2646">
+               <lb ed="#P" n="43"/>¶ Ad confirmationem. hoc est propter naturam / et diffe 
+      <lb ed="#P" n="44"/>rentiam talium apprehensionum et talium effectuum / et 
+      <lb ed="#P" n="45"/>concedo quod propter aliquem modum imperfectionis. quia 
+      <lb ed="#P" n="46"/>modus apprehendendi affirmatiue vel negatiue veri 
+      <lb ed="#P" n="47"/>dice est perfectior in nobis ceteris paribus. De 
+      notici<lb ed="#P" n="48" break="no"/>autem dei licet sit simplex et non complexa et composita: 
+      ta<lb ed="#P" n="49" break="no"/>men est formaliter veridica et est equiualenter et eminen 
+      <lb ed="#P" n="50"/>ter omnes apprehensiones complexe vere: et per eam deus 
+      <lb ed="#P" n="51"/>cognoscit formaliter hoc esse vel non esse huiusmodi / et 
+      <lb ed="#P" n="52"/>continet omnem perfectionem apprehensionum comple 
+      <lb ed="#P" n="53"/>xarum et iudiciorum circun scripta imperfectione. 
+    </p>
+            <p xml:id="D78nca-e20883-d1e2672">
+               <lb ed="#P" n="54"/>¶ Ad rationem in principio quaestionis patet ex dictis ad  
+      <lb ed="#P" n="55"/>secundum contra secundam conclusionem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

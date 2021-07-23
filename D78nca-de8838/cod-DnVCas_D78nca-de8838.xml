@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="14-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-de8838"><!-- l1d1q1 -->
+            <head xml:id="D78nca-de8838-Hd1e108">Quaestio 1</head>
+            <head xml:id="D78nca-de8838-Hd1e111" type="question-title">
+      utrum omnis intellectus 
+      cognoscens formaliter ens medium in respectu ad finem 
+      intelligat utrumque vnico actu simplici.
+    </head>
+            <p xml:id="D78nca-de8838-d1e114"><!--39.xml-->
+               <pb ed="#P" n="14-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>¶ Distinctio prima. 
+      <lb ed="#P" n="2"/>distinctionem primam in 
+      <lb ed="#P" n="3"/>Iri a qua magister distingui 
+      <lb ed="#P" n="4"/>ea de quibus sunt doctrine / quedam 
+      <lb ed="#P" n="5"/>enim sunt signa / quedam vero resi 
+      <lb ed="#P" n="6"/>rerum autem quedam sunt quibus est vtem 
+      <lb ed="#P" n="7"/>dum / quedam quibus fruendum / que 
+      <lb ed="#P" n="8"/>dam quibus vtuntur et fruuntur. 
+      <lb ed="#P" n="9"/>et quia signum refertur ad significatum / et vti est actus 
+      re<lb ed="#P" n="10" break="no"/>latiuus per quem anima illud quo vtitur refert in alterum 
+      <lb ed="#P" n="11"/>ideo querendum de actu anime relatiuo et comparatiuo Et 
+      <lb ed="#P" n="12"/>quia actus intellectus priores sunt actibus voluntatis  
+      <lb ed="#P" n="13"/>ideo. Quero primo. vtrum omnis intellectus 
+      co<lb ed="#P" n="14" break="no"/>gnoscens formaliter ens medium in respectu ad finem 
+      <lb ed="#P" n="15"/>intelligat vtrumque vnico actu simplici.
+    </p>
+            <p xml:id="D78nca-de8838-d1e154">
+      Quod non. quia intel 
+      <lb ed="#P" n="16" break="no"/>ligit illa distincte et vt distincta. igitur non vnico actu. 
+      <lb ed="#P" n="17"/>consequentia probatur. quia quae vnico actu intelliguntur secundum quod huiusmor 
+      <lb ed="#P" n="18"/>apprehenduntur indistincte / quia vnico conceptum 
+      indi<lb ed="#P" n="19" break="no"/>tincto in quo communicant.
+    </p>
+            <p xml:id="D78nca-de8838-d1e165">
+      ¶ Contra. per actum rela 
+      <lb ed="#P" n="20" break="no"/>tiuum et comparatiuum extremorum non concipitur neutrum 
+      <lb ed="#P" n="21"/>extremorum nec alterum tantum. quia non esset ratio de hoc ma 
+      <lb ed="#P" n="22" break="no"/>gis quam de illo. igitur vtrunque.
+    </p>
+            <p xml:id="D78nca-de8838-d1e175">
+      ¶ Notandum. hic acci 
+      <lb ed="#P" n="23"/>pio actum intelligendi simplicem non per negationem 
+      <lb ed="#P" n="24"/>compositionis ex partibus eiusdem rationis facientibus 
+      <lb ed="#P" n="25"/>per se vnum extensiue vel intensiue: sed per negatione 
+      <lb ed="#P" n="26"/>aggregationis ex pluribus actibus alterius rationis vel 
+      <lb ed="#P" n="27"/>ex pluribus actibus non facientibus per se vnum quo 
+      <lb ed="#P" n="28"/>modo conceptus correspondens isti termino albedo 
+      <lb ed="#P" n="29"/>dicitur conceptus vniuocus simplex. Item non loquor 
+      <lb ed="#P" n="30"/>de simplicitate vel compositione obiectiua: sed de 
+      in<lb ed="#P" n="31" break="no"/>trinseca et formali simplicitate actus intelligendi 
+      <lb ed="#P" n="32"/>in essendo secundum suam realitatem.
+    </p>
+            <p xml:id="D78nca-de8838-d1e199">
+               <lb ed="#P" n="33"/>Prima conclusio Omnis actus intelle 
+      <lb ed="#P" n="34" break="no"/>ctus creatus compa 
+      <lb ed="#P" n="35"/>rans formaliter aliquod obiectum in relatione vel 
+      ha<lb ed="#P" n="36" break="no"/>bitudine ad alterum habet formaliter aliquem conceptum 
+      <lb ed="#P" n="37"/>relatiuum et comparatiuum et distinctum totaliter a concepti 
+      <lb ed="#P" n="38"/>bus absolutis illorum obiectorum vel aliorum. probatur. ha 
+      <lb ed="#P" n="39"/>beat intellectus conceptum proprium absolutum albedi 
+      <lb ed="#P" n="40"/>nis qui sit .a. et proprium conceptum absolutum 
+      nigredi<lb ed="#P" n="41" break="no"/>nis qui sit .b. probo quod per .a. et b. non cognoscit forma 
+      <lb ed="#P" n="42"/>liter intellectus hoc obiectum relatiue in habitudine 
+      <lb ed="#P" n="43"/>ad illud sic per illos actus non cognoscit formaliter 
+      in<lb ed="#P" n="44" break="no"/>tellectus hoc obiectum in relatione et comparatione ad 
+      <lb ed="#P" n="45"/>illud quibus positis in anima stat intellectu nihil intel 
+      <lb ed="#P" n="46"/>ligere vel cognoscere relatiue et comparatiue sed tantum 
+      <lb ed="#P" n="47"/>absolute. Sed sic est quod habendo .a. et b. stat quod non 
+      comn<lb ed="#P" n="48" break="no"/>paret album ad nigrum: sed tantum apprehendendo plura 
+      <lb ed="#P" n="49"/>absolute sicut visus videndo plura simul non compa 
+      <lb ed="#P" n="50"/>rat ex hoc vnum alteri nec cognoscit vnum formaliter 
+      <lb ed="#P" n="51"/>referendo ad aliud.
+    </p>
+            <p xml:id="D78nca-de8838-d1e243">
+      ¶ Confirmatur. si a. precise esset 
+      <lb ed="#P" n="52"/>in intellectu non cognosceretur albedo relatiue et 
+      <lb ed="#P" n="53"/>comparatiue ad aliud sed tantum absolute. et si b. esset prec 
+      <lb ed="#P" n="54"/>se in intellectu non cognosceretur formaliter nigredo 
+      <lb ed="#P" n="55"/>in habitudine et relatione ad aliud puta ad 
+      albedi<lb ed="#P" n="56" break="no"/>nem. igitur si .a. et b. praecise sunt in intellectu non 
+      co<lb ed="#P" n="57" break="no"/>gnoscitur formaliter albedo comparatiue in relationem 
+      <lb ed="#P" n="58"/>ad nigredinem nec econtra: sed tantum apprehenduntur 
+      que<lb ed="#P" n="59" break="no"/>dam due res mere absolute. consequentia probatur. quia si ipsi. a 
+      <lb ed="#P" n="60"/>preexistenti in intellectu adueniat .b. non ex hoc conci 
+      <lb ed="#P" n="61"/>pitur albedo aliter quam prius. quia per .b. non concipitur 
+      albe<lb ed="#P" n="62" break="no"/>do / sed tantum nigredo. igitur propter aduentum solius b. 
+      <lb ed="#P" n="63"/>non concipitur aliter albedo quam prius puta relatiue: 
+      <lb ed="#P" n="64"/>intellectus enim apprehendens aliquod obiectum non ex 
+      <lb ed="#P" n="65"/>hoc concipit illud aliter propter solam additionem actus 
+      <!--39.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="66"/>qui nullo modo est cognitio illius stante priori actu 
+      <lb ed="#P" n="67"/>vniformiter.
+    </p>
+            <p xml:id="D78nca-de8838-d1e285">
+      ¶ Confirmatur. albedo non cognoscitur 
+      <lb ed="#P" n="68"/>per aggregatu ex .a. et b. primo et se toto vel quolibet 
+      <lb ed="#P" n="69"/>ipsius: sed primo per partem ipsius: quia per aliam partem 
+      <lb ed="#P" n="70"/>non cognoscitur. igitur si per partem eius non cognoscitur 
+      <lb ed="#P" n="71"/>albedo relatiue: sed tantum absolute: sequitur quod per illud  
+      <lb ed="#P" n="72"/>aggregatum non cognoscitur albedo nisi absolute. 
+    </p>
+            <p xml:id="D78nca-de8838-d1e298">
+               <lb ed="#P" n="73"/>¶ Confirmatur. terminus vocalis absolutus non fit re 
+      <lb ed="#P" n="74"/>latiuus nec significat relatiue propter additionem 
+      al<lb ed="#P" n="75" break="no"/>terius termini absoluti. Similiter de conceptum abso 
+      <lb ed="#P" n="76"/>luto cui subordinatur in significando. quia non minus 
+      <lb ed="#P" n="77"/>significat immutabiliter quam naturaliter.
+    </p>
+            <p xml:id="D78nca-de8838-d1e311">
+      ¶ Preterea si .a. et .b. praecise exi 
+      <lb ed="#P" n="78"/>stentibus in intellectu cognoscit formaliter intellectus 
+      <lb ed="#P" n="79"/>hoc relatiue et comparatiue ad illud / aut igitur quamlibet 
+      <lb ed="#P" n="80"/>habitudinem secundum quam hoc potest cognosci veraciter 
+      <lb ed="#P" n="81"/>in habitudine ad illud puta secundum habitudinem 
+      dissi<lb ed="#P" n="82" break="no"/>militudinis inequalitatis vel equelitatis. et sic de variis 
+      <lb ed="#P" n="83"/>huiusmodi habitudinibus aut in aliqua habitudine tantum 
+      de<lb ed="#P" n="84" break="no"/>terminata. non primum quia per illos tantum duos conceptus  
+      <lb ed="#P" n="85"/>conciperet actualiter et formaliter albedinem et nigredinem 
+      <lb ed="#P" n="86"/>quasi secundum infinitas habitudines quod est contra ex 
+      <lb ed="#P" n="87"/>perientiam. Si secundum contra. tum quia non est maior ratio de 
+      <lb ed="#P" n="88"/>ista habitudine quam de illa. quia illi conceptus sunt 
+      indif<lb ed="#P" n="89" break="no"/>ferentes et in potentia ad hoc vt mediantibus illis 
+      <lb ed="#P" n="90"/>intellectus possit comparare albedinem et nigredinem 
+      <lb ed="#P" n="91"/>secundum hanc habitudinem vel illam. tum quia saltem de illa ha 
+      <lb ed="#P" n="92"/>bitudine habetur propositum quod non requiritur tertius con 
+      <lb ed="#P" n="93"/>ceptus non absolutus.
+    </p>
+            <p xml:id="D78nca-de8838-d1e349">
+      ¶ Preterea. quod est prius 
+      <lb ed="#P" n="94"/>et causa distinguitur a posteriori et causato: sed .a. et 
+      <lb ed="#P" n="95"/>b. sunt naturaliter priores conceptu comparatiuo albe 
+      <lb ed="#P" n="96"/>dinis et nigredinis et sunt causa illius. prius enim na 
+      <lb ed="#P" n="97"/>turaliter concipit intellectus albedinem et nigredinem 
+      <lb ed="#P" n="98"/>in se absolute quam relatiue: aut hoc in comparatione ad  
+      <lb ed="#P" n="99"/>illud et potest multipliciter et varie comparari hoc illi secundum 
+      <lb ed="#P" n="100"/>varias comparationes et habitudines manentibus illis 
+      <lb ed="#P" n="101"/>conceptibus absolutis inuariatis.
+    </p>
+            <p xml:id="D78nca-de8838-d1e369">
+      ¶ Preterea. in 
+      <lb ed="#P" n="102"/>tellectus apprehendens formaliter hec secundum 
+      determi<lb ed="#P" n="103" break="no"/>natam relationem et habitudinem ad illud habet aliquen 
+      <lb ed="#P" n="104"/>aceptum de praedicamento relationis. igitur alium totaliter 
+      <lb ed="#P" n="105"/>ab .a. et b. consequentia patet. quia .a. et b. sunt conceptus de predi 
+      <lb ed="#P" n="106"/>camento qualitatis. antecedens probatur. quia aut nullus est 
+      con<lb ed="#P" n="107" break="no"/>ceptus de genere respectiuo aut maxime huiusmodi sunt 
+      <lb ed="#P" n="108"/>illi conceptus per quos formaliter et actualiter 
+      intelli<lb ed="#P" n="109" break="no"/>igitur aliqua res comparatione in relatione ad alteram 
+      <lb ed="#P" n="110"/>ordinationes autem predicamentorum sunt impermixte 1 
+      <lb ed="#P" n="111"/>posteriorum.
+    </p>
+            <p xml:id="D78nca-de8838-d1e393">
+      ¶ Confirmatur. si a. conceptus absolutus 
+      <lb ed="#P" n="112"/>albedinis sit conceptus relatiuus et comparatiuus al 
+      <lb ed="#P" n="113"/>bedinis ad alterum obiectum propter additionem alterius 
+      <lb ed="#P" n="114"/>conceptus sequitur quod posset fieri cuiuscumque 
+      gene<lb ed="#P" n="115" break="no"/>ris respectiui et cuiuscumque speciei de genere respecti 
+      <lb ed="#P" n="116"/>uo. quia albedo potest concipi relatiue in habitudine ad  
+      <lb ed="#P" n="117"/>quodcumque aliud et secundum habitudinem quamcunque. 
+    </p>
+            <p xml:id="D78nca-de8838-d1e409">
+               <lb ed="#P" n="118"/>¶ Preterea. illis praedicabilibus correspondent diuersi 
+      <lb ed="#P" n="119"/>coceptus in anima quorum predicabilium vnum de pronomine 
+      <lb ed="#P" n="120"/>demonstrante hanc albedinem praedicatur necessario per 
+      <lb ed="#P" n="121"/>se et in quid. et alterum non nisi contingenter et per acci 
+      <lb ed="#P" n="122"/>dens: sed albedo praedicatur necessario et per se et in quid de 
+      <lb ed="#P" n="123"/>hac albedine demonstrata. praedicabile autem relatiuum 
+      <lb ed="#P" n="124"/>huius albedinis ad nigredinem praedicatur contingenter 
+      <lb ed="#P" n="125"/>et per accidens. puta: dissimile / diuersum. etc. quia veritas 
+      <lb ed="#P" n="126"/>talis praedicationis variatur ad variationem in altero 
+      <lb ed="#P" n="127"/>extremo. igitur.
+    </p>
+            <p xml:id="D78nca-de8838-d1e433">
+      ¶ Preterea. conceptus relatiuus 
+      cor<lb ed="#P" n="128" break="no"/>respondens isti prodicabili duplum et cui subordinatur 
+      <lb ed="#P" n="129"/>in significando esset idem conceptui correspondenti huid 
+      <lb ed="#P" n="130"/>termino dimidium. Similiter de toto et parte et huiusmor 
+      <lb ed="#P" n="131"/>relatiue oppositis. consequentia patet. quia conceptus huius 
+      <!--40.xml-->
+      <pb ed="#P" n="15-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>relatiuus et comparatiuus non esset illi duo conceptus 
+      ab<lb ed="#P" n="2" break="no"/>soluti duorum extremorum. consequens est falsum. quia huiusmodi praedi 
+      <lb ed="#P" n="3"/>cabilia essent termini sinonimi / et predicarentur de se 
+      <lb ed="#P" n="4"/>inuicem in recto. Ex eisdem arguitur quod nec sufficiunt 
+      <lb ed="#P" n="5"/>conceptus absoluti quicunque.
+    </p>
+            <p xml:id="D78nca-de8838-d1e462">
+               <lb ed="#P" n="6"/>Secunda conclusio. Ominis intellectus 
+      con<lb ed="#P" n="7" break="no"/>parans formaliter ali 
+      <lb ed="#P" n="8"/>quod obiectum alteri seu intelligens formaliter aliquod 
+      <lb ed="#P" n="9"/>obiectum in respectu et habitudine ad alterum intelligit 
+      <lb ed="#P" n="10"/>vtrunque obiectum comparatum vnico actu simplici. proba 
+      <lb ed="#P" n="11"/>tur. comparet intellectus albedinem nigredini secundum deus 
+      <lb ed="#P" n="12"/>terminatam habitudinem: tunc praeter a. conceptum 
+      pro<lb ed="#P" n="13" break="no"/>prium absolutum albedinis. et preter .b. conceptum 
+      pro<lb ed="#P" n="14" break="no"/>prium absolutum nigredinis. et quemcumque conceptum 
+      <lb ed="#P" n="15"/>proprium absolutum alterius obiecti exigitur aliquid 
+      <lb ed="#P" n="16"/>alius conceptus relatiuus et comparatiuus. iuxta 
+      pri<lb ed="#P" n="17" break="no"/>mam conclusionem: sit igitur ille actus .c. probo quod per con 
+      <lb ed="#P" n="18"/>formaliter cognoscitur tam albedo quam nigredo. sic per 
+      <lb ed="#P" n="19"/>quemcumque conceptum cognoscitur formaliter hoc obiectum 
+      <lb ed="#P" n="20"/>in relatione et habitudine ad illud per ipsum cogno 
+      <lb ed="#P" n="21"/>scitur formaliter hoc obiectum et illud. Sed per .c. 
+      con<lb ed="#P" n="22" break="no"/>ceptum relatiuum et comparatiuum vt distinguitur a con 
+      <lb ed="#P" n="23"/>ceptibus absolutis illorum obiectorum: et vt est conceptus 
+      <lb ed="#P" n="24"/>superadditus illis cognoscitur formaliter et actualite 
+      <lb ed="#P" n="25"/>albedo in relatione et comparatione ad nigredinem 
+      <lb ed="#P" n="26"/>igitur. maior patet: alioquin possibile esset sine contra 
+      <lb ed="#P" n="27"/>dictione intellectum formaliter et actualiter 
+      cognosce<lb ed="#P" n="28" break="no"/>re hoc obiectum in respectu et comparatione ad illud / et tamen non 
+      <lb ed="#P" n="29"/>cognosceret hoc et illud. immo nec hoc nec illud. minor 
+      <lb ed="#P" n="30"/>probatur vel. c. conceptus superadditus est cognitio formaliter tan 
+      <lb ed="#P" n="31"/>albedinis quam nigredinis: aut albedinis tantum / aut ni 
+      <lb ed="#P" n="32"/>gredinis tantum / aut nec huius nec illius: sed cuiusdam 
+      <lb ed="#P" n="33"/>alterius obiecti. Si primum: propositum. si secundum / vel tertii 
+      <lb ed="#P" n="34"/>Contra. tum quia non est ratio quod magis sit cognitio 
+      <lb ed="#P" n="35"/>huius et non illius / quam econtra. tum quia esset conceptus 
+      <lb ed="#P" n="36"/>absolutus huius extremi sicut est conceptus. a. vel. hin 
+      <lb ed="#P" n="37"/>quia per illum non cognoscitur formaliter nisi albedo 
+      si<lb ed="#P" n="38" break="no"/>cut per conceptum .a. et ipso solo existente in intellectu non 
+      <lb ed="#P" n="39"/>cognosceretur nisi albedo in se sine comparatione ad 
+      <lb ed="#P" n="40"/>nigredinem. sicut ipso a. precise existente in intellectu. tum 
+      <lb ed="#P" n="41"/>quia propter additum ipsius .c. non cognosceretur relatiu 
+      <lb ed="#P" n="42"/>illud extremum cuius non esset cognitio. Si quartum. com 
+      <lb ed="#P" n="43"/>tra. quia igitur propter additionem illius / non cognoscitur 
+      <lb ed="#P" n="44"/>albedo relatiue in comparatione ad nigredinem magis 
+      <lb ed="#P" n="45"/>quam prius. quia nec cognosceretur albedo nec nigredo aliter 
+      <lb ed="#P" n="46"/>que prius. Si dicatur quod per .c. conceptum comparatiuum super 
+      <lb ed="#P" n="47"/>additum praecise sumptum non cognoscitur hoc extremum 
+      <lb ed="#P" n="48"/>absolutum nec illud / sed relatio et habitudo 
+      me<lb ed="#P" n="49" break="no"/>dia. ita quod per duos conceptus absolutos 
+      extremo<lb ed="#P" n="50" break="no"/>rum cum illo tertio conceptu concipitur formaliter hoc 
+      <lb ed="#P" n="51"/>extremum in respectu ad illud. et sic primo habetur 
+      pro<lb ed="#P" n="52" break="no"/>positum. quia huiusmodi habitudo non est nisi ille res 
+      compa<lb ed="#P" n="53" break="no"/>rate. Non enim oportet quod vniuersaliter omni predicabiliter 
+      <lb ed="#P" n="54"/>vel conceptui relatiuo correspondeat extra animam forma 
+      <lb ed="#P" n="55"/>respectiua accidentalis distincta totaliter a rebus 
+      abso<lb ed="#P" n="56" break="no"/>lutis. patet de multis. Secundo per .c. conceptum circumscristo 
+      <lb ed="#P" n="57"/>omni alio cognoscitur formaliter et actualiter relatio et 
+      habi<lb ed="#P" n="58" break="no"/>tudo huius ad illud ergo per .c. formaliter cognoscitur 
+      <lb ed="#P" n="59"/>hoc et illud. consequentia probatur. quia contradictio videtur / q 
+      <lb ed="#P" n="60"/>apprehendatur formaliter et actualiter certa habitudo 
+      <lb ed="#P" n="61"/>istius ad illud quin concipiatur hoc et illud. deus autem 
+      <lb ed="#P" n="62"/>poterit conseruare et causare .c. conceptum illum sine omni 
+      <lb ed="#P" n="63"/>alio conceptu cum sit qualitas distincta. Tertio licet di 
+      <lb ed="#P" n="64"/>ceretur quod per conceptum absolutum correspondentem term 
+      <lb ed="#P" n="65"/>no relatiuo abstracto concipitur relatio media / et non 
+      <lb ed="#P" n="66"/>aliquod extremum. tamtum per terminum ralatiuum concretiuum 
+      <!--40.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>correspondentem termino concreto concipitur aliquod 
+      ex<lb ed="#P" n="68" break="no"/>tremum. quia huiusmodi concretum vere predicatur de extremo 
+      <lb ed="#P" n="69"/>ergo de conceptum respectiuo concreto habetur proposi 
+      <lb ed="#P" n="70"/>tum. Si aliter dicitur quod intellectus comparans hoc 
+      <lb ed="#P" n="71"/>obiectum alteri preter conceptum absolutum proprium 
+      <lb ed="#P" n="72"/>huius et illius habet conceptum relatiuum huius et 
+      conce<lb ed="#P" n="73" break="no"/>ptum relatiuum illius. sic quod vnus conceptus relatiuus 
+      <lb ed="#P" n="74"/>est tantum cognitio huius extremi vt obiecti et alter 
+      con<lb ed="#P" n="75" break="no"/>ceptus correlatiuus est tantum cognitio alterius extremi 
+      <lb ed="#P" n="76"/>vt obiecti. tamen dicuntur conceptus non absoluti: sed re 
+      <lb ed="#P" n="77"/>latiui vel respectiui. quia naturaliter et necessario vnus exi 
+      <lb ed="#P" n="78"/>git alterum et econtra. non autem sic de conceptibus absolu 
+      <lb ed="#P" n="79"/>tis. vnde concipere relatiue hoc obiectum in compara 
+      <lb ed="#P" n="80"/>tione ad alterum est concipere illud conceptum natura 
+      <lb ed="#P" n="81"/>liter et necessario coexigente alium conceptum illius obiecti 
+      <lb ed="#P" n="82"/>in habitudine ad quod cognoscitur. et vnum conceptum 
+      <lb ed="#P" n="83"/>consignificare aliquam rem non est illum conceptum exhibere 
+      for<lb ed="#P" n="84" break="no"/>maliter obiectiue illam rem: sed coexigere conceptum 
+      <lb ed="#P" n="85"/>alium illius rei. 
+    </p>
+            <p xml:id="D78nca-de8838-d1e643">
+               <lb ed="#P" n="86"/>¶ Contra hanc responsionem probo tria.
+    </p>
+            <p xml:id="D78nca-de8838-d1e648">
+      ¶ Pre 
+      <lb ed="#P" n="87"/>mum: quod quamuis huiusmodi conceptus naturaliter se 
+      <lb ed="#P" n="88"/>coexigant: tamtum per illos non cognoscitur formaliter hoc 
+      <lb ed="#P" n="89"/>in ordine ad alterum si per quemlibet illorum non cogne 
+      <lb ed="#P" n="90"/>scitur nisi vnicum extremum et ex opposito si per eos 
+      co<lb ed="#P" n="91" break="no"/>gnoscitur formaliter hoc obiectum in habitudine ad al 
+      <lb ed="#P" n="92"/>terum per quemlibet illorum cognoscitur vtrumque 
+      obie<lb ed="#P" n="93" break="no"/>ctum.
+    </p>
+            <p xml:id="D78nca-de8838-d1e666">
+      ¶ Secundum probandum / est quod falsum est hunc con 
+      <lb ed="#P" n="94"/>ceptum coexigere illum.
+    </p>
+            <p xml:id="D78nca-de8838-d1e671">
+      ¶ Tertium. quod cognoscere ali 
+      <lb ed="#P" n="95"/>quod obiectum cognitione coexigente aliam alterius ob 
+      <lb ed="#P" n="96"/>iecti non est cognoscere relatiue. Primum probatur 
+      <lb ed="#P" n="97"/>pono quod preter a. conceptum absolutum proprium albedi 
+      <lb ed="#P" n="98"/>nis. et b. conceptum proprium absolutum nigredinis sit. c. 
+      <lb ed="#P" n="99"/>iste conceptus relatiuus quo dicis concipi 
+      albedi<lb ed="#P" n="100" break="no"/>nem relatiue et sit .d. conceptus / quo dicis concipi 
+      <lb ed="#P" n="101"/>nigredinem relatiue. probo quod per .c. concipitur forma 
+      <lb ed="#P" n="102"/>liter non precise albedo: sed etiam nigredo. sic per quem 
+      <lb ed="#P" n="103"/>cumque conceptum apprehenditur formaliter et actualiter albedo non 
+      <lb ed="#P" n="104"/>in se absolute / sed formaliter relatiue in comperatione ad  
+      <lb ed="#P" n="105"/>nigredinem per illum apprehenditur non precise albedo: 
+      <lb ed="#P" n="106"/>sed etiam nigredo. sed .c. conceptus vt distinctus tota 
+      <lb ed="#P" n="107"/>liter ab ipso b. et d. est huiusmodi. igitur. maior patet. quia possit 
+      <lb ed="#P" n="108"/>bile esset sine contradictione intellectum formaliter et actu 
+      <lb ed="#P" n="109"/>aliter apprehendere albedinem in comparatione et ha 
+      <lb ed="#P" n="110"/>bitudine ad nigredinem et formaliter comparare 
+      albedi<lb ed="#P" n="111" break="no"/>nem nigredini et non apprehendere nigredinem. patet 
+      <lb ed="#P" n="112"/>consequentia. quia non esset contradictio illum conceptum esse a 
+      <lb ed="#P" n="113"/>deo in intellectu siue quocumque alio totaliter distincto 
+      <lb ed="#P" n="114"/>cum sit de prima specie qualitatis. minor probatur. quia 
+      <lb ed="#P" n="115"/>c. conceptus vt distinguitur ab omni alio actu est de 
+      ge<lb ed="#P" n="116" break="no"/>nere respectiuo. ergo est per se et essentialiter 
+      respecti<lb ed="#P" n="117" break="no"/>uus. ergo per illum formaliter concipitur obiectu in re 
+      <lb ed="#P" n="118"/>spectu ad alterum. et quia si per .c. conceptum vt distinguitur 
+      <lb ed="#P" n="119"/>ab omni alio actu concipitur formaliter albedo non rela 
+      <lb ed="#P" n="120"/>tiue et comparatiue: sed in se et ad se absolute. ergo. c.n 
+      <lb ed="#P" n="121"/>est conceptus absolutus albedinis non minus quam 
+      a<lb ed="#P" n="122" break="no"/>¶ Confirmatur. si. c. esset precise in intellectu non conci 
+      <lb ed="#P" n="123"/>peretur per illum albedo in comparatione et 
+      comparati<lb ed="#P" n="124" break="no"/>ue et relative ad albedinem. ergo et si .c. ponatur simul cum 
+      <lb ed="#P" n="125"/>alio conceptu puta. d. antecedens patet. quia tunc non concipere 
+      <lb ed="#P" n="126"/>tur nigredo secundum te. consequentia probatur. primo quia quilibet 
+      <lb ed="#P" n="127"/>conceptus exhibet precise idem et eodem modo siue pona 
+      <lb ed="#P" n="128"/>tur cum alio siue per se. quia non variatur eius significatio 
+      <lb ed="#P" n="129"/>naturalis ipso essentialiter manente inuariato. Secundo. quia 
+      <lb ed="#P" n="130"/>albedo non apprehenditur aliter quam prius propter 
+      so<lb ed="#P" n="131" break="no"/>lam apprehensionem actus qui non est cognitio 
+      albe<lb ed="#P" n="132" break="no"/>dinis nec in speciali / nec in communi: cuiusmodi est 
+      <!--41.xml-->
+      <pb ed="#P" n="15-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>conceptus .d. secundum se. Tertio. si aliquis conceptus in 
+      <lb ed="#P" n="2"/>se sumptus repraesentat suum obiectum absolute non rela 
+      <lb ed="#P" n="3"/>tiue formaliter ad alterum et simul sumptus cum alio con 
+      <lb ed="#P" n="4"/>ceptu repraesentat suum obiectum relative in habitudine ad 
+      <lb ed="#P" n="5"/>alterum. sequitur quod aliquis conceptus prius existens de 
+      prae<lb ed="#P" n="6" break="no"/>dicamento absoluto fit postea de praedicamento 
+      re<lb ed="#P" n="7" break="no"/>spectiuo propter adiunctionem vel remotionem alteri 
+      <lb ed="#P" n="8"/>actus et ecotra. consequens est falsum. non enim transit de ero 
+      <lb ed="#P" n="9"/>nere in genus. sed est per se et essentialiter de tali gene 
+      <lb ed="#P" n="10"/>re. Quarto si idem actus posset successiue nunc esset 
+      co<lb ed="#P" n="11" break="no"/>gnitio huius absolute in se et ad se et postea esse co 
+      <lb ed="#P" n="12"/>gnitio relatiua huius ad aliud. pari ratione potest esse 
+      pri<lb ed="#P" n="13" break="no"/>mo cognitio huius tantum et postea esse cognitio amborum 
+      <lb ed="#P" n="14"/>quicquid enim dat illi actui nouiter esse cognitionem re 
+      <lb ed="#P" n="15"/>latiua huius ad aliud / dat ei esse cognitionem vtriusque 
+      <lb ed="#P" n="16"/>et eo ipso quod fiet nouiter cognitio relatiua huius ad 
+      il<lb ed="#P" n="17" break="no"/>lud fiet nouiter cognitio amborum.
+    </p>
+            <p xml:id="D78nca-de8838-d1e799">
+      ¶ Et ex his ar 
+      <lb ed="#P" n="18"/>guitur quod intellectus non intelligit formaliter hoc ob 
+      <lb ed="#P" n="19"/>iectum in habitudine ad alterum per quosque vel quotqua 
+      <lb ed="#P" n="20"/>plures actus quorum vnus sit precise cognitio vnius 
+      <lb ed="#P" n="21"/>obiecti / et alter sit precise cognitio alterius obiecti 
+      <lb ed="#P" n="22"/>et nullus sit cognitio vtriusque.
+    </p>
+            <p xml:id="D78nca-de8838-d1e812">
+      ¶ Secundum probatur. primo 
+      <lb ed="#P" n="23"/>quia .c. conceptus non dependet nec causatur a nigredine 
+      <lb ed="#P" n="24"/>nec a conceptu nigredinis. igitur non necessario exigit 
+      <lb ed="#P" n="25"/>conceptum nigredinis. antecedens probatur. quia si causatur a 
+      <lb ed="#P" n="26"/>nigredine sicut ab albedine vel a conceptum nigredi 
+      <lb ed="#P" n="27"/>nis / sicut a conceptum albedinis. igitur non miuus est co 
+      <lb ed="#P" n="28"/>gnitio nigredinis quam albedinis. et habetur propositum. 
+    </p>
+            <p xml:id="D78nca-de8838-d1e829">
+               <lb ed="#P" n="29"/>¶ Confirmatur ex quo. c. ostendit precise albedinem si 
+      <lb ed="#P" n="30"/>cut .a. conceptus non videtur quod .c. necio exigat conceptum 
+      <lb ed="#P" n="31"/>nigredinis / magis quam .a. conceptus absolutus 
+      albedi<lb ed="#P" n="32" break="no"/>nis. Secundo .c. non causatur ab ipso. d. probo. quia pari ratione 
+      <lb ed="#P" n="33"/>d. causatur ab ipso. c. et esset circulus in causalitate et 
+      de<lb ed="#P" n="34" break="no"/>pendentia effectiua. ergo .c. non necessario exigit. d. nec 
+      <lb ed="#P" n="35"/>econtra. Si vero .c. causatur ab ipso .b. conceptu 
+      abso<lb ed="#P" n="36" break="no"/>luto nigredinis non a conceptu d. ergo circumscripto 
+      <lb ed="#P" n="37"/>d. et habitis duobus conceptibus absolutis albedinis et 
+      <lb ed="#P" n="38"/>nigredinis et habito tertio conceptu relatiuo 
+      conci<lb ed="#P" n="39" break="no"/>pitur formaliter albedo in relatione ad nigredinem et 
+      <lb ed="#P" n="40"/>habetur propositum.
+    </p>
+            <p xml:id="D78nca-de8838-d1e858">
+      ¶ Tertium probatur cognitionem ali 
+      <lb ed="#P" n="41"/>cuius obiecti exigere naturaliter aliam cognitionem eius 
+      <lb ed="#P" n="42"/>dem obiecti non est huiusmodi cognitionem esse formaliter re 
+      <lb ed="#P" n="43"/>latiuam et comparatiuam eiusdem ad se. igitur. pari ratione 
+      <lb ed="#P" n="44"/>cognitionem alicuius obiecti coexigere naturaliter 
+      con<lb ed="#P" n="45" break="no"/>ceptum alterius obiecti non est formaliter cognoscere 
+      <lb ed="#P" n="46"/>hoc obiectum in respectu et comparatiue ad illud. antecedens pro 
+      <lb ed="#P" n="47"/>batur. tum quia anima per omnem intellectionem cognosceret 
+      <lb ed="#P" n="48"/>idem in relatione ad seipsum. quia coexigitur sensatio vel 
+      <lb ed="#P" n="49"/>fantansia eiusdem. tum quia sensatio erit notitia non ab 
+      <lb ed="#P" n="50"/>soluta: sed relatiua. quia sensatio obiecti proprii per se 
+      <lb ed="#P" n="51"/>sensibilis: vt color exigit naturaliter sensationem sensit 
+      <lb ed="#P" n="52"/>bilis communis. vt quantitatis et figure. Si igitur intui 
+      <lb ed="#P" n="53"/>tiuam exigere intuitiuam non facit intuitiuam esse forma 
+      <lb ed="#P" n="54"/>liter relatiuam. pari ratione de abstractiua.
+    </p>
+            <p xml:id="D78nca-de8838-d1e891">
+      ¶ Preterea 
+      <lb ed="#P" n="55"/>si signum esse relatiuum sit ipsum coexgire aliud signum. sequitur 
+      <lb ed="#P" n="56"/>quod nullus terminus vocalis est signum relatiuum. quia 
+      <lb ed="#P" n="57"/>non coexigit aliud.
+    </p>
+            <p xml:id="D78nca-de8838-d1e900">
+      ¶ Confirmatur. termini 
+      sincathe<lb ed="#P" n="58" break="no"/>goreumatici essent per se et primo species et genera in 
+      <lb ed="#P" n="59"/>predicamento respectiuo. quia eis conuenit magis 
+      co<lb ed="#P" n="60" break="no"/>exigere alia signa ad hoc quod significent vel congnificant 
+      <lb ed="#P" n="61"/>quam signis cathegoreumaticis.
+    </p>
+            <p xml:id="D78nca-de8838-d1e911">
+      ¶ Preterea. 
+      principa<lb ed="#P" n="62" break="no"/>liter ad secundam conclusionem arguitur sic. vnitas suppo 
+      <lb ed="#P" n="63"/>siti sine vnitate potentie respectu aliquorum obiecto 
+      <lb ed="#P" n="64"/>rum non sufficit ad cognoscendum illa relatiue et compa 
+      <lb ed="#P" n="65"/>ratiue secundum Arist. 2. de anima. ergo nec sufficit vnitas 
+      <lb ed="#P" n="66"/>potentie sine vnitate actus respectu illorum obiectorum 
+      <!--41.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>consequentia probatur. pari ratione sicut enim si vna potentia co 
+      <lb ed="#P" n="68"/>gnoscit a. et alia potentia eiusdem suppositi cognoscit 
+      <lb ed="#P" n="69"/>b. et nulla vna potentia illius suppositi cognoscit .a 
+      <lb ed="#P" n="70"/>et .b. numquam per hoc illud suppositum poterit comparare 
+      <lb ed="#P" n="71"/>a. ad b. secundum Arist. ita pari ratione si eadem potentia per 
+      <lb ed="#P" n="72"/>aliquem actum cognoscit .a. tantum: et per alium actum 
+      cogno<lb ed="#P" n="73" break="no"/>cit .b. tantum: et per nullum vnum actum cognoscit .a. et b. 
+      <lb ed="#P" n="74"/>nunquam ex hoc cognosceret formaliter et actualiter .a. 
+      re<lb ed="#P" n="75" break="no"/>latiue et coparatiue ad. b. patet consequentia. sicut enim 
+      supposi<lb ed="#P" n="76" break="no"/>tum comparat mediante potentia sic potentia mediante 
+      <lb ed="#P" n="77"/>actu.
+    </p>
+            <p xml:id="D78nca-de8838-d1e952">
+      ¶ Confirmatur. ad apprehendendum comparatiue 
+      <lb ed="#P" n="78"/>aliqua obiecta requiritur idetitas temporum. si enim 
+      <lb ed="#P" n="79"/>prius cognosco .a. precise: et postea cognoscam b. pre 
+      <lb ed="#P" n="80"/>cise sine .a. numquam cognoscam per hoc illa comparatiue 
+      <lb ed="#P" n="81"/>igitur pari ratione requiritur identitas actus. Ex his 
+      pa<lb ed="#P" n="82" break="no"/>tet quid dicendum ad questionem.
+    </p>
+            <p xml:id="D78nca-de8838-d1e966">
+               <lb ed="#P" n="83"/>Conica conclusionem positas 
+      argui<lb ed="#P" n="84" break="no"/>tur et primo de 
+      <lb ed="#P" n="85"/>conceptu relatiuo quo formaliter intellectus distinguit 
+      <lb ed="#P" n="86"/>hoc obiectum ab illo et quo formaliter intellectus 
+      intelli<lb ed="#P" n="87" break="no"/>git hoc obiectum vt distinctum. puta de conceptu correspo 
+      <lb ed="#P" n="88"/>dente isti termino distinctum vel diuersum et consimili 
+      <lb ed="#P" n="89"/>de conceptibus respectiuis per se inferioribus ad di 
+      <lb ed="#P" n="90"/>ctum conceptum vt de conceptibus correspondentibus istis 
+      <lb ed="#P" n="91"/>predicabilibus oppositum / contrarium / dissimile / 
+      inequa<lb ed="#P" n="92" break="no"/>le. et consequeter de quibuscunque relatiuis disqueparantie 
+      <lb ed="#P" n="93"/>vt maius / minus / totum / pars / duplum / dimidiu. quilibet 
+      <lb ed="#P" n="94"/>enim talium conceptuum relatiuorum est per se medium distin 
+      <lb ed="#P" n="95"/>guendi euidenter vnum extremum comparatum ab alio. 
+    </p>
+            <p xml:id="D78nca-de8838-d1e997">
+               <lb ed="#P" n="96"/>¶ Arguo igitur sic. per nullum conceptum simplicem et vnicum 
+      <lb ed="#P" n="97"/>duorum obiectorum cognoscuntur illa duo obiecta distincte 
+      <lb ed="#P" n="98"/>et vt distincta: sed per apprehensionem comparatiuam seu 
+      <lb ed="#P" n="99"/>compositionem intellectualem qua intellectus relatiue co 
+      <lb ed="#P" n="100"/>gnoscit hoc obiectum vt distinctum ab illo et vt maius 
+      <lb ed="#P" n="101"/>illo / intellectus concipit huiusmodi obiecta distincte et vt di 
+      <lb ed="#P" n="102"/>stincta. ergo huiusmodi apprehensio comparatiua / seu 
+      con<lb ed="#P" n="103" break="no"/>paratio intellectualis non est vnica simplex respectu 
+      <lb ed="#P" n="104"/>illorum obiectorum. vel sic quecumque obiecta concipiuntur 
+      <lb ed="#P" n="105"/>vnico actu simplici per illum cocipiuntur indistincte / et 
+      <lb ed="#P" n="106"/>non distincte nec vt distincta: sed obiecta que 
+      compa<lb ed="#P" n="107" break="no"/>ratiue concipiuntur hoc vt distinctum ab illo vel vt maius 
+      <lb ed="#P" n="108"/>illo intellectus concipit huiusmodi obiecta distincte et vt 
+      <lb ed="#P" n="109"/>distincta. igitur per huiusmodi comparationem intellectualem / non 
+      <lb ed="#P" n="110"/>apprehenditur vnico actu simplici. minor vtriusque 
+      <lb ed="#P" n="111"/>discursus patet. maior probatur primo intellectus aliqua 
+      <lb ed="#P" n="112"/>obiecta non distinguit per illud et secundum illud in quo tamquam 
+      <lb ed="#P" n="113"/>in conceptum et ratione communi et indifferenti conue 
+      <lb ed="#P" n="114"/>niunt et conicant. ergo per illum intellectus non distinguit 
+      <lb ed="#P" n="115"/>sicut per conceptum specificum non distinguit inter 
+      indi<lb ed="#P" n="116" break="no"/>uidua eiusdem speciei: nec per conceptum generis inter 
+      <lb ed="#P" n="117"/>species eiusdem generis. conceptus enim communis est con 
+      <lb ed="#P" n="118"/>ceptus conuenientie non discouenientie nec distinctio 
+      <lb ed="#P" n="119"/>nis: sed conceptus vnus et simplex respectu duorum ob 
+      <lb ed="#P" n="120"/>iectorum est conceptus communis vtrique et in illo 
+      con<lb ed="#P" n="121" break="no"/>ueniunt et conicant. ergo per illum intellectus non distin 
+      <lb ed="#P" n="122"/>guit nec distincte cognoscit huiusmodi obiecta.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1058">
+      ¶ Con 
+      <lb ed="#P" n="123"/>firmatur. intellectus non apprehendit formaliter 
+      conue<lb ed="#P" n="124" break="no"/>nientiam aliquorum nisi per aliquem conceptum communem 
+      <lb ed="#P" n="125"/>vtrique et hec causa praecisa est apprehendendi conuenien 
+      <lb ed="#P" n="126"/>tiam. igitur econtra non apprehendit formaliter 
+      differen<lb ed="#P" n="127" break="no"/>tiam et distinctionem aliquorum per conceptum indifferen 
+      <lb ed="#P" n="128"/>ter communem vtrique / sed tantum per proprios et distinctos.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1074">
+      ¶ Con 
+      <lb ed="#P" n="129"/>firmatur. sequitur quod idem actus erit obiectorum quorumdam 
+      <lb ed="#P" n="130"/>notitia distincta et notitia indistincta. quia per illum actum 
+      <lb ed="#P" n="131"/>relatiuum intellectus formaliter distinguit illa obitecta. ergo est 
+      <lb ed="#P" n="132"/>notitia distincta illorum: sed ille actus est notitia vna et 
+      <!--42.xml-->
+      <pb ed="#P" n="16-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>eadem respectu illorum. ergo est notitia indistincta illo 
+      <lb ed="#P" n="2"/>rum.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1096">
+      ¶ Confirmatur. aliqua notitia absoluta 
+      distin<lb ed="#P" n="3" break="no"/>cta et indiuidualis huius rei est propria repraesentatio huius 
+      <lb ed="#P" n="4"/>rei. ergo omnis notitia distincta formaliter huius rei est propria 
+      <lb ed="#P" n="5"/>huic rei. Sed notitia comparatima aliquae huius rei est formaliter 
+      <lb ed="#P" n="6"/>distinctia huius rei ab alia re: igitur principalis consequentia patet. 
+      <lb ed="#P" n="7"/>quia non minus est propria repraesentatio huius notitia distin 
+      <lb ed="#P" n="8"/>ctiua quam notitia distincta: sed propria repraesentatio huius 
+      <lb ed="#P" n="9"/>non est communis huic et alii. igitur. Secundo probatur minor 
+      <lb ed="#P" n="10"/>principalis eo modo cognoscuntur et apparent aliqua 
+      <lb ed="#P" n="11"/>obiecta apud intellectum quomodo repraesentantur et relucent in 
+      <lb ed="#P" n="12"/>actu et per actum intellectus: sed per. c. actum et in c. actu 
+      <lb ed="#P" n="13"/>comparatiuo si sit vnus et simplex respectu amborum 
+      <lb ed="#P" n="14"/>repraesentantur et relucent indistincte et vt vnum ambo 
+      <lb ed="#P" n="15"/>extrema. probo. quia eodem modo repraesentantur et relucent in actu 
+      <lb ed="#P" n="16"/>quo modo ille actus ea repraesentat et significat: sed si actus est 
+      <lb ed="#P" n="17"/>vnus et indistinctus repntat illa vt signum vnum et indistin 
+      <lb ed="#P" n="18"/>ctum. igitur indistincte quacumque igitur concipiuntur et 
+      ap<lb ed="#P" n="19" break="no"/>parent vnico et indistincto conceptu illa vt sic conci 
+      <lb ed="#P" n="20"/>piuntur et apparent vt vnum et indistincte.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1138">
+      ¶ Confirma 
+      <lb ed="#P" n="21"/>tur. intellectus obiecta exemplata et repraesentata non 
+      di<lb ed="#P" n="22" break="no"/>stinguit per illam ymaginem vel per illud exemplar in quo 
+      <lb ed="#P" n="23"/>assimilantur et quod est naturalis similitudo vtriusque 
+      indi<lb ed="#P" n="24" break="no"/>stincte et vniformiter. patet. si enim duobus corporibus cor 
+      <lb ed="#P" n="25"/>responderet in speculo vnica et eadem ymago / in 
+      qua<lb ed="#P" n="26" break="no"/>conuenirent illa corpora et que secundum quodlibet sui eque 
+      <lb ed="#P" n="27"/>liter et indifferenter repraesentaret vtrunque numquam aliquis 
+      <lb ed="#P" n="28"/>distingueret huiusmodi obiecta per huiusmoi ymaginem. Ter 
+      <lb ed="#P" n="29"/>tio potentia cognoscens et distinguens aliquae obiecta non 
+      <lb ed="#P" n="30"/>immediate per suam essentiam nec immediate per essentias 
+      <lb ed="#P" n="31"/>llorum obiectorum: sed tantum mediantibus actibus suis 
+      for<lb ed="#P" n="32" break="no"/>maliter non distinguit nec cognoscit nisi secundum quali 
+      <lb ed="#P" n="33"/>tatem et differentiam illorum actuum. igitur si actus est vnus 
+      <lb ed="#P" n="34"/>et indistinctus cognoscit illa vt vnum et indistincte.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1172">
+      ¶ Con 
+      <lb ed="#P" n="35"/>firmatur. qualis est actus cognoscendi taliter 
+      deno<lb ed="#P" n="36" break="no"/>minatur intellectus per illum formaliter cognoscere et 
+      <lb ed="#P" n="37"/>taliter denominatur obiectum cognitum secundum illum. igitur 
+      <lb ed="#P" n="38"/>si actus est in se vnus et indistinctus respectu amborum 
+      <lb ed="#P" n="39"/>extremorum comparatorum potentia cognoscit illa vt vnum 
+      <lb ed="#P" n="40"/>et indistincte. antecedens patet. quia potentia non cognoscit per 
+      <lb ed="#P" n="41"/>suam essentiam immediate nec per essentias obiectorum: sed 
+      <lb ed="#P" n="42"/>precise per actus medios. ergo qualis est actus secundum 
+      <lb ed="#P" n="43"/>quem potentia fertur in obiectum taliter fertur 
+      poten<lb ed="#P" n="44" break="no"/>tia in illud obiectum et denominatur secundum conditionem illius 
+      <lb ed="#P" n="45"/>actus. patet iterum antecedens inducendo. ideo enim obiectum dicitur 
+      <lb ed="#P" n="46"/>videri. quia eius actus est visio et de auditione et intelle 
+      <lb ed="#P" n="47"/>ctione / visione. et ideo dicitur intense cognosci. quia act 
+      <lb ed="#P" n="48"/>est intensus. 4o que apprehenduntur sub alia et alia 
+      <lb ed="#P" n="49"/>ratione illa vt sic apprehenduntur distinctis conceptibus et 
+      <lb ed="#P" n="50"/>actibus: sed quae apprehenduntur comparatiue vt hoc distinctum 
+      <lb ed="#P" n="51"/>ab illo vel maius illo: illa vt sic apprehenduntur sub 
+      <lb ed="#P" n="52"/>alia et alia ratione.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1214">
+               <lb ed="#P" n="53"/>Secundum principaliter contra conclusiones 
+      po<lb ed="#P" n="54" break="no"/>sitas. intellectus comparat aliqua in 
+      <lb ed="#P" n="55"/>telligibilia que in nullo conceptu simplici conueniunt. 
+      <lb ed="#P" n="56"/>igitur conceptus comparatiuus non est vnus simplex respe 
+      <lb ed="#P" n="57"/>ctu extremorum comparatorum. antecedens probatur. quia habitus et 
+      <lb ed="#P" n="58"/>priuatio et contradictoria. puta esse et non esse / et aliquid 
+      <lb ed="#P" n="59"/>et omnino nihil non conueniunt in aliquo vno conceptu. li 
+      <lb ed="#P" n="60"/>cet enim aliqui ponant hoc de ente respectu omnium que 
+      <lb ed="#P" n="61"/>sunt substantie et accidentia. non tamen respectu entis et 
+      <lb ed="#P" n="62"/>respectu omnio nihil et figmentorum impossibilium.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1238">
+      ¶ Con 
+      <lb ed="#P" n="63"/>firmatur. sequitur quod ea quae ex suis rationibus formalibus 
+      <lb ed="#P" n="64"/>sibi contradicunt. et quorum ratio vnius destruit rationem 
+      <lb ed="#P" n="65"/>alterius non solum couenirent in aliquo per se vno con 
+      <lb ed="#P" n="66"/>ceptu et ratione. immo in conceptu et ratione distinctiua 
+      <!--42.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>cuiuslibet patet. quia intellectus potest comparare ens / et non 
+      <lb ed="#P" n="68"/>ens / et diuisibile et indiuisibile / et ille conceptus compa 
+      <lb ed="#P" n="69"/>ratiuus erit ratio distinctima cuiuslibet.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1260">
+      ¶ Confirmatur 
+      <lb ed="#P" n="70"/>obiecta primo et totaliter diuersa et summe differentia et dissimi 
+      <lb ed="#P" n="71"/>lia non possuut distincte vnico eodem actu simplici 
+      fi<lb ed="#P" n="72" break="no"/>nito repraesentari: sed contingit aliqua talia comparari. igitur 
+      <lb ed="#P" n="73"/>minor patet. quia resoluendo ad prima distinctiua erit de 
+      <lb ed="#P" n="74"/>uenire ad summe distincta et poterunt comparari. maior 
+      <lb ed="#P" n="75"/>patet. quia actus est naturalis similitudo obiecti actualis et expressa 
+      <lb ed="#P" n="76"/>secundum <ref xml:id="D78nca-de8838-Rd1e1277">Augu. 13. de tri.</ref> et secundum Arist. 3. de anima. conueniunt 
+      <lb ed="#P" n="77"/>n hoc antiqui quod cognitio fit in anima per quandam assi 
+      <lb ed="#P" n="78"/>milationem anime ad res / sed rerum summe dissimilium non est 
+      <lb ed="#P" n="79"/>vnica omnino eadem similitudo naturalis. tum quia essent 
+      si<lb ed="#P" n="80" break="no"/>miles inter se quia similes eidem. 3o. tum quia quanto aliqua 
+      <lb ed="#P" n="81"/>sunt minus similia vel magis dissimilia et disconue 
+      <lb ed="#P" n="82"/>nientia: tanto minus sunt similes eorum ymagines et repraesenta 
+      <lb ed="#P" n="83"/>tiones similitudines naturales. ergo totaliter et summe 
+      dissi<lb ed="#P" n="84" break="no"/>milia in nulla vna naturali similitudine communicant et 
+      <lb ed="#P" n="85"/>conueniunt.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1300">
+      ¶ Confirmatur. talium summe dissimilium non 
+      <lb ed="#P" n="86"/>sunt similitudines eiusdem rationis solo numero 
+      diffe<lb ed="#P" n="87" break="no"/>rentes. ergo multo minus vnica eadem numero.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1307">
+      ¶ 
+      Ter<lb ed="#P" n="88" break="no"/>tio principaliter. sequitur quod quelibet res nata sit causare 
+      <lb ed="#P" n="89"/>in anima notitiam distinctam et distinctiuam cuiuslibet alte 
+      <lb ed="#P" n="90"/>rius rei. consequentia patet. quia quelibet res nata est per 
+      intelle<lb ed="#P" n="91" break="no"/>ctum cuiuslibet rei comparari. Si autem concipitur vnico actu 
+      <lb ed="#P" n="92"/>distinctiuo vtriusque extremi ille conceptus causabitur 
+      <lb ed="#P" n="93"/>ab extremis. quia non magis ab vno quam ab alio. falsitas 
+      <lb ed="#P" n="94"/>consequentis probatur. tum quia primo phisi. non quodlibet natum 
+      <lb ed="#P" n="95"/>est agere in quodlibet vel pati a quolibet. igitur. pari 
+      <lb ed="#P" n="96"/>ratione non quodlibet natum est agere naturalem ymagi 
+      <lb ed="#P" n="97"/>nem et similitudinem cuiuslibet. tum quia vna res non 
+      <lb ed="#P" n="98"/>generat naturaliter ymaginem corporalem alterius rei: et 
+      <lb ed="#P" n="99"/>go nec spumalem que expressior est.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1337">
+      ¶ Confirmatur. que 
+      <lb ed="#P" n="100"/>libet res posset in infinitos effectus alterius rationis 
+      <lb ed="#P" n="101"/>quia potest comparari infinitis alterius rationis. 
+      <lb ed="#P" n="102"/>Quarto sequitur quod vnico actu finito possunt omnia etiam 
+      <lb ed="#P" n="103"/>infinita distincte cognosci ab intellectu nostro. probatur 
+      <lb ed="#P" n="104"/>cosequentia. quia si duo possunt distincte repraesentari vnico actu 
+      <lb ed="#P" n="105"/>pari ratione et tria et sic sine fine. Non enim est maior repu 
+      <lb ed="#P" n="106"/>gnantia plurium quam paucorum / et trium / quam duorum / et quia si 
+      sun<lb ed="#P" n="107" break="no"/>me dissimilia et disconuenientia / possunt vnico actu 
+      <lb ed="#P" n="108"/>simplici distincte repraesentari. ergo quecumque alia minus 
+      <lb ed="#P" n="109"/>dissimilia. falsitas consequentis probatur. quia talis actus esset 
+      <lb ed="#P" n="110"/>infinitus. quia equiualeret in repraesentado infinitis noti 
+      <lb ed="#P" n="111"/>tiis propriis et distinctis illorum infinitorum obiectorum. 
+      <lb ed="#P" n="112"/>etiam hoc argueret potentiam infinitam. pauca enim 
+      possu<lb ed="#P" n="113" break="no"/>mus cognoscere simul distincte et attentio anime circa 
+      <lb ed="#P" n="114"/>vnum distincte impedit animam attendere distincte 
+      cira<lb ed="#P" n="115" break="no"/>ca aliud.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1374">
+      ¶ Quinto principaliter. sequitur quod respectu cu 
+      <lb ed="#P" n="116"/>iuslibet obiective intelligibilis haberemus conceptu proprium di 
+      <lb ed="#P" n="117"/>stinctum compositum respectu illius possemus habere conceptum 
+      <lb ed="#P" n="118"/>poprium simplicem. consequentia patet. quia possumus comparare illud sibi 
+      <lb ed="#P" n="119"/>vel alteri. falsitas consequentis probatur. Primo. quia de deo 
+      <lb ed="#P" n="120"/>non habemus conceptum proprium distinctum simplicem: sed 
+      <lb ed="#P" n="121"/>tantum compositum ex pluribus communibus qui simul menti 
+      <lb ed="#P" n="122"/>reddunt vnum aggregatum proprium deo: vt dicendo ens 
+      <lb ed="#P" n="123"/>primum infinitum patet. quia talem conceptum proprium et distinctum 
+      <lb ed="#P" n="124"/>simplicem non haemus de his quae non cognoscuntur nisi post 
+      <lb ed="#P" n="125"/>discursum et non intuitiue immediate. Secundo quia cecus posi 
+      <lb ed="#P" n="126"/>set habere naturaliter notitias simplices proprias et di 
+      <lb ed="#P" n="127"/>stinctas coloris. probo. quia potest habere conceptum proprium 
+      <lb ed="#P" n="128"/>compositum. potest enim habere conceptum compositum correspon 
+      <lb ed="#P" n="129"/>dentem isti ofoni sensibile aliud ab audibili / gustabili 
+      <lb ed="#P" n="130"/>tangibili / et olfactibili: cuilibet enim parti huius oratio 
+      <lb ed="#P" n="131"/>nis conceptum correspondentem potest habere / vel huic orato 
+      <lb ed="#P" n="132"/>ni sensibile a sensu qui tibi deest. et consequeter posset ha¬ 
+      <!--43.xml-->
+      <pb ed="#P" n="16-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bere conceptum proprium albedinis simplicem. quia potest ha 
+      <lb ed="#P" n="2"/>bere compositum dicendo nobilissimum visibile. quod est 
+      <lb ed="#P" n="3"/>qualitas opaci terminati. et per consequens habere potest 
+      sim<lb ed="#P" n="4" break="no"/>plicem conceptum proprium lucis vel luminis. quia potest ha 
+      <lb ed="#P" n="5"/>bere conceptum correspondentem isti ofoni sensibile a sen 
+      <lb ed="#P" n="6"/>su. qui tibi deest causatum in medio existente in pura 
+      pri<lb ed="#P" n="7" break="no"/>uatione ad illud eodem modo posset habere conceptum 
+      <lb ed="#P" n="8"/>proprium simplicem solis vel saturni. Tertio figmentorum 
+      <lb ed="#P" n="9"/>habemus conceptus proprios compositos sed non 
+      sim<lb ed="#P" n="10" break="no"/>plices probo. tum quia iam non esset conceptus figmenti impos 
+      <lb ed="#P" n="11"/>sibilis. ideo enim dicitur conceptus figmenti et ratio in 
+      <lb ed="#P" n="12"/>se falsa. quia componitur ex conceptibus sibi repugnan 
+      <lb ed="#P" n="13"/>tibus. quorum vnus non potest verificari de altero. conce 
+      <lb ed="#P" n="14"/>ptus etiam simplex non est nisi obiecti possibilis. 
+      alio<lb ed="#P" n="15" break="no"/>quin primi actus possent esse respectu impossibilium 
+      <lb ed="#P" n="16"/>tum quia figmenta essent per se in genere. quia haberent com 
+      <lb ed="#P" n="17"/>ceptus simplices distincte repraesentantes et coceptus superio 
+      <lb ed="#P" n="18"/>res simplices et consequeter eorum per se esset diffinitio. quia con 
+      <lb ed="#P" n="19"/>ceptui simplici posset correspondere conceptus compositus exi 
+      <lb ed="#P" n="20"/>plicitus.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1463">
+      ¶ Sexto principaliter. sequitur quod idem actus erit 
+      <lb ed="#P" n="21"/>simul notitia intuitiua et abstractiua eiusdem 
+      obie<lb ed="#P" n="22" break="no"/>cti. probo. quia intellectus potest albedinem nunc visam 
+      <lb ed="#P" n="23"/>comparare albedini eidem heri vise dicendo hec albedo 
+      <lb ed="#P" n="24"/>est eadem albedini heri vise et obiectum nunc visum compa 
+      <lb ed="#P" n="25"/>rare obiecto heri viso: sed notitia obiecti / vt prius 
+      <lb ed="#P" n="26"/>vise est abstractiua. quia est recordatiua. quia est 
+      pre<lb ed="#P" n="27" break="no"/>teriti vt preteritum est.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1481">
+      ¶ Septimo principaliter cum intel 
+      <lb ed="#P" n="28"/>lectus comparat aliquid sibiipsi huiusmodi conceptus comparatiuus et re 
+      <lb ed="#P" n="29"/>latiuus non est simplex. ergo nec dum comparat aliquid 
+      <lb ed="#P" n="30"/>alteri pari ratione. antecedens probatur primo. quia secundum Aristo. 
+      <lb ed="#P" n="31"/>5. metha. intellectus vtitur tunc vno vt duobus seu 
+      <lb ed="#P" n="32"/>pluribus: sed hec pluralitas non est in re obiectiue. er 
+      <lb ed="#P" n="33"/>go in intellectu est pluralitas actuum eiusdem obiecti 
+      <lb ed="#P" n="34"/>secundum quos intellectus comparat formaliter / vel comparat 
+      <lb ed="#P" n="35"/>secundum aliquid bis repetitum / et replicatum / seu 
+      reitera<lb ed="#P" n="36" break="no"/>tum. Secundo idem conceptus significaret omnino idem obie 
+      <lb ed="#P" n="37"/>ctum sub modis oppositis. puta in recto et in 
+      obli<lb ed="#P" n="38" break="no"/>quo primo et principaliter / secundario et minus principaliter 
+      <lb ed="#P" n="39"/>directe et indirecte. Tertio talis conceptus erit eiusdem 
+      <lb ed="#P" n="40"/>rationis cum proprio et absoluto conceptu illius rei. igitur 
+      <lb ed="#P" n="41"/>erit absolutus non comparatiuus. antecedens probatur. quia sunt 
+      <lb ed="#P" n="42"/>conceptus simplices proprii et distincti eiusdem obiecti / 
+      <lb ed="#P" n="43"/>idem omnino et adequate repraesentantes / nec vnus significai 
+      <lb ed="#P" n="44"/>aliquid primario / vel secundario. quin alter significet idem 
+      <lb ed="#P" n="45"/>eque primo vel secundario. Quarto ille conceptus compara 
+      <lb ed="#P" n="46"/>tiuus erit notitia propria et distincta huius rei et simul 
+      <lb ed="#P" n="47"/>erit notitia communis et indistincta eiusdem rei. 
+      Pri<lb ed="#P" n="48" break="no"/>ma pars probatur. quia per illum demonstratur hec res. Se 
+      <lb ed="#P" n="49"/>cunda pars probatur. quia equiualet in significando huid 
+      <lb ed="#P" n="50"/>otoni hoc idem sibiipsi. igitur equiualenter continet con 
+      <lb ed="#P" n="51"/>ceptum identitatis: sed conceptus identitans est 
+      con<lb ed="#P" n="52" break="no"/>munis huic rei. quia quelibet res est eadem sibi ipsi. 
+    </p>
+            <p xml:id="D78nca-de8838-d1e1538">
+               <lb ed="#P" n="53"/>¶ Octauo principaliter. Conceptus comparatiuus 
+      <lb ed="#P" n="54"/>et relatiuus obiecti infiniti et increati non est 
+      for<lb ed="#P" n="55" break="no"/>maliter cognitio vtriusque extremi comparati: sed 
+      <lb ed="#P" n="56"/>alterius tantum. ergo pari ratione conceptus coparatiuus  
+      <lb ed="#P" n="57"/>obiecti creati. antecedens probatur. quia conceptus per se proprius 
+      <lb ed="#P" n="58"/>prime persone in diuinis. puta poatris / est conceptus non 
+      <lb ed="#P" n="59"/>absolutus / sed relatiuus. quia prima persona constituitur 
+      <lb ed="#P" n="60"/>per se et primo in esse talis persone et talis suppositi per 
+      <lb ed="#P" n="61"/>relatione et proprietatem relatiuam: sed ille conceptus non 
+      <lb ed="#P" n="62"/>est formaliter cognitio secunde persone puta filii. probo 
+      <lb ed="#P" n="63"/>quia omnis res distincta realiter ab alia / nata est concipi ali 
+      <lb ed="#P" n="64"/>quo conceptu sibi proprio et indiuiduali. 2o. quia intelle 
+      <lb ed="#P" n="65"/>ctus noster distinguens vnam rem ab alia potest habere con 
+      <lb ed="#P" n="66"/>ceptum proprium illius rei / in quo non communicat cum alia 
+      <!--43.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>re. alioquin non habet medium quo neget illam rem ab alia 
+      <lb ed="#P" n="68"/>dices quod ille conceptus est proprius prime persone in 
+      sup<lb ed="#P" n="69" break="no"/>ponendo / non in significando et exhibendo obiectiue 
+      <lb ed="#P" n="70"/>per se.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1584">
+      ¶ Contra. si ille conceptus non minus 
+      signi<lb ed="#P" n="71" break="no"/>ficat hanc rem quam illam. ergo intellectus non minus conter 
+      <lb ed="#P" n="72"/>potest vti illo conceptu pro hac re quam pro illa. ergo non 
+      mi<lb ed="#P" n="73" break="no"/>nus potest ille conceptus supponere pro ista quam pro illa vt 
+      <lb ed="#P" n="74"/>infra deducetur.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1596">
+      ¶ Confirmatur. cum dico quod huiusmodi conce 
+      <lb ed="#P" n="75"/>ptus. licet significet vtranque personam. tamen supponit 
+      <lb ed="#P" n="76"/>tantum pro prima persona non producta. tunc quero / aut 
+      <lb ed="#P" n="77"/>conceptus correspondens huic ofoni. prima persona non 
+      <lb ed="#P" n="78"/>est producta exhibet obiectiue vnam solam personam et 
+      <lb ed="#P" n="79"/>habetur propositum. aut vtramque. ergo non magis signi 
+      <lb ed="#P" n="80"/>ficas et demonstras mihi quod supponat pro hac quam pro 
+      il<lb ed="#P" n="81" break="no"/>la nec magis mihi demonstras distincte vnam personam 
+      <lb ed="#P" n="82"/>per secundam partem dicti tui quam per primam partem. videtur 
+      <lb ed="#P" n="83"/>igitur quod apud intellectum non potest demonstrari et 
+      signi<lb ed="#P" n="84" break="no"/>ficari quod supponat pro hac persona tantum. et non pro alia  
+      <lb ed="#P" n="85"/>nisi habeatur aliquis conceptus proprius istius et non 
+      <lb ed="#P" n="86"/>llius in repraesentando et ex hibendo. 
+    </p>
+            <p xml:id="D78nca-de8838-d1e1625">
+               <lb ed="#P" n="87"/>¶ Nono principaliter. sequitur quod in relatiuis 
+      disqui<lb ed="#P" n="88" break="no"/>parantie vniuersaliter vnum verificatur de altero. 
+      <lb ed="#P" n="89"/>pater est filius et totum est pars et duplum est dimidium 
+      <lb ed="#P" n="90"/>et consequeter de quocumque verificatur vnum et reliquum. et 
+      quic<lb ed="#P" n="91" break="no"/>quid verificatur de vno et de reliquo. probo. quia vtrunque 
+      <lb ed="#P" n="92"/>significat praecise et adequate eadem et eodem modo. 
+      pu<lb ed="#P" n="93" break="no"/>ta vtrumque extremum et vnum in habitudine ad reliquum 
+      <lb ed="#P" n="94"/>Si autem aliquod praedicatum verificabitur de aliquo subie 
+      <lb ed="#P" n="95"/>cto / non pro se / sed pro suo significato. pari ratione erit 
+      ve<lb ed="#P" n="96" break="no"/>ritas si loco vnius ponatur alius terminus significans 
+      <lb ed="#P" n="97"/>idem omnino et adequate.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1651">
+      ¶ Confirmatur. vel huiusmodi conce 
+      <lb ed="#P" n="98"/>ptus relatiuus significat illa duo comparata collecti 
+      <lb ed="#P" n="99"/>le / aut diuisim. si primum ergo non vere praedicabitur de 
+      <lb ed="#P" n="100"/>altero / sed tantum pro aggregato ex ambobus. si secundum. igitur 
+      <lb ed="#P" n="101"/>verificabitur de quolibet.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1662">
+      ¶ Decimo. sequitur quod conce 
+      <lb ed="#P" n="102"/>ptus relatiuorum disquiparantie vt dupli et dimidii essent 
+      <lb ed="#P" n="103"/>omnino idem conceptus vel eiusdem rationis. consequens est falsum 
+      <lb ed="#P" n="104"/>quia duplum et dimidium essent termini sinonimi / et vnum 
+      <lb ed="#P" n="105"/>verificaretur personaliter de altero. probatur. quia essent 
+      no<lb ed="#P" n="106" break="no"/>titie eorundem obiectorum praecise et adequate et eque 
+      di<lb ed="#P" n="107" break="no"/>stincte et vniformiter. quia quodlibet significat hoc in 
+      <lb ed="#P" n="108"/>habitudine ad illud et illud in habitudine ad hoc. quia 
+      <lb ed="#P" n="109"/>non significabit hoc vel illud ad se et absolute. Item 
+      <lb ed="#P" n="110"/>ad hoc possunt adduci quedam que tangebantur ad 
+      <lb ed="#P" n="111"/>probationem secunde conclusionis. quia si conceptus patris / et 
+      <lb ed="#P" n="112"/>conceptus filii / sunt conceptus alterius rationis. ergo si 
+      <lb ed="#P" n="113"/>ne contradictione potest deus ponere alterum sine altero 
+      <lb ed="#P" n="114"/>ergopossibile esset concipi patrem vt poatrem et sub ratione 
+      <lb ed="#P" n="115"/>paternitatis non concipiedo filium. quod est impossibi 
+      <lb ed="#P" n="116"/>le. quia si concipitur pater vt pliter et sub ratione paternitatis. er 
+      <lb ed="#P" n="117"/>go in respectu et habitudine ad alterum vt ad filium. 
+      <lb ed="#P" n="118"/>ergo concipitur filius.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1701">
+      ¶ Confirmatur. quia etiam natura 
+      <lb ed="#P" n="119"/>liter posset haberi conceptus vnius relatiui non habi 
+      <lb ed="#P" n="120"/>to conceptu correlatiui. probo. quia hoc non causabitur 
+      <lb ed="#P" n="121"/>ab illo. quia pari ratione ille causaretur ab isto: et sic esset cir 
+      <lb ed="#P" n="122"/>culus in causalitate et dependentia affectiua.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1712">
+      ¶ 
+      Un<lb ed="#P" n="123" break="no"/>decimo sequitur quod correlatiuum erit de per se et primario 
+      <lb ed="#P" n="124"/>conceptu diffinitiui relatiuo nec ponetur in 
+      diffi<lb ed="#P" n="125" break="no"/>nitione relatiui vt additamentum extrinsecum: sed vt 
+      <lb ed="#P" n="126"/>inclusum in ratione formali quantitatiua et per se primo 
+      <lb ed="#P" n="127"/>modo sibi conueniens. consequentia probatur. quia illud partinet 
+      in<lb ed="#P" n="128" break="no"/>trinsece et quidditatiue ad diffinitionem formalem ali 
+      <lb ed="#P" n="129"/>cuius diffiniti quod formaliter includitur in sua significatione vel eius 
+      <lb ed="#P" n="130"/>significato. falsitas consequentis probatur. tum quia opponuntur 
+      <lb ed="#P" n="131"/>est enim quoddam genus oppositionis relatiue super quod 
+      <lb ed="#P" n="132"/>fundatur quidam locus dyalecticus: sed vnum oppositum 
+      <!--44.xml-->
+      <pb ed="#P" n="17-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non est de per se formali / et quidditatiua ratione al 
+      <lb ed="#P" n="2"/>terius oppositi. multo enim minus quam disparatum: quia 
+      <lb ed="#P" n="3"/>due species immediate sub eodem genetur et non subalter 
+      <lb ed="#P" n="4"/>natim posite non includunt se inuicem quidditatiue 
+      diffini<lb ed="#P" n="5" break="no"/>tiue: sicut nec differentie immediate diuisiue generis: 
+      <lb ed="#P" n="6"/>tum quia etiam non est circulus in diffinitione 
+      quiddi<lb ed="#P" n="7" break="no"/>tatiua / et praedicatione primi modi secundum Aristo 
+      <lb ed="#P" n="8"/>telem primo posteriorum: tum quia non ponitur vt genus 
+      <lb ed="#P" n="9"/>nec vt differentia.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1763">
+      ¶ Confirmatur. Sequitur quod vnum 
+      <lb ed="#P" n="10"/>relatiuum non est ponendum in diffinitione alterius. 
+      <lb ed="#P" n="11"/>Consequens est falsum: quia vnum posset diffinitiue 
+      <lb ed="#P" n="12"/>cognosci altero non cognito contra philosophum et porphirium 
+      <lb ed="#P" n="13"/>dicentes necesse est in vtrorumque diffinitionibus vtrisque rationi 
+      <lb ed="#P" n="14"/>pus vti. consequentia probatur quia in tali diffinitione esset nugatio 
+      <lb ed="#P" n="15"/>et patet si loco termini ponatur sua ratio: et quia per conceptum 
+      <lb ed="#P" n="16"/>diffiniti significatur eque distincte vtrumque extre mum sicut 
+      <lb ed="#P" n="17"/>per aliud correlatiuum: ergo frustra ponitur in diffinitione 
+      <lb ed="#P" n="18"/>correlatiuum: quia non est nisi repetitio eiusdem obiecti eque 
+      <lb ed="#P" n="19"/>distincte.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1787">
+      ¶ Tiius. principaliter sequitur quod est nugatio dice 
+      <lb ed="#P" n="20"/>re duplum dimidii / et pater filii. probo primo si loco ter 
+      <lb ed="#P" n="21"/>mini ponatur sua descriptio formalis: et quia alter 
+      ter<lb ed="#P" n="22" break="no"/>minus solus significat eque distincte quicquid significat talis 
+      <lb ed="#P" n="23"/>oratio / vel terminus sibi additus: igitur inconuenienter et 
+      <lb ed="#P" n="24"/>nugatorie post duplum additur terminus dimidii / aut 
+      <lb ed="#P" n="25"/>iterum illi orationi duplum dimidii addetur conuenientur ter 
+      <lb ed="#P" n="26"/>minus dimidii: sicut additurratio dupli: quia eadem eque 
+      <lb ed="#P" n="27"/>distincte significat terminus huiusmodi / et oratio illa: et sic in infini 
+      <lb ed="#P" n="28"/>tum contiget fieri additionem et sicut dicit aristotr. primo 
+      <lb ed="#P" n="29"/>elenchorum ducere ad nugationem. Item arist. 2o 
+      elen<lb ed="#P" n="30" break="no"/>chorum dicitur quod non est idem dicere quod ipsa relatiua coniuncta. 
+      <lb ed="#P" n="31"/>et separata: quod tamen esset si conceptus relatiuus 
+      <lb ed="#P" n="32"/>esset vtriusque obiecti comparati. 
+      <lb ed="#P" n="33"/> per idem argiter quod deus non intelligit 
+      <lb ed="#P" n="34"/>Ad primum distincte creaturas. negetur 
+      ma<lb ed="#P" n="35" break="no"/>ior. Ad primam probationem intellectum distinguere 
+      obie<lb ed="#P" n="36" break="no"/>cta per aliquid: et secundum aliquid intelligitur dupliciter 
+      <lb ed="#P" n="37"/>vel vt ly per denotat formam secundum quam intellectus 
+      <lb ed="#P" n="38"/>formaliter est distinguens: sicut per intellectionem est 
+      intel<lb ed="#P" n="39" break="no"/>ligens. Alio modo vt notat modum inferendi / et arguen 
+      <lb ed="#P" n="40"/>di distinctionem: et vt notat conditionem distinctiuam et 
+      ap<lb ed="#P" n="41" break="no"/>propriatam vni illorum. Item aliquem conceptum esse commu 
+      <lb ed="#P" n="42"/>nem respectu plurium obiectorum potest intelligi dupliciter: vel 
+      <lb ed="#P" n="43"/>large per concursum / et vnitatem signi et repraesentationis pre 
+      <lb ed="#P" n="44"/>cise: sicut diuina intellectio est communis noticia omnis / vel pro 
+      <lb ed="#P" n="45"/>prie per vnitatem et indifferentiam tam significationis quam 
+      prae<lb ed="#P" n="46" break="no"/>dicationis / et suppositionis proprie sumpte. Primo mo 
+      <lb ed="#P" n="47"/>do negatur maior: quia deus non distingueret aliqua obie 
+      <lb ed="#P" n="48"/>cta. Secundo modo negatur minor. talis enim conceptus / vel 
+      <lb ed="#P" n="49"/>terminus ei correspondens non est natus predicari et sup 
+      <lb ed="#P" n="50"/>ponere indifferenter / et vniformiter pro quolibet illorum 
+      <lb ed="#P" n="51"/>comparatorum: sicut nec ipsa oratio ens pater filii non supponit 
+      <lb ed="#P" n="52"/>vel praedicatur proprie nisi pro patere / licet significet forma 
+      <lb ed="#P" n="53"/>liter illud quod est filius. Huiusmodi igitur 
+      praedica<lb ed="#P" n="54" break="no"/>bile relatiuum non vniformiter / nec eque primo / et di 
+      <lb ed="#P" n="55"/>recte significat vtrunque.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1868">
+      ¶ Ad confirmationem 
+      ne<lb ed="#P" n="56" break="no"/>getur consequentia specialiter accipiendo in consequen 
+      <lb ed="#P" n="57"/>te apprehendere distinctionem per aliquod vt per 
+      for<lb ed="#P" n="58" break="no"/>mam secundum quam est apprehendens et non 
+      formali<lb ed="#P" n="59" break="no"/>ter vt per medium inferendi distinctionem vel vt conditio 
+      <lb ed="#P" n="60"/>nem appropriatam.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1881">
+      ¶ Ad aliam confirmationem negetur 
+      com<lb ed="#P" n="61" break="no"/>sequentia accipiendo distinctum / et indeterminatum: vt sibi 
+      op<lb ed="#P" n="62" break="no"/>ponantur. Ad probationem dicendum quod ille actus pro 
+      <lb ed="#P" n="63"/>prie loquendo est noticia eorum distincta: quia per illam 
+      <lb ed="#P" n="64"/>formaliter / vel virtualiter potest intellectus 
+      distin<lb ed="#P" n="65" break="no"/>guere hoc ab illo: et non est proprie noticia eorum in 
+      <lb ed="#P" n="66"/>distincta: quia non confusa quasi generalis / vel speci 
+      <!--44.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>fica. potest tamen dici indistincta: quia illa eadem est hu 
+      <lb ed="#P" n="68"/>ius que illius sicut diuina noticia diceretur noticia 
+      <lb ed="#P" n="69"/>distincta / et indistincta respectu creaturarum: sed hoc 
+      <lb ed="#P" n="70"/>non est accipere distinctum / et indistinctum secundum ra 
+      <lb ed="#P" n="71"/>tiones oppositas / et repugnantes.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1912">
+      ¶ Ad aliam confir 
+      <lb ed="#P" n="72"/>mationem accipiendo noticiam propriam alicuius quae est 
+      <lb ed="#P" n="73"/>representatio illius non alterius. Negetur consequentia ymo 
+      <lb ed="#P" n="74"/>omnis noticia distinctiua aliquarum est communis vtrique secum 
+      <lb ed="#P" n="75"/>dum repraesentationem / et exhibitionem licet virtualiter 
+      <lb ed="#P" n="76"/>contineat proprias / et equiualeat illis. Ad secundam 
+      <lb ed="#P" n="77"/>probationem minoris: quia alius est formalis modus 
+      in<lb ed="#P" n="78" break="no"/>trinsecus ipsius cognitionis / et apparentie: et modus 
+      <lb ed="#P" n="79"/>obiectiue cognitus / et apparens. Ideo maior potest 
+      <lb ed="#P" n="80"/>tripliciter intelligi: quia vel notatur identitas / vel vni 
+      <lb ed="#P" n="81"/>formitas modi formalis et intrinseci ipsius 
+      cognitio<lb ed="#P" n="82" break="no"/>nis / et apparentie ad modum i ormalem / et intrinsecum 
+      <lb ed="#P" n="83"/>ipsius representationis et relucentie intellectualis 
+      <lb ed="#P" n="84"/>vel notatur identitas / seu vniformitas modi 
+      obie<lb ed="#P" n="85" break="no"/>ctiue cogniti et apparentis ad modum obiectiue relucem 
+      <lb ed="#P" n="86"/>tis et repraesentantis / vel notatur identitas vel vniforitas 
+      <lb ed="#P" n="87"/>modi obiectiue cogniti / et apparentis et indicati ad mo 
+      <lb ed="#P" n="88"/>dum formalem et intrinsecum ipsius actus representantis. 
+      <lb ed="#P" n="89"/>si I3o modo / maior est falsa: quia per actum spumalem et inextensum 
+      ap<lb ed="#P" n="90" break="no"/>paret esse aliquod corporale / et extensum et per actum 
+      <lb ed="#P" n="91"/>finitum corruptibile apparet aliquid esse infinitum vel 
+      <lb ed="#P" n="92"/>incorruptibile. Sed maior conceditur primo / et secundo mo 
+      <lb ed="#P" n="93"/>do / et cum dicitur in minori quod obiecta comparata repre 
+      <lb ed="#P" n="94"/>sentantur / et relucent in illo actu vt vnum et indistince di 
+      <lb ed="#P" n="95"/>tendum est si noteturmodus / seu vnitas / et indistinctio 
+      <lb ed="#P" n="96"/>obiectiue apparens / et representata negetur. Si vel 
+      <lb ed="#P" n="97"/>ro notetur vnitas / et indistinctio signi repraesentantis 
+      secun<lb ed="#P" n="98" break="no"/>dum illud quod est conceditur. Et ad probationem mi 
+      <lb ed="#P" n="99"/>noris distinguendum est vt de maiore.
+    </p>
+            <p xml:id="D78nca-de8838-d1e1975">
+      ¶ Ad 
+      confir<lb ed="#P" n="100" break="no"/>mationem procedit eque de apprehensione diuina. Di 
+      <lb ed="#P" n="101"/>cendum igitur quod intellectum distinguere aliqua 
+      obie<lb ed="#P" n="102" break="no"/>cta per aliquam ymaginem potest intelligi vt ly per no 
+      <lb ed="#P" n="103"/>tat causam formalem id est per formam secundum quam in 
+      <lb ed="#P" n="104"/>tellectus est formaliter distinguens / vel percipiens. di 
+      <lb ed="#P" n="105"/>stinctionem. Alio modo per illud tanquam per medium ex 
+      <lb ed="#P" n="106"/>trinsecum prius cognitum: ad quod comparatur aliud 
+      <lb ed="#P" n="107"/>Si primo modo negatur maior: quia licet sit 
+      dissimilitu<lb ed="#P" n="108" break="no"/>do obiectiue percepta: non tamen oportet ipsam esse 
+      <lb ed="#P" n="109"/>in actu perceptiuo distinctionis. probatio autem 
+      ma<lb ed="#P" n="110" break="no"/>ioris procedit in secundo intellectu non de eo secum 
+      <lb ed="#P" n="111"/>dum quod formaliter intellectus est cognoscens 
+      dissi<lb ed="#P" n="112" break="no"/>militudinem. sed de eo per quod tanquam per medium extrin 
+      <lb ed="#P" n="113"/>secum prius cognitum cognoscitur aliud comparatum 
+      <lb ed="#P" n="114"/>ad illud medium puta dicendo hoc est simile tali 
+      exen<lb ed="#P" n="115" break="no"/>lari: et non illud: et sic negatur quod per illum actum 
+      con<lb ed="#P" n="116" break="no"/>paratiuum cognoscatur isto modo distinctio 
+      obie<lb ed="#P" n="117" break="no"/>ctorum comparatorum / vel diceretur quod maior intel 
+      <lb ed="#P" n="118"/>ligitur de ymagine / et assimulatione secundum 
+      signifi<lb ed="#P" n="119" break="no"/>cationem / et conuenientiam qualitatum materialium 
+      <lb ed="#P" n="120"/>non de ymagine et representatione seu similitudine 
+      <lb ed="#P" n="121"/>que est formaliter exhibitio obiectiua vitalis. Ad  
+      <lb ed="#P" n="122"/>tertiam probationem maioris si intelligatur quod qualis ac 
+      <lb ed="#P" n="123"/>tus in se essentialiter / et formaliter taliter apparerent 
+      <lb ed="#P" n="124"/>et iudicarentur vel obiectiue apprehenduntur esse illa 
+      <lb ed="#P" n="125"/>ibiecta negatur ant ecedens. Si vero intelligatur 
+      <lb ed="#P" n="126"/>quod secundum formales differentias / et intrinsecas ac 
+      <lb ed="#P" n="127"/>tuum: intellectus est differenter aoprehendens forma 
+      <lb ed="#P" n="128"/>liter intrinsece conceditur antecedens: et negatur 
+      con<lb ed="#P" n="129" break="no"/>sequentia: quia apprehendere aliqua vt vnum et indistincte 
+      <lb ed="#P" n="130"/>non importat vnitatem et indistinctionem actus: sed obiecti 
+      ap<lb ed="#P" n="131" break="no"/>paretis / seu vnitatem et distinctionem obiectiue cogniti 
+      <lb ed="#P" n="132"/>et apparentis.
+    </p>
+            <p xml:id="D78nca-de8838-d1e2050">
+      ¶ Ad confirmationem conceditur 
+      <!--45.xml-->
+      <pb ed="#P" n="17-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quo ad denominationes conuenienter et debite sumptas 
+      <lb ed="#P" n="2"/>sed non secundum quaslibet denominationes sumptibiles 
+      ex<lb ed="#P" n="3" break="no"/>actibus maxime quando denominatio potentie vel obiecti cogni 
+      <lb ed="#P" n="4"/>mportaret aliud quam talem quaelitatem et conditionem actus: vt di 
+      <lb ed="#P" n="5"/>cendo: potentia cognoscit obiecta vt vnum et indistincte 
+      <lb ed="#P" n="6"/>Mec enim denominatio magis importat vnitatem obiectiue 
+      <lb ed="#P" n="7"/>apparentis et indistinctionem quam vnitatem actus qui est 
+      for<lb ed="#P" n="8" break="no"/>malis apparentia. Ad quartam probationem: accipiendo 
+      <lb ed="#P" n="9"/>rationem pro actu potentie rationalis negatur miuor quo 
+      <lb ed="#P" n="10"/>ad actum secundum quem formaliter intellectus distin 
+      <lb ed="#P" n="11"/>guit hoc ab illo vel intelligit hoc vt distinctum ab 
+      il<lb ed="#P" n="12" break="no"/>lo: licet antetecedenter etcausaliter praesupponantur in 
+      in<lb ed="#P" n="13" break="no"/>tellectu nostro actus distincti respectu illorum obiectorum 
+      <lb ed="#P" n="14"/>qui actus sunt causa actus comparatiui consequentis. Si vero 
+      <lb ed="#P" n="15"/>ratio accipitur pro conditione obiectiue cognita et apparemn 
+      <lb ed="#P" n="16"/>te negatur maior: nisi loquendo de distinctione actuum 
+      <lb ed="#P" n="17"/>praecedentium apprehensionem formaliter distinctiuam.
+    </p>
+            <p xml:id="D78nca-de8838-d1e2096">
+      ¶ Ad 
+      <lb ed="#P" n="18"/>secundum principale contra conclusiones negatur antecedens: ad 
+      <lb ed="#P" n="19"/>probationem eque probat: quod diuina cognitio non est vna 
+      re<lb ed="#P" n="20" break="no"/>spectu omnium intelligibilum. dicendum igitur: quod quamuis 
+      <lb ed="#P" n="21"/>ens et non ens non conueniunt in aliquo conceptu 
+      com<lb ed="#P" n="22" break="no"/>muni illis per suppositionem proprie dictam: et per 
+      prodicatio<lb ed="#P" n="23" break="no"/>nem de in esse et praesenti per modum actus et existentie: tamen 
+      pos<lb ed="#P" n="24" break="no"/>sunt sic conuenire: quod eodem coceptum apprehenditur tam 
+      <lb ed="#P" n="25"/>illud quod est quam illud quod non est: quia etiam conceptu spe 
+      <lb ed="#P" n="26"/>cifico apprehenduntur et repraesentantur: tam singularia que 
+      <lb ed="#P" n="27"/>extant quam illa quae non extant specialiter: aut hoc est possibi 
+      <lb ed="#P" n="28"/>le si huiusmodi conceptus non sit communis per praedicationem. 
+      <lb ed="#P" n="29"/>Aliquod etiam praedicatum dictum modo positive dicitur coniter 
+      <lb ed="#P" n="30"/>de vtrisque: vt esse intelligibile. Ad confirmationem 
+      con<lb ed="#P" n="31" break="no"/>teditur modo praedicto: quia ex conceptibus diuersorum 
+      obie<lb ed="#P" n="32" break="no"/>ctorum non possibilibus verificari de eodem potest consequenter 
+      <lb ed="#P" n="33"/>formari alius totaliter distinctus comparatiuus illorum 
+      ob<lb ed="#P" n="34" break="no"/>iectorum. Ad aliam confirmationem negetur maior. Ad 
+      <lb ed="#P" n="35"/>probationem cum dicitur quod rerum summe dissimilium non potest 
+      <lb ed="#P" n="36"/>esse eadem similitudo et ymago naturalis / verum est de 
+      <lb ed="#P" n="37"/>similitudine secundum configurationem et conuenientiam seu 
+      pro<lb ed="#P" n="38" break="no"/>pinquitatem qualitatum. non autem de similitudine et yma 
+      <lb ed="#P" n="39"/>gine qua est per obiectiuam repraesentationem et exhibitionem 
+      si<lb ed="#P" n="40" break="no"/>cut formalis distinctio dicitur ymago obiecti / nec oportet 
+      <lb ed="#P" n="41"/>illa esse similia inter se quorum est vna talis simil 
+      itu<lb ed="#P" n="42" break="no"/>do: quia non minus potest esse vna talis similitudo dis 
+      <lb ed="#P" n="43"/>similium quam similium: patet de noticia diuina et de 
+      con<lb ed="#P" n="44" break="no"/>ceptibus transcend entibus. Ad aliam conffirmationem ne 
+      <lb ed="#P" n="45"/>gatur consequentia / accipiendo antecedens de noticiis / quarum vna es 
+      <lb ed="#P" n="46"/>set propria vni et altera alteri: actus enim proprius vni 
+      il<lb ed="#P" n="47" break="no"/>lorum est alterius rationis ab actu qui foret proprius alte 
+      <lb ed="#P" n="48"/>ri illorum / et ab actu qui foret comins ambobus.
+    </p>
+            <p xml:id="D78nca-de8838-d1e2166">
+      ¶ Ad ter 
+      <lb ed="#P" n="49"/>tium principale non sequitur / quod qualibet res secundum quod cuius 
+      <lb ed="#P" n="50"/>libet rei noticia propria habita potest esse partialis causa 
+      <lb ed="#P" n="51"/>cuiusdam noticie distincte respectu cuiuscumque alte 
+      <lb ed="#P" n="52"/>rius rei vna cum propria noticia alterius rei. Ad confir 
+      <lb ed="#P" n="53"/>mationem non sequitur quod qualibet res / sed quod qualibet noticia 
+      <lb ed="#P" n="54"/>propria alicuius obiecti posset in successione eterna ten 
+      <lb ed="#P" n="55"/>poris si conseruatur a deo concurrere / vt causa partialis ad 
+      <lb ed="#P" n="56"/>non tot effectus alterius rationis quin ad plures / nisi 
+      ca<lb ed="#P" n="57" break="no"/>pacitas et actiuitas potentie sit limitata ex 
+      natura<lb ed="#P" n="58" break="no"/>rei. vnde argumentum eque est contra limitationem potentie 
+      <lb ed="#P" n="59"/>intellectiue quae potest comparare idem diuersis succet 
+      <lb ed="#P" n="60"/>siue loquendo igitur de potentia naturali vel reducibili ad 
+      <lb ed="#P" n="61"/>actum completum et terminatum non permixtum positione. negatur consequentia. 
+      <lb ed="#P" n="62"/>Ad quartum negatur consequentia. Ad probationem dicendum est quod non 
+      <lb ed="#P" n="63"/>diura obiecta possumus simul cognoscere distincte 
+      <lb ed="#P" n="64"/>actu comperatiuo quam possimus simul distincte cognoscere 
+      <lb ed="#P" n="65"/>diuersis actibus: quia ille actus comparatiuus causatur natu 
+      <lb ed="#P" n="66"/>raliter ex illis propriis: et equiualet illis in repraesentando 
+      <!--45.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>distincte.
+    </p>
+            <p xml:id="D78nca-de8838-d1e2214">
+      ¶ Ad quintum principale: conceptus potest esse 
+      <lb ed="#P" n="68"/>distinctus et proprius alicuius obiecti dupliciter vel secundum 
+      <lb ed="#P" n="69"/>praedicationem et supponnem proprie sumptam: vel secundum 
+      <lb ed="#P" n="70"/>repraesentationem et exhibitionem obiectiuam. Si primo modo 
+      <lb ed="#P" n="71"/>conceditur consequens. Si secundo modo: negatur consequentia quia con 
+      <lb ed="#P" n="72"/>ceptus comparatiuus exhibet obiectiue et eque distincte 
+      <lb ed="#P" n="73"/>vel indistincte ea quae exhibentur per conceptus simplices 
+      <lb ed="#P" n="74"/>a quibus causatur. Ad primam improbationem consequentis 
+      dicen<lb ed="#P" n="75" break="no"/>dum: quod ille conceptus relatiuus et comparatiuus dei: licet 
+      <lb ed="#P" n="76"/>esset dei conceptus distinctus et proprius in praedicando et 
+      <lb ed="#P" n="77"/>supponendo: non tamen in repraesentando et exhibendo 
+      obie<lb ed="#P" n="78" break="no"/>ctiue: sicut de conceptu composito mediante quo forma 
+      <lb ed="#P" n="79"/>tur vel sicut de oratione qua illi subordinatur: et cui 
+      equi<lb ed="#P" n="80" break="no"/>ualet in signespondo talis enim conceptus simplex comparatiuus 
+      <lb ed="#P" n="81"/>exhibet praecise eadem quae exhibet ille conceptus compositus 
+      <lb ed="#P" n="82"/>et non distinctus neque perfectius vel clarius: neque plus 
+      <lb ed="#P" n="83"/>valet ad cognoscendum veritates de deo naturaliter quam 
+      il<lb ed="#P" n="84" break="no"/>le conceptus copositus: nec equiualet imperfecte et 
+      indistin<lb ed="#P" n="85" break="no"/>cte exhibendo deum conceptu simplici proprio absoluto 
+      <lb ed="#P" n="86"/>dei nato sequi intuitiuam. Ad secundam per idem ad tertiam 
+      <lb ed="#P" n="87"/>negatur secunda pars antecedentis. Ad primam probationem: ideo 
+      <lb ed="#P" n="88"/>est conceptus significati: quia conceptus descriptuus vel 
+      <lb ed="#P" n="89"/>explicatiua ratio componitur ex repugnantibus simul 
+      <lb ed="#P" n="90"/>verificari: ideo ille conceptus non potest supponere pro 
+      <lb ed="#P" n="91"/>aliquo intelligibili verificando affirmationem de inesse: 
+      <lb ed="#P" n="92"/>nisi eidem simul inessent talia repugnantia. Conceptus 
+      <lb ed="#P" n="93"/>autem simplex absolutus proprius non est respectu 
+      impossi<lb ed="#P" n="94" break="no"/>bilis. Ad secundam probationem negatur consequentia quia denlula enti 
+      <lb ed="#P" n="95"/>tate demonstrata potest illud verificari secundum affirmationem de 
+      <lb ed="#P" n="96"/>inesse actu vel potentia: nec dicitur quid: nec quale: nec 
+      <lb ed="#P" n="97"/>quantum etc
+    </p>
+            <p xml:id="D78nca-de8838-d1e2282">
+      ¶ Ad sextum negatur consequentia ad probationem: illa 
+      <lb ed="#P" n="98"/>noticia coperatiua erit intuitiua et non abstractiua illius 
+      <lb ed="#P" n="99"/>albedinis: licet sit abstractiua actus praesenti. Actus autem re 
+      <lb ed="#P" n="100"/>tordatiuus: licet non sit intuitiuus huius albedinis. quatinus 
+      <lb ed="#P" n="101"/>est eius: vt heri vise: tamen est simpliciter intuitiuus huius albe 
+      <lb ed="#P" n="102"/>dins ratione intuitive mediante qua formatur licet simul foretur 
+      me<lb ed="#P" n="103" break="no"/>diante intuitiua et abstractiua
+    </p>
+            <p xml:id="D78nca-de8838-d1e2298">
+      ¶ Ad septimum negatur 
+      <lb ed="#P" n="104"/>antecedens ad probationem potest dici quod non est vere / et realiter 
+      <lb ed="#P" n="105"/>ibi dualitas: nec in actu comperatiuo: nec in obiecto 
+      <lb ed="#P" n="106"/>coparato: sed est ibi quasi dualitas in aliquo comparato: 
+      <lb ed="#P" n="107"/>secundum similitudinem et modum intelligendi: quia intellectus 
+      <lb ed="#P" n="108"/>vtitur aliquo obiecto quasi termino a quo: et quasi 
+      ter<lb ed="#P" n="109" break="no"/>mino ad quem cuiusdam habitudinis et processus 
+      intelle<lb ed="#P" n="110" break="no"/>ctualis: du comparat idem sibiipi: sicut intellectus 
+      com<lb ed="#P" n="111" break="no"/>parans aliquod obiectum alteri obiecto vtitur vno illorum 
+      <lb ed="#P" n="112"/>tanquam principio: quia tanquam eo quod refer et comparat: et 
+      <lb ed="#P" n="113"/>vtitur altero tanquam termino et fine cui comparat: et 
+      <lb ed="#P" n="114"/>ad quem refert: et in quem tendit et procedit: ita 
+      intelle<lb ed="#P" n="115" break="no"/>ctus comparans aliquid sibiipsi dicitur vti vno vt duobus: quia vti 
+      <lb ed="#P" n="116"/>tur illo tanquam principio quod refert: et tanquam termino cui 
+      <lb ed="#P" n="117"/>refert. ideo ibi est tantum dualitas in transumptione 
+      <lb ed="#P" n="118"/>et modo intelligendi: non vere et realiter: sicut cus 
+      <lb ed="#P" n="119"/>dem est actiuum in seipso dicitur agere in alterum: aut 
+      <lb ed="#P" n="120"/>tanquam alterum secundum Aristotelem. 5. methaphisice. 
+      <lb ed="#P" n="121"/>Item est ibi dualitas secundum reiterationem in oratione 
+      <lb ed="#P" n="122"/>illam comperationem explicanti: aut forte in intelle 
+      <lb ed="#P" n="123"/>ctu est dualitas secundum binam formationem et 
+      acce<lb ed="#P" n="124" break="no"/>ntionem conceptus absoluti: qui bis repetitur ab intel 
+      <lb ed="#P" n="125"/>lectu semel in recto et semel in obliquo vt causetur 
+      <lb ed="#P" n="126"/>conceptus comparatiuus. Ad secundam probationem Nota quod ca 
+      <lb ed="#P" n="127"/>antecedentis negatur consequentia: non enim signifi sus secundum 
+      <lb ed="#P" n="128"/>cat in recto et in oblquo: quo modo conceptus non doctorem inue 
+      <lb ed="#P" n="129"/>minalis rectus: et quo modo conceptus nominalis nitur in mente 
+      <lb ed="#P" n="130"/>obliquus: sed si sit incomplexus nominalis significabit foraliter 
+      <lb ed="#P" n="131"/>in recto tantum: vel in obliquae secundum quod intellectus potest formare 
+      <lb ed="#P" n="132"/>conceptum comparatiuum nominaliter in varus casibus tamen implicite et 
+      <!--46.xml-->
+      <pb ed="#P" n="18-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>virtualiter significat illis modis sine repugnantia 
+      <lb ed="#P" n="2"/>quia equiualet in repraesentando ofoni explicite et quasi de 
+      <lb ed="#P" n="3"/>scriptiue illi correspondenti / sicut de actu divine 
+      intelle<lb ed="#P" n="4" break="no"/>ctionis. Ad tertiam negatur consequentia: quia aliter et aliter conciptur 
+      <lb ed="#P" n="5"/>scilicet absolute et relative videtur: tamen quod talis conceptus 
+      con<lb ed="#P" n="6" break="no"/>paratiuus eiusdem ad se / non posset naturaliter haberi / nisi ex 
+      <lb ed="#P" n="7"/>habituali noticia comperatiua diuersorum praehita. Ad quan 
+      <lb ed="#P" n="8"/>tam negatur consequentia: erit enim noticia distincta / et non indistin 
+      <lb ed="#P" n="9"/>cta illius rei: tamen erit noticia communis / et indistincta / et con 
+      <lb ed="#P" n="10"/>fusa alterius entis: sicut et oratio ei correspondens / dicendo .a 
+      <lb ed="#P" n="11"/>idem ipsi a. sicut de isto conceptu / hec albedo distincta 
+      <lb ed="#P" n="12"/>ab omni alia albedine: est enim noticia distincta huius 
+      al<lb ed="#P" n="13" break="no"/>bedinis: sed indisticta omnis alterius albedinis.
+    </p>
+            <p xml:id="D78nca-de8838-d1e2399">
+      ¶ Ad 
+      <lb ed="#P" n="14"/>octauum principale / responsio ibi posita conceditur. Ad 
+      ipro<lb ed="#P" n="15" break="no"/>bationem negatur secunda consequentia vt patebit dicendo ad 
+      se<lb ed="#P" n="16" break="no"/>quens argumentum. Ad confirmationem dicendum quod hec 
+      <lb ed="#P" n="17"/>oratio et conceptus ei correspondens prima persona diuina non 
+      <lb ed="#P" n="18"/>producta / significat non solum illum qui in diuinis est pater / et 
+      ne<lb ed="#P" n="19" break="no"/>gatur vlterior consequentia: quia hoc iter non est natum 
+      verifica<lb ed="#P" n="20" break="no"/>ri de omni intelligibili significato qualitercumque per ipsum sicut per 
+      <lb ed="#P" n="21"/>hanc orationem Ens primum independens etc. determinate demstra 
+      <lb ed="#P" n="22"/>deus: licet per partes eius significaretur omne quod est ens. vnde 
+      argu<lb ed="#P" n="23" break="no"/>mentum eque procedit de oratione sicut de conceptu.
+    </p>
+            <p xml:id="D78nca-de8838-d1e2423">
+      ¶ Ad 
+      <lb ed="#P" n="24"/>nonum negatur consequentia licet enim vtrumque correlatiuum 
+      prodica<lb ed="#P" n="25" break="no"/>bile seu vocale siue mentale / significat aliquo modo vtrunque 
+      <lb ed="#P" n="26"/>extremum: tamen non est natum supponere indifferenter pro 
+      <lb ed="#P" n="27"/>vtroque extremo comparato: sed vnum pro vno et alterum pro 
+      al<lb ed="#P" n="28" break="no"/>tero: et ratio est: quia non omnio vniformiter importat hoc et 
+      <lb ed="#P" n="29"/>illud: sed vnum primario et principaliter et directe: alterum autem 
+      <lb ed="#P" n="30"/>secundario et minus principaliter et indirecte. vnde dicitur illud cogno 
+      <lb ed="#P" n="31"/>tare quasi cum altero principaliter significato consequeter significare 
+    </p>
+            <p xml:id="D78nca-de8838-d1e2443">
+               <lb ed="#P" n="32"/>¶ Contra hoc: probo duo: primum quod dictum est in se fal 
+      <lb ed="#P" n="33"/>sum quod scilicet quamuis significet vtrumque: tamen non potest 
+      suppo<lb ed="#P" n="34" break="no"/>nere: nisi pro altero. secundum est quod causa quae assignatur non 
+      <lb ed="#P" n="35"/>valet: scilicet quod non significat illa vniformiter et eque primo 
+      <lb ed="#P" n="36"/>primum probatur sic: praedicabile potest supponere pro illa re 
+      <lb ed="#P" n="37"/>qua potest conuenienter accipi in propositione tamquam signum pro suo 
+      <lb ed="#P" n="38"/>significato et quo signo intellectus potest conuenienter vti in illud 
+      <lb ed="#P" n="39"/>propositione pro illa re: sed .a. praedicabile relatiuum poterit 
+      con<lb ed="#P" n="40" break="no"/>uenienter accipi in propositione pro .b. extremo cui fit compara 
+      <lb ed="#P" n="41"/>tio. ergo. maior patet: quia terminum supponere pro aliquo no 
+      <lb ed="#P" n="42"/>est nisi ipsum accipi et stare in propatione pro illo. minor 
+      pro<lb ed="#P" n="43" break="no"/>batur: quia signum exhibens naturaliter et determinate ali 
+      <lb ed="#P" n="44"/>quod obiectum / potest conuenienter accipi pro illo obiecto tamquam 
+      <lb ed="#P" n="45"/>pro significato: et intellectus potest in propositione conuenlenter vti 
+      con<lb ed="#P" n="46" break="no"/>ceptu pro obiecto cuius est naturale et distinctum signum 
+      <lb ed="#P" n="47"/>Confirmatur: talis conceptus relatiuus non minus perfecte 
+      <lb ed="#P" n="48"/>et distincte significat alterum extremum cui fit comparatio quam con 
+      <lb ed="#P" n="49"/>ceptus generis significat res singulares. ergo non minus potest pro 
+      <lb ed="#P" n="50"/>illo supponere. Confirmatur. conceptus anime potest 
+      suppo<lb ed="#P" n="51" break="no"/>nere pro eo quod significat contingenter et per accidens. ergo et. 
+      <lb ed="#P" n="52"/>eo quod per se et necessario. antecedens patet: quia album supponit. 
+      <lb ed="#P" n="53"/>sorte / dum sortes est albus. secundum probatur: et circa hoc proba 
+      <lb ed="#P" n="54"/>tur primo / quod illud sit falsum quod assignatur pro causa / scilicet quod 
+      <lb ed="#P" n="55"/>relatiuum significat illa / non equaliter nec vniformiter. 
+      <lb ed="#P" n="56"/>secundo quod quamuis foret verum / tamen non impedit quin possit super 
+      <lb ed="#P" n="57"/>ponere pro vtroque. probatur sic: omni mo significadi quo 
+      si<lb ed="#P" n="58" break="no"/>gnificatur .b. extremum per .a. conceptum relatiuum significatur 
+      <lb ed="#P" n="59"/>c. alterum extremum / et econtra. ergo vniformiter et non aliter 
+      <lb ed="#P" n="60"/>et aliter significatur per .a. antecedens probatur: quia non aliis 
+      modi<lb ed="#P" n="61" break="no"/>significandi significatur per .a. nisi illis quos formaliter habi 
+      <lb ed="#P" n="62"/>a. signum: sed idem est signum secundum te: et illi modi significand 
+      <lb ed="#P" n="63"/>sunt realiter idem illi signo. ergo omni modo significandi quae 
+      signi<lb ed="#P" n="64" break="no"/>ficatur vnum illorum per .a. significatur et reliquum. 
+      Confir<lb ed="#P" n="65" break="no"/>matur si .a. dicitur aliter et aliter significare .b. et .c. et si per .a. con 
+      <lb ed="#P" n="66"/>ceptum intellectus aliter et aliter intelligit. b. et c. aut ergo hec 
+      <!--46.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>alietas se tenet formaliter ex parte signi a. aut est 
+      for<lb ed="#P" n="68" break="no"/>maliter alietas obiectorum .b. et c. Si primum. ergo non 
+      <lb ed="#P" n="69"/>omnino idem actus et propositum. Si secundum. contra. hoc enim 
+      <lb ed="#P" n="70"/>non est ad propositum. quia intellectus non dicitur intelligere 
+      <lb ed="#P" n="71"/>aliter et aliter hoc et illud. quia hoc est aliud ab illo. quia 
+      <lb ed="#P" n="72"/>tunc impossibile esset intelligi vel significari vniformiter 
+      <lb ed="#P" n="73"/>hoc et illud siue per idem signum siue per diuersa. et ita pro 
+      <lb ed="#P" n="74"/>altero non posset supponere aliquod idem signum. Secundo 
+      <lb ed="#P" n="75"/>conceptus comparatiuus eiusdem ad seipsum significabit idem 
+      <lb ed="#P" n="76"/>modis oppositis principaliter. scilicet et non principaliter / primario 
+      <lb ed="#P" n="77"/>et secundario mediate et immediate. Tertio. terminus signi 
+      <lb ed="#P" n="78"/>ficans plura vnum principaliter alterum secundario est terminus 
+      <lb ed="#P" n="79"/>an alogus. ergo omne praedicabile relatiuum erit praedicabile non 
+      <lb ed="#P" n="80"/>vniuocum / sed analogum: quod est falsum. quia est per se genus vel 
+      <lb ed="#P" n="81"/>species in praedicamento.
+    </p>
+            <p xml:id="D78nca-de8838-d1e2558">
+      ¶ Confirmatur. praedicabile 
+      signifi<lb ed="#P" n="82" break="no"/>causas vnum primo et principaliter. et aliud secundario non dicitur de eo 
+      <lb ed="#P" n="83"/>quod principaliter significat in analogia et respectu ad illud quod se 
+      <lb ed="#P" n="84"/>cundario significabit: sed magis econtra. ergo. Quarto si non esqse 
+      <lb ed="#P" n="85"/>primo et immediate: sed ordine quodam. quero quis ordo 
+      si<lb ed="#P" n="86" break="no"/>ibi non durationis. patet. nec dignitatis et perfectionis. quia con 
+      <lb ed="#P" n="87"/>tingit illa extrema esse equalis perfectionis vel indferite hoc 
+      <lb ed="#P" n="88"/>esse nobilius illo vel econtra vel eque clare et distincte ex 
+      <lb ed="#P" n="89"/>hibere hoc et illud / nec ordo causalitatis. quia neutrum est caus 
+      <lb ed="#P" n="90"/>alterius. Ex his videtur quod non conuenienter dicitur quod significat hoc 
+      <lb ed="#P" n="91"/>principaliter et connotat illud. quia vel comnnotare est minus 
+      prin<lb ed="#P" n="92" break="no"/>cipaliter et secundario importare et hoc est improbatum / aut est 
+      <lb ed="#P" n="93"/>consignificare. nota enim et signum idem. primo periar. sed si 
+      <lb ed="#P" n="94"/>aliquod significat plura eque verum est quod significabit hoc 
+      <lb ed="#P" n="95"/>cum illo sicut quod significat illud cum isto. ergo non magis con 
+      <lb ed="#P" n="96"/>significat hoc quam illud. Deinde contra illum 
+      mo<lb ed="#P" n="97" break="no"/>dum dicendi quo solet dici significare vnum in recto et 
+      <lb ed="#P" n="98"/>alterum in obliquo. Primo intelligibile non significatur per 
+      si<lb ed="#P" n="99" break="no"/>gnum / nisi illo modo sigfistiondi gfamaticali quem habet formaliter 
+      <lb ed="#P" n="100"/>illud signum: sed hic terminus podter non habet formaliter modum signiepondi 
+      <lb ed="#P" n="101"/>secundum casum obliquum: quia est formaliter nominatiui casus non 
+      <lb ed="#P" n="102"/>obliquus formaliter et consimliter conceptus cui sbecordinatur in sigiespondo nfi 
+      <lb ed="#P" n="103"/>habet etc. Item obliquus nihil significat nisi in obliquo 
+      <lb ed="#P" n="104"/>ergo. rectus nihil significat nisi in recto. Item terminus singularis  
+      <lb ed="#P" n="105"/>numeri non significat pluraliter / nec terminus nominalis significat ver 
+      <lb ed="#P" n="106"/>baliter. ergo terminus rectus non significat in obliquo. Preterea: 
+      <lb ed="#P" n="107"/>si dicitur vnum significare in recto et alterum in obliquo: hoc videtur 
+      <lb ed="#P" n="108"/>quia oratio per quam explicatur et exponitur sua significatio et per quam 
+      <lb ed="#P" n="109"/>quaesi describitur expreimit hoc extremum in recto et illud in 
+      <lb ed="#P" n="110"/>obliquo. sed hoc non valet / primo quia potest exponi 
+      conue<lb ed="#P" n="111" break="no"/>nienter per orationem in qua hoc ponetur in recto et illud in 
+      <lb ed="#P" n="112"/>obliqui / et econtra: vt poster potest dici habens filium et genitor 
+      fi<lb ed="#P" n="113" break="no"/>lii: et est conuenienter dicitur cuius vel cui / vel a quo est filius 
+      <lb ed="#P" n="114"/>et creator potens producere creaturam vel a quo potest esse 
+      <lb ed="#P" n="115"/>creatura. Secundo: quia huiusmodi rectus significat idem 
+      for<lb ed="#P" n="116" break="no"/>maliter in omni casu simul: quia potest exponi / pater 
+      cu<lb ed="#P" n="117" break="no"/>ius vel cui est filius et qui est genitor filii / et qui est 
+      cau<lb ed="#P" n="118" break="no"/>sa filio et qui genuit filium / et qui causatur per propagatio 
+      <lb ed="#P" n="119"/>nem prior est filio Tertio pari ratione diceretur significare 
+      <lb ed="#P" n="120"/>hoc in genere masculimo et illud in feminino: quia potest dici 
+      <lb ed="#P" n="121"/>pater qui genuit / vel filium / vel filiam / vel prolem / vel animal 
+      <lb ed="#P" n="122"/>rationale. Preterea. si dicitur hoc significare principaliter 
+      <lb ed="#P" n="123"/>quia significat hoc in recto: et dicitur cognotare illud quia significat 
+      <lb ed="#P" n="124"/>in obliqui. ergo terminus communis obliquus relatiuus non magis 
+      <lb ed="#P" n="125"/>significabit hoc principaliter et cognotabit illud quam 
+      econue<lb ed="#P" n="126" break="no"/>so. igitur eque principaliter significabit vtruque. erg 
+      <lb ed="#P" n="127"/>eque supponet pro vtroque / et habetur propositum. 
+      <lb ed="#P" n="128"/>Item album: aut solum: aut principaliter significa 
+      <lb ed="#P" n="129"/>albedinem et secundario subiectum: et tamen importat subiectum 
+      <lb ed="#P" n="130"/>recto et albedinem in obliqui: patet resoluendo et exponendo: 
+      <lb ed="#P" n="131"/>album enim dicitur habens albedinem.
+    </p>
+            <p xml:id="D78nca-de8838-d1e2669">
+      ¶ Deinde probatur quod illud non 
+      <lb ed="#P" n="132"/>mpedit quin possit supponere pro vtroque. primo: quia signu 
+      <!--47.xml-->
+      <pb ed="#P" n="18-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>potest conuenienter accipi pro suo significato quod necessario et 
+      <lb ed="#P" n="2"/>distincte exhibetur: et intellectus conuenienter potest vti illo 
+      <lb ed="#P" n="3"/>pro suo obiecto et significato. Secundo: quia album et huiusmodi concreta 
+      <lb ed="#P" n="4"/>significant primo formam et secundario subiectum: et tamen nata sunt sup 
+      <lb ed="#P" n="5"/>ponere pro subiecto: vt album currit et animatum viuit. Ter 
+      <lb ed="#P" n="6"/>tio. ens ymo et principaliter significat substantiam et secundario ac:  
+      <lb ed="#P" n="7"/>cidens ex 4. et 7. metha. et tamen vere dicitur de vtroque 
+      <lb ed="#P" n="8"/>Confirmatur: sanum significat principaliter animal et secundario cibum vel 
+      <lb ed="#P" n="9"/>prinam: et tamen dicitur de vtroque: licet de vno in habitudine et 
+      <lb ed="#P" n="10"/>analogia ad alterum. Quarto. quae proportio et ordo erit 
+      <lb ed="#P" n="11"/>in significando: pari ratione in supponendo sicut ergo conceptus 
+      <lb ed="#P" n="12"/>significat hoc primo et secundario illud ita principaliter supponet 
+      <lb ed="#P" n="13"/>pro hoc: et secundario pro illo vt positum est de sano. Quinto 
+      <lb ed="#P" n="14"/>importare aliquid in obliqua non impedit quin possit 
+      suppo<lb ed="#P" n="15" break="no"/>nere pro illo. probo: quia obliquus supponit et intellectus vtitur 
+      <lb ed="#P" n="16"/>illo in propositione pro eo quod importat in obliquo: vt dicendo 
+      <lb ed="#P" n="17"/>hic asinus est sortis: ly sortis supponit pro aliquo suo 
+      <lb ed="#P" n="18"/>significato. Si vero dicitur ad aliquod istorum quod huiusmodi conceptus 
+      <lb ed="#P" n="19"/>comparatiuus dicitur. ideo significare hoc et illud non vniformiter nec 
+      <lb ed="#P" n="20"/>eque primo: quia significat hoc: puta .b. tamquam principium habitudinis 
+      <lb ed="#P" n="21"/>et tanquam fundamentum vel subiectum comparationis et tamquam in 
+      <lb ed="#P" n="22"/>illud quod comparat alteri / sed significat alterum extremum / puta. et 
+      <lb ed="#P" n="23"/>tanquam terminum et finem talis habitudinis / et comparationis / et 
+      <lb ed="#P" n="24"/>tanquam illud cui comparat alterum tanquam terminum ad quem 
+      <lb ed="#P" n="25"/>intellectualiter procedit: econtra de alio conceptu 
+      correlati<lb ed="#P" n="26" break="no"/>uo.
+    </p>
+            <p xml:id="D78nca-de8838-d1e2737">
+      ¶ Contra: per .a. conceptum relatiuum et comparat iuum 
+      <lb ed="#P" n="27"/>ita coparat intellectus. c. ad .b. sicut.b. ad. c. et per .a. eque 
+      in<lb ed="#P" n="28" break="no"/>telligit .c. in habitudine ad .b. sicut in habitudine ad c. et eqse 
+      <lb ed="#P" n="29"/>refert hoc ad illud sicut econtra. ergo non secundum hoc est differentia 
+      <lb ed="#P" n="30"/>ntecedens proatur. quia per .a. intelligitur formaliter c. aut. ergo ad se ef 
+      <lb ed="#P" n="31"/>absolute / aut relatiue et comparatiue. si secundum propositum: quia 
+      <lb ed="#P" n="32"/>non est nisi in ralstone ad b. Si primum. contra: quia tunc eet 
+      <lb ed="#P" n="33"/>conceptus absolutus ipsius .c. et esset de genere absolute 
+      <lb ed="#P" n="34"/>et quia .c. intelligitur vt finis et terminus cuiusdam habitudinis. ergo 
+      <lb ed="#P" n="35"/>in respectu ad aliud. Secundo: aut significaret primo et princi 
+      <lb ed="#P" n="36"/>paliter illud quod significaret tanquam principium et fundamentum habitu 
+      <lb ed="#P" n="37"/>diuis: et secundario illud quod sigt tanquam terminum / aut econtra. 
+      <lb ed="#P" n="38"/>Si primum. contra: quia album / risibile / calefactibile / informa 
+      <lb ed="#P" n="39"/>bile etc. sunt conceptus comparatiui et relatiui: et significant aliquid 
+      <lb ed="#P" n="40"/>in habitudine ad aliud / et illud quod importatur tanquam principium 
+      <lb ed="#P" n="41"/>talis habitudinis: non significatur primo: quia primo sigintat for 
+      <lb ed="#P" n="42"/>mam. Si secundumcontra quia totum primo significaret partem: et pars primo 
+      <lb ed="#P" n="43"/>significaret totum: et secundario partem: et creator primo significaret cre 
+      <lb ed="#P" n="44"/>aturam: et creatura primo significaret deum et secundo creaturam quod 
+      <lb ed="#P" n="45"/>est falsum: quia conuenientius dicitur ccontra: et quia primo pro ille 
+      <lb ed="#P" n="46"/>supponeret. tertio deus primario et principaliter inelligeret 
+      <lb ed="#P" n="47"/>creaturas et seipsum secundario. probo: quia refert creaturas 
+      <lb ed="#P" n="48"/>ad seipsum.
+    </p>
+            <p xml:id="D78nca-de8838-d1e2788">
+      ¶ Pro responsione ad ista. concluderent enim de 
+      <lb ed="#P" n="49"/>intellectione diuina / et de conceptu composito / ex conceptu recto 
+      <lb ed="#P" n="50"/>et ex conceptu obliquos de oratione conuertibili cum termine 
+      <lb ed="#P" n="51"/>relatiuo composita ex recto et obliquo.
+    </p>
+            <p xml:id="D78nca-de8838-d1e2797">
+      ¶ Notandum quod con 
+      <lb ed="#P" n="52"/>ceptum supponere pro aliquo obiecto potest intelligi dupliciter 
+      <lb ed="#P" n="53"/>vno modo large et improprie: quia intelletus se habet ad illum non 
+      <lb ed="#P" n="54"/>praecise vt ad formam inherentem et inexistentem et forma 
+      <lb ed="#P" n="55"/>liter perficientem vel vt tale entitatem substantialem vel 
+      <lb ed="#P" n="56"/>accidentalem: sed et vt ad exemplar per quod intellectus formaliter tendit 
+      <lb ed="#P" n="57"/>ilterum: et per quod intellectui exhibetur / et offertur / et apparet 
+      <lb ed="#P" n="58"/>quoddam alterum: et sic conceditur quod terminus relatiuus suppo 
+      <lb ed="#P" n="59"/>nit pro vtroque extremo sicut et oratio in quam resoluitur et 
+      <lb ed="#P" n="60"/>per quam exponitur / et hoc non est proprie supponere / quia ter 
+      <lb ed="#P" n="61"/>minus etiam extra propositionem sic accipitur: non precise pro se 
+      <lb ed="#P" n="62"/>quatinus quaedam res substantialis et accidentalis: sed intellectus 
+      <lb ed="#P" n="63"/>vtitur illo pro alio vt significato. et si hoc dicatur supponeret 
+      <lb ed="#P" n="64"/>hoc erit supponere secundario et indirecte. alio modo proprie 
+      <lb ed="#P" n="65"/>et stricte: quia intellectus per illud non solum formaliter ten 
+      <lb ed="#P" n="66"/>dit in alterum / nec praecise vtitur illo pro alio / sed quia taliter vtitur 
+      <!--47.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>illo pro tali obiecto: quia obiectum hoc / est illud quod significatur 
+      <lb ed="#P" n="68"/>esse vel non esse huiusmodi / cuiusmoi esse vel non esse significatur per 
+      <lb ed="#P" n="69"/>illam enunciationem et quod illud est huiusmodi / si enunciatio est vera 
+      <lb ed="#P" n="70"/>et illud obiectum esse huiusmodi / sufficit vel requiritur ad 
+      verita<lb ed="#P" n="71" break="no"/>tem talis enunciationis: et sic dicendo / asinus sortis currit 
+      <lb ed="#P" n="72"/>subiectum non supponit pro sorte / sed tantum pro re qua est asinus 
+      <lb ed="#P" n="73"/>sortis. sed primo modo subiectum supponit pro vtroque: et vtrumque 
+      <lb ed="#P" n="74"/>aliqualiter partinet ad veritatem vel falsitatem propositionis et 
+      <lb ed="#P" n="75"/>pro vtroque aliqualiter verificatur vel falsificatur propositio. Ex his 
+      <lb ed="#P" n="76"/>patet ad primum
+    </p>
+            <p xml:id="D78nca-de8838-d1e2858">
+      ¶ Ad confirmationem negetur consequentia quia licet conce 
+      <lb ed="#P" n="77"/>ptus gnis significet magis confuse singularia / tamen significat in 
+      <lb ed="#P" n="78"/>la equaliter et vniformiter / et eque primo / et directe / et est 
+      for<lb ed="#P" n="79" break="no"/>malis mediante conceptu huius vel illius indifferenter eodem 
+      <lb ed="#P" n="80"/>modo. Ad aliam confirmationem conceditur consequentia ceteris paribus 
+      <lb ed="#P" n="81"/>sed in propositionito cetera non sunt paria / vt infra dicetur. 
+      <lb ed="#P" n="82"/>deinde ad ea quibus probatur quod vniformter significat vtrumque: di 
+      <lb ed="#P" n="83"/>cendum / quod dicitur significare primo et principaliter immediate ef 
+      <lb ed="#P" n="84"/>directe illud quod importat quisi principium et terminum a quo 
+      <lb ed="#P" n="85"/>huius habitudinis et comparationis quae est quasi quidem processus in 
+      <lb ed="#P" n="86"/>tellectualis secundum quem intellectus procedit ex hoc ad illud. di 
+      <lb ed="#P" n="87"/>autem significare secundario et indirecte illud quod importat quasi 
+      <lb ed="#P" n="88"/>terminum ad quem talis processus intellectus comparatiui. et dicin 
+      <lb ed="#P" n="89"/>cognotare illud et significare in obliqui: quod huiusmodi conceptus compare 
+      <lb ed="#P" n="90"/>tiuus per se formaliter et naturaliter mediante recto conceptu 
+      hu<lb ed="#P" n="91" break="no"/>ius: et mediante conceptu obliquo illius extremi et oratio per 
+      <lb ed="#P" n="92"/>quam conuenientius et magis proprie et directe et primo expo 
+      <lb ed="#P" n="93"/>nitur et explicatur: et in qua sic resoluitur coceptus 
+      con<lb ed="#P" n="94" break="no"/>positioitur ex recto huius et obliquo illius: et econtra de aliqo 
+      <lb ed="#P" n="95"/>correlatiuo
+    </p>
+            <p xml:id="D78nca-de8838-d1e2902">
+      ¶ Ad primum igitur negatur antecedens large sum 
+      <lb ed="#P" n="96"/>ptum: et in sensu in quo fit. Ad probationem licet huiusmodi conce 
+      <lb ed="#P" n="97"/>ptus mataliter loquendo non habeat plures modos sigestondi 
+      <lb ed="#P" n="98"/>quia modus sigispondi est realiter huiusmodi conceptus / tamen virtualiter et 
+      <lb ed="#P" n="99"/>implicite / seu equiualenter dicitur habere plures modos 
+      significan<lb ed="#P" n="100" break="no"/>di secundum quorum vnum significat hoc extremum / et secundum alium aliud:  
+      <lb ed="#P" n="101"/>quia significat hoc quasi principium habitudinis / et illum quasi 
+      ter<lb ed="#P" n="102" break="no"/>minum / cotinet enim et habet virtualiter et implicite illos modos 
+      <lb ed="#P" n="103"/>sigistondi quos habent conceptus absoluti: ex quibus per se 
+      for<lb ed="#P" n="104" break="no"/>matur / et quos habet oratio per quam per se habet exponi et 
+      descri<lb ed="#P" n="105" break="no"/>bi habet enim formaliter vnicum modum significandi qui est virtua 
+      <lb ed="#P" n="106"/>liter et implicite plures modoi secundum quorum vnum significatur hoc 
+      <lb ed="#P" n="107"/>et secundum alium aliud. sicut deus diceretur aliter velle bona et 
+      ma<lb ed="#P" n="108" break="no"/>la / et quo vult voluntate signi et qua voluntate bumplaciti 
+      <lb ed="#P" n="109"/>vel qua voluntate efficaci / et sicut diceretur aliter scire 
+      ne<lb ed="#P" n="110" break="no"/>cessaria et contingentia. sumendo vero antecedens maturaliter / et in 
+      <lb ed="#P" n="111"/>sensu quem facit de vi verbi / conceditur antecedens et consequens / sed non est 
+      <lb ed="#P" n="112"/>contra intellectum supra expositum.
+    </p>
+            <p xml:id="D78nca-de8838-d1e2941">
+      ¶ Ad confirmationem 
+      <lb ed="#P" n="113"/>hec alietas accipenda est in actu / quatinus est exemplar / et 
+      <lb ed="#P" n="114"/>talis cognitio obiectorum / non quod sit formaliter alietas rea 
+      <lb ed="#P" n="115"/>lis in actu / sed tantum virtualiter secundum equiualentiam et 
+      implica<lb ed="#P" n="116" break="no"/>tionem est autem formaliter in conceptibus simplicibus ex quibia 
+      <lb ed="#P" n="117"/>formatur / vel in oratione per quam quasi descriptiue 
+      expli<lb ed="#P" n="118" break="no"/>catur. Ad secundum negetur consequentia non enim significat idem vel diuersis 
+      <lb ed="#P" n="119"/>modis sigistndi veraciter oppositis et repugnantibus / sed 
+      <lb ed="#P" n="120"/>tantum in figura et similitudine / sicut diuinus intellectus in 
+      <lb ed="#P" n="121"/>telligens formaliter hoc esse idem illi intelligere diceretur 
+      <lb ed="#P" n="122"/>hoc et illud recte et obliqui / vel nominaliter et verbaliter: quia 
+      <lb ed="#P" n="123"/>intelligit illa quodammodo illicito et equiualenti variis 
+      <lb ed="#P" n="124"/>modois. quod autem non sit significare ideo modis repugnantibus 
+      <lb ed="#P" n="125"/>patet exponendo quid sit significare hoc prino et secundario 
+      <lb ed="#P" n="126"/>quia hoc est significare hoc vt principium comperationis. et tamquam illud 
+      <lb ed="#P" n="127"/>cui comparatur et in hoc nusa est repugnantia. Ad terium illud 
+      <lb ed="#P" n="128"/>procedit de termino significante plura dsiuersis 
+      impo<lb ed="#P" n="129" break="no"/>sitionibus et sub diuersis conceptibus / quorum quilibet vel alter 
+      <lb ed="#P" n="130"/>est sufficienter conceptus cui subordinatur et mediante 
+      <lb ed="#P" n="131"/>quo imponitur et facta et completa vna impositione consequeter fit 
+      <lb ed="#P" n="132"/>alia ad confirmationem per idem. Ad quartum non est hic 
+      <!--48.xml-->
+      <pb ed="#P" n="19-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>proprie et formaliter ordo rerum / sed ordo signi ad plura 
+      si<lb ed="#P" n="2" break="no"/>gnificata / et est ordo in virtuali equiualentia secundum similitur 
+      <lb ed="#P" n="3"/>dinem ad ordinem successionis et dignitatis: quia comperatio 
+      <lb ed="#P" n="4"/>intellectualis in quadam similitudine est quasi processus anime 
+      <lb ed="#P" n="5"/>ab hoc / vt principio. ad illud vt terminum. et forte 
+      <lb ed="#P" n="6"/>est realis successio in formatione prioritatis conceptuum me 
+      <lb ed="#P" n="7"/>diantibus quibus formatur ille comparatiuus / et prius formatur comn 
+      <lb ed="#P" n="8"/>ceptus rectus huius extremi: et postea conceptus obliquus ab 
+      <lb ed="#P" n="9"/>terius extremi: deinde ad ea quaebus probatur quod non significat hoc 
+      <lb ed="#P" n="10"/>in recto et illud in obliquo: potest dici quod proprie et forma 
+      <lb ed="#P" n="11"/>liter non habet huiusmodi modos significandi quos habent partes 
+      ofo<lb ed="#P" n="12" break="no"/>nis correspondentis: sed habet aliquem vnum illicitum equiualentem 
+      <lb ed="#P" n="13"/>illis et continentem virtualiter et implicite illos / et dicitur significare 
+      <lb ed="#P" n="14"/>hoc in recto et illud in obliqui: quia per se et directe formatur 
+      <lb ed="#P" n="15"/>ex recto huius et obliquo illius: et equiualet tali composito et per 
+      <lb ed="#P" n="16"/>se et directe et magis proprie exponitur et explicatur quasi 
+      <lb ed="#P" n="17"/>diffinitiue per huiusmodi compositum si sit rectus: et tale compositum 
+      <lb ed="#P" n="18"/>vel oratio ei correspondens non verificabitur de vtroque extremo 
+      <lb ed="#P" n="19"/>demonstrato: sed tantum de altero. quadam autem differentie conceptuum 
+      <lb ed="#P" n="20"/>ex quibus formantur sunt accidentales conceptus ralsonis: vt 
+      <lb ed="#P" n="21"/>puta: genus numerus etc. et quasi impartinentes: et per accidens 
+      <lb ed="#P" n="22"/>inspicientes conceptum relatiuum: sed differentia recti et obliqui 
+      <lb ed="#P" n="23"/>magis per se praesupponitur: potest est huiusmodi terminus relati 
+      <lb ed="#P" n="24"/>uus exponi per orationes varias: quarum vna magis per se et 
+      <lb ed="#P" n="25"/>proprie et directe: est expositiua et descriptiua et reso 
+      <lb ed="#P" n="26"/>lutiua illius: quarum est aliquae sunt truncate et imperfecte: vt 
+      <lb ed="#P" n="27"/>deus est creator est: a quae est creatura ibi sbiecitelligitur quidem rectus 
+      <lb ed="#P" n="28"/>scilicet creator est illud a quae etc. Ex his patet responsio ad illa quibus 
+      <lb ed="#P" n="29"/>probatur: quod illud non impedit propositum.
+    </p>
+            <p xml:id="D78nca-de8838-d1e3056">
+      ¶ Ad primum patet 
+      <lb ed="#P" n="30"/>supra. Ad secundum quamuis album et huiusmodi concreta dicuntur 
+      <lb ed="#P" n="31"/>significare primo et principaliter formam in hoc sensu: quia 
+      distin<lb ed="#P" n="32" break="no"/>cte significant formam et eque distincte sicut significatur per abstractum 
+      <lb ed="#P" n="33"/>illius concreti significat autem subiectum confuse et indistincte. 
+      con<lb ed="#P" n="34" break="no"/>ceptus est huius concreti / non formatur nisi mediante proprio 
+      <lb ed="#P" n="35"/>et distincto conceptu talis forme: non autem oportet quod 
+      median<lb ed="#P" n="36" break="no"/>te proprio et distincto conceptu talis nature subiecte  
+      <lb ed="#P" n="37"/>immo sumendo huiusmodi terminos secundum primariam impationem / vietur 
+      <lb ed="#P" n="38"/>quod conceptus mediante quo ponitur et cui subordinatur tale 
+      <lb ed="#P" n="39"/>concretum sit conceptus forme absque conceptu substantie cui 
+      <lb ed="#P" n="40"/>per modum subiecti inhereat talis forma: quia ante discursum 
+      <lb ed="#P" n="41"/>inquisitiuum quo inquiritur aliqua substantia subiici albedi 
+      <lb ed="#P" n="42"/>ni / vt forme inherenti: impositum est nomen albi et similiter nigri 
+      <lb ed="#P" n="43"/>et similis et dissimilis et albedo separata: sicut in hostia 
+      <lb ed="#P" n="44"/>consecrata diceretur esse aliquod ens album / sicut hostia nunc 
+      <lb ed="#P" n="45"/>consecrata secundum primariam impositionem huiusmodi concretorum: et ita secundum 
+      <lb ed="#P" n="46"/>primam impositionem huiusmodi terminorum et ex intentione 
+      imponen<lb ed="#P" n="47" break="no"/>tium / talis terminus concretus non significat per se subamm subiectam 
+      <lb ed="#P" n="48"/>accidenti: tamen accipiendo concreta secundum vsum philosophorum / post 
+      <lb ed="#P" n="49"/>discursum inquisitiuum: quia talis conceptus et terminus significat 
+      <lb ed="#P" n="50"/>substantiam quasi principium cuiusdam comparationis vel compositis  
+      <lb ed="#P" n="51"/>et oratio per se et directe explicatiua significationis talis concre 
+      <lb ed="#P" n="52"/>ti componitur ex recto et obliquo significante substantiam vel quasi 
+      <lb ed="#P" n="53"/>substantiam / et ex obliquo significante formam vel quasi formam: ideo 
+      <lb ed="#P" n="54"/>supponit pro subiecto tanquam pro re qua significatur esse huiusmodi / et 
+      <lb ed="#P" n="55"/>quam esse huiusmodi sufficit et requiritur talis praedicationis ad veritatem 
+      <lb ed="#P" n="56"/>accipiendo igitur significare principaliter in hoc intulctu conceditur quod 
+      <lb ed="#P" n="57"/>huiusmodi concretum principaliter significat subiectum vel quasi subiecti 
+      <lb ed="#P" n="58"/>secundum vsum philosophorum post inquisitionem: quia album dicitur cui inest 
+      <lb ed="#P" n="59"/>albedo / vel quod idem nunero natum est esse album et nigrum 
+      suc<lb ed="#P" n="60" break="no"/>cessiue / et quod se habet ad esse album quomodo idem corpus ad esse 
+      <lb ed="#P" n="61"/>in loco hoc / vel in illo: licet autem secundum vsum philosophorum 
+      conce<lb ed="#P" n="62" break="no"/>ptus talis concreti non sit mere absolutus / tamen non est proprie 
+      <lb ed="#P" n="63"/>de praedicamento relatiuo / quia praedicationi in quale non per se et 
+      <lb ed="#P" n="64"/>realiter conuenit habitudo alicuius vt subiecti ad alterum / vt 
+      <lb ed="#P" n="65"/>formam informantem nec talis praedicatio per se significat huiusmodi 
+      <lb ed="#P" n="66"/>habitudinem alicuius vt subiecti ad alterum vt formam inhe¬ 
+      <!--48.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>rentem sed abstrahit ab hac habitudine: significat enim id quod est 
+      <lb ed="#P" n="68"/>quale: et illud quo est quale siue sit idem siue non siue sit 
+      <lb ed="#P" n="69"/>comparatio realiter et mnaturaliter / siue tantum in similitudine. praedicatio a. l. habet com 
+      <lb ed="#P" n="70"/>autem concreti de aliquo subiecto non significat formaliter hoc esse positio. 
+      <lb ed="#P" n="71"/>huimodoi concretiue in habitudine ad alterum / vel quasi alterum / 
+      <lb ed="#P" n="72"/>ita quod non sibi conuenienter additur obliquus quasi 
+      determina<lb ed="#P" n="73" break="no"/>tio explicans terminum habitudinis: sed significat illud esse quale 
+      <lb ed="#P" n="74"/>tale autem praedicamentum dixerunt philosophi partinere ad genus 
+      quali<lb ed="#P" n="75" break="no"/>tatis non relonis.
+    </p>
+            <p xml:id="D78nca-de8838-d1e3164">
+      ¶ Ad tertium procedit de significare plura 
+      <lb ed="#P" n="76"/>diuersis impositionibus / et secundum diuersos conceptus quorum quilibet 
+      <lb ed="#P" n="77"/>vel alter per se est ratio sufficiens impositionis.
+    </p>
+            <p xml:id="D78nca-de8838-d1e3171">
+      ¶ Ad 
+      quan<lb ed="#P" n="78" break="no"/>tum procedit de supponne large et improprie.
+    </p>
+            <p xml:id="D78nca-de8838-d1e3176">
+      ¶ Ad quintum 
+      <lb ed="#P" n="79"/>immo impedit significare in obliqui iuxtra modum supra expositum id est 
+      <lb ed="#P" n="80"/>quaesi terminum habitudinis et quantumcumque illud relatiuum 
+      su<lb ed="#P" n="81" break="no"/>matur in recto: tamen oratio quae est quasi ratio formalis 
+      correspon<lb ed="#P" n="82" break="no"/>dens habebit illud extremum in obliqui. responsio ibi posita conce 
+      <lb ed="#P" n="83"/>ditur. Ad primam probationem negatur antecedens. Ad probationem 
+      <lb ed="#P" n="84"/>dicendum quod per a. concipitur .c. non absolute ad se / sed relatiue. non 
+      <lb ed="#P" n="85"/>tamen prope tamquam illud quod referatur et competur ad alterum / sed tan quam 
+      <lb ed="#P" n="86"/>id cui alterum comparatur et ad quod alterum refertur / et tanquam ter 
+      <lb ed="#P" n="87"/>minus ad quem et in quem tendit et procedit intellectus. conceditur 
+      <lb ed="#P" n="88"/>tamen quod per aliquem conceptum concretum relatiuum posset vtrumque 
+      <lb ed="#P" n="89"/>extremum sic relatiue concipi quod non magis hoc tanquam prin 
+      <lb ed="#P" n="90"/>cipium et illud tanquam terminus quam econtra: vt dicendo / hec 
+      <lb ed="#P" n="91"/>alba sunt similia / et tunc conceditur quod potest supponere tan 
+      <lb ed="#P" n="92"/>pro hoc quam pro illo. Ad secundum patet ex dictis. Ad tertium 
+      ne<lb ed="#P" n="93" break="no"/>gatur consequentia non enim simpliciter primo cognoscit creaturas 
+      <lb ed="#P" n="94"/>quia si referat illas ad se: tamen hec eadem cognitio est 
+      co<lb ed="#P" n="95" break="no"/>gnitio essentie tanquam primarii obiecti / in quo repraesentantur 
+      <lb ed="#P" n="96"/>omnia alia intelligibilia: et secundum illud quod sunt et in rlsone ad  
+      <lb ed="#P" n="97"/>essentiam.
+    </p>
+            <p xml:id="D78nca-de8838-d1e3220">
+      ¶ Ad. 10. principale negatur consequentia ad probatio 
+      <lb ed="#P" n="98"/>nem non sunt illorum vniformiter / patet supra: ad aliud non potest 
+      <lb ed="#P" n="99"/>concipi pister vt pater: et sub ratione partris / nisi concipiatur illud quod est 
+      <lb ed="#P" n="100"/>filius: quia per conceptum paltris concipitur res quae est pater in habitudine 
+      <lb ed="#P" n="101"/>ad illud quod est filius. tamen non oportet quod habeatur formaliter et actualiter 
+      <lb ed="#P" n="102"/>conceptus filii / vt filius / vel conceptus correspondens huic termino 
+      <lb ed="#P" n="103"/>filius. Ad confirmationem posset negari consequentia. diceretur enim 
+      <lb ed="#P" n="104"/>quod eedem cause naturales scilicetconceptus extremorum causant simul 
+      <lb ed="#P" n="105"/>naturaliter vtrumque / vel conceditur consequens.
+    </p>
+            <p xml:id="D78nca-de8838-d1e3240">
+      ¶ Ad. 1. negatur consequentia 
+      <lb ed="#P" n="106"/>intelligendo consequens / quod conceptus correspondens termino correla 
+      <lb ed="#P" n="107"/>tiuo ponatur / non vt additamentum in formali et 
+      quiddita<lb ed="#P" n="108" break="no"/>tiua diffinitione rlrtiui / siue in recto siue in obliqua: tamen per 
+      <lb ed="#P" n="109"/>diffinitionem formalem et quidditatiuam relatiui significatur 
+      <lb ed="#P" n="110"/>vtrumque extremum compatum. Ad confirmationem concedo 
+      <lb ed="#P" n="111"/>quod vltimate rasoluendo in formali et per se diffinitione 
+      <lb ed="#P" n="112"/>vnius relatiui non conuenienter ponitur expresse conceptus 
+      <lb ed="#P" n="113"/>correlatiui vt formalis conceptus poris non habet po 
+      <lb ed="#P" n="114"/>ni in diffinitione filii nec econtra: esset enim circulatio 
+      <lb ed="#P" n="115"/>in diffinitione / et consequenter petitio principii: et inter 
+      <lb ed="#P" n="116"/>rogans quid est pater et quid est filius: non posset 
+      edoce<lb ed="#P" n="117" break="no"/>ri. Si enim dicitur quod pater est qui genuit vel qui habet filium 
+      <lb ed="#P" n="118"/>supponitur sciri quid sit filius: et si filius diffinitur qui habet 
+      <lb ed="#P" n="119"/>patrem / praesupponitur et praexigitur sciri quid est pater. Item. 
+      <lb ed="#P" n="120"/>vel. .a. conceptus est certior et clarior quam .b. conceptus 
+      <lb ed="#P" n="121"/>correlatiui aut iginctior aut praecise eque notus et loquia de no 
+      <lb ed="#P" n="122"/>tiori vniformiter: scilicet quo ad nos: vel quo ad naturam. Si 
+      <lb ed="#P" n="123"/>primum. igitur .b. non conuenienter ponitur in diffinitione 
+      <lb ed="#P" n="124"/>a. si secundum. ergo non conuenienter diffinitur. b. per .a. si tertium. ergo 
+      in<lb ed="#P" n="125" break="no"/>nuenienter: et frustra diffinitur hoc per illud. quia dubitanti et 
+      <lb ed="#P" n="126"/>quaerenti quid est hoc: non est sufficiens responsio per eque ignota. Item 
+      <lb ed="#P" n="127"/>in relatiuis equiparentie non diffinitur vnum formaliter per al 
+      <lb ed="#P" n="128"/>terum. et pari ratione in relatiuis disquiparentie. antecedens patet: quia 
+      <lb ed="#P" n="129"/>diffinitum poneretur in sua diffinitione: quia idem relatiuum dicitur 
+      <lb ed="#P" n="130"/>de vtroque extremo. patet consequentia quia non minus hoc dicitur in habitu 
+      <lb ed="#P" n="131"/>dine ad illud in istis quam in illis / dicendum igitur quod quamuis in dif 
+      <lb ed="#P" n="132"/>finitione patris ponatur aliquid per quod significatur id quod est filius 
+      <!--49.xml-->
+      <pb ed="#P" n="19-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>et quod natum est supponere pro eo quod est filius / et de qua 
+      na<lb ed="#P" n="2" break="no"/>tum est praedicari correlatiuum filii non tamen habet poni conceptus fi 
+      <lb ed="#P" n="3"/>lii: species enim immediate sub aliquo genere non diffiniunt se 
+      <lb ed="#P" n="4"/>inuicem circulariter cum autem aristoteles dicit: quod qui 
+      distin<lb ed="#P" n="5" break="no"/>cte nouerit vnum relatiuorum distincte / nouit et reliquum. 
+      <lb ed="#P" n="6"/>et cum Porphirius dicit: quod necesse est in vtrorumque diffi 
+      <lb ed="#P" n="7"/>nitionibus / vtrisque rationibus vti. Intelligendum est quod in 
+      <lb ed="#P" n="8"/>diffinitione vnius ponitur aliquid significans formaliter extremum 
+      <lb ed="#P" n="9"/>in habitudine ad quod dicitur diffinitum et habens diffinitionem 
+      <lb ed="#P" n="10"/>vnius: habet virtualiter et habitudinaliter / vel in potentia accidentali 
+      <lb ed="#P" n="11"/>et propinqua diffinitionem alterius.
+    </p>
+            <p xml:id="D78nca-de8838-d1e3331">
+      ¶ Ad .12. negatur consequentia 
+      <lb ed="#P" n="12"/>quamuis enim duplum et duplum dimidii conuertantur et significent 
+      <lb ed="#P" n="13"/>eadem adequate: tamen non est nugatio dicere duplum dimidii: quia 
+      <lb ed="#P" n="14"/>non est vana et inutilis et inconueniens seu irrationabilis 
+      re<lb ed="#P" n="15" break="no"/>petita significatio eiusdem significati: quia illud quod est dimidium / significatur 
+      <lb ed="#P" n="16"/>aliter per conceptum dimidii / quam per conceptum dupli / et perfectius 
+      <lb ed="#P" n="17"/>intelligitur vel significatur talis habitudo / explicando vtrumque 
+      <lb ed="#P" n="18"/>conceptum correlatiuum et perfectius et aliquo modo distinctius 
+      <lb ed="#P" n="19"/>cognoscitur extremum et terminus comparationis cum expreimitur 
+      <lb ed="#P" n="20"/>correlatiuum quam si non exprimatur / sed illo semel addito fru 
+      <lb ed="#P" n="21"/>stra bis iterum adderetur. de hoc Aristoteles. 2. elencho 
+      <lb ed="#P" n="22"/>rum / vltra medium sic ait. Non est dandum eorum quae ad aliquid 
+      <lb ed="#P" n="23"/>dicuntur significare separatas praedicationes per se vt duplum / sine 
+      <lb ed="#P" n="24"/>eo quod est duplum dimidii: quoniam in eo videtur id est licet in 
+      conce<lb ed="#P" n="25" break="no"/>ptu dupli aliquo modo videatur concipi illud quod est dimidium: 
+      <lb ed="#P" n="26"/>non tamen est concedendum / quod eadam sit significatio et quod idem in conceptu 
+      <lb ed="#P" n="27"/>correspondeat isti termino duplum et isti ofoni duplum dimi 
+      <lb ed="#P" n="28"/>dii: quia non vitaretur nugatio / et subdit immediate: nam et 
+      <lb ed="#P" n="29"/>in. 10. vno minus decem intelligitur / et facere et non facere: 
+      <lb ed="#P" n="30"/>et omnino in negatione dictio: si tamen quis dicat hoc non esse 
+      <lb ed="#P" n="31"/>album. non dicitur idem esse album: vult dicere quod quamuis intel 
+      <lb ed="#P" n="32"/>ligibile significatum per hoc signum concipiatur aliquo modo in totali 
+      <lb ed="#P" n="33"/>significato per illud aliud signum / non tamen est dicendum quod illis 
+      si<lb ed="#P" n="34" break="no"/>gnis idem correspondeat in mente / et quod significent vniformiter 
+      <lb ed="#P" n="35"/>idem / ideo non est nugatio addere hoc signum illi / licet idem 
+      <lb ed="#P" n="36"/>significatur per vtrumque et subdit duplum / vel significat quamadmodum in 
+      <lb ed="#P" n="37"/>dimidio est quod si forte significat aut non idem et copulatum id est aut 
+      <lb ed="#P" n="38"/>duplum per se sumptum non significat formaliter idem quod est 
+      dimi<lb ed="#P" n="39" break="no"/>diu / aut non eodem modo sicut compositum ex vtroque conceptu 
+    </p>
+            <p xml:id="D78nca-de8838-d1e3395">
+               <lb ed="#P" n="40"/>¶ Ad argumentum in principio quaestionis patet ex dictis
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

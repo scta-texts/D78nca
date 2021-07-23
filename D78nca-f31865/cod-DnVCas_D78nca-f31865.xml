@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="200-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-f31865"><!-- l1d45q2 -->
+            <head xml:id="D78nca-f31865-Hd1e108">Quaestio 2</head>
+            <head xml:id="D78nca-f31865-Hd1e111" type="question-title">
+      utrum 
+      in lumine rationum naturalium 
+      probabilius sit ponere 
+      vniuersum regi a deo libertate 
+      contingentie quam naturali 
+      necessitate
+    </head>
+            <p xml:id="D78nca-f31865-d1e114">
+               <lb ed="#P" n="101"/>¶ Sequitur secunda questio. di. 45. 
+      <lb ed="#P" n="102"/>SEcundo quero utrum 
+      <lb ed="#P" n="103"/>in lumine rationum naturalium 
+      <lb ed="#P" n="104"/>probabilius sit ponere 
+      vniuer<lb ed="#P" n="105" break="no"/>sum regi a deo libertate 
+      con<lb ed="#P" n="106" break="no"/>tingentie quam naturali necessi 
+      <lb ed="#P" n="107" break="no"/>tate:
+    </p>
+            <p xml:id="D78nca-f31865-d1e132">
+      quod sic: quia apud omnem 
+      <lb ed="#P" n="108"/>gentem probabilius est quod deus 
+      <lb ed="#P" n="109"/>est colendus et honorandus et 
+      <lb ed="#P" n="110"/>adorandus et timendus et diligite 
+      <lb ed="#P" n="111"/>dus. Contra: quia non est probabilius ipsum intelligere on 
+      <lb ed="#P" n="112"/>nia singularia distincte secundum <ref xml:id="D78nca-f31865-Rd1e145">Aristotelem. 12. Meta. </ref>
+            </p>
+            <p xml:id="D78nca-f31865-d1e149">
+               <lb ed="#P" n="113"/>¶ Hic supponitur deum regere mundum libere libertate 
+      <lb ed="#P" n="114"/>contingentie. de quo tamen inquiretur in fequentibus. Se 
+      <lb ed="#P" n="115"/>nunc queritur que pars sit tanquam probabilior ponenda a 
+      <lb ed="#P" n="116"/>philosopho stante precise in lumine rationum natura 
+      <lb ed="#P" n="117"/>lium: licet neutra pars sit euidenter et efficaciter probata. 
+      <lb ed="#P" n="118"/>veritas partis affirmatiue non 
+      <lb ed="#P" n="119"/>Prima ergo solum fide tenenda est: sed etiam 
+      <lb ed="#P" n="120"/>in lumine naturali potest probabiliter poni et sustineri. 
+      <lb ed="#P" n="121"/>Ad hoc faciunt rationes posite in praecedenti quaestione: ad quas 
+      <lb ed="#P" n="122"/>licet sit probabiliter responsum: tamen responsiones non sunt 
+      <lb ed="#P" n="123"/>adeo euidentes quin remaneant probabiles rationes. Item 
+      <lb ed="#P" n="124"/>ad hoc faciunt rationes quibus supra dist. 35. arguitur deum 
+      in<lb ed="#P" n="125" break="no"/>tellige re distincte singularia extra se.
+    </p>
+            <p xml:id="D78nca-f31865-d1e181">
+      ¶ Preterea prae 
+      <lb ed="#P" n="126"/>sic persuaderi vniuersi rector et princeps talis quale 
+      <lb ed="#P" n="127"/>dignum est regere et principari regit libere: sed deus est 
+      <lb ed="#P" n="128"/>huiusmodi. Inconueniens enim est vniuersum esse sine 
+      <lb ed="#P" n="129"/>rectore et pricipe. 12. Meta. igitur. maior probatur quia si non 
+      <lb ed="#P" n="130"/>agit nec regit libere sed mere necessitate naturali aut 
+      <lb ed="#P" n="131"/>igitur distincte intelligit ea quorum est recto: et princeps aut 
+      <!--412.xml-->
+      <pb ed="#P" n="201-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non: si secundum non videtur dignum quod regat immo nec ve 
+      <lb ed="#P" n="2"/>re et proprie dicendus est regere magisquam sol vel saturnus 
+      <lb ed="#P" n="3"/>vel aliud inanimatum: quia non proprie ordinat et disponit 
+      <lb ed="#P" n="4"/>ea quae non intelligit distincte secundum enim principia mo 
+      <lb ed="#P" n="5"/>ralis philosophie et secundum philosophum septimo po 
+      <lb ed="#P" n="6"/>liticorum. c 1st et octauo ille cuius secundum naturam est regere 
+      <lb ed="#P" n="7"/>et principari aliis debet esse pre aliis preditus pruden 
+      <lb ed="#P" n="8"/>tia et industria et solertia et prouidentia quae respiciunt 
+      sin<lb ed="#P" n="9" break="no"/>gularia ordinanda et disponenda et secundum Ari. illi qui 
+      <lb ed="#P" n="10"/>non habent huiusmodi prudentiam et industriam et prouidentia 
+      <lb ed="#P" n="11"/>tamen habent potentiam executiuam eorum quae secundum 
+      sapien<lb ed="#P" n="12" break="no"/>tiam ordinanda sunt tales secundum naturam sunt serui et 
+      <lb ed="#P" n="13"/>magis habent seruire quam dominari et ita deus magis 
+      <lb ed="#P" n="14"/>assimulatur homini forti corpori habenti potentiam 
+      <lb ed="#P" n="15"/>exequendi cum noticia confusa et imperfecta quam homini sa 
+      <lb ed="#P" n="16"/>pienti et prudenti. Si detur primum scilicet quod distincte 
+      <lb ed="#P" n="17"/>cognoscat singularia igitur regit non mere necessitate 
+      <lb ed="#P" n="18"/>naturali quod si ita esset adhuc videtur indignus principa 
+      <lb ed="#P" n="19"/>ri. probo: quia secundum Ari. septimo politicorum .c. quinto 
+      <lb ed="#P" n="20"/>quanto homo magis recedit a perfecta libertate actionibus 
+      <lb ed="#P" n="21"/>suis et magis accedit ad naturalem necessitatem tanto secun 
+      <lb ed="#P" n="22"/>dum naturam minus dignus est principari et minus habet do 
+      <lb ed="#P" n="23"/>minium actionum suarum vt ho qui magis sequitur impetum 
+      <lb ed="#P" n="24"/>et instinctum passionum naturalium in cogitando et appetendo 
+      <lb ed="#P" n="25"/>et eligendo.
+    </p>
+            <p xml:id="D78nca-f31865-d1e257">
+      ¶ Ex quo potest sic argui si primus rector 
+      <lb ed="#P" n="26"/>agit et regit mere necessitate naturali sequitur quod quanto 
+      ho<lb ed="#P" n="27" break="no"/>mo magis agit vel agitur naturali necessitate et quanto secundum 
+      <lb ed="#P" n="28"/>animum minus participat de libertate indifferentie non 
+      <lb ed="#P" n="29"/>cognoscendo distincte et in particulari singularia et 
+      cir<lb ed="#P" n="30" break="no"/>cunstantias singulares: sed tantum confuse et in generali 
+      <lb ed="#P" n="31"/>tanto magis esset dignus regimine et principatu. probo: 
+      <lb ed="#P" n="32"/>quia secundum hoc magis assimularetur primo / et 
+      perfe<lb ed="#P" n="33" break="no"/>ctissimo rectori / et regimini eius / et magis imitatur 
+      <lb ed="#P" n="34"/>ipsum consequens est falsum: quia tales magis accedunt 
+      <lb ed="#P" n="35"/>ad vitam bestialem et agrestem propter quam etiam causam 
+      <lb ed="#P" n="36"/>iuuenes sunt minus digni principatu.
+    </p>
+            <p xml:id="D78nca-f31865-d1e283">
+      ¶ Preterea 
+      <lb ed="#P" n="37"/>rector vniuersi regit rationabiliter et sapienter et iuste 
+      <lb ed="#P" n="38"/>et laudabiliter: igitur libere et non mere necessitate natu 
+      <lb ed="#P" n="39"/>rali. consequentia probatur qualiter enim merito commen 
+      <lb ed="#P" n="40"/>dandus esset tanquam regens sapienter et iuste et disponens 
+      <lb ed="#P" n="41"/>et ordinans si se habeat ad hec qua sunt in vniuerso tam 
+      <lb ed="#P" n="42"/>naturali necessitate quam sol vel quam oculus bruti ad ea 
+      <lb ed="#P" n="43"/>que brutum agit vel quam intellectus et appetitus frenetici 
+      <lb ed="#P" n="44"/>vel somniantis / vel illusi qui quantum agant interdum quod 
+      <lb ed="#P" n="45"/>materialiter iustum est non tamen iuste et sapienter et lau 
+      <lb ed="#P" n="46"/>dabiliter.
+    </p>
+            <p xml:id="D78nca-f31865-d1e307">
+      ¶ Preterea homo protempore finito principa 
+      <lb ed="#P" n="47"/>retur et regeret principaliori / et potiori modo respectu 
+      <lb ed="#P" n="48"/>eorum que subsunt eius dominio quam deus pro eodem tem 
+      <lb ed="#P" n="49"/>pore respectu eorum quorum est princeps: quia homo 
+      <lb ed="#P" n="50"/>sic sapienter et prudenter et iuste regit illa quae 
+      cogno<lb ed="#P" n="51" break="no"/>scit distincte illa dictando vere et conformiter volendo 
+      <lb ed="#P" n="52"/>dictamini rationis cum perfecta libertate.
+    </p>
+            <p xml:id="D78nca-f31865-d1e323">
+      ¶ Prete 
+      <lb ed="#P" n="53"/>rea inconueniens est vniuersum agi casu vel equiualen 
+      <lb ed="#P" n="54"/>ter casui: igitur agi a deo mere necessitate naturali con 
+      <lb ed="#P" n="55"/>sequentia probatur: quia si res aguntur necessitate natu 
+      <lb ed="#P" n="56"/>rali videntur agi equiualenter casui: quia si quis dicat 
+      <lb ed="#P" n="57"/>quod multa contingunt regulariter et vniformiter pro 
+      <lb ed="#P" n="58"/>semper vel frequenter et quod agentia intendunt certos 
+      <lb ed="#P" n="59"/>fines non minus videtur quod multa contingerent vt 
+      sen<lb ed="#P" n="60" break="no"/>per vel frequenter et quedam contingerent vt raro 
+      <lb ed="#P" n="61"/>quamuis illi fines non intenderentur ab aliquo rectore 
+      <lb ed="#P" n="62"/>cognoscente: et eadem et equaliter contingerent vt 
+      <lb ed="#P" n="63"/>si omnes homines / alicuius ciuitatis essent freneti 
+      <lb ed="#P" n="64"/>ci et naturalibus passionibus agerentur illa ciuitas 
+      di<lb ed="#P" n="65" break="no"/>ceretur regi equiualenter casu licet alia intenderet et 
+      <lb ed="#P" n="66"/>licet aliqua vt frequenter contingerent et casus esset: 
+      <!--412.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>si ibi aliquid iustum fieret et simile esset regimen 
+      vni<lb ed="#P" n="68" break="no"/>uersi in respectu ad primum rectorem regiminl gregis 
+      <lb ed="#P" n="69"/>ferarum vel gruum / vel apum habentium regem et ducem 
+      <lb ed="#P" n="70"/>immo rector vniuersi in regnando magis elongaretur a li 
+      <lb ed="#P" n="71"/>bertate contingentie et cognitione distincta et practi 
+      <lb ed="#P" n="72"/>co dictamine agibilium / et regibilium quam rex gregis ani 
+      <lb ed="#P" n="73"/>malium.
+    </p>
+            <p xml:id="D78nca-f31865-d1e375">
+      ¶ Preterea primus princeps tanquam summum 
+      <lb ed="#P" n="74"/>bonum est super omnia diligendus et timendus et colen 
+      <lb ed="#P" n="75"/>dus / et adorandus secundum dictamen recte rationis 
+      <lb ed="#P" n="76"/>naturalis apud omnes gentes etiam secundum Aristo 
+      <lb ed="#P" n="77"/>tele m: igitur non agit mere necessitate naturali vt su 
+      <lb ed="#P" n="78"/>pra arguitur distin. 35.
+    </p>
+            <p xml:id="D78nca-f31865-d1e389">
+      ¶ Has rationes adduco non 
+      <lb ed="#P" n="79"/>tanquam efficaciter concludentes sic esse in lumine na 
+      <lb ed="#P" n="80"/>turali: sed tanquam persuasiones probabiles ad 
+      susti<lb ed="#P" n="81" break="no"/>nendum probabiliter in lumine naturali catholicam 
+      ve<lb ed="#P" n="82" break="no"/>ritatem.
+    </p>
+            <p xml:id="D78nca-f31865-d1e400">
+      ¶ Sed supposito quod in lumine naturali vtraque 
+      <lb ed="#P" n="83"/>pars possit probabiliter sustineri quaeritur que in lumine 
+      <lb ed="#P" n="84"/>naturali sit probabilius et rationabilius ponenda vide 
+      <lb ed="#P" n="85"/>tur quod pars affirmatiua per rationes precedentis quaestionis. 
+      <lb ed="#P" n="86"/>arguitur primo: quia caelum 
+      pos<lb ed="#P" n="87" break="no"/>In oppositum set simpliciter quiescere et 
+      <lb ed="#P" n="88"/>cessare omnis actio superior et inferior et omnis mo 
+      <lb ed="#P" n="89"/>tus et tempus quod non habet dicere philosophus. 
+    </p>
+            <p xml:id="D78nca-f31865-d1e418">
+               <lb ed="#P" n="90"/>¶ Item posset caelum tardius et velotius et irregulari 
+      <lb ed="#P" n="91"/>ter et difformiter moueri cum interpolantibus quieto 
+    </p>
+            <p xml:id="D78nca-f31865-d1e425">
+               <lb ed="#P" n="92"/>¶ Item deus posset libere desinere caelum conseruare: 
+      <lb ed="#P" n="93"/>et terminare dependentiam: igitur posset caelum 
+      adni<lb ed="#P" n="94" break="no"/>chilare et consequenter omina preter ipsum in nichilum 
+      <lb ed="#P" n="95"/>redigere: et per consequens eadem iterum reparare et 
+      <lb ed="#P" n="96"/>creare cum esset infinite potentie et libere quod non habet 
+      <lb ed="#P" n="97"/>ponere purus philosophus.
+    </p>
+            <p xml:id="D78nca-f31865-d1e441">
+      ¶ Item philosophus 
+      ha<lb ed="#P" n="98" break="no"/>beret concedere quacumque miracula ponimus in fide posse 
+      <lb ed="#P" n="99"/>fieri a deo: si enim deus est infinite potentie et libere non 
+      <lb ed="#P" n="100"/>est incredibile deum illuminare cecum vel resuscitare 
+      <lb ed="#P" n="101"/>mortuum. etc.
+    </p>
+            <p xml:id="D78nca-f31865-d1e452">
+      ¶ Item sequitur quod deus scit et iudicat / et 
+      <lb ed="#P" n="102"/>vult .a. fore cras et cum hoc sit possibile quod deus ordi 
+      <lb ed="#P" n="103"/>net et velit .a. non fore cras: aut igitur eadem intellectio 
+      <lb ed="#P" n="104"/>ne et volitione sciret et ordinaret hoc et oppositum 
+      <lb ed="#P" n="105"/>aut alia: et alia. Si secundum igitur mutatio in deo. 
+      <lb ed="#P" n="106"/>Si primum contra: quia tunc esset dicendum quod deus eadem 
+      <lb ed="#P" n="107"/>scientia et volitione primo scit a fore: et postea .a. non 
+      <lb ed="#P" n="108"/>fore: sed esse et postea nec fore nec esse sed fuisse: et quod po 
+      <lb ed="#P" n="109"/>test numquam iudicasse et voluisse .a. fore: et sic philoso 
+      <lb ed="#P" n="110"/>phus vtens pure lumine naturali incurreret fere om 
+      <lb ed="#P" n="111"/>nes difficultates quas habemus de diuina 
+      prescien<lb ed="#P" n="112" break="no"/>tia et prouidentia respectu futurorum et fere maiores 
+      <lb ed="#P" n="113"/>difficultates quas incurrit fidelis de divina scientia et 
+      <lb ed="#P" n="114"/>de reuelationibus et contingentia futurorum et de infallibili 
+      <lb ed="#P" n="115"/>tate et in mutabilitate divine scientie.
+    </p>
+            <p xml:id="D78nca-f31865-d1e486">
+      ¶ Item deus co 
+      <lb ed="#P" n="116"/>gnosceret distincte singula inferiora quod non est ponendum 
+      <lb ed="#P" n="117"/>in lumine naturali vt ostensum est di. 35. et Ari. libello de 
+      <lb ed="#P" n="118"/>mum do. c. 11. dicit quod non est bonum nec honestum deum per se 
+      <lb ed="#P" n="119"/>operari ea quae sunt in tera: quia est ducibus hominum vt princip 
+      <lb ed="#P" n="120"/>bus exercitus vel ciuitatis non conuenit instistere huiusmodi operibus 
+      <lb ed="#P" n="121"/>vt supellectilem portare vel aliquid vilius facere et ea 
+      <lb ed="#P" n="122"/>quae sunt mancipiorum exercere non conuenit magno regi mul 
+      <lb ed="#P" n="123"/>to magis autem indecens est deo eum circa singula insistere 
+      <lb ed="#P" n="124"/>et disponere. honestius autem et conuenientius est ipsum re 
+      <lb ed="#P" n="125"/>sidere in suprema regione et voluere caelum et per vin progres 
+      <lb ed="#P" n="126"/>siuam per vniuersum orbem etiam terrenis fieri causam salutem 
+    </p>
+            <p xml:id="D78nca-f31865-d1e512">
+               <lb ed="#P" n="127"/>¶ Respondeo pars negatiua videtur probabilius ponen 
+      <lb ed="#P" n="128"/>da sequendo apices rationum procedentium ex per se notis 
+      <lb ed="#P" n="129"/>aut ex sequentibus probabilius ad per se nota vel ratio 
+      <lb ed="#P" n="130"/>num procedentium ex notis per experientiam communiter habitas in genere 
+      <lb ed="#P" n="131"/>humano et ex hiis que contingunt ex communi cursu et ordine 
+      <lb ed="#P" n="132"/>causarum naturalium. diceretur igitur quod deus habet noticiam 
+      <!--413.xml-->
+      <pb ed="#P" n="201-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>omnium quidditatum specificarum et noticiam corporum 
+      <lb ed="#P" n="2"/>celestium et totius ordins et dispositionis illorum et a deo 
+      <lb ed="#P" n="3"/>per intellectum et voluntatem causaliter sunt huiusmodi 
+      cor<lb ed="#P" n="4" break="no"/>pora celestia et eorum ordo ad certum finem et sicut in intel 
+      <lb ed="#P" n="5"/>lectu diuino est ars et sapientia omnium quantum conuenit ad  
+      <lb ed="#P" n="6"/>nobilissimum et perfectissimum rectorem. ita in eius voluntate 
+      <lb ed="#P" n="7"/>sunt ordinationes quasi leges vniversales et rect / et 
+      <lb ed="#P" n="8"/>iustissime quales dictaret homo sapiens si sibi intellectua 
+      <lb ed="#P" n="9"/>liter proponerentur: et secundum illas leges necesse est vni 
+      <lb ed="#P" n="10"/>uersum regi et licet in singularibus inferioribus sint par 
+      <lb ed="#P" n="11"/>accidens multe inordinationes / tamen omnes inordinatioes 
+      <lb ed="#P" n="12"/>reducuntur ad aliquod bonum et aliqualem reordinationem 
+      <lb ed="#P" n="13"/>per alias leges necessarias ordinatissimas: quo modo 
+      <lb ed="#P" n="14"/>dicimus in lumine fidei deum mala et inordinata redu 
+      <lb ed="#P" n="15"/>cere ad aliquem reordinationem: et eis bnen vti. Deus igitur 
+      <lb ed="#P" n="16"/>immediate ordinat ea quae sunt in superioribus et consequentr et 
+      me<lb ed="#P" n="17" break="no"/>diate ordinat ea quae sunt in inferioribus mediantibus corporibus et 
+      <lb ed="#P" n="18"/>intelligentiis celestibus et mediantibus ydeis sui intellectus et 
+      <lb ed="#P" n="19"/>legibus sue voluntatis quae dicuntur pluraliter per equiualem 
+      <lb ed="#P" n="20"/>tiam et per virtualem et eminentem continentiam. De modo 
+      <lb ed="#P" n="21"/>quo deus regit et vniuersum ordinat loquitur Aristo. li 
+      <lb ed="#P" n="22"/>bello de mundo. c. 10. et. 12. dicens quod sicut maiores et 
+      <lb ed="#P" n="23"/>principes non insistunt disponendo vel operando circa 
+      <lb ed="#P" n="24"/>singula principatus sui: sed per quedam precepta dispo 
+      <lb ed="#P" n="25"/>nunt singula mediantibus aliis qui hic exercent sic hic 
+      <lb ed="#P" n="26"/>erat diuinissimum in quiete et simplici motu / primo omnimo 
+      <lb ed="#P" n="27"/>das perficere formas non propter impotentiam: sed quia 
+      <lb ed="#P" n="28"/>hoc non conuenit diuinissimo et sicut quidam artifices 
+      <lb ed="#P" n="29"/>in quibusdam instrumentis mota vna corda vel aliquo 
+      <lb ed="#P" n="30"/>vno multa consequentr mouentur et variis motibus et varia exen 
+      <lb ed="#P" n="31"/>cent et operantur: patet in horologio sic diuina natura 
+      <lb ed="#P" n="32"/>primo quandam vim praestat mobili primo quod mouet 
+      <lb ed="#P" n="33"/>motu simplici et consequentr mediante illo vis diuina per vni 
+      <lb ed="#P" n="34"/>uersum orbem transit: vt sequantur varie actiones et di 
+      <lb ed="#P" n="35"/>sparati effectus et interdum contrarii: tamen omnia exeun 
+      <lb ed="#P" n="36"/>ex vno principio.
+    </p>
+            <p xml:id="D78nca-f31865-d1e612">
+      ¶ Item aliud exemplum ibidem sicut si 
+      <lb ed="#P" n="37"/>quis ex aliquo vase simul eiceret diuersa corpera quo 
+      <lb ed="#P" n="38"/>um alterum esset spericum / alterum quadratum: et alterum 
+      <lb ed="#P" n="39"/>oblongum. etc. vnumquodque moueretur secundum proprian 
+      <lb ed="#P" n="40"/>figuram vel sicut si quis in gremio simul habens anima 
+      <lb ed="#P" n="41"/>gressibile / et animal volatile / et animal aquatile et simul ea 
+      <lb ed="#P" n="42"/>exponat excuciendo gremium tunc vnumquodque ad  
+      <lb ed="#P" n="43"/>proprium motum procedet sic ad motum simplicem prim 
+      <lb ed="#P" n="44"/>nobilis fiunt consequenter exitus diuersorum planetarum  
+      <lb ed="#P" n="45"/>quorum alter tardius / alter velocius mouetur.
+    </p>
+            <p xml:id="D78nca-f31865-d1e634">
+      ¶ Item ibi 
+      <lb ed="#P" n="46"/>dem aliud exemplum. sicut in chorea inchoante choraula 
+      <lb ed="#P" n="47"/>id est ductore choree concinit tota chorea virorum 
+      <lb ed="#P" n="48"/>quandoque et mulierum variis vocibus acutis et grauior 
+      <lb ed="#P" n="49"/>pus vnam armoniam concinentibus sic se habet res et in deo 
+      <lb ed="#P" n="50"/>qui cuncta disponit: nam secundum supernam infusionem 
+      <lb ed="#P" n="51"/>a choraula mouentur stelle totumque celum.
+    </p>
+            <p xml:id="D78nca-f31865-d1e650">
+      ¶ Item aliud 
+      <lb ed="#P" n="52"/>exemplum ibidem cum enim belli sonuerit bucina in exer 
+      <lb ed="#P" n="53"/>citu tunc audito clamgore hic quidem sumit clipeum: ab 
+      <lb ed="#P" n="54"/>us coxalia / vel cassidem / vel baltheum adaptat: alter fre 
+      <lb ed="#P" n="55"/>nat equum: alter ascendit bigam. etc. sic et de vniuerse 
+      <lb ed="#P" n="56"/>sapiendum est. nam ab vno inuisibili et occulto ente omni 
+      <lb ed="#P" n="57"/>bus excitatis fiunt propria sicut et anima per quam viu 
+      <lb ed="#P" n="58"/>mus et edes et vrbes habemus inuisibile ens videtur 
+      <lb ed="#P" n="59"/>por omnia sua opera anima etiam suo actu imperatiuo mouet 
+      <lb ed="#P" n="60"/>omnes potencias ad sua propria officia.
+    </p>
+            <p xml:id="D78nca-f31865-d1e672">
+      ¶ Item. c. 12. 
+      <lb ed="#P" n="61"/>quod in naui quidam nauta in currum vero auriga in 
+      cho<lb ed="#P" n="62" break="no"/>reis autem choraula in ciuitate vero lex in agmine ve 
+      <lb ed="#P" n="63"/>ro dux hoc deus in mundo / nisi quod in eis quidam principa 
+      <lb ed="#P" n="64"/>tus laboriosus mobilisque et curiosus. huic vero le 
+      <lb ed="#P" n="65"/>uis et illaboriosus et semotus ab omni corporali 
+      infir<lb ed="#P" n="66" break="no"/>mitate. nam inuisus immobilis cuncta mouet et circun 
+      <!--413.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>fert quo vult et vt vult et sicut lex immobilis disponit 
+      <lb ed="#P" n="68"/>omnia et secundum eam singula ad singula sibi conuenientia 
+      <lb ed="#P" n="69"/>officia et opera exeunt sic et in maiori ciuitate: scilicet 
+      <lb ed="#P" n="70"/>mundo lex deus est nullam recipiens corruptionem aut 
+      <lb ed="#P" n="71"/>transpositionem: maior autem et certior eis quae scripte sunt 
+      <lb ed="#P" n="72"/>qua regitur totus decor celi et terre diuisus per propria 
+      <lb ed="#P" n="73"/>semina: et secundum proprias naturas.
+    </p>
+            <p xml:id="D78nca-f31865-d1e708">
+      ¶ Ad rationes 
+      <lb ed="#P" n="74"/>pro prima conclusione licet sint quedam probabiles par 
+      <lb ed="#P" n="75"/>suasiones veritatis catholice: tamen innitendo apicibus 
+      <lb ed="#P" n="76"/>rationum naturalium magis probabilius apud philosor 
+      <lb ed="#P" n="77"/>phos diceretur quod ille rationes procedunt de rectore de 
+      <lb ed="#P" n="78"/>uiabili et transmutabili: et obliquabili a rectitudine 
+      ra<lb ed="#P" n="79" break="no"/>tionis et immediate exereente singularia 
+      transmutabi<lb ed="#P" n="80" break="no"/>lia et corruptibilia: et imperfecte cognoscente.
+    </p>
+            <p xml:id="D78nca-f31865-d1e726">
+      ¶ Ad ra 
+      <lb ed="#P" n="81"/>tionem in principio quaestionis dictum est di. 35. q. 3.
+      <lb ed="#P" n="82"/>
+               <!-- line coord error -->
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

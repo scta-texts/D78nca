@@ -1,0 +1,1772 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="27-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-e17573"><!-- l1d2-3q1 -->
+            <head xml:id="D78nca-e17573-Hd1e108">Quaestio 1</head>
+            <head xml:id="D78nca-e17573-Hd1e111" type="question-title">
+      utrum omnis fidelius cognoscens deum esse 
+      trinum et vnum cognoscat aliquod 
+      intelligibile
+    </head>
+            <p xml:id="D78nca-e17573-d1e114">
+               <lb ed="#P" n="86"/>Irca distinctionem 
+      <lb ed="#P" n="87"/>secundam et tertiam in quibus mgiter ostendit 
+      <lb ed="#P" n="88"/>trinitatem personarum diuinarum cum 
+      <lb ed="#P" n="89"/>vnitate essentie ex sacris 
+      scrip<lb ed="#P" n="90" break="no"/>turis et ex creaturis. Quero 
+      v<lb ed="#P" n="91" break="no"/>trum omnis fidelius cognoscens deum esse 
+      <lb ed="#P" n="92"/>trinum et vnum cognoscat aliquod in 
+      <lb ed="#P" n="93" break="no"/>telligibile
+    </p>
+            <p xml:id="D78nca-e17573-d1e134">
+      / quod non cognoscit 
+      <lb ed="#P" n="94"/>infidelis ignorans deum esse trinum et vnum.
+    </p>
+            <p xml:id="D78nca-e17573-d1e139">
+      ¶ Quod sic 
+      <lb ed="#P" n="95"/>quia deum esse trinum et vnum est quoddam 
+      determi<lb ed="#P" n="96" break="no"/>natum intelligibile obiectiue credibile. Hoc autem 
+      <lb ed="#P" n="97"/>fidelis cognoscit et credit: et infidelis ignorat: igitur 
+    </p>
+            <p xml:id="D78nca-e17573-d1e149">
+               <lb ed="#P" n="98"/>¶ Contra. Illud intelligibile nec est creatura nec de 
+      <lb ed="#P" n="99"/>us: quia infidelis ignorans deum esse trinum et vnum 
+      <lb ed="#P" n="100"/>cognoscit deum esse: ergo cognoscit intelligibile 
+      <lb ed="#P" n="101"/>quod est deus.
+    </p>
+            <p xml:id="D78nca-e17573-d1e160">
+               <lb ed="#P" n="102"/>Prima conclusio. Intelligibile significabile 
+      con<lb ed="#P" n="103" break="no"/>plexe quod est deum esse trinum et vnum est 
+      <lb ed="#P" n="104"/>simpliciter et formaliter hec res significabilis 
+      incom<lb ed="#P" n="105" break="no"/>plexe que est deus. Probatur deum esse trinum / et 
+      <lb ed="#P" n="106"/>vnum est deum esse. sed deum esse est formaliter / et 
+      <lb ed="#P" n="107"/>identice ipse deus Probatur primo: illud est deus 
+      <lb ed="#P" n="108"/>quod est causa effectiua independenter omnis 
+      en<lb ed="#P" n="109" break="no"/>titatis: et per creationem / et a quo dependet et 
+      con<lb ed="#P" n="110" break="no"/>seruatur omnis creatura: sed deum esse est 
+      huiusmo<lb ed="#P" n="111" break="no"/>di: igitur. Maior probatur: quia illa soli deo conueni 
+      <lb ed="#P" n="112"/>unt / specialiter esse productiuum per creationem pa 
+      <lb ed="#P" n="113"/>tet per <ref xml:id="D78nca-e17573-Rd1e188">Augustinum tertio de trinitate 8</ref> et <ref xml:id="D78nca-e17573-Rd1e191">libro 12d 
+      <lb ed="#P" n="114"/>de ciuitate dei. ca. 2 4o.</ref> Neque enim fas est vllius natu 
+      <lb ed="#P" n="115"/>re quemlibet minme creatorem nisi deum credere / et 
+      di<lb ed="#P" n="116" break="no"/>cere: et quia tale est omnipotens: igitur est deus: aliter 
+      <lb ed="#P" n="117"/>essent duo omnipotentes: et due cause prinme totales 
+      <lb ed="#P" n="118"/>Et ita altera superflueret Minor probatur: tum quia 
+      <lb ed="#P" n="119"/>esse creature exigit deum esse: et indiget quod deus sit: 
+      <lb ed="#P" n="120"/>et quod conseruetur a deo: sed deum conseruare est con 
+      <lb ed="#P" n="121"/>plexe significabile: igitur dependet a complexe signi 
+      <lb ed="#P" n="122"/>ficabili. Tum quia deum velle. b. angelum esse est cau 
+      <lb ed="#P" n="123"/>sa quare. b. angelus est sed deum velle est 
+      significa<lb ed="#P" n="124" break="no"/>bile complexe. et est idem quod deum esse per magistrum 
+      <lb ed="#P" n="125"/>libro primo distinctione quadragesima quinta 
+      cap<lb ed="#P" n="126" break="no"/>primo / et secundo.
+    </p>
+            <p xml:id="D78nca-e17573-d1e223">
+      ¶ Tum quia si non causat 
+      <lb ed="#P" n="127"/>nec conseruat creaturam: igitur nullius est poten 
+      <lb ed="#P" n="128"/>tie / et virtutis formaliter: igitur non reputo esse 
+      <lb ed="#P" n="129"/>meum esse illi subiectum / et ab illo dependere: 
+      igi<lb ed="#P" n="130" break="no"/>tur non teneor preferre deum esse huic quod est 
+      <!--66.xml-->
+      <pb ed="#P" n="28-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>me esse: et licite possem velle magis tolli deum esse: 
+      <lb ed="#P" n="2"/>quam tolli meum esse. Tum quia creaturam esse est causa 
+      <lb ed="#P" n="3"/>bile: igitur deum esse est causa vel causatiuum. An 
+      <lb ed="#P" n="4"/>tecedens patet quia est dependens. Habet enim 
+      crea<lb ed="#P" n="5" break="no"/>tura esse dependenter. Consequentia patet: quia si 
+      <lb ed="#P" n="6"/>complexe significabili non repugnat causari: igitur 
+      <lb ed="#P" n="7"/>nec causare. Et si complexe significabili non repu 
+      <lb ed="#P" n="8"/>gnat dependere: igitur alicui complexe significabili 
+      <lb ed="#P" n="9"/>non repugnat terminare dependentiam: tum quia 
+      <lb ed="#P" n="10"/>si non est causatiuum nec causabile videtur 
+      figmen<lb ed="#P" n="11" break="no"/>tum per eadem. probatur: quod deum creare est deus: quia 
+      <lb ed="#P" n="12"/>deum creare est causa effectiua per quam angelus est 
+      <lb ed="#P" n="13"/>Iode enim. b. angelus est: quia deus creat. et dat esse: et conseruat 
+    </p>
+            <p xml:id="D78nca-e17573-d1e269">
+               <lb ed="#P" n="14"/>¶ Per idem arguitur quod deum velle / et scire .b esse 
+      <lb ed="#P" n="15"/>est deus.
+    </p>
+            <p xml:id="D78nca-e17573-d1e276">
+      ¶ Secundo sic. b. angelum esse est. b ange 
+      <lb ed="#P" n="16"/>lus igitur deum esse est deus: antecedens probatur: quia .b. ange 
+      <lb ed="#P" n="17"/>lum esse est nouum positiuum: et non nisi a deo causaliter 
+      <lb ed="#P" n="18"/>effectiue: et per creationem. Sed nullum positiuum 
+      <lb ed="#P" n="19"/>est nunc a deo causaliter effectiue per creationem. 
+      <lb ed="#P" n="20"/>nisi. b. angelus vt supponitur. Unde arguitur sic. 
+      <lb ed="#P" n="21"/>Deus causando effectiue precise .b. angelum 
+      faci<lb ed="#P" n="22" break="no"/>effectiue. b. angelum esse: igitur. b. angelum esse est 
+      <lb ed="#P" n="23"/>b. angelus: vel includitur vt pars in eo. Consequen 
+      <lb ed="#P" n="24"/>tia patet: quia ex opposito consequentis sequitur 
+      <lb ed="#P" n="25"/>oppositum antecedentis. Si enim non est. b. ange 
+      <lb ed="#P" n="26"/>lus nec pars eius: igitur faciendo hoc et illud non 
+      <lb ed="#P" n="27"/>facit precise hoc.
+    </p>
+            <p xml:id="D78nca-e17573-d1e305">
+      ¶ Confirmatur. Deus nunc facit 
+      <lb ed="#P" n="28"/>causaliter. b. angelum: et facit causaliter. b. angelum 
+      <lb ed="#P" n="29"/>esse: aut igitur tanquam vnicum effectum eundem et pro 
+      <lb ed="#P" n="30"/>positum: aut vt duo distincta causabilia effectiue: et hoc 
+      <lb ed="#P" n="31"/>non: quia deus non posset causare aliquod positiuum 
+      <lb ed="#P" n="32"/>simplex: quin causaret necessario extra se plura po 
+      <lb ed="#P" n="33"/>sitiua etiam alterius rationis: quorum hoc non esset 
+      <lb ed="#P" n="34"/>realiter / et simpliciter illud. Si dicatur quod. b. angelum 
+      <lb ed="#P" n="35"/>esse non est causabile. 
+    </p>
+            <p xml:id="D78nca-e17573-d1e326">
+               <lb ed="#P" n="36"/>¶ Contra. omne positiuum incansabile est deus: quia vel est 
+      <lb ed="#P" n="37"/>deus vel dependens a deo / et exigens deum esse: igitur 
+      <lb ed="#P" n="38"/>est causabile effectiue.
+    </p>
+            <p xml:id="D78nca-e17573-d1e335">
+      ¶ Item. b. angelum esse est in 
+      <lb ed="#P" n="39"/>infinitum nobilius: quam. b. angelus: quia positiuum 
+      <lb ed="#P" n="40"/>actuale independens a deo / et incausabile igitur pro 
+      <lb ed="#P" n="41"/>portionabiliter deum esse esset in infinitum nobilius 
+      <lb ed="#P" n="42"/>quam deus.
+    </p>
+            <p xml:id="D78nca-e17573-d1e346">
+      ¶ Item. deus poterit sine contradictionem 
+      <lb ed="#P" n="43"/>producere. b. angelum absque hoc quod. b. angelus sit. pro 
+      <lb ed="#P" n="44"/>bo. Sit .a. hoc intelligibile significabile complexe: 
+      <lb ed="#P" n="45"/>quod est. b. angelum esse: tunc sic / positiuum absolu 
+      <lb ed="#P" n="46"/>tum quod non est a. nec dependens ab .a. nec inclu 
+      <lb ed="#P" n="47"/>dens .a. potest sine contradictione deus 
+      produce<lb ed="#P" n="48" break="no"/>re sine. a. Sed. b. angelus est positiuum absolutum 
+      <lb ed="#P" n="49"/>nec includit .a. quia vel neutrum includit alterum / vel 
+      <lb ed="#P" n="50"/>saltem .b. non includit .a. sed potius econtra: et ita ef 
+      <lb ed="#P" n="51"/>set prius: igitur. Maior patet quia inseparabilitas non 
+      <lb ed="#P" n="52"/>esset nisi vel propter identitatem vel propter inclu 
+      <lb ed="#P" n="53"/>sionem / vel propter dependentiam vel propter 
+      rela<lb ed="#P" n="54" break="no"/>tionem
+    </p>
+            <p xml:id="D78nca-e17573-d1e375">
+      ¶ Confirmatur: aut eadem productione / et 
+      destru<lb ed="#P" n="55" break="no"/>ctione producitur et destruitur. b. angelus: et. b. ang 
+      <lb ed="#P" n="56"/>lum esse aut alia et alia. Si primum / igitur sunt idem 
+      <lb ed="#P" n="57"/>secundum processum philosophi. 4o methaphisice vbi hoc 
+      <lb ed="#P" n="58"/>probatquod homo et ens homo / et vnus homo sunt idem 
+      <lb ed="#P" n="59"/>Si secundum / igitur deus potest producere hoc po 
+      <lb ed="#P" n="60"/>ductione propria non producendo illud productionem 
+      <lb ed="#P" n="61"/>alia / vel econtra: quia non sunt per se correlatiua: vel 
+      <lb ed="#P" n="62"/>quia aliter non posset deus producere rem simplice 
+      <lb ed="#P" n="63"/>et indiuisibilem / quin ponerentur plures productiones 
+      <lb ed="#P" n="64"/>quarum quelibet haberet proprium / et distinctum 
+      termi<lb ed="#P" n="65" break="no"/>num productum.
+    </p>
+            <p xml:id="D78nca-e17573-d1e401">
+      ¶ Item si. b. angelum esse includit .b. 
+      <lb ed="#P" n="66"/>angelum: et non est. b. angelus: igitur addit aliquid praeter .b. et vl 
+      <!--66.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>tra. b. illud non positio esse aliquid complexe vel incomplexe causibile. 
+      <lb ed="#P" n="68"/>Contra conclusiont. alhominem vel 
+      <lb ed="#P" n="69"/>Metrum esse 
+      <lb ed="#P" n="70"/>petrum esse petrum non est petrus: igitur deum esse tri 
+      <lb ed="#P" n="71"/>num / et vnum non est deus pari ratione. Antecedens 
+      <lb ed="#P" n="72"/>probatur: quia remoto petro per annichilationem ad 
+      <lb ed="#P" n="73"/>huc manet petrum esse hominem cum sit verum ne 
+      <lb ed="#P" n="74"/>cessarium: et similiter remoto asino manet asinum esse 
+      <lb ed="#P" n="75"/>animal iuxta determinationem domini cardinalis.
+    </p>
+            <p xml:id="D78nca-e17573-d1e430">
+      ¶ Secundo 
+      <lb ed="#P" n="76"/>petrum bene viuere non est petrum viuere: igitur 
+      pa<lb ed="#P" n="77" break="no"/>ri ratione in proposito. Antecedens probatur primo: quia 
+      <lb ed="#P" n="78"/>melius / et eligibilius aliquo non est idem illi. Sed be 
+      <lb ed="#P" n="79"/>ne viuere est melius / et eligibilius quam viuere secundum 
+      Ari<lb ed="#P" n="80" break="no"/>stotelem 3o thopicorum circa medium. Secundo. viuere 
+      <lb ed="#P" n="81"/>non est per se virtuosum / et laudabile: sed indifferens 
+      <lb ed="#P" n="82"/>sed bene viuere est ex se virtuosum / et laudabile. 
+    </p>
+            <p xml:id="D78nca-e17573-d1e449">
+               <lb ed="#P" n="83"/>¶ Tertio. petrum viuere est possibile cum influentia 
+      <lb ed="#P" n="84"/>dei generali vel influentia speciali: sed petrum 
+      be<lb ed="#P" n="85" break="no"/>ne viuere non est vniuersaliter possibile: igitur. 
+    </p>
+            <p xml:id="D78nca-e17573-d1e458">
+               <lb ed="#P" n="86"/>¶ Tertio principaliter. quod deum esse trinum / et vnum 
+      <lb ed="#P" n="87"/>non sit deum esse: quia deum esse est formaliter obiectine 
+      <lb ed="#P" n="88"/>certum / et scibile naturaliter vt per se obiectum 
+      certi<lb ed="#P" n="89" break="no"/>tudinis / et scientie: sed deum esse trinum / et vnum non 
+      <lb ed="#P" n="90"/>est formaliter certum: nec per se / et formaliter 
+      obie<lb ed="#P" n="91" break="no"/>ctum certitudinis et scientie: quia sciremus naturaliter 
+      <lb ed="#P" n="92"/>deum esse trinum et vnum.
+    </p>
+            <p xml:id="D78nca-e17573-d1e476">
+      ¶ Quarto Angelus est 
+      de<lb ed="#P" n="93" break="no"/>um esse et non est deus: igitur. Prima pars antecedentis 
+      <lb ed="#P" n="94"/>probatur. Angelus est esse deum aut non est esse deum 
+      <lb ed="#P" n="95"/>Si primum igitur est deum esse: si secundum / igitur 
+      sup<lb ed="#P" n="96" break="no"/>posita constantia subiecti angelus est non esse deum: 
+      <lb ed="#P" n="97"/>igitur angelus est deum non esse: quia non esse deum  
+      <lb ed="#P" n="98"/>et deum non esse conuertuntur: sicut esse deum / et deum 
+      <lb ed="#P" n="99"/>esse: sed consequens est falsum. scilicet angelus sit deum 
+      <lb ed="#P" n="100"/>non esse: quia deum non esse est impossibile: et quia faciens 
+      <lb ed="#P" n="101"/>angelum faceret deum non esse.
+    </p>
+            <p xml:id="D78nca-e17573-d1e498">
+      ¶ Confirmatur 
+      prin<lb ed="#P" n="102" break="no"/>cipale antecedens: aut a gelus est deum non esse: autem 
+      <lb ed="#P" n="103"/>non deum non esse: si primum. Contra vt prius: si se 
+      <lb ed="#P" n="104"/>cundum / igitur eum due negationes equipollent vni af 
+      <lb ed="#P" n="105"/>firmationi: sequitur quod angelus est deum esse 
+      <lb ed="#P" n="106"/>Negatur antecedens spe 
+    </p>
+            <p xml:id="D78nca-e17573-d1e511">
+               <lb ed="#P" n="107"/>¶ Ad primum cialiter existente petro. Ad  
+      <lb ed="#P" n="108"/>probationem: si petro annichillato illa foret falsa pe 
+      <lb ed="#P" n="109"/>trus est homo / vel petrus est petrus patet falsum 
+      <lb ed="#P" n="110"/>esse quod sumitur: quod scilicet remoto petro maneat petrum 
+      <lb ed="#P" n="111"/>esse hominem. Si vero sit vera tunc diceretur quod eti 
+      <lb ed="#P" n="112"/>am petro remoto verum est quod petrum esse hominem 
+      <lb ed="#P" n="113"/>est petrus. Et cum arguitur quod petro remoto 
+      ma<lb ed="#P" n="114" break="no"/>net et non remouetur petrum esse hominem. Dicen 
+      <lb ed="#P" n="115"/>dum quod petro remoto proprie loquendo remouetur pe 
+      <lb ed="#P" n="116"/>trum esse hominem: quia petrum esse hominem existe 
+      <lb ed="#P" n="117"/>bat et ponebatur realiter in actu: et postea non existit. 
+      <lb ed="#P" n="118"/>Sed large / et improprie loquendo diceretur non tol 
+      <lb ed="#P" n="119"/>li non quia maneat realiter in actu vt prius: sed quia 
+      <lb ed="#P" n="120"/>adhuc verum est petrum esse hominem: et consequen 
+      <lb ed="#P" n="121"/>ter isto modo petrum esse hominem remaneret 
+      pe<lb ed="#P" n="122" break="no"/>trus: sed hoc non esset secundum proprietatem rei aliquid 
+      <lb ed="#P" n="123"/>remanere: quia talis veritas hoc non exigeret. De 
+      <lb ed="#P" n="124"/>hoc dictum est aontra vltima questioe prologi.
+    </p>
+            <p xml:id="D78nca-e17573-d1e553">
+      ¶ Ad 
+      se<lb ed="#P" n="125" break="no"/>cundum negatur antecedens: sicut enim bene viuens est viuens 
+      <lb ed="#P" n="126"/>ita bene viuere est viuere.
+    </p>
+            <p xml:id="D78nca-e17573-d1e561">
+      ¶ Ad probationem 
+      pri<lb ed="#P" n="127" break="no"/>mam negatur de vi verbi quod bene viuere sit melius 
+      <lb ed="#P" n="128"/>quam viuere: sicut nec dicendum quod bene viuere sit melior 
+      <lb ed="#P" n="129"/>que viuens supposito quod terminus comparatiui gradus 
+      <lb ed="#P" n="130"/>confundat. mobiliter et distributiue terminum 
+      com<lb ed="#P" n="131" break="no"/>munem sequentem significantem terminum 
+      com<lb ed="#P" n="132" break="no"/>parationis
+    </p>
+            <p xml:id="D78nca-e17573-d1e577">
+      ¶ Philsophus autem intendit quod bens 
+      <!--67.xml-->
+      <pb ed="#P" n="28-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>viuere est melius quam viuere praecise absque bene viuere: 
+      <lb ed="#P" n="2"/>vt petrum bene viuere est melius quam sortem viuere 
+      <lb ed="#P" n="3"/>qui non bene viuit. Hec autem propositio / eligibilius est 
+      <lb ed="#P" n="4"/>bene viuere quam viuere potest habere duplicem sensum. 
+      <lb ed="#P" n="5"/>Unus est quod electio secundum quam formaliter eligitur be 
+      <lb ed="#P" n="6"/>ne viuere est potior / et praeferenda electioni secundum quam 
+      <lb ed="#P" n="7"/>eligitur formaliter absolute viuere: et hic sensus est 
+      <lb ed="#P" n="8"/>verus / et magis importatur quando terminus eligen 
+      <lb ed="#P" n="9"/>di praeponitur termino significanti obiectum 
+      eligibi<lb ed="#P" n="10" break="no"/>le dicendo magis eligendum est bene viuere quam 
+      eligen<lb ed="#P" n="11" break="no"/>dum sit viuere: et non infertur nisi distinctio / et diffe 
+      <lb ed="#P" n="12"/>rentia electionum. Alius sensus est illud quod rea 
+      <lb ed="#P" n="13"/>liter est bene viuere est eligibilius obiectum quam illud 
+      <lb ed="#P" n="14"/>quod est viuere: et quod nullum viuere est tam eligibile 
+      <lb ed="#P" n="15"/>quam aliquod bene viuere: et sic necatu. Et hic sensus 
+      <lb ed="#P" n="16"/>magis denotatur quando terminus obiecti eligibilis 
+      <lb ed="#P" n="17"/>preponitur: et terminus eligendi postponitur dicendo 
+      <lb ed="#P" n="18"/>bene viuere est melius / et eligibilius quam viuere. 
+      propor<lb ed="#P" n="19" break="no"/>tionabiliter est dicendum de istis duabus. Magis no 
+      <lb ed="#P" n="20"/>tum est mihi illud esse animal: quam notum mihi sit illud esse 
+      <lb ed="#P" n="21"/>hominem et illud esse animal est mihi magis notum 
+      <lb ed="#P" n="22"/>que illud esse hominem.
+    </p>
+            <p xml:id="D78nca-e17573-d1e634">
+      ¶ Ad secundam probationem 
+      <lb ed="#P" n="23"/>antecedentis / propositio sitiones sunt de actu signato / et ter 
+      <lb ed="#P" n="24"/>mini supponunt simpliciter virtute determinationum 
+      <lb ed="#P" n="25"/>additarum: ideo non infertur nisi distinctio 
+      praedica<lb ed="#P" n="26" break="no"/>bilium / vel non concluditur nisi negatiua de mo quod 
+      vi<lb ed="#P" n="27" break="no"/>uere non est per se / et ex se bene viuere.
+    </p>
+            <p xml:id="D78nca-e17573-d1e647">
+      ¶ Ad tertiam 
+      <lb ed="#P" n="28"/>per idem arguitur quod petrus bene viuens non est 
+      pe<lb ed="#P" n="29" break="no"/>trus viuens: quia petrum viuentem possibile est 
+      po<lb ed="#P" n="30" break="no"/>ni absque gratia speciali: non autem petrum bene vit 
+      <lb ed="#P" n="31"/>uentem.
+    </p>
+            <p xml:id="D78nca-e17573-d1e658">
+      ¶ Per idem etiam arguitur quod petrum esse 
+      <lb ed="#P" n="32"/>album non est petrum esse coloratum: quia petrum es 
+      <lb ed="#P" n="33"/>se coloratum est possibile poni sine albedine / et 
+      cir<lb ed="#P" n="34" break="no"/>cunscripta albedine: non autem petrum esse album 
+      <lb ed="#P" n="35"/>Dicendum igitur quod cum dicitur petrum banen viuere non est possibile 
+      <lb ed="#P" n="36"/>absque gratia dei / vel circuscripta gratia dei si hec additio 
+      <lb ed="#P" n="37"/>absque gratia dei / vel circumscripta gratia sit determinatio 
+      <lb ed="#P" n="38"/>dicti: sic conceditur maior / et minor: quia non est pos 
+      <lb ed="#P" n="39"/>sibile quod petrus bene viuat sine gratia dei sed tuno 
+      <lb ed="#P" n="40"/>illa additio habet poni in conclusione: quia se tenet 
+      <lb ed="#P" n="41"/>ex parte maioris / et minoris extremitatis / et 
+      conce<lb ed="#P" n="42" break="no"/>ditur sic conclusio: quia petrum bene viuere sine gra 
+      <lb ed="#P" n="43"/>tia non est petrum viuere sine gratia nec econtra 
+      <lb ed="#P" n="44"/>Si vero illa additio sit determinatio modi: sic 
+      ne<lb ed="#P" n="45" break="no"/>gatur minor: quia non posita actualiter gratia de 
+      <lb ed="#P" n="46"/>peciali adhuc est tunc verum quod petrum bene viue 
+      <lb ed="#P" n="47"/>re est possibile: vel potest dici quod minor est falsa in sen 
+      <lb ed="#P" n="48"/>su diuisionis. In sensu autem compositionis est ve  
+      <lb ed="#P" n="49"/>ra: et non concluditur nisi conclusio de possibili. 
+    </p>
+            <p xml:id="D78nca-e17573-d1e700">
+               <lb ed="#P" n="50"/>¶ Ad tertium principale / hec propositio deum est 
+      <lb ed="#P" n="51"/>le trinum / et vnum non est tibi certum habet 
+      dupli<lb ed="#P" n="52" break="no"/>cem sensum. Unus est: illud obiectiue quod vera 
+      <lb ed="#P" n="53"/>citer est deum esse trinum et vnum non est formali 
+      <lb ed="#P" n="54"/>ter obiectum certitudinis: et non est formaliter / et 
+      <lb ed="#P" n="55"/>simpliciter idem quod obiectiue certitudinaliter iu 
+      <lb ed="#P" n="56"/>dicas: et sic negatur. Alius sensus est. Non habens 
+      <lb ed="#P" n="57"/>actum certitudinis correspondentem / et conformen 
+      <lb ed="#P" n="58"/>sti propositioni deus est trinus / et vnus: ita quod hec 
+      <lb ed="#P" n="59"/>apprehensio in te formata non est cognitio certa fa 
+      <lb ed="#P" n="60"/>ciens assensum: et sic conceditur: et tunc non valer 
+      <lb ed="#P" n="61"/>discursus nisi ad inferendum distinctionem actuum 
+      <lb ed="#P" n="62"/>non in eo quod est deum esse et deum esse trinum / et 
+      <lb ed="#P" n="63"/>vnum. Iste secundus sensus magis denotatur: cum 
+      <lb ed="#P" n="64"/>terminus obiecti sequitur terminum cognoscendi 
+      <lb ed="#P" n="65"/>dicendo non es certus deum esse trinum / et vnum 
+    </p>
+            <p xml:id="D78nca-e17573-d1e738">
+               <lb ed="#P" n="66"/>¶ Ad quartum negatur prima pars antecedentis. 
+      <!--67.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>Ad probationem dicendum quod in hac propositione 
+      <lb ed="#P" n="68"/>ingelus est non esse deum. Si sit negatio infinitans 
+      <lb ed="#P" n="69"/>conceditur. Angelus enim est aliquid et non est hoc 
+      <lb ed="#P" n="70"/>quod est esse deum: et tunc non sequitur quod angelus 
+      <lb ed="#P" n="71"/>it deum non esse. Sicut angelus est non ens deus 
+      <lb ed="#P" n="72"/>nec tamen sequitur quod sit deus non ens. Si vero su 
+      <lb ed="#P" n="73"/>nitur negatio vt proprie / et pure negans: sic 
+      ne<lb ed="#P" n="74" break="no"/>gatur quod angelus sit non esse deum: quia importaret 
+      <lb ed="#P" n="75"/>per angelus esset: et quod esset non ens vel quod esset deus 
+      <lb ed="#P" n="76"/>non ens: et quod angelus esset / et deus non esset: et sic 
+      se<lb ed="#P" n="77" break="no"/>queretur quod angelus esset deum non esse. 
+      <lb ed="#P" n="78"/>Ad confirmationem: dicendum quod angelus non 
+      <lb ed="#P" n="79"/>est deum non esse. Et eum dicitur quod due negationes 
+      <lb ed="#P" n="80"/>equipollent vni affirmationi: dicendum quod non est 
+      <lb ed="#P" n="81"/>vniuersaliter verum due negationes qualitercunque 
+      <lb ed="#P" n="82"/>posite in propositione / equiualent affirmationi ex 
+      <lb ed="#P" n="83"/>eisdem terminis. Sicut non sequitur Ego non 
+      vi<lb ed="#P" n="84" break="no"/>dleo lignum non album: igitur video lignum album 
+      <lb ed="#P" n="85"/>Similiter non sequitur petrus non est lignum non 
+      <lb ed="#P" n="86"/>album: igitur petrus est lignum album. Similiter 
+      <lb ed="#P" n="87"/>non sequitur petrus non bonus currit non 
+      veloci<lb ed="#P" n="88" break="no"/>ter: igitur petrus bonus currit velociter. Quando 
+      <lb ed="#P" n="89"/>igitur in propositione ponuntur due negationnes sic 
+      <lb ed="#P" n="90"/>yr prima preponitur totali subiecto: et secunda pre 
+      <lb ed="#P" n="91"/>ponitur immediate verbo facienti compositionem 
+      <lb ed="#P" n="92"/>rincipalem: tunc equipollent vni affirmationi. 
+      <lb ed="#P" n="93"/>Si vero prima negatio ponatur inter partes subie 
+      <lb ed="#P" n="94"/>cti: vel secunda negatio ponatur inter partes 
+      pre<lb ed="#P" n="95" break="no"/>licati tunc non equiualent affirmationi: vt non se 
+      <lb ed="#P" n="96"/>quitur petrus non albus est non currens: igitur pe 
+      <lb ed="#P" n="97"/>trus albus est currens. Si vero prima negatio praepo 
+      <lb ed="#P" n="98"/>natur immediate copule / et secunda negatio 
+      postpo<lb ed="#P" n="99" break="no"/>natur immediate copule: tunc due negationes equi 
+      <lb ed="#P" n="100"/>pollent vni affirmationi supposita duplici conditio 
+      <lb ed="#P" n="101"/>ne. Prima est constantia subiecti / seu rei significate per 
+      <lb ed="#P" n="102"/>subiectum. Si enim petrus non sit: non sequitur tunc 
+      <lb ed="#P" n="103"/>petrus non est non currens: igitur petrus est currens. Pri 
+      <lb ed="#P" n="104"/>ma enim est tunc vera: quia eius contradictoria est 
+      <lb ed="#P" n="105"/>falsa: scilicet petrus est non currens. Secunda conditio quod 
+      <lb ed="#P" n="106"/>quamuis in figura loquendi secunda negatio postponatur 
+      <lb ed="#P" n="107"/>immediate copule cum implicite / et equiualenter non 
+      <lb ed="#P" n="108"/>contineat sensum secundum quem negatio poneretur 
+      <lb ed="#P" n="109"/>post copulam mediate. sicut licet angelus sit / hec est 
+      <lb ed="#P" n="110"/>vera hic angelus non est nullum asinum esse nec ex 
+      <lb ed="#P" n="111"/>hoc sequitur: ergo hic angelus est aliquem asinum esse 
+      <lb ed="#P" n="112"/>Prima autem est vera vt ly nullum asinum esse resolui 
+      <lb ed="#P" n="113"/>tur et exponitur per istam hunc asinum non esse et illum asi 
+      <lb ed="#P" n="114"/>num non esse etc.
+    </p>
+            <p xml:id="D78nca-e17573-d1e851">
+      ¶ Consimiliter in proposito / hec 
+      pro<lb ed="#P" n="115" break="no"/>positio angelus non est non esse deum: conceditur vt est ne 
+      <lb ed="#P" n="116"/>gatio proprie / et pure negans: vt equiualet isti angelus 
+      <lb ed="#P" n="117"/>non est nullum deum esse. quia non est hunc deum non esse
+    </p>
+            <p xml:id="D78nca-e17573-d1e860">
+               <lb ed="#P" n="118"/>Secunda conclusio. Omnis 
+      propositio<lb ed="#P" n="119" break="no"/>nis simpliciter af 
+      <lb ed="#P" n="120"/>firmatiue vere de inesse et de praesenti / et praedicationis pro 
+      <lb ed="#P" n="121"/>prie / et directe subnmum vere affirmatur de dicto 
+      equi<lb ed="#P" n="122" break="no"/>ualente / seu correspondente illi propositioni: vt si pe 
+      <lb ed="#P" n="123"/>trus sit albus: petrum esse album est petrus: et petrum 
+      <lb ed="#P" n="124"/>esse filium pauli est ipse petrus: probatur petrum est 
+      <lb ed="#P" n="125"/>se album est petrum realiter / et actualiter existere album 
+      <lb ed="#P" n="126"/>t hoc est petrum existere et esse: et hoc est petrus vt 
+      <lb ed="#P" n="127"/>probatum est in superioribus. 
+    </p>
+            <p xml:id="D78nca-e17573-d1e884">
+               <lb ed="#P" n="128"/>¶ Confirmatur petrum esse hoc album / est hoc 
+      al<lb ed="#P" n="129" break="no"/>dum esse petrum: et hoc est esse petrum: et hoc est 
+      pe<lb ed="#P" n="130" break="no"/>trum esse: et hoc est petrus.
+    </p>
+            <p xml:id="D78nca-e17573-d1e893">
+      ¶ Preterea quod lignum 
+      <lb ed="#P" n="131"/>esse hoc album sit hoc album. probatur sic quod est idem 
+      <lb ed="#P" n="132"/>huic albo est hoc album: sed lignum esse hoc album est 
+      <!--68.xml-->
+      <pb ed="#P" n="29-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>idem huic albo. probo. quia lignum esse hoc album est lignum 
+      <lb ed="#P" n="2"/>esse idem huic albo. Sed esse idem huic albo est idem 
+      <lb ed="#P" n="3"/>huic albo. quia esse idem ipsi .b. est idem ipsi .b. non enim est 
+      <lb ed="#P" n="4"/>distinctum ab ipso .b. quia esse idem alicui esset esse distinctum 
+      <lb ed="#P" n="5"/>ab illo et illud cui conueniret esse idem cum .b. esset distinctum 
+      <lb ed="#P" n="6"/>ab ipso .b.
+    </p>
+            <p xml:id="D78nca-e17573-d1e919">
+      ¶ Preterea. quod est hoc corpus est hoc 
+      <lb ed="#P" n="7"/>album est identitas huius corporis ad hoc album 
+      <lb ed="#P" n="8"/>est hoc corpus esse hoc album: sed corpus album est huiusmodi 
+      <lb ed="#P" n="9"/>igitur. maior patet. quia corpus esse album non dicit nisi 
+      cor<lb ed="#P" n="10" break="no"/>pus et album et vnitatem seu identitatem corporum ad album. 
+      <lb ed="#P" n="11"/>Copula enim non importat vltra extrema nisi iden 
+      <lb ed="#P" n="12"/>titatem vel vnitatem huius ad hoc. minor probatur. quod 
+      <lb ed="#P" n="13"/>vnumquodque est vnitas et identitas secundum quam est vni 
+      <lb ed="#P" n="14"/>et idem ei cui est vnum et idem.
+    </p>
+            <p xml:id="D78nca-e17573-d1e940">
+      ¶ Preterea. lignum esse 
+      al<lb ed="#P" n="15" break="no"/>bum est esse album: sed esse album est album. igitur lignum 
+      <lb ed="#P" n="16"/>esse album est album et non aliud a ligno. igitur est lignum 
+      <lb ed="#P" n="17"/>minor principalis. et quod esse album sit album. probatur multi 
+      <lb ed="#P" n="18"/>pliciter. Primo. quia esse album est esse. igitur est album 
+      <lb ed="#P" n="19"/>antecedens patet: quia non sibi conuenit non esse. consequentia probatur. quia 
+      <lb ed="#P" n="20"/>in hoc quod dico esse album non minus per se et formaliter 
+      in<lb ed="#P" n="21" break="no"/>cluditur album quam esse
+    </p>
+            <p xml:id="D78nca-e17573-d1e958">
+      ¶ Secundo. quod non est album non 
+      <lb ed="#P" n="22"/>est esse album: sed per te esse album non est album. igitur 
+      <lb ed="#P" n="23"/>esse album non est esse album. conclusio est falsa. et non 
+      <lb ed="#P" n="24"/>maior. igitur minor. maior probatur. tum per locum a to 
+      <lb ed="#P" n="25"/>to in modo: quia esse album non est aggregatum ex deter 
+      <lb ed="#P" n="26"/>minabili et determinatione distrahente. Tum quia quod non 
+      <lb ed="#P" n="27"/>est album non est ens album. igitur quod non est album 
+      <lb ed="#P" n="28"/>non est esse album. consequentia probatur. quia esse album non ma 
+      <lb ed="#P" n="29"/>gis componitur ex determinabili et determinatione di 
+      <lb ed="#P" n="30"/>strahente quam ens album. Tum quia quod non est esse non 
+      <lb ed="#P" n="31"/>est esse album. igitur quod non est album non est esse album 
+      <lb ed="#P" n="32"/>nec est album esse. consequentia probatur. quia sicut ly album non 
+      di<lb ed="#P" n="33" break="no"/>strahit de esse. ita esse non distrahit de albo. quia 
+      albu<lb ed="#P" n="34" break="no"/>staret cum non esse.
+    </p>
+            <p xml:id="D78nca-e17573-d1e989">
+      ¶ Tertio. probatur idem. scilicet quod esse al 
+      <lb ed="#P" n="35"/>bum sit album accipiendo semper esse verbaliter. Sic 
+      <lb ed="#P" n="36"/>aut hoc quod dico esse album est aggregatum ex 
+      deter<lb ed="#P" n="37" break="no"/>minabili et deterinnatione seu additione distrahente et 
+      <lb ed="#P" n="38"/>diminuente aut non. Si secundum. igitur pars verificar 
+      <lb ed="#P" n="39"/>de toto. Si primum. igitur de quocumque verificatur illed 
+      <lb ed="#P" n="40"/>aggregatum verificatur altera pars licet non vtraque 
+      <lb ed="#P" n="41"/>patet. de quocumque enim verificatur esse hominem mortuum ve 
+      <lb ed="#P" n="42"/>rificatur esse hominem vel esse mortuum. et de quocumque ve 
+      <lb ed="#P" n="43"/>rificatur esse hominem in potentia seu in opinione veri 
+      <lb ed="#P" n="44"/>ficatur esse hominem vel esse in potentia seu in opinione 
+      <lb ed="#P" n="45"/>igitur cum esse album verificetur de hoc quod est lignum 
+      <lb ed="#P" n="46"/>esse album. sequitur quod lignum esse album sit album et ha 
+      <lb ed="#P" n="47"/>petur propositum. vel est esse et non album. igitur est esse 
+      <lb ed="#P" n="48"/>non album et per consequens esse album est esse non album.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1022">
+      ¶ Pre 
+      <lb ed="#P" n="49"/>terea. petrum esse album est aliqua entitas simplex vel 
+      <lb ed="#P" n="50"/>composita vel alique entitates. quia existit et ponitur 
+      <lb ed="#P" n="51"/>actualiter et presentialiter alicubi in certo loco in quo 
+      <lb ed="#P" n="52"/>etiam videtur ab angelo. et quia est effectus causalita 
+      <lb ed="#P" n="53"/>tis effectiue: aut igitur est ipsa res que est petrus a 
+      <lb ed="#P" n="54"/>bus et habetur propositum / aut est ipsa res que est albe 
+      <lb ed="#P" n="55"/>do et hoc non. quia si ponatur esse altera istarum duarum re 
+      <lb ed="#P" n="56"/>rum conuenientius ponitur esse petrus ens albus quam 
+      <lb ed="#P" n="57"/>esse albedo. quia petrum esse hominem album est esse hominem 
+      <lb ed="#P" n="58"/>album. hoc autem non conuenit albedini sed petro. aut est 
+      <lb ed="#P" n="59"/>compositum ex petro et albedine et hoc non. primo. quia 
+      <lb ed="#P" n="60"/>esse petrum esset illud compositum. probo. quia petrum esse hoc 
+      <lb ed="#P" n="61"/>album est hoc album esse petrum et hoc est esse petrum. Sed 
+      <lb ed="#P" n="62"/>cundo. quia tunc albedinem inherere petro non esset al 
+      <lb ed="#P" n="63"/>pedo inherens petro: sed esset illud idem compositum 
+      <lb ed="#P" n="64"/>et ille due res simul iuncte. Ex quo sequitur quod petrum 
+      <lb ed="#P" n="65"/>esse album et albedinem inherere petro sint idem forma 
+      <lb ed="#P" n="66"/>liter et simpliciter. Sed hoc est falsum. tum quia esse subis 
+      <!--68.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>ctum albedinis et inherere essent idem et sustentare ac  
+      <lb ed="#P" n="68"/>cidens et dependere per modum accidentis essent idem. Tum 
+      <lb ed="#P" n="69"/>quia albedinem esse et petrum esse essent idem. quia albedinem 
+      <lb ed="#P" n="70"/>esse inherentem est albedinem esse et petrum esse subiectum 
+      <lb ed="#P" n="71"/>albedinis est petrum esse.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1079">
+      ¶ Tertio. non potest poni 
+      ta<lb ed="#P" n="72" break="no"/>le compositum in aliis probationibus vt hoc esse maius 
+      <lb ed="#P" n="73"/>illo. quero igitur. an hoc esse maius illo sit hoc ens 
+      ma<lb ed="#P" n="74" break="no"/>ius illo et habetur propositum vel est illud minus. Et patet 
+      <lb ed="#P" n="75"/>quod non. aut est hoc et illud simul sumpta. Sed contra 
+      <lb ed="#P" n="76"/>quia illud esse minus isto esset pari ratione iste due res. igitur 
+      <lb ed="#P" n="77"/>hoc esse maius et illud esse minus essent idem. et esse idem 
+      <lb ed="#P" n="78"/>maiori esset esse idem minori. quia esse maius est esse idem. 
+      <lb ed="#P" n="79"/>maiori et excedere esset excedi. et esse nobilius esset esse 
+      <lb ed="#P" n="80"/>ignobilius et perfectius esset imperfectius. Et per idem 
+      <lb ed="#P" n="81"/>arguitur. quod hoc distare ab illo vel hoc locari ab ille 
+      <lb ed="#P" n="82"/>vel hoc esse superius illo non sit hec plures res sic 
+      <lb ed="#P" n="83"/>se habentes quia esset hec res. igitur locari esset locare 
+      <lb ed="#P" n="84"/>esse locum esset esse locatum et esse sursum esset esse deor 
+      <lb ed="#P" n="85"/>sum. patet per sillogismum expositorium. quia quodlibet esset 
+      <lb ed="#P" n="86"/>hec res sit se habentes. 
+      <lb ed="#P" n="87"/> primo .a. subiectum fiat de albo nigrum. 
+      <lb ed="#P" n="88"/>Contra. Tunc sic .a. non cedit nec vertitur in 
+      <lb ed="#P" n="89"/>suum oppositum nec ei succedit suum oppositum scilicet a. esse 
+      <lb ed="#P" n="90"/>nigrum. igitur a. esse album non est. a. Deductio patet. quia 
+      <lb ed="#P" n="91"/>quod vertitur in suum oppositum non est illud quod non 
+      <lb ed="#P" n="92"/>vertitur in suum oppositum.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1127">
+      ¶ Confirmatur .a. non 
+      op<lb ed="#P" n="93" break="no"/>nitur nec repugnat huic quod est .a. esse nigrum. Sed 
+      <lb ed="#P" n="94"/>a. esse album opponitur et repugnat huic quod est .a. esse 
+      <lb ed="#P" n="95"/>nigrum. sunt enim incompossibilia. igitur.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1137">
+      ¶ Secundo. a. 
+      <lb ed="#P" n="96"/>esse album seu esse album est terminus ad quem 
+      altera<lb ed="#P" n="97" break="no"/>ctionis motus. Sed .a. vel a. esse non est terminus ad  
+      <lb ed="#P" n="98"/>quem alterationis. quia preerat. et quia non opponitur termi 
+      <lb ed="#P" n="99"/>no a quo: sed est subiectum commune vtrique termino. igitur 
+      <lb ed="#P" n="100"/>maior patet. 7. et. 8. metha. forma non est per se termi 
+      <lb ed="#P" n="101"/>nus ad quem nec per se terminus a quo nec per se fit 
+      <lb ed="#P" n="102"/>Sed lignum esse album ex ligno nigro fit.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1155">
+      ¶ Tertio 
+      <lb ed="#P" n="103"/>quod est naturaliter prius aliquo non est illud sed distin 
+      <lb ed="#P" n="104"/>guitur ab illo. Sed petrus et petrum esse est 
+      natura<lb ed="#P" n="105" break="no"/>liter prius quampetrum esse album. igitur. vel sic. patrus pre 
+      <lb ed="#P" n="106"/>supponitur albedini tamquam subiectum petrum esse album 
+      <lb ed="#P" n="107"/>et album non presupponitur albedini igitur. per idem 
+      <lb ed="#P" n="108"/>otest argui in multis.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1171">
+      ¶ Confirmatur .a. esse causam 
+      <lb ed="#P" n="109"/>ipsius .b. causati non est .a. probo. quia .a. est naturaliter prius 
+      <lb ed="#P" n="110"/>quam sit .b. causari. Sed .a. esse causam ipsius .b. non est 
+      <lb ed="#P" n="111"/>naturaliter prius quam .b. causari. immo sunt simul natura 
+      <lb ed="#P" n="112"/>quia sunt correlatiua et simul sunt et non sunt. 2. phi.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1182">
+      ¶ Quat 
+      <lb ed="#P" n="113"/>to. quod causatur effective ab aliquo a quo non causatur 
+      <lb ed="#P" n="114"/>. non est. a. sed a. esse calidum causatur effective ab e. 
+      calefa<lb ed="#P" n="115" break="no"/>ctiuo. quia e. facit causaliter a. esse calidum. sed a. vel esse a. non 
+      <lb ed="#P" n="116"/>causatur effective ab. e. sed a. esse calidum est effectiue ab e. 
+      <lb ed="#P" n="117"/>igitur. Unte potest sic argui .a. non est effectiue ab. e. igitur 
+      <lb ed="#P" n="118"/>a. esse calidum non est. a. Eodem modo. sit. o. illud a quo 
+      <lb ed="#P" n="119"/>generatum est prius substantialiter .a. Tunc sic .a. est cau 
+      <lb ed="#P" n="120"/>satum effectiue ab. o. Sed .a. esse calidum non est cau 
+      <lb ed="#P" n="121"/>satum effectiue ab .o. immo contingit .o. tunc non esse 
+      <lb ed="#P" n="122"/>igitur.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1206">
+      ¶ Quinto .a. vel a. esse non est effectus forma 
+      <lb ed="#P" n="123"/>lis ipsius albedinis. sed .a. esse album est effectus 
+      for<lb ed="#P" n="124" break="no"/>malis ipsius albedinis. et albedo est causa formalis 
+      <lb ed="#P" n="125"/>illius. igitur.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1215">
+      ¶ Sexto. sequitur quod .a. esse hominem. et 
+      <lb ed="#P" n="126"/>a. esse album. et a. esse calidum. et .a. ee quadratum. et .a. esse 
+      <lb ed="#P" n="127"/>sursum. etc. omnia ista essent idem simpliciter. consequentia patet. quia 
+      <lb ed="#P" n="128"/>essent idem ipsi a. falsitas consequentis probatur multipliciter 
+      <lb ed="#P" n="129"/>Primo. quia hoc causatur effectiue ab aliquo a quo 
+      <lb ed="#P" n="130"/>non causatur illud vt supra .a. enim esse album causatur 
+      <lb ed="#P" n="131"/>ab. e. effectiuo albefactiuo. et a. esse calidum causatur ab 
+      <lb ed="#P" n="132"/>o. calefactimo. et a. esse quadratum causatur ab arte. etc. 
+      <!--69.xml-->
+      <pb ed="#P" n="29-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>aliquod enim agens fecit a. esse album. et aliud agens fecit .a 
+      <lb ed="#P" n="2"/>esse calidum. etc.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1245">
+      ¶ Secundo .a. esse album est terminus par 
+      <lb ed="#P" n="3"/>se dealbationis non calefactionis. sed .a. esse calidum est 
+      <lb ed="#P" n="4"/>per se terminus calefactionis non dealbationis. etc. igi 
+      <lb ed="#P" n="5"/>tur.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1254">
+      ¶ Tertio. vnum est causa alicuius cuius reliquum 
+      <lb ed="#P" n="6"/>non est causa et vnum assignatur conuenienter causa et 
+      <lb ed="#P" n="7"/>propter quid alicuius cuius non est reliquum. Si enim .a. sit 
+      <lb ed="#P" n="8"/>album et calidum et calefaciat .b. tunc .a. est causa calorum 
+      <lb ed="#P" n="9"/>b. non. quia a. sit album / sed quia sit calidum. Similiter pe 
+      <lb ed="#P" n="10"/>trum esse hominem. non est per se causa et ratio sufficiens 
+      <lb ed="#P" n="11"/>vituperii / et punitionis / sed ipsum esse adulterum vel 
+      ho<lb ed="#P" n="12" break="no"/>micidam et petrus diligitur a ine. quia est propinquus vel 
+      <lb ed="#P" n="13"/>bonus non quia est simus vel niger.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1274">
+      ¶ Quarto. esse 
+      al<lb ed="#P" n="14" break="no"/>bum datur ipi .a. formaliter per albedinem: sed esse 
+      cali<lb ed="#P" n="15" break="no"/>dum non datur ipsi .a. formaliter per albedinem. et econ 
+      <lb ed="#P" n="16"/>tra. esse calidum datur formaliter ipi .a. per calefactionem 
+      <lb ed="#P" n="17"/>sed non esse album. igitur.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1285">
+      ¶ Confirmatur. forme distin 
+      <lb ed="#P" n="18"/>cte habent per se effectus formales distinctos. igitur 
+      <lb ed="#P" n="19"/>tur dant formaliter esse distincta.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1292">
+      ¶ Quinto .a. esse album 
+      <lb ed="#P" n="20"/>est possibile sine calore / vel circumscripto calore. sed 
+      <lb ed="#P" n="21"/>a. esse calidum non est sic possibile.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1299">
+      ¶ Sexto. idem esset 
+      <lb ed="#P" n="22"/>petrum sentire et intelligere et diligere. patet. quia essent idem 
+      <lb ed="#P" n="23"/>ipsi petro. consequens est falsum. quia sentire est per sensum non 
+      <lb ed="#P" n="24"/>per intellectum. Similiter. sentire est organicum et est 
+      <lb ed="#P" n="25"/>ignobilius quam intelligere. Similiter. diligere est liberum 
+      <lb ed="#P" n="26"/>et meritorium. non autem sentire. et quia melius sentire non est 
+      <lb ed="#P" n="27"/>melius intelligere. nec est melius diligere
+    </p>
+            <p xml:id="D78nca-e17573-d1e1316">
+      ¶ Confirmatur. 
+      <lb ed="#P" n="28"/>diligere et odire essent idem sicut idem est odies et diligens et 
+      <lb ed="#P" n="29"/>odire et odiri sicu / idem est odiens et oditus. consequens est falsum 
+      <lb ed="#P" n="30"/>quia diligi et odiri non est in potestate tua / sed diligere et odire quod 
+      <lb ed="#P" n="31"/>iterum consequens sit falsum. etiam respectu diuersorum 
+      obiecto<lb ed="#P" n="32" break="no"/>rum. quia diligere .b. potest esse licitum. et odire .c. est illicitum 
+      <lb ed="#P" n="33"/>et prohibitum ex quo potest sic argui.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1332">
+      ¶ Septimo. 
+      pe<lb ed="#P" n="34" break="no"/>trum diligere .b. est bonum et preceptum vel licitum et lau 
+      <lb ed="#P" n="35"/>dabile: sed petrum esse vel currere / vel esse album vel esse 
+      <lb ed="#P" n="36"/>ebriosum / non est bonum / vel preceptum vel laudabile 
+      <lb ed="#P" n="37"/>sed prohibitum et vituperabile. igitur. vnde non videtur 
+      <lb ed="#P" n="38"/>phiberi vel precipi per se et directe nisi complexe si 
+      <lb ed="#P" n="39"/>gnificabile et non aliqua res incomplexe significabilite 
+      <lb ed="#P" n="40"/>quia idem preciperetur et prohiberetur.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1350">
+      ¶ Confirmatur. petrum 
+      <lb ed="#P" n="41"/>esse peccatorem est oditum et reprobatum a deo et non est 
+      <lb ed="#P" n="42"/>a deo. nec deo imputandum. Sed petrum esse hominem. est a 
+      <lb ed="#P" n="43"/>deo nec a deo reprobatum: immo deo ascribendum. igitur. 
+    </p>
+            <p xml:id="D78nca-e17573-d1e1359">
+               <lb ed="#P" n="44"/>¶ Ex quo vltra arguitur ad principale. quod b. actum actu 
+      <lb ed="#P" n="45"/>positiuu esse malum et viciosum non est b. actus positiuus 
+      <lb ed="#P" n="46"/>quia deus est causa illius positiui et dat illi esse illud quod 
+      <lb ed="#P" n="47"/>est cum sit quedam bonitas naturalis. sed deus non 
+      <lb ed="#P" n="48"/>facit causaliter hunc actum esse malum nec est causa qua 
+      <lb ed="#P" n="49"/>re actus sit malus. quia esset causa peccati vt peccatum 
+      <lb ed="#P" n="50"/>est et culpa / vt culpa esset referenda in deum et attribu 
+      <lb ed="#P" n="51"/>da et imputanda deo.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1379">
+      ¶ Octauo. petrum esse audientem 
+      <lb ed="#P" n="52"/>et petrum esse cecum essent idem. consequentia patet. quia essent idem petro 
+      <lb ed="#P" n="53"/>consequens est falsum. quia habere sensum auditus est ei bonum 
+      <lb ed="#P" n="54"/>naturale. Sed esse cecum et priuatum visu / est ei malum 
+      <lb ed="#P" n="55"/>naturale et est imperfici. Eodem modo de scientia et 
+      igno<lb ed="#P" n="56" break="no"/>rantia in anima respectu diuersorum.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1392">
+      ¶ Nono. idem esset 
+      <lb ed="#P" n="57"/>mouere et moueri: agere et pati. consequens est contra philosophum 
+      <lb ed="#P" n="58"/>3o. phisi. et quia agere est nobilius quam pati: sed agens non 
+      <lb ed="#P" n="59"/>semper est nobilius patiente. tum quia interdum idem. Ti 
+      <lb ed="#P" n="60"/>quia interdum est ignobilius vt cum aqua corrumpit ignem. 
+    </p>
+            <p xml:id="D78nca-e17573-d1e1404">
+               <lb ed="#P" n="61"/>¶ Decimo. <ref xml:id="D78nca-e17573-Rd1e1408">Aug. 5 de trini. c. 4.</ref> humano animo non 
+      <lb ed="#P" n="62"/>est hoc esse quod fortem esse aut prudentem esse aut iustum 
+      <lb ed="#P" n="63"/>aut temperantem. potest enim esse animus et nullam istarum 
+      <lb ed="#P" n="64"/>habere virtutem. Et cap. 5 in anima aliud est artificio 
+      <lb ed="#P" n="65"/>sum esse aliud acutum esse aliud memorem esse. patet igitur 
+      <lb ed="#P" n="66"/>multipliciter falsitas consequentis.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1423">
+      ¶ Septimo principaliter 
+      <!--69.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>contra conclusionem peccatum intelligi prohiberi 
+      vitupe<lb ed="#P" n="68" break="no"/>rari / puniri esset peccatum.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1434">
+      ¶ Confirmatur. falsum esse 
+      fal<lb ed="#P" n="69" break="no"/>sum vel opponi vero esset falsum.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1439">
+      ¶ Octauo 
+      princi<lb ed="#P" n="70" break="no"/>paliter .a. corpus esse album est compositum ex corpore 
+      <lb ed="#P" n="71"/>et albedine. igitur non est corpus. consequentia patet. quia corpus non 
+      <lb ed="#P" n="72"/>est compositum ex corpore et albedine. antecedens probatur. tum  
+      <lb ed="#P" n="73"/>quia contradictio est opponi vel intelligi sine illo et econ 
+      <lb ed="#P" n="74"/>tra. Tum quia vtrunque est terminus totalis alterationis 
+      <lb ed="#P" n="75"/>non sunt autem duo termini totales.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1455">
+      ¶ Nono .a. non esse 
+      <lb ed="#P" n="76"/>album non est .a. non album. licet propositio sit vera. igitur .a 
+      <lb ed="#P" n="77"/>esse album non est .a. album licet propositio sit vera. consequentia patet. quia 
+      <lb ed="#P" n="78"/>proportio nabiliter se habent .a. non esse album ad .a. non 
+      <lb ed="#P" n="79"/>album. et .a. esse album ad .a. album. et sicut propositio affirmatima 
+      <lb ed="#P" n="80"/>ad dictum affirmatiuum conforme et correspondens. sic nega 
+      <lb ed="#P" n="81"/>tiua ad negatiuum. et quia si petrus albus et petrum esse 
+      al<lb ed="#P" n="82" break="no"/>bum conuertuntur. igitur proportionabiliter petrus non 
+      <lb ed="#P" n="83"/>albus et petrum non esse albu conuertuntur. antecedens probatur 
+      <lb ed="#P" n="84"/>primo. quia petrum non esse album ponitur destructo petro. 
+      <lb ed="#P" n="85"/>quia tunc verum est petrum non esse album et ita ponitur in re 
+      <lb ed="#P" n="86"/>sicut huiusmodi significat propositio. Sed petrus non albus non 
+      <lb ed="#P" n="87"/>poneretur tunc. quia petrus non albus est petrus aliuo 
+      <lb ed="#P" n="88"/>colore coloratus et ita hoc intelligibile est positiuum non 
+      <lb ed="#P" n="89"/>autem illud. Secundo. quia .b. asinus non est petrus non albus 
+      <lb ed="#P" n="90"/>et tamen est petrum non esse album. probo dupliciter. Pri 
+      <lb ed="#P" n="91"/>mo .b. asinus est nullum hominem esse album. igitur est hunc 
+      <lb ed="#P" n="92"/>homiem scilicet petrum non esse album. antecedens probatur. quia nullu 
+      <lb ed="#P" n="93"/>hominem ese album est b. asinus. quia contradictoria huius 
+      <lb ed="#P" n="94"/>est falsa. igitur .b. asinus est nullum hominem esse album 
+      <lb ed="#P" n="95"/>consequentia probatur per locum a toto in quantitate. quia nullum 
+      <lb ed="#P" n="96"/>hominem esse album et hunc hominem vel aliquem hominem 
+      <lb ed="#P" n="97"/>non esse album. se habent proportionabiliter. sicut omnem 
+      <lb ed="#P" n="98"/>pominem esse album et hunc hominem vel aliquem hominem 
+      <lb ed="#P" n="99"/>esse album. Secundo .b. asinus non est petrum esse albume 
+      <lb ed="#P" n="100"/>igitur est petrum non esse album. consequentia probatur. Tum quia 
+      <lb ed="#P" n="101"/>supposita constantia subiecti ad negatiuam de extre 
+      <lb ed="#P" n="102"/>mo affirmatiuo sequitur affirmatiua de extremo ne 
+      <lb ed="#P" n="103"/>gato vel infinitato. Tum quia alterum contradictoriorum dicitur de 
+      <lb ed="#P" n="104"/>ilibet subiecto supponente pro ente actum existente.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1520">
+      ¶ De 
+      <lb ed="#P" n="105"/>cimo principaliter. omnem hominem esse album et omnis homo 
+      <lb ed="#P" n="106"/>albus non sunt idem. igitur proportionaliter petrum esse al 
+      <lb ed="#P" n="107"/>bum. et petrus albus non sunt idem. quia proportionaliter se 
+      <lb ed="#P" n="108"/>habent hec et illa. antecedens probatur. quia omnem hominem esse 
+      al<lb ed="#P" n="109" break="no"/>bum non ponitur modo in actu. quia verum esset omnem ho 
+      <lb ed="#P" n="110"/>minem esse album et per consequens omnis homo esset albus cuius 
+      <lb ed="#P" n="111"/>oppositum nunc supponitur. Sed omnis homo albus po 
+      <lb ed="#P" n="112"/>nitur in re et est aliquid existens in actu quamuis vnus tantum 
+      <lb ed="#P" n="113"/>homo sit albus. vel duo. probo. quia petrus albus est 
+      ali<lb ed="#P" n="114" break="no"/>quid in actu et plato similiter. Sed possibile est quod omnis 
+      <lb ed="#P" n="115"/>homo albus sit petrus vel plato.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1547">
+      ¶ Confirmatur. 
+      <lb ed="#P" n="116"/>omnem albedinem inherere petro et omnis albedo inherens 
+      <lb ed="#P" n="117"/>petro non sunt idem. probo. quia omnem albedinem inherere 
+      <lb ed="#P" n="118"/>etro est naturaliter impossibile. Sed omnis albedo 
+      in<lb ed="#P" n="119" break="no"/>perens petro est possibilis et est aliquid naturaliter. quia 
+      <lb ed="#P" n="120"/>a. albedo est omnis albedo inherens petro. igitur 
+      <lb ed="#P" n="121"/>per idem arguitur quod corpus non es 
+      <lb ed="#P" n="122"/>Ad primum album. et quod esse corpus album 
+      <lb ed="#P" n="123"/>non est. esse corpus. et quod album non est sua similitudo. 
+      <lb ed="#P" n="124"/>Dicendum igitur. quod hec propositio album seu .a. esse album 
+      ce<lb ed="#P" n="125" break="no"/>dit vel succedit suo opposito vel vertitur in suum op 
+      <lb ed="#P" n="126"/>positum est distinguenda secundum compositionem et diuisio 
+      <lb ed="#P" n="127"/>nem. quia equiualet isti album desinit vel incipit nigrum 
+      <lb ed="#P" n="128"/>fieri: que est falsa in sensu diuisionis / ratione propositionis 
+      <lb ed="#P" n="129"/>negatiue de praeterito vel futuro quam implicat. quia illud 
+      <lb ed="#P" n="130"/>quod erat album non desinit esse nec eius oppositum in 
+      <lb ed="#P" n="131"/>cipit esse sed erit postea. In sensu autem compositionis 
+      <lb ed="#P" n="132"/>vera est. quia prius est verum quod album est et postea non est 
+      <!--70.xml-->
+      <pb ed="#P" n="30-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>verum. sed erit verum. quod nigrum est in sensu autem 
+      con<lb ed="#P" n="2" break="no"/>positionis non sequitur conclusio negatiua de praesenti sed 
+      <lb ed="#P" n="3"/>esset figura dictionis. Sed inferenda est tantum conclu 
+      <lb ed="#P" n="4"/>sio negatiua de praeterito vel futuro aliter non valet vt 
+      <lb ed="#P" n="5"/>hic. petrus erit ambulans petrus sedens non erit ambu 
+      <lb ed="#P" n="6"/>lans. igitur petrus sedens non est petrus.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1606">
+      ¶ Ad confirma 
+      <lb ed="#P" n="7" break="no"/>tionem. per idem arguitur quod nullum corpus est album. quia album 
+      <lb ed="#P" n="8"/>opponitur et repugnat nigro. Per idem etiam arguitur. 
+      <lb ed="#P" n="9"/>quod esse album non est esse coloratum. quia esse coloratum et esse 
+      <lb ed="#P" n="10"/>nigrum non opponuntur nec repugnant.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1617">
+      ¶ Dicendum 
+      <lb ed="#P" n="11"/>igitur quod si accipitur opponi vt est proprietas signorui 
+      <lb ed="#P" n="12"/>siue complexorum siue incomplexorum tunc non arguitur 
+      <lb ed="#P" n="13"/>nisi distinctio signorum. Si vero vt est proprietas rea 
+      <lb ed="#P" n="14"/>lis significabilium. tunc propositio in qua ponitur huiusmodi ter 
+      <lb ed="#P" n="15"/>minus oppositionis est implicite de possibili et negi 
+      <lb ed="#P" n="16"/>tiua. licet in figura loquendi sit affirmatiua de inesse 
+      <lb ed="#P" n="17"/>hec igitur propositio .a. esse album opponitur et repugnat huid 
+      <lb ed="#P" n="18"/>quod est a. non esse album: est distinguenda. quia equiualer 
+      <lb ed="#P" n="19"/>isti a. album non potest esse .a. non album. licet idem 
+      successi<lb ed="#P" n="20" break="no"/>ue posset esse prius .a. album et postea esse .a. non album 
+      <lb ed="#P" n="21"/>prima pars in sensu diuisionis falsa est. immo idem nu 
+      <lb ed="#P" n="22"/>mero potest esse album et postea nigrum et sic in eodem 
+      sen<lb ed="#P" n="23" break="no"/>su falsum est quod album opponitur nigro. immo sunt eiui 
+      <lb ed="#P" n="24"/>dem rationis scilicet illud ens quod est album et illud ens quod 
+      <lb ed="#P" n="25"/>est vel erit nigrum. et in sensu autem compositionis vera est. et 
+      <lb ed="#P" n="26"/>tunc non sequitur conclusio negatiua de inesse et de pates 
+      <lb ed="#P" n="27"/>ti. Sed conclusio de possibili et negatiua non de mo 
+      <lb ed="#P" n="28"/>do.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1659">
+      ¶ Ad secundum. per idem arguitur quod lignum non est lignum 
+      <lb ed="#P" n="29"/>album. quia lignum non est per se terminus ad quem 
+      altera<lb ed="#P" n="30" break="no"/>tionis. sed lignum album ex. 7. et. 8. me.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1666">
+      ¶ Per idem etiam 
+      <lb ed="#P" n="31"/>arguitur quod esse album non est esse coloratum. quia esse 
+      colora<lb ed="#P" n="32" break="no"/>ratum non est per se terminus ad quem denigrationis. quia 
+      <lb ed="#P" n="33"/>non contrariatur termino a quo: sed est commune 
+      <lb ed="#P" n="34"/>vtrique termino sicut primo. phisi. dicitur quod non per se 
+      <lb ed="#P" n="35"/>ex animali fit animal. quia iam animal erat. dicendum est igitur quod hec 
+      <lb ed="#P" n="36"/>propositio album vel esse album est terminus alterationis non 
+      <lb ed="#P" n="37"/>est mere affirmatiua de praesenti. quia equiualet isti album 
+      <lb ed="#P" n="38"/>vel esse album fit nouiter et acquiritur nouiter per alteratio 
+      <lb ed="#P" n="39"/>nem et ad hoc erat alteratio vt esset album. sicut hec pro 
+      <lb ed="#P" n="40"/>positio est distinguenda / ens album fit et acquiritur no 
+      <lb ed="#P" n="41"/>uiter per albedinem. sic et ista ens album vel esse 
+      albu<lb ed="#P" n="42" break="no"/>est terminus alterationis. Unus sensus est. illud quod 
+      <lb ed="#P" n="43"/>est ens album vel esse album non erat / sed capit esse pe 
+      <lb ed="#P" n="44"/>alterationem et sic esset falsa. Alius sensus est illud quod 
+      <lb ed="#P" n="45"/>prius non erat album fit per alterationem album. ita quod quamuis 
+      <lb ed="#P" n="46"/>prius esset illud quod est non. tamen prius erat tale 
+      qua<lb ed="#P" n="47" break="no"/>le nunc est post alterationem et sic est verum et tunc non 
+      <lb ed="#P" n="48"/>val t discursus / sed est figura dictionis mutando quid 
+      <lb ed="#P" n="49"/>in quale in discursum ex praemissis non de praesenti. vel si se 
+      <lb ed="#P" n="50"/>quitur conclusio aliqua non est conclusio negatiua de 
+      <lb ed="#P" n="51"/>praesenti sed de praeterito. puta quod corpus non erat prius esse 
+      <lb ed="#P" n="52"/>album. Potest etiam assignari fallacia accidentis: quoniam ex ed 
+      <lb ed="#P" n="53"/>quod idem est illud quod ipsum est substantialiter et est 
+      tale<lb ed="#P" n="54" break="no"/>et taliter se habens concluditur quod si pouiter est tale per 
+      <lb ed="#P" n="55"/>aliquid sit nouiter illud quod est ipsum substantialiter per illud 
+    </p>
+            <p xml:id="D78nca-e17573-d1e1723">
+               <lb ed="#P" n="56"/>¶ Ad tertium per idem arguitur quod petrum esse hominem album 
+      <lb ed="#P" n="57"/>et simum non sit petrum esse / nec petrum esse hominem / nec 
+      sit<lb ed="#P" n="58" break="no"/>petrum esse album.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1733">
+      ¶ Per idem etiam arguitur. quod petrus non 
+      <lb ed="#P" n="59"/>est petrus albus. quia petrus naturaliter est prior petro 
+      <lb ed="#P" n="60"/>albo. sed petrus albus non est prior naturaliter petro 
+      <lb ed="#P" n="61"/>albo.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1742">
+      ¶ Dicendum est igitur. quod secundum Aristo. 5. metha. 
+      <lb ed="#P" n="62"/>plato vsus est quodam modo prioritatis: secundum 
+      quem<lb ed="#P" n="63" break="no"/>prius natura alio dicitur quod sine illo alio potest esse non 
+      <lb ed="#P" n="64"/>econtra. hec igitur propositio petrus vel petrum esse est 
+      natu<lb ed="#P" n="65" break="no"/>raliter prius quam petrum esse album est implicite due propio 
+      <lb ed="#P" n="66"/>sitiones de possibili ex sua propria expositione et equi¬ 
+      <!--70.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>ualet istis duabus propositionibus / petrus vel petrum 
+      <lb ed="#P" n="68"/>esse potest esse et poni absque hoc quod petrum esse album po 
+      <lb ed="#P" n="69"/>natur et sit seu quamuis petrum esse album non positionatur. sed 
+      <lb ed="#P" n="70"/>petrum esse album non potest poni nisi ponatur petrus et 
+      <lb ed="#P" n="71"/>petrum esse. minor igitur est distinguenda ratione sue 
+      pri<lb ed="#P" n="72" break="no"/>ne exponentis scilicet petrus potest poni. licet petrus albus 
+      <lb ed="#P" n="73"/>seu petrum esse album non sit. Unus sensus est. petrus 
+      <lb ed="#P" n="74"/>potest esse licet illud non sit quod modo est de facto petrus 
+      <lb ed="#P" n="75"/>albus vel petrum esse album. et sic negatur. Alius sensus 
+      <lb ed="#P" n="76"/>est. petrus potest poni licet nihil sit petrum esse album: et sic 
+      <lb ed="#P" n="77"/>conceditur. Consimiliter posset distingui secunda exponens 
+      <lb ed="#P" n="78"/>secundum compositionem et diuisionem in sensu autem in quo mi 
+      <lb ed="#P" n="79"/>nor est vera non sequitur conclusio nisi de possibili. quia 
+      <lb ed="#P" n="80"/>premisse sunt de possibili. Si vero inferatur negati 
+      <lb ed="#P" n="81"/>ua de inesse et de praesenti. tunc est figura dictionis 
+      mu<lb ed="#P" n="82" break="no"/>tando quid in quale in discursu ex premissis de pos 
+      <lb ed="#P" n="83"/>sibili. vnde quamuis illud ens quod est naturaliter prius ali 
+      <lb ed="#P" n="84"/>quo ente. puta .b. non sit illud ens quo est prius. tamen 
+      <lb ed="#P" n="85"/>aliquid quod est nam et tmpre prius illud quod est / quam sit tale vel taliter 
+      <lb ed="#P" n="86"/>se habens est tale et taliter se habens et idem est prius hoc et poste 
+      <lb ed="#P" n="87"/>rius est tale et est illud quod est prius et est tale quale po 
+      <lb ed="#P" n="88"/>sterius. Aliter diceretur et in idem redit quod maior proprie sum 
+      <lb ed="#P" n="89"/>pta est vera. sed minor non debite sumitur sub maiore 
+      <lb ed="#P" n="90"/>maior autem improprie sumpta negatur in hoc scilcet sensu 
+      <lb ed="#P" n="91"/>quod est prius ens et aliquid quam.b. huiusmodi se 
+      ha<lb ed="#P" n="92" break="no"/>bens non est. b. huiusmodi se habens. iterum potest dici quod mi 
+      <lb ed="#P" n="93"/>nor est neganda loquendo proprie. quia petrus non est prior 
+      <lb ed="#P" n="94"/>petro albo. sicut nec deus est prior deo creante. nec 
+      <lb ed="#P" n="95"/>deus creans est prior quam deus saluans. Sed minor impro 
+      <lb ed="#P" n="96"/>prie dicitur vera in similitudine et proportions ad quas 
+      <lb ed="#P" n="97"/>dam alias propositiones significantes prioritatem naturalem 
+      <lb ed="#P" n="98"/>de aliquo. quia minor potest exponi per quasdam proposi 
+      <lb ed="#P" n="99"/>tiones similes aliquo modo illis per quas exponuntur 
+      <lb ed="#P" n="100"/>propositiones significantes vnam rem esse priorem naturaliter 
+      <lb ed="#P" n="101"/>alia re. sicut enim hoc ens naturaliter esset prius illo ente 
+      <lb ed="#P" n="102"/>importat quod hoc ens potest esse simpliciter. licet illud ens 
+      <lb ed="#P" n="103"/>non sit. licet non econtra. ita aliquid potest esse absque hoc 
+      <lb ed="#P" n="104"/>quod sit tale non econtra. et tamen ipsum est tale nunc de facto. 
+      <lb ed="#P" n="105"/>Unde de prioritate secundum consequentiam non conuertibile yma 
+      <lb ed="#P" n="106"/>ginamur quasi significari entia habentia prioritatem 
+      na<lb ed="#P" n="107" break="no"/>turalem.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1848">
+      ¶ Ad confirmationem per idem.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1851">
+      ¶ Ad quartum. 
+      <lb ed="#P" n="108"/>per idem arguitur quod petrus non est ens album neque est esse 
+      <lb ed="#P" n="109"/>album. sumendo ly ens nominaliter. et quod hoc ens album  
+      <lb ed="#P" n="110"/>non est hoc ens calidum. quia hoc calidum est ab. e. calefa 
+      <lb ed="#P" n="111"/>ctiuo. hoc album non est ab. e calefactiuo. igitur vel ab 
+      <lb ed="#P" n="112"/>e. calefactiuo est calidum ab e. calefactiuo non est album 
+      <lb ed="#P" n="113"/>igitur huiusmodi. igitur sillogismi sunt similes istis. hic 
+      <lb ed="#P" n="114"/>lapis est a natura hec ymago seu hoc artificiatum non 
+      <lb ed="#P" n="115"/>est a natura. igitur hec ymago non est hic lapis. vel sic / hec 
+      <lb ed="#P" n="116"/>ymago est ab arte et est opus artis. hic lapis non est 
+      <lb ed="#P" n="117"/>ab arte nec est opus artis. igitur hic lapis non est hec 
+      <lb ed="#P" n="118"/>ymago. vel aqua est naturalis. balneum est aqua. 
+      igi<lb ed="#P" n="119" break="no"/>tur balneum est naturale. vel ignis facit .b. calidum. sed 
+      <lb ed="#P" n="120"/>b. calidum est substantia et corpus quantum igitur ignis fal 
+      <lb ed="#P" n="121"/>cit substantiam et corpus quantum. Si dicatur ad huiusmodi 
+      <lb ed="#P" n="122"/>paralogismos quod hec ymago quatinus ymago et secundum 
+      <lb ed="#P" n="123"/>quod ymago est ab arte non secundum quod lapis. Et similiter 
+      <lb ed="#P" n="124"/>hoc calidum secundum quod calidum est ab. e. calefactiuo non 
+      <lb ed="#P" n="125"/>secundum quod album: non videtur sufficiens responsio. quia si 
+      prae<lb ed="#P" n="126" break="no"/>misse in forma qua accipiuntur sunt simpliciter et absolu 
+      <lb ed="#P" n="127"/>te vere. igitur debet concludi simpliciter conclusio et abso 
+      <lb ed="#P" n="128"/>lute nisi ostendatur defectus in forma. Si vero altera. 
+      <lb ed="#P" n="129"/>premissarum sit falsa in forma / quia simpliciter et absolute 
+      <lb ed="#P" n="130"/>accipitur debet negari vel distingui et ostendi quare 
+      <lb ed="#P" n="131"/>in sensu vero non sequatur conclusio.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1906">
+      ¶ Ad tales igitur 
+      <lb ed="#P" n="132"/>paralogismos: est quadruplex via respondendi. Primus 
+      <!--71.xml-->
+      <pb ed="#P" n="30-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>modus est quod hec propositio hec ymago est ab arte vel hoc 
+      <lb ed="#P" n="2"/>esse calidum est ab e. calefactiuo habet duplicem sensum 
+      <lb ed="#P" n="3"/>Unus est. illud quod est hec ymago est effectiue ab at 
+      <lb ed="#P" n="4"/>te et illud quod est hoc calidum vel hoc esse calidum est 
+      <lb ed="#P" n="5"/>effectiue ab e. calefactiuo et sic negatur. Alius sensus 
+      <lb ed="#P" n="6"/>est. illud quod est ymago est ymago ab arte. et illud 
+      <lb ed="#P" n="7"/>quod est hoc calidum vel quod est hoc esse calidum est ca 
+      <lb ed="#P" n="8"/>idum. et est hoc esse calidum ab. e. calefactiuo et sic conce 
+      <lb ed="#P" n="9"/>ditur. Primus sensus videtur sensus materialis. Secundus 
+      <lb ed="#P" n="10"/>formalis. Primus est sensus quem sufficienter facit 
+      <lb ed="#P" n="11"/>propositio. Secundus est in quo fit et in secundo sensu non 
+      va<lb ed="#P" n="12" break="no"/>let discursus ad inferendum quod hec ymago non est hic 
+      <lb ed="#P" n="13"/>lapis. sed tantum quod hec ymago non est lapis ab arte vel 
+      <lb ed="#P" n="14"/>quod hic lapis non est hec ymago a natura et non erit for 
+      <lb ed="#P" n="15"/>ma sillogistica ad aliam conclusionem.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1950">
+      ¶ Secundus modus 
+      <lb ed="#P" n="16"/>respondendi est hec propositio. hec ymago est ab arte non a 
+      na<lb ed="#P" n="17" break="no"/>tura vel hoc esse calidum est ab. e. calefactiuo est simplici 
+      <lb ed="#P" n="18"/>ter falsa vel est truncata et imperfecta. simpliciter enim falsum 
+      <lb ed="#P" n="19"/>est quod hoc calidum sit ab. e. calefactiuo. si illud quod est 
+      <lb ed="#P" n="20"/>realiter hoc calidum sit ens non causatum ab.e. calefa 
+      <lb ed="#P" n="21"/>ctiuo. Si vero perficiantur huiusmodi propositiones vt 
+      redu<lb ed="#P" n="22" break="no"/>cantur ad veritatem. tunc non erit forma sillogistica vel 
+      <lb ed="#P" n="23"/>inferetur conclusio manifeste concedenda que non erit 
+      <lb ed="#P" n="24"/>contra: predicta habent autem sic perfici. hec ymago est 
+      <lb ed="#P" n="25"/>ab arte ymago. et hoc calidum est ab. e. calefactiuo 
+      ef<lb ed="#P" n="26" break="no"/>fectiue calidum. Et tunc arguendum est sic. hec ymago 
+      <lb ed="#P" n="27"/>est ab arte non a natura ymago. hic lapis non est ab 
+      <lb ed="#P" n="28"/>arte sed a natura ymago. igitur hic lapis non est yma 
+      <lb ed="#P" n="29"/>go: sed minor est falsa.
+    </p>
+            <p xml:id="D78nca-e17573-d1e1984">
+      ¶ Potest etiam sic argui. hoc est 
+      <lb ed="#P" n="30"/>ab arte non a natura ymago. hoc non est ab arte: sed 
+      <lb ed="#P" n="31"/>a natura hic lapis. igitur quod est ab arte ymago non 
+      <lb ed="#P" n="32"/>est ab arte lapis. vel quod est a natura lapis non est ab 
+      <lb ed="#P" n="33"/>arte lapis et conceditur. et non sequitur quod hec ymago 
+      <lb ed="#P" n="34"/>non sit lapis. vel quod hoc esse album non sit hoc esse calidum 
+      <lb ed="#P" n="35"/>sed quod ab. e. calefactiuo esse calidum non est ab e. cali 
+      <lb ed="#P" n="36"/>factiuo esse album. ita quod in conclusione debet poni 
+      il<lb ed="#P" n="37" break="no"/>la specificatio ab .e. quia se tenet ex parte copule / vel 
+      <lb ed="#P" n="38"/>maioris / vel minoris extremitatis. sic igitur hec propo 
+      <lb ed="#P" n="39"/>sitio / hec ymago est ab arte est truncata. quia ly ab arte 
+      <lb ed="#P" n="40"/>est determinatio predicati subintellecti quod si 
+      expri<lb ed="#P" n="41" break="no"/>matur apparet quod forma concludit verum vel altera 
+      prae<lb ed="#P" n="42" break="no"/>missarum est maniur este falsa.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2015">
+      ¶ Tertius modus 
+      respon<lb ed="#P" n="43" break="no"/>dendi. quod tales discursus peccat in forma per falla 
+      <lb ed="#P" n="44"/>tiam figure dictionis mutando vnum genus praedicatio 
+      <lb ed="#P" n="45"/>nis in aliud in discursum ex praedicationibus cum 
+      determi<lb ed="#P" n="46" break="no"/>natis ex specificabilibus causalitatis et perseitatis. Si 
+      <lb ed="#P" n="47"/>cut enim comittitur fallatia figure dictionis mutan 
+      <lb ed="#P" n="48"/>do vnum genus predicationis in aliud in discursum ex 
+      <lb ed="#P" n="49"/>premissis de praeterito vel futuro vel possibili. ita in 
+      <lb ed="#P" n="50"/>discursu ex premissis cum specificabilibus et nota cau 
+      <lb ed="#P" n="51"/>salitatis et perseitatis. quia non sequitur / petrus est 
+      risibi<lb ed="#P" n="52" break="no"/>lis: quia est homo. igitur quia est animal / vel quia est homo ab 
+      <lb ed="#P" n="53"/>bus / vel homo est albus per albedinem. igitur est cal 
+      <lb ed="#P" n="54"/>dus per albedinem. licet albus sit calidus. quod autem huiusmodi 
+      <lb ed="#P" n="55"/>modificationes ex ab per notent quandam perseitatem. patet 
+      <lb ed="#P" n="56"/>quia notant quendam modum causalitatis. patet etiam quod philosopheam 
+      <lb ed="#P" n="57"/>1. phi. negat ens fieri ex eo quod est aut ex eo quod non 
+      <lb ed="#P" n="58"/>est. quia hoc significat fieri ex ente secundum quod ens vel fieri 
+      <lb ed="#P" n="59"/>ex non ente secundum quod non ens.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2054">
+      ¶ Dicendum igitur quod in  
+      <lb ed="#P" n="60"/>argumento principali est figura dictionis. quia licet il 
+      <lb ed="#P" n="61"/>lud quod causatur effectiue ab aliquo a quo non cau 
+      <lb ed="#P" n="62"/>satur .a. non sit .a. tamen illud quod est ab aliquo causali 
+      <lb ed="#P" n="63"/>ter tale et taliter se habens a quo non causatur .a. secundum 
+      <lb ed="#P" n="64"/>illud quod est potest esse .a. et .a. est taliter se habens ab ali 
+      <lb ed="#P" n="65"/>quo. a quo tamen non est. a. simpliciter. et ideo non sequitur quod 
+      <lb ed="#P" n="66"/>idem sit effectiue ab aliquo et non sit effectiue ab eodem 
+      <!--71.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>vel quod aliquid sit causa alicuius et non sit causa eiusdem 
+      <lb ed="#P" n="68"/>sed tantum quod aliquid est ab aliqua causa tale et taliter 
+      <lb ed="#P" n="69"/>se habens. a qua tamen non est illud quod est essentialiter: 
+    </p>
+            <p xml:id="D78nca-e17573-d1e2083">
+               <lb ed="#P" n="70"/>¶ Quartus modus respondendi est: quod talis discursus 
+      <lb ed="#P" n="71"/>peccat in forma per fallaciam accidentis. hoc enim esse illud 
+      <lb ed="#P" n="72"/>quod est essentialiter et hoc esse tale et esse tantum et taliter 
+      <lb ed="#P" n="73"/>se habens sunt vnum per accidens. et alterum dicitur de a 
+      <lb ed="#P" n="74"/>tero. Et ideo infertur quod si ab aliquo habet esse tale 
+      <lb ed="#P" n="75"/>habeat ab eodem esse tantum et taliter se habere vel esse 
+      <lb ed="#P" n="76"/>illud quod est. Et ex hoc etiam infertur quod qui cquid di 
+      <lb ed="#P" n="77"/>citur de vno cum quadam specificatione dicatur de alio 
+      <lb ed="#P" n="78"/>cum eadem specificatione. hoc autem non oportet maxime 
+      <lb ed="#P" n="79"/>cum modus et specificatio est talis quod non idem importe 
+      <lb ed="#P" n="80"/>retur per praedicationem eiusdem praedicati de subiecto / et 
+      <lb ed="#P" n="81"/>de accidente cum eadem specificatione. Et ad hanc falla 
+      <lb ed="#P" n="82"/>ciam videtur reducere philosophus huiusmodi paralogismos 
+      <lb ed="#P" n="83"/>i. et. 2. elenchorum.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2116">
+      ¶ Ex his patet ad formam quarti 
+      <lb ed="#P" n="84"/>argumenti. Si vero arguatur sic. ars facit hanc yma 
+      <lb ed="#P" n="85"/>ginem. ars non facit hunc lapidem non sequitur. igitur 
+      <lb ed="#P" n="86"/>hic lapis non est hec ymago: sed sequitur quod aliquod 
+      <lb ed="#P" n="87"/>raciens hanc ymaginem non est faciens hunc lapidem 
+      <lb ed="#P" n="88"/>Si vero arguatur sic. illa distinguuntur quorum vnum 
+      <lb ed="#P" n="89"/>facit ars et reliquum non facit ars sed natura. sed. etc. 
+    </p>
+            <p xml:id="D78nca-e17573-d1e2132">
+               <lb ed="#P" n="90"/>¶ Responsio. mutatur quid in quale vel in huiusmodi. licet 
+      <lb ed="#P" n="91"/>enim illud quod facit ars / non sit illud quod non facit 
+      <lb ed="#P" n="92"/>ars sed natura. et econtra. tamen illud quod natura facit est 
+      <lb ed="#P" n="93"/>tale quale non facit ipsum natura. sed ars. et .a. 
+      natu<lb ed="#P" n="94" break="no"/>ra non fit tale sed ab arte.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2146">
+      ¶ Ad quintum principale per 
+      <lb ed="#P" n="95"/>idem arguitur. quod .a. esse album non sit .a. esse nec sit esse ca 
+      <lb ed="#P" n="96"/>lidum. accipiendo ly esse nominaliter quod est falsum. si 
+      <lb ed="#P" n="97"/>ens album sit ens calidum
+    </p>
+            <p xml:id="D78nca-e17573-d1e2155">
+      ¶ Dicendum igitur quod esse album 
+      <lb ed="#P" n="98"/>conuenit subiecto albedinis et conuenit composito ex 
+      <lb ed="#P" n="99"/>subiecto et albedine. et vtrumque conuenit per formam: 
+      si<lb ed="#P" n="100" break="no"/>cut esse animatum conuenit corpori et composito ex corpre 
+      <lb ed="#P" n="101"/>et anima. subiectum igitur esse album est subiectum ens al 
+      <lb ed="#P" n="102"/>bum et compositum esse album est compositum ens album. Cum 
+      <lb ed="#P" n="103"/>igitur dicitur quod esse album est effectus formalis albedi 
+      <lb ed="#P" n="104"/>nis. si accipitur esse album vt conuenit composito ex 
+      sub<lb ed="#P" n="105" break="no"/>iecto et albedine conceditur. quia cum causalis formalis 
+      <lb ed="#P" n="106"/>causalitas sit intrinseca compositum ex forma et subie 
+      <lb ed="#P" n="107"/>cto est effectus cause formalis. et conceditur quod esse 
+      <lb ed="#P" n="108"/>album isto modo non est idem subiecto nec conuenit 
+      sub<lb ed="#P" n="109" break="no"/>iecto nec sic accipitur cum dicitur subiectum esse album. Si 
+      <lb ed="#P" n="110"/>vero esse album concipitur pro illo intelligibili pro quo 
+      <lb ed="#P" n="111"/>personaliter accipitur cum dicimus .a. esse corpus album 
+      <lb ed="#P" n="112"/>negatur quod .a. esse album sit vere et proprie effectus for 
+      <lb ed="#P" n="113"/>malis albedinis. illud enim quod est .a. esse album non 
+      <lb ed="#P" n="114"/>est illud compositum .b. sed est subiectum albedinis quod  
+      <lb ed="#P" n="115"/>est album. tamen in quadam similitudine dicitur esse 
+      effe<lb ed="#P" n="116" break="no"/>ctus albedinis. quia .a. est album formaliter per albedinem 
+      <lb ed="#P" n="117"/>et albedo est forma per quam .a. est album. et ita esse album 
+      <lb ed="#P" n="118"/>intelligitur quasi nouus effectus albedinis vt 
+      cau<lb ed="#P" n="119" break="no"/>se formalis. tamen secundum proprietatem rei aliter accipitur esse 
+      <lb ed="#P" n="120"/>album cum vere dicitur esse effectus formalis albedinis 
+      <lb ed="#P" n="121"/>et cum dicitur .a. esse album. de hoc iterum infra.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2210">
+      ¶ Ad sep 
+      <lb ed="#P" n="122"/>tum. conceditur consequens. sunt tamtum per accidens et contingenter 
+      <lb ed="#P" n="123"/>idem sicut contingenter et per accidens hoc album est hoc 
+      <lb ed="#P" n="124"/>calidum et grammaticum. etc. quod autem consequens sit verum. probatur. 
+      <lb ed="#P" n="125"/>quia sicut ens album ad ens calidum sic esse album ad esse cas 
+      <lb ed="#P" n="126"/>lidum. Sed ens album est ens calidum. igitur. iterum pe 
+      <lb ed="#P" n="127"/>trum esse album est petrum esse. et petrum esse sanum est 
+      pe<lb ed="#P" n="128" break="no"/>trum esse. igitur sunt idem cuidam. igitur sunt idem inter se 
+      <lb ed="#P" n="129"/>iterum hunc hominem esse album et sanum est hunc hominem 
+      <lb ed="#P" n="130"/>esse sanum. et hunc hominem esse sanum est hunc hominem esse 
+      <lb ed="#P" n="131"/>album. igitur hunc hominem esse album est hunc hominem esse 
+      <lb ed="#P" n="132"/>sanum. iterum sit petrus albus et sanus. tunc sic petrum 
+      <!--72.xml-->
+      <pb ed="#P" n="31-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>esse sanum est petrum album esse sanum. sed petrum album esse 
+      <lb ed="#P" n="2"/>sanum est petrum album esse petrum sanum et hoc perconuersionem 
+      <lb ed="#P" n="3"/>est petrum sanum esse petru album. et hoc est petrum esse po 
+      <lb ed="#P" n="4"/>trum album et hoc est petrum esse album. igitur de primo 
+      <lb ed="#P" n="5"/>ad vltimum petrum esse sanum / est petrum esse album.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2254">
+      ¶ Ad  
+      <lb ed="#P" n="6"/>primam igitur improbationem consequentis. et secundam. patet supra. ad 
+      <lb ed="#P" n="7"/>tertiam. negatur assumptum. Ad probationem. per idem ab 
+      <lb ed="#P" n="8"/>guitur quod petrum esse hominem album non sit petrum esse 
+      ho<lb ed="#P" n="9" break="no"/>minem coloratum. et quod petrum esse hominem agentem male non 
+      <lb ed="#P" n="10"/>sit petrum esse hominem agentem et quod homo propinquus non sit 
+      <lb ed="#P" n="11"/>nimal simum. petrus enim diligitur a me quia homo propinquus 
+      <lb ed="#P" n="12"/>non quia animal simum
+    </p>
+            <p xml:id="D78nca-e17573-d1e2272">
+      ¶ Dicendum igitur. quamuis .b. sit calidum 
+      <lb ed="#P" n="13"/>ab. a. quia .a. est calidum. et non quia .a. sit album. et idem sit .a 
+      <lb ed="#P" n="14"/>esse album. et a. esse calidum. non ex hiis sequitur quod aliquid 
+      <lb ed="#P" n="15"/>sit causa alicuius et non sit causa eiusdem vt in 
+      praeceden<lb ed="#P" n="16" break="no"/>ti dictum est. Non sequitur ars est causa ymaginis et non 
+      <lb ed="#P" n="17"/>est causa lapidis et ymago et lapis sunt idem. igitur 
+      ali<lb ed="#P" n="18" break="no"/>quid est causa alicuius et non est causa eiusdem. Si ve  
+      <lb ed="#P" n="19"/>ro reducitur sic. hoc esse album non est cansa calefactionis. 
+      <lb ed="#P" n="20"/>hoc esse calidum est causa calefactionis. igitur hoc esse 
+      <lb ed="#P" n="21"/>calidum non est hoc esse album. Dicendum quod maior est fal 
+      <lb ed="#P" n="22"/>sa. sicut falsum est quod hoc album non sit causa 
+      calefa<lb ed="#P" n="23" break="no"/>ctionis. tamen communiter non recipitur: sed respuitur tamquam 
+      <lb ed="#P" n="24"/>falsa. quia impropria et per accidens. non enim est causa ca 
+      <lb ed="#P" n="25"/>lefactionis secundum quod album et quatinus habet esse album. 
+      <lb ed="#P" n="26"/>immo hoc posito et circumscripto hoc esse calidum non esset 
+      <lb ed="#P" n="27"/>causa calefactionis et circumscripto hoc esse album nihilo 
+      <lb ed="#P" n="28"/>minus esset causa calefactionis. ideo hoc est magis 
+      <lb ed="#P" n="29"/>per se et propria. a. calidum vel a. esse calidum est causa ca 
+      <lb ed="#P" n="30"/>lefactionis. et .a. esse album non est proprie propositio causalis 
+      <lb ed="#P" n="31"/>nec est conueniens et sufficiens ratio seu responsio causalis 
+      <lb ed="#P" n="32"/>ad questionem propter quid b. est calidum ab a.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2318">
+      ¶ Contra 
+      <lb ed="#P" n="33"/>hoc esse album non est per se causa calefactionis vel 
+      <lb ed="#P" n="34"/>similitudinis. Sed hoc esse calidum. est per se causa 
+      <lb ed="#P" n="35"/>calefactionis et similitudinis ad .b. igitur hoc esse 
+      ca<lb ed="#P" n="36" break="no"/>lidum non est hoc esse album. illud enim quod est per se 
+      <lb ed="#P" n="37"/>causa alicuius non est illud quod non est per se causa 
+      il<lb ed="#P" n="38" break="no"/>lius.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2335">
+      ¶ Respondetur. quod huiusmodi determinationes per se 
+      <lb ed="#P" n="39"/>vel secundum quod sunt ponende in vtraque premissa et in com 
+      <lb ed="#P" n="40"/>clusione et debet inferri quod hoc non est per se illud non quin 
+      <lb ed="#P" n="41"/>sit simpliciter illud.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2344">
+      ¶ Contra. immo sequitur conclusio sim 
+      <lb ed="#P" n="42"/>pliciter negatiua de inesse sine huiusmodi modificatione. quia 
+      <lb ed="#P" n="43"/>quod est per se causa alicuius non est simpliciter et absolu 
+      <lb ed="#P" n="44"/>te illud quod non est per se causa illius. hec enim propositio 
+      <lb ed="#P" n="45"/>est eque euidens sicut ista. illud quod est causa alicui 
+      <lb ed="#P" n="46"/>non est simpliciter et absolute illud quod non est causa in 
+      <lb ed="#P" n="47"/>lius. quia veritas vtriusque fundatur super euidenti 
+      <lb ed="#P" n="48"/>primi principii. eque enim impossibile est quod idem sit per se et non 
+      <lb ed="#P" n="49"/>sit per se causa. sicut quod idem sit absolute causa et non 
+      <lb ed="#P" n="50"/>sit absolute causa. igitur si .a. est per se causa alicu 
+      <lb ed="#P" n="51"/>ius. puta c. et b. non est per se causa ipsius .c. sequitur quod 
+      <lb ed="#P" n="52"/>b. simpliciter et absolute non est. a. Item. falsum est quod ta 
+      <lb ed="#P" n="53"/>lis discursus vniuersaliter teneat si hec determinatio 
+      <lb ed="#P" n="54"/>per se ponatur in premissis et in conclusione. quia hic 
+      <lb ed="#P" n="55"/>discursus non valet. homo est per se rationalis et 
+      risibi<lb ed="#P" n="56" break="no"/>lis. homo est per se animal. igitur animal est per se rationale et 
+      ri<lb ed="#P" n="57" break="no"/>sibile. sicut hoc esse album est per se propter quid et qua 
+      <lb ed="#P" n="58"/>re hoc assimilatur b. albo: hoc esse albu est per se colora 
+      <lb ed="#P" n="59"/>tum. igitur hoc esse coloratum est per se propter quid et 
+      <lb ed="#P" n="60"/>quia hoc est simile albo. conclusio est falsa. quia non esset 
+      <lb ed="#P" n="61"/>conueniens responsio causalis. Item. si per accidens poni 
+      <lb ed="#P" n="62"/>tur in premissis et conclusione non ex hoc valet discur 
+      <lb ed="#P" n="63"/>sus sicut hic. album est per accidens calefactiuum hoc ca 
+      <lb ed="#P" n="64"/>lidum est per accidens album. igitur hoc calidum est per 
+      ac<lb ed="#P" n="65" break="no"/>cidens calefactiuum. ideo aliter respondetur a quibus 
+      <lb ed="#P" n="66"/>dam concedendo quod album et esse album est per se causa ca 
+      <!--72.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>calefactionis. et conceditur iste sillogismus. calidum 
+      <lb ed="#P" n="68"/>est per se causa calefactionis hoc album est calidum. 
+      <lb ed="#P" n="69"/>igitur hoc album est per se causa calefactionis vel edifi 
+      <lb ed="#P" n="70"/>cator per se edificat. album est edificator. igitur album 
+      <lb ed="#P" n="71"/>per se edificat. Aliter respondeo huiusmodi determinationes per se vel 
+      <lb ed="#P" n="72"/>per accidens. possunt sumi dupliciter. Uno modo vt sunt de 
+      <lb ed="#P" n="73"/>terminationes logice et sunt termini secunde intentionis 
+      <lb ed="#P" n="74"/>et sunt determinationes et modi dicendi et praedicandi 
+      <lb ed="#P" n="75"/>potius quam essendi et sunt determinationes compositionis 
+      <lb ed="#P" n="76"/>et copule et faciunt propositionem esse realiter et implicite de 
+      <lb ed="#P" n="77"/>actu signato: et sic accipitur 1 posterio. per se primo et 
+      <lb ed="#P" n="78"/>secundo modo. Sic etiam dicitur 1 metha. quod homo sanatur 
+      <lb ed="#P" n="79"/>per accidens. sed sortes sanatur per se. Notatur enim. quedam 
+      <lb ed="#P" n="80"/>perseitas predicationis et locutionis in vna propositio 
+      <lb ed="#P" n="81"/>ne que non in alia. alio modo possunt esse determina 
+      <lb ed="#P" n="82"/>tiones et modificationes methaphisicales et denotant 
+      <lb ed="#P" n="83"/>modum essendi et sunt termini prime intentionis et sunt 
+      <lb ed="#P" n="84"/>determinationes extremi positi in propositione et non fal 
+      <lb ed="#P" n="85"/>ciunt propositionem esse de actu signato. sed stat quod sit 
+      <lb ed="#P" n="86"/>de actu exercito et sic accipitur. 5. phisic. c. 1 vbi dicitur 
+      <lb ed="#P" n="87"/>quod aliquando totum mouetur per se et pars per accidens. et ali 
+      <lb ed="#P" n="88"/>quando econtra. Et. 4. phi. tractatu de loco. dicitur quod 
+      <lb ed="#P" n="89"/>quedam mouentur per se / quedam per accidens seu secundum 
+      <lb ed="#P" n="90"/>accidens. et eorum que mouentur secundum accidens / quedam nata 
+      <lb ed="#P" n="91"/>sunt moueri per se vt partes corporis et clauus in na 
+      <lb ed="#P" n="92"/>ui. quedam autem solum per accidens vt albedo et scientia. iten 
+      <lb ed="#P" n="93"/>2. phisi. fortuna est causa per accidens. iten. 5o. metha. 
+      <lb ed="#P" n="94"/>superficies est primo et secundum se alba. non autem substam 
+      <lb ed="#P" n="95"/>tia. item. 2. de anima. color videtur per se et non substantia 
+      <lb ed="#P" n="96"/>sed per accidens. et licet in propositionibus predictis sit 
+      ali<lb ed="#P" n="97" break="no"/>qua perseitas praedicationis enunciando hoc praedicatum 
+      <lb ed="#P" n="98"/>de hoc subiecto que non sit in enunciando idem predica 
+      <lb ed="#P" n="99"/>tum de alio subiecto. tamen est etiam perseitas essendi 
+      <lb ed="#P" n="100"/>vel causandi. et mouendi et non est necesse propositiones pre 
+      <lb ed="#P" n="101"/>dictas esse tantummodo veras vt sunt de actu signato: 
+      <lb ed="#P" n="102"/>sed vt sunt de actu exercito terminis supponenti 
+      <lb ed="#P" n="103"/>bus personaliter et significatiue.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2485">
+      ¶ Ad propositum 
+      <lb ed="#P" n="104"/>cum arguitur sic. esse calidum est per se causa 
+      calefactio<lb ed="#P" n="105" break="no"/>nis esse album est esse calidum. igitur esse album est per se cau 
+      <lb ed="#P" n="106"/>sa calefactionis / si ly per se accipitur vt est 
+      determi<lb ed="#P" n="107" break="no"/>natio logica nec valet deductio nec concluditur nisi 
+      <lb ed="#P" n="108"/>distinctio signorum. Si vero sit determinatio 
+      metha<lb ed="#P" n="109" break="no"/>phisicalis et prime intentionis non sumitur 
+      vniformi<lb ed="#P" n="110" break="no"/>ter in conclusione et maiore. et si illa determinatio ex 
+      <lb ed="#P" n="111"/>plicetur apparebit quod non erit forma sillogistica / vel 
+      <lb ed="#P" n="112"/>concludetur conclusio vera apud omnes. cum enim dicitur 
+      <lb ed="#P" n="113"/>calidum per se calefacit vel est per se causa caloris equi 
+      <lb ed="#P" n="114"/>ualet isti. calidum calefacit per calorem et eo quod calidum 
+      <lb ed="#P" n="115"/>quia ly se est pronomen relatiuum et reciprocum. cum autem in 
+      <lb ed="#P" n="116"/>conclusione. dicitur igitur album per se calefacit 
+      equa<lb ed="#P" n="117" break="no"/>let isti album calefacit per albedinem et in eo quod album. quia 
+      <lb ed="#P" n="118"/>ly se est relatiuum et antecedens quod refert est ly album. et ita ly 
+      <lb ed="#P" n="119"/>per se sumitur difformiter et loco alterius 
+      determi<lb ed="#P" n="120" break="no"/>nationis in premissa et in conclusione. ideo est 
+      falla<lb ed="#P" n="121" break="no"/>cia accidentis ex identitate termini vel orationis 
+      exi<lb ed="#P" n="122" break="no"/>stimare simpliciter identitatem significationis. Sicut 
+      ar<lb ed="#P" n="123" break="no"/>guendo sic. hic canis est tuus et est pater. igitur est 
+      <lb ed="#P" n="124"/>tuus pater / ly tuus enim sumitur difformiter. quia in ma 
+      <lb ed="#P" n="125"/>iore sumitur possessiue in conclusione generatiue et 
+      <lb ed="#P" n="126"/>productiue.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2537">
+      ¶ Similiter arguendo sic. iste est clericus 
+      <lb ed="#P" n="127"/>et est magnus. igitur est magnus clericus / ly magnus 
+      <lb ed="#P" n="128"/>aliud denotat in conclusione et in premissa. Si 
+      ve<lb ed="#P" n="129" break="no"/>ro ly per se sumatur vniformiter in vtraque propositione 
+      <lb ed="#P" n="130"/>sequeretur conclusio vera. arguendo sic. calidum est cau 
+      <lb ed="#P" n="131"/>sa calefactionis per calorem. et ita in eo quod calidum. sed  
+      <lb ed="#P" n="132"/>album est calidum. igitur album est causa caleractionis per. 
+      <!--73.xml-->
+      <pb ed="#P" n="31-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>calorem et in eo quod calidum et conclusto conceditur.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2561">
+      ¶ Ad  
+      <lb ed="#P" n="2"/>quartam improbationem consequentis per idem arguitur quod esse 
+      al<lb ed="#P" n="3" break="no"/>bum non sit esse calidum sumendo esse nominaliter quod 
+      <lb ed="#P" n="4"/>est falsum. si ens album sit ens calidum. et per idem etiam 
+      <lb ed="#P" n="5"/>arguitur sic. hoc per albedinem formaliter est album. hoc 
+      <lb ed="#P" n="6"/>per albedinem formaliter non est calidum. igitur calidum 
+      <lb ed="#P" n="7"/>non est album. Dicendum quod in isto argumento / quamuis 
+      ly<lb ed="#P" n="8" break="no"/>per albedinem formaliter videatur in figura loquendi et in 
+      <lb ed="#P" n="9"/>modo enunciandi esse pars medii et consequeter videatur non 
+      <lb ed="#P" n="10"/>esse ponendum in conclusione. tamen realiter et implicite se 
+      te<lb ed="#P" n="11" break="no"/>net ex parte extremi praedicati vel copule tanquam deter 
+      <lb ed="#P" n="12"/>minatio. ideo debet poni in conclusione. Et concedi 
+      <lb ed="#P" n="13"/>tur quod album formaliter per albedinem non est calidum 
+      for<lb ed="#P" n="14" break="no"/>maliter per albedinem. Eodem modo ad argumentum 
+      <lb ed="#P" n="15"/>supra positum cum dicitur esse album datur formaliter per 
+      <lb ed="#P" n="16"/>albedinem et hec locutio est impropria et methaphori 
+      <lb ed="#P" n="17"/>ca et equiualet isti hoc est formaliter per albedinem ens 
+      <lb ed="#P" n="18"/>album et dicendum est vt prius quod ly formaliter per albedi 
+      <lb ed="#P" n="19"/>nem. licet videatur pars medii. tamtum implicite et inter 
+      <lb ed="#P" n="20"/>pretatiue se tenet ex parte extremitatis et habet po 
+      <lb ed="#P" n="21"/>ni in conclusione et infertur quod esse calidum formaliter pin 
+      <lb ed="#P" n="22"/>albedinem non est esse album formaliter per albedinem. vel 
+      <lb ed="#P" n="23"/>quia maior est locutio impropria et potest distingui. Unus 
+      <lb ed="#P" n="24"/>sensus est. illud quod est esse album est effectus forma 
+      <lb ed="#P" n="25"/>liter causatus per albedinem tanquam per causam 
+      for<lb ed="#P" n="26" break="no"/>malem. et ita quod esse album sit effectus cuius causa 
+      for<lb ed="#P" n="27" break="no"/>malis sit albedo et sic negatur. quia ille effectus est con 
+      <lb ed="#P" n="28"/>positum ex subiecto et albedine. esse autem album non est 
+      <lb ed="#P" n="29"/>illud compositum sed subiectum albedinis cui 
+      attribui<lb ed="#P" n="30" break="no"/>tur personaliter esse album. Alius sensus est .a. esse album 
+      <lb ed="#P" n="31"/>formaliter per albedinem seu quod albedo est forma secundum 
+      <lb ed="#P" n="32"/>quam hoc est album et conceditur et consequenter quod non est par 
+      <lb ed="#P" n="33"/>albedinem calidum. Et ex hiis infertur quod album per albe 
+      <lb ed="#P" n="34"/>dinem non est calidum per albedinem. Si vero esse album 
+      su<lb ed="#P" n="35" break="no"/>matur pro composito ex subiecto et albedine: patet 
+      su<lb ed="#P" n="36" break="no"/>pra quid dicendum respondendo ad quintum.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2639">
+      ¶ Ad 
+      con<lb ed="#P" n="37" break="no"/>firmationem. conceditur quod effectus per se et 
+      adequa<lb ed="#P" n="38" break="no"/>te formalium causarum distinctarum sunt distincte. sed esse 
+      <lb ed="#P" n="39"/>album et esse calidum non sunt per se effectus forma: 
+      <lb ed="#P" n="40"/>les huiusmodi formarum nisi in similitudine quadam. quia effe 
+      <lb ed="#P" n="41"/>ctus formalis est compositum ex forma et eius subiecto 
+      <lb ed="#P" n="42"/>Compositum autem ex subiecto et hac albedine precise 
+      <lb ed="#P" n="43"/>est per se effectus formalis albedinis et hoc composi 
+      <lb ed="#P" n="44"/>tum ex hoc subiecto et hoc calore precise est effectus 
+      <lb ed="#P" n="45"/>cuius calor est causa formalis et illa composita demon 
+      <lb ed="#P" n="46"/>strata distinguuntur. vnde difformiter accipitur esse album 
+      <lb ed="#P" n="47"/>vt attribuitur subiecto et vt attribuitur composito 
+    </p>
+            <p xml:id="D78nca-e17573-d1e2666">
+               <lb ed="#P" n="48"/>¶ Ad quintam improbationem consequentis patet supra respondendo 
+      <lb ed="#P" n="49"/>ad secundum contra primam conclusionem.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2673">
+      ¶ Ad sextam acci 
+      <lb ed="#P" n="50" break="no"/>piendo sentire et intelligere. etc. pro esse sentientem et 
+      <lb ed="#P" n="51"/>esse intelligentem. etc. conceditur consequens. sunt tamen idem per 
+      <lb ed="#P" n="52"/>accidens et contingenter sicut idem est ens sentiens / et 
+      in<lb ed="#P" n="53" break="no"/>telligens et currens. Si autem intelligere / et sentire. etc. 
+      <lb ed="#P" n="54"/>accipiantur tantum pro actibus / negaretur consequentia.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2686">
+      ¶ Ad 
+      im<lb ed="#P" n="55" break="no"/>probationem consequentis dicendum quod proprie loquendo senti 
+      <lb ed="#P" n="56"/>re id est esse sentientem non est per sensum. quia hec 
+      equi<lb ed="#P" n="57" break="no"/>nalet isti esse sentientem est ens per sensum licet sen 
+      <lb ed="#P" n="58"/>tire id est sensatio sit per sensum in sensu. Cum ergo di 
+      <lb ed="#P" n="59"/>cimus quod sentire est per sensum vtimur concreto 
+      ver<lb ed="#P" n="60" break="no"/>bali pro abstracto nominali.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2702">
+      ¶ Contra. homo sentit / et 
+      <lb ed="#P" n="61"/>est sentiens per sensum. igitur sentire et esse sentientem 
+      <lb ed="#P" n="62"/>est per sensum / non autem esse intelligentem.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2709">
+      ¶ Confit 
+      <lb ed="#P" n="63"/>matur. illud quod conuenit homini per sensum non est il 
+      <lb ed="#P" n="64"/>lud quod non conuenit homini per sensum. et illud quod  
+      <lb ed="#P" n="65"/>homo est per sensum non est illud quod homo non est 
+      <lb ed="#P" n="66"/>per sensum. i ad homini conuenit esse sentientem per sen 
+      <!--73.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>sum. et homo est sentiens per sensum. non autem intelli 
+      <lb ed="#P" n="68"/>gens per sensum.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2729">
+      ¶ Ad primum. negatur consequentia. sicut 
+      <lb ed="#P" n="69"/>non sequitur homo est sentiens per sensum. igitur homo 
+      <lb ed="#P" n="70"/>sentiens est ens per sensum.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2737">
+      ¶ Ad secundum. mutatur quid 
+      <lb ed="#P" n="71"/>in quale. licet enim illud quod homo est per sensum 
+      <lb ed="#P" n="72"/>non sit illud quod homo non est per sensum. tamen illud 
+      <lb ed="#P" n="73"/>quod est tale et taliter se habens per sensum potest esse 
+      <lb ed="#P" n="74"/>iliquale et aliqualiter se habens quale et qualiter se habens 
+      <lb ed="#P" n="75"/>non est per sensum. sicut quod est tale per albedinem 
+      <lb ed="#P" n="76"/>potest esse tantum quantum non est per albedinem. cum autem 
+      <lb ed="#P" n="77"/>additur quod diligere est liberum. non autem intelligere / vel 
+      <lb ed="#P" n="78"/>sentire. si accipitur pro actu non infertur nisi 
+      distin<lb ed="#P" n="79" break="no"/>ctio actuum. si pro esse sentientem et diligentem. Per 
+      <lb ed="#P" n="80"/>idem arguitur quod esse hominem diligentem non sit esse hominem 
+      <lb ed="#P" n="81"/>vnde distinguenda est ista. petrum esse diligentem est 
+      <lb ed="#P" n="82"/>liberum. sicut ista petrus diligens potest esse et non 
+      <lb ed="#P" n="83"/>esse se cundum libertatem petri. et petrus diligens est 
+      <lb ed="#P" n="84"/>in libera potestate petri vt sit vel non sit
+    </p>
+            <p xml:id="D78nca-e17573-d1e2770">
+      ¶ Ad confir 
+      <lb ed="#P" n="85"/>mationem. si sumuntur pro actu negatur. si pro esse odien 
+      <lb ed="#P" n="86"/>tem et esse diligentem negatur respectu eiusdem. sed re 
+      <lb ed="#P" n="87"/>spectu diuersorum conceditur tamen per accidens et contingenter 
+      <lb ed="#P" n="88"/>sunt idem. Multe autem propositiones. licet 
+      pos<lb ed="#P" n="89" break="no"/>sunt habere aliquem sensum verum. quia tamen sunt valde improprie 
+      <lb ed="#P" n="90"/>et per accidens sensus in quo secundum communem vsum fiunt est fal 
+      <lb ed="#P" n="91"/>sus et possent esse occasio erroris. ideo absolute negam ter 
+      <lb ed="#P" n="92"/>anquam false. et econtra. alique propositiones de vi verbi 
+      <lb ed="#P" n="93"/>false interdum recipiuntur in sermone communi propter 
+      <lb ed="#P" n="94"/>similitudinem et proportionem ad quasdam alias vt dicimus 
+      <lb ed="#P" n="95"/>quod deus intelligit per intellectum et per intelligere non 
+      <lb ed="#P" n="96"/>per voluntatem et velle. et quod ccontra vult per volunta 
+      <lb ed="#P" n="97"/>tem et velle non per intellectum vel per intelligere. et 
+      <lb ed="#P" n="98"/>quod deus odit per odium non per amorem vel per amare 
+      <lb ed="#P" n="99"/>cum tamen omnia ista sint vnicus actus in deo. Similiter quod deus 
+      <lb ed="#P" n="100"/>punit per iusticiam et parcit per minam non econtra. et 
+      <lb ed="#P" n="101"/>quod deus habet iusticiam / et sapientiam et quod iusticia et sape 
+      <lb ed="#P" n="102"/>entia est in deo. et non dicimus quod deus habet deum vel quod 
+      <lb ed="#P" n="103"/>deus est in deo pro huiusmodi locutionibus. vnde Ansel. de 
+      <lb ed="#P" n="104"/>casu diaboli. c. 5. et. 11. et. 12.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2816">
+      ¶ Cum autem arguitur 
+      septi<lb ed="#P" n="105" break="no"/>mo. quod odire et diligere respectu diuersorum non sunt 
+      <lb ed="#P" n="106"/>idem. quia hoc est prohibitum / illud non.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2823">
+      ¶ Per idem argui 
+      <lb ed="#P" n="107"/>tur. quod petrum esse hominem homicidam non sit petrum 
+      <lb ed="#P" n="108"/>esse hominem. et petrum esse hominem iustum non sit petrum 
+      <lb ed="#P" n="109"/>esse hominem. Et quod petrum ambulare velociter non sit 
+      <lb ed="#P" n="110"/>petrum ambulare. quia hoc potest esse prohibitum et illud 
+      pre<lb ed="#P" n="111" break="no"/>ceptum vel concessum vel licitum. et hoc mihi placeti 
+      <lb ed="#P" n="112"/>et illud mihi displicet.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2839">
+      ¶ Dicendum igitur quod si .a. esse 
+      <lb ed="#P" n="113"/>prohibitum non sit .a. non est contra coclusionem posi 
+      <lb ed="#P" n="114"/>tam. quia non sunt predicationes proprie et directe. si 
+      <lb ed="#P" n="115"/>cut ista .a. intelligitur vel est dilectu. non enim signifi 
+      <lb ed="#P" n="116"/>cant aliquid esse formale ipsius .a. sed esse prohibitionis 
+      <lb ed="#P" n="117"/>et quod lex et ordinatio talis praeceptoria vel prohibitoriai 
+      <lb ed="#P" n="118"/>est posita. in conclusione autem principali addebatur praedi 
+      <lb ed="#P" n="119"/>catois proprie et directe vel potest dici quod hec propositio petrum 
+      <lb ed="#P" n="120"/>esse auctorem boni est praeceptum et petrum esse percussorem 
+      <lb ed="#P" n="121"/>vel esse stantem est prohibitum vel non praeceptum possunt su 
+      <lb ed="#P" n="122"/>mi dupliciter vel in sensu in quo fiunt communiter et quem 
+      <lb ed="#P" n="123"/>habent ille propositiones proprie et directe in quas habent 
+      <lb ed="#P" n="124"/>tesolui / et per quas habent exponi. et ordinatio 
+      fa<lb ed="#P" n="125" break="no"/>cta est in qua formaliter statuitur hominem esse actorem 
+      <lb ed="#P" n="126"/>boni. sed non est facta ordinatio qua formaliter statua 
+      <lb ed="#P" n="127"/>tur hominem esse percussorem vel stantem et sic vere sunt 
+      <lb ed="#P" n="128"/>Alius sensus esset. id quod est hominem esse actorem bo 
+      <lb ed="#P" n="129"/>ni est obiectum illius ordinatomnis praeceptorie quod conce 
+      <lb ed="#P" n="130"/>ditur. Sed cum dicitur petrum esse stantem vel percusso 
+      <lb ed="#P" n="131"/>rem non est preceptum. si intelligitur quod illud quod est ho 
+      <lb ed="#P" n="132"/>minem esse stantem vel percussorem non est obiectum il 
+      <!--74.xml-->
+      <pb ed="#P" n="32-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ordinationis illius negatur interdum in casu quo talis homo 
+      <lb ed="#P" n="2"/>est stans vel percussor. tamen hoc est verum improprie / et 
+      <lb ed="#P" n="3"/>per accidens et contingenter et vt nunc nec quatinus stans 
+      <lb ed="#P" n="4"/>vel percussor. sic etiam per accidens et improprie concedi 
+      <lb ed="#P" n="5"/>tur quod petrum esse hominem est malum et est modo 
+      diffor<lb ed="#P" n="6" break="no"/>me recte rationi et cuidam ordinationi. non tamen proprie. quia 
+      <lb ed="#P" n="7"/>non est repugnans nec difforme per se ordinationi 
+      <lb ed="#P" n="8"/>qua prohibeatur petrum esse et qua statuatur formaliter quod 
+      <lb ed="#P" n="9"/>petrus non sit. videtur tamen conuenientius quod huiusmodi propositio 
+      <lb ed="#P" n="10"/>nes non concedantur. quia sunt false in sensu in quo fiunt 
+      <lb ed="#P" n="11"/>et earum concessio posset esse occasio erroris. negande  
+      <lb ed="#P" n="12"/>sunt igitur habendo in intellectu secundum sensum in quo 
+      <lb ed="#P" n="13"/>sunt false et non sunt concedende nisi cum determina 
+      <lb ed="#P" n="14"/>ta modificatione.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2922">
+      ¶ Ad confirmationem per idem. non 
+      <lb ed="#P" n="15"/>enim sunt praedicationes proprie et directe sicut in 
+      supe<lb ed="#P" n="16" break="no"/>rioribus dictum est. q. 2. prolo. respondendo ad. 7 
+      con<lb ed="#P" n="17" break="no"/>tra conclusionem. 4. ad illud additum non infertur quod 
+      <lb ed="#P" n="18"/>hunc actum esse viciosum non sit hic actus sicut petrum 
+      <lb ed="#P" n="19"/>esse hominem homicidam est petrum esse hominem. et petrum 
+      <lb ed="#P" n="20"/>esse hominem attribuitur deo. non autem esse hominem homici 
+      <lb ed="#P" n="21"/>dam. dicendum igitur sicut supra ad quartum. Per 
+      <lb ed="#P" n="22"/>idem arguitur quod viciosus actus non est actus.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2943">
+      ¶ Ad octa 
+      <lb ed="#P" n="23"/>uam. improbationem consequentis si esse audientem accipitur 
+      <lb ed="#P" n="24"/>pro auditione vel potentia auditiua discursus non va 
+      <lb ed="#P" n="25"/>let. si sumitur pro eo quod est petrum esse audientem vel esse 
+      <lb ed="#P" n="26"/>habentem sensum auditus. sic conceditur consequens. tamen est lo 
+      <lb ed="#P" n="27"/>cutio per accidens et impropria. quia petrum esse hominem 
+      <lb ed="#P" n="28"/>cecum est petrum esse et petrum esse hominem audientem est pe 
+      <lb ed="#P" n="29"/>trum esse.
+    </p>
+            <p xml:id="D78nca-e17573-d1e2961">
+      ¶ Ad improbatione per idem arguitur quod pe 
+      <lb ed="#P" n="30"/>trum esse hominem cecum et priuatum visu non est petrum esse 
+      <lb ed="#P" n="31"/>hominem. potest igitur dici quod sicut petrus carens visu 
+      <lb ed="#P" n="32"/>habet aliquod bonum naturale secundum sensum auditus et 
+      <lb ed="#P" n="33"/>petro ceco bene est secundum sensum auditus. ita per accidens et 
+      <lb ed="#P" n="34"/>improprie petrum esse priuatum visu est quoddam bonum 
+      <lb ed="#P" n="35"/>non quatinus priuatus visu neque secundum sensum quo 
+      <lb ed="#P" n="36"/>priuatur. et sicut petrus habens auditum male habet secundum 
+      <lb ed="#P" n="37"/>aliquid et ei male est secundum aliquid. scilicet secundum cecitatem 
+      <lb ed="#P" n="38"/>ita per accisens et improprie petrum esse audientem est 
+      <lb ed="#P" n="39"/>quoddam malum per accidentalem concomitantiam: sed 
+      <lb ed="#P" n="40"/>quia huiusmodi propositiones non sunt proprie nec fiunt in isto sen 
+      <lb ed="#P" n="41"/>su secundum communem vsum et in communi sermone. ideo ne 
+      <lb ed="#P" n="42"/>gande sunt et concedendum est quod priuari visu est 
+      ma<lb ed="#P" n="43" break="no"/>lum id est priuato visu male est quatinus est priuatus 
+      vi<lb ed="#P" n="44" break="no"/>su et secundum illum sensum quo priuatur et habere 
+      <lb ed="#P" n="45"/>sensum auditus est bonum. quia sensus auditus est bo 
+      <lb ed="#P" n="46"/>num naturale et habenti illum bene est secundum illum. et ex 
+      <lb ed="#P" n="47"/>hoc non sequitur nisi quod sensus auditus non est cecitas 
+      <lb ed="#P" n="48"/>vel per se et proprie loquendo carere visu non est ha 
+      <lb ed="#P" n="49"/>bere auditum. licet per accidentalem concomitantiam et 
+      <lb ed="#P" n="50"/>identitatem materialem / vel quod sensus iste non est ille in 
+      <lb ed="#P" n="51"/>petro.
+    </p>
+            <p xml:id="D78nca-e17573-d1e3011">
+      ¶ Ad nonam. Arist. intendit quod. a. mouente. b. 
+      <lb ed="#P" n="52"/>vel agente in. b. licet vnus et idem sit motus et actus 
+      <lb ed="#P" n="53"/>qui est in hoc et qui est ab illo. non tamen sequitur quod. a. 
+      <lb ed="#P" n="54"/>mouere vel agere sit. a. moueri et pati. tamen si interdum 
+      <lb ed="#P" n="55"/>idem moueat et moueatur agat et patiatur sicut tunc 
+      con<lb ed="#P" n="56" break="no"/>tingenter et per accidens. idem est agens et patiens et 
+      mo<lb ed="#P" n="57" break="no"/>uens et motum. ita contingenter et per accidens esse 
+      <lb ed="#P" n="58"/>agens et esse patiens sunt idem et agere et pati. et 
+      li<lb ed="#P" n="59" break="no"/>cet vtraque locutio sit impropria et per accidens. 
+      ta<lb ed="#P" n="60" break="no"/>men hec est magis impropria agere et pati sunt iden 
+      <lb ed="#P" n="61"/>quia non est ibi nisi identitas materialis et subiectiua 
+      <lb ed="#P" n="62"/>quae magis denotatur per agens et patiens esse idem. et 
+      <lb ed="#P" n="63"/>cum dicitur quod agere est nobilius quam pati. Responsio ita 
+      <lb ed="#P" n="64"/>dicit philosophus quod agens est nobilius patiente. si igitur ter 
+      <lb ed="#P" n="65"/>mini sumantur personaliter non est vniuersaliter verum. sed 
+      <lb ed="#P" n="66"/>intellectus illius dicti est quod vbi agens et patiens di¬ 
+      <!--74.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>stinguuntur agens est nobilius ceteris paribus vel saltem 
+      <lb ed="#P" n="68"/>est nobilius secundum quid quatinus dominans et vicens 
+      <lb ed="#P" n="69"/>vel intelligitur quod agere non infert imperfectionem in 
+      <lb ed="#P" n="70"/>eodem de quo verificatur sicut pati. istud etiam argumen 
+      <lb ed="#P" n="71"/>tum potest reduci contra alios. quia si agere est nobilius 
+      <lb ed="#P" n="72"/>igitur habet determinatum gradum nobilitatis. igitur 
+      <lb ed="#P" n="73"/>entitatis. igitur est aliqua entitas demonstrabilis incom 
+      <lb ed="#P" n="74"/>plexe.
+    </p>
+            <p xml:id="D78nca-e17573-d1e3068">
+      ¶ Ad. 10. Aug. accipit concretum pro abstracto 
+      <lb ed="#P" n="75"/>vnde ibidem. c. 6 immediate subdit. aliud leticia. aliud 
+      <lb ed="#P" n="76"/>tristicia. Et probat quia anima est mutabilis secundum ista et hec 
+      <lb ed="#P" n="77"/>conueniunt anime separabiliter. et per hoc intendit ponere 
+      <lb ed="#P" n="78"/>differentiam inter animam cui hec conueniunt contingenter et 
+      <lb ed="#P" n="79"/>mutabiliter et deum cui conueniunt identice et 
+      immutabi<lb ed="#P" n="80" break="no"/>liter et conformiter. si Aug. alicubi inueniatur 
+      dice<lb ed="#P" n="81" break="no"/>re quod in creaturis aliud est esse quantum aliud esse coloratum 
+      <lb ed="#P" n="82"/>vel. etc. accipit concreta pro abstractis vel per huiusmodi 
+      <lb ed="#P" n="83"/>alietatem intelligit contingentiam et separabilitatem 
+      <lb ed="#P" n="84"/>per negationem identitatis per se et proprie et necessa 
+      <lb ed="#P" n="85"/>rie.
+    </p>
+            <p xml:id="D78nca-e17573-d1e3094">
+      ¶ Ad septimum principale. contra conclusionem se 
+      <lb ed="#P" n="86"/>cundam patet ex superioribus. ille enim non sunt praedicatio 
+      <lb ed="#P" n="87"/>nes directe. et licet in figura loquendi videantur 
+      si<lb ed="#P" n="88" break="no"/>gnificare quoddam esse ipsius obiecti formaliter. tamen 
+      <lb ed="#P" n="89"/>realiter significant esse legis et ordinationis prohi 
+      <lb ed="#P" n="90"/>bitorie vel actus punitiui vel vituperantis. etc.
+    </p>
+            <p xml:id="D78nca-e17573-d1e3107">
+      ¶ Ad  
+      <lb ed="#P" n="91"/>confirmationem. patet supra secunda questione prolo. responden 
+      <lb ed="#P" n="92"/>do ad tertium et quartum contra conclusionem secundam  
+    </p>
+            <p xml:id="D78nca-e17573-d1e3115">
+               <lb ed="#P" n="93"/>¶ Ad octauum principale negatur antecedens. Ad probatio 
+      <lb ed="#P" n="94"/>nem primam. per idem arguitur quod corpus habens 
+      albedi<lb ed="#P" n="95" break="no"/>nem est illud compositum et similiter albedo inherens 
+      cor<lb ed="#P" n="96" break="no"/>pori.
+    </p>
+            <p xml:id="D78nca-e17573-d1e3126">
+      ¶ Dicendum igitur quod hec est falsa in sensu diui 
+      <lb ed="#P" n="97"/>sionis. corpus esse album non potest poni sine illo compo 
+      <lb ed="#P" n="98"/>sito. Ad secundam probationem conceditur quod esse 
+      termi<lb ed="#P" n="99" break="no"/>num ad quem totalem motus alterationis verificatur 
+      <lb ed="#P" n="100"/>de vtroque. sed aliter et aliter. illud enim compositum non 
+      <lb ed="#P" n="101"/>erat prius simpliciter et absolute et capit esse simpliciter per 
+      <lb ed="#P" n="102"/>alterationem vt totalis effectus. sed corpus album vel 
+      <lb ed="#P" n="103"/>corpus esse album erat prius et non acquiritur loquen 
+      <lb ed="#P" n="104"/>do secundum sensum diuisionis: sed iuxta sensum dictum 
+      <lb ed="#P" n="105"/>supra respondendo ad secundum
+    </p>
+            <p xml:id="D78nca-e17573-d1e3148">
+      ¶ Ad. 9. negatur antecedens. si 
+      <lb ed="#P" n="106"/>a. non existente hec sit vera. a. est. a. si vero non sit vera. adhuc 
+      <lb ed="#P" n="107"/>negatur antecedens pro tempore quo. a. actualiter existit quod tamen non est al 
+      <lb ed="#P" n="108"/>bum Si vero. a. non existat nec verum sit a. esse .a. tunc 
+      con<lb ed="#P" n="109" break="no"/>ceditur antecedens. et negatur consequentia. nec est simile de affirma 
+      <lb ed="#P" n="110"/>tiua et negatiua. quia veritas negatiue non exigit 
+      exi<lb ed="#P" n="111" break="no"/>tentiam rei significate per subiectum.
+    </p>
+            <p xml:id="D78nca-e17573-d1e3164">
+      ¶ Ad primam 
+      pro<lb ed="#P" n="112" break="no"/>bationem antecedentis. negatur proprie loquendo quod petrum non esse 
+      <lb ed="#P" n="113"/>album ponatur destructo petro. sicut nec ponitur pe 
+      <lb ed="#P" n="114"/>trus non ens album actu. nullum enim intelligibile 
+      poni<lb ed="#P" n="115" break="no"/>tur actu quod sit petrum non esse album. Ad probationem 
+      <lb ed="#P" n="116"/>quamuis petro destructo hec sit actu vera. petrus non 
+      <lb ed="#P" n="117"/>est albus: non sequitur quod proprie loquendo ponatur pe 
+      <lb ed="#P" n="118"/>trum non esse album. quia negatiua proprie non significat 
+      <lb ed="#P" n="119"/>aliquod intelligibile poni: sed non poni. et ideo 
+      ve<lb ed="#P" n="120" break="no"/>ritas eius non exigit intelligibile significatum per eam 
+      <lb ed="#P" n="121"/>actu poni: sed sufficit quod intelligibile non ponatur / 
+      <lb ed="#P" n="122"/>quod poni significaretur per affirmationem. large enim 
+      <lb ed="#P" n="123"/>loquendo diceretur poni petrum non esse album. quia non 
+      <lb ed="#P" n="124"/>ponitur petrum esse album et propter non positionem illius 
+      <lb ed="#P" n="125"/>intelligibilis verificatur negatiua propter cuius posi 
+      <lb ed="#P" n="126"/>tionem verificaretur affirmatiua.
+    </p>
+            <p xml:id="D78nca-e17573-d1e3199">
+      ¶ Ad secundam 
+      proba<lb ed="#P" n="127" break="no"/>tionem. negatur secunda pars antecedentis. ad primam probationem 
+      <lb ed="#P" n="128"/>conceditur. quod. b. asinus est nullum hominem esse album 
+      <lb ed="#P" n="129"/>quia. b. est nunc hominem esse album. et est non illum hominem 
+      <lb ed="#P" n="130"/>e est album. etc. Negatur consequentia scilicet igitur. b. est hunc homi 
+      <lb ed="#P" n="131"/>nem vel aliquem hominem non esse album nec est locus 
+      <lb ed="#P" n="132"/>a toto in quantitate nec locus a superiori negatiue cum 
+      <!--75.xml-->
+      <pb ed="#P" n="32-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>vtraque sit simpliciter affirmativma: sed sequitur igitur .b. asi 
+      <lb ed="#P" n="2"/>nus non est aliquem hominem currere vel est non hunc 
+      <lb ed="#P" n="3"/>hominem currere.
+    </p>
+            <p xml:id="D78nca-e17573-d1e3228">
+      ¶ Si vero aliquis dicat quod singala 
+      <lb ed="#P" n="4"/>res huius vniuersalis .b. est nullum hominem currere. 
+      <lb ed="#P" n="5"/>sunt iste .b. est hunc hominem non currere. etc. tunc ne 
+      <lb ed="#P" n="6"/>gandum est quod .b. sit nullum hominem currere et correspon 
+      <lb ed="#P" n="7"/>dentur. falsum est quod nullum hominem currere est .b. asinus 
+      <lb ed="#P" n="8"/>quia falsum est quod .b. asinus. sit hominem non currere. et 
+      <lb ed="#P" n="9"/>tunc contradictoria istius. nullum hominem currere est 
+      <lb ed="#P" n="10"/>b. asinus non esset ista. aliquem hominem currere est .b. 
+      <lb ed="#P" n="11"/>asinus: sed ista nullum hominem currere non est .b. asinus vel 
+      <lb ed="#P" n="12"/>non nullum hominem currere est .b. asinus vel aliquem ho 
+      <lb ed="#P" n="13"/>minem currere non est .b. asinus. Sed non videtur quod 
+      <lb ed="#P" n="14"/>sic accipiende sunt singulares illius vniuersalis. quia ipsa 
+      <lb ed="#P" n="15"/>est negatiua simpliciter. singulares vero forent 
+      affirma<lb ed="#P" n="16" break="no"/>tiue. et quia singulares istius: nullus homo currens est 
+      <lb ed="#P" n="17"/>b. asinus non sunt iste plato non currens est .b. asinus 
+      <lb ed="#P" n="18"/>etc.
+    </p>
+            <p xml:id="D78nca-e17573-d1e3264">
+      ¶ Ad secundam probationem negatur consequentia. ad primam 
+      pro<lb ed="#P" n="19" break="no"/>bationem verum est si negatio ponitur immediate post 
+      <lb ed="#P" n="20"/>copulam. et ad secundam negatur quia nec petrus est chime 
+      <lb ed="#P" n="21"/>ram esse aliquid nec petrus est chimeram nichil esse. 
+    </p>
+            <p xml:id="D78nca-e17573-d1e3273">
+               <lb ed="#P" n="22"/>¶ Ad decimum principale sumpto antecedente personaliter 
+      <lb ed="#P" n="23"/>et supposito quod omnes vel plures homines currant. conce 
+      <lb ed="#P" n="24"/>ditur antecedens. et negatur consequentia. quamuis enim petrus currens 
+      <lb ed="#P" n="25"/>sit idem petro currenti: et aliquis homo currens sit idem 
+      <lb ed="#P" n="26"/>alicui homini currenti. falsum est tamen quod omnis homo cur 
+      <lb ed="#P" n="27"/>rens sit idem homini currenti quia petrus esset idem omni 
+      ho<lb ed="#P" n="28" break="no"/>mini currenti. non est igitur similis proportio. quia hic 
+      con<lb ed="#P" n="29" break="no"/>paratur vnum singulare sibiipsi. ibi aut comparatur vnum 
+      <lb ed="#P" n="30"/>singulare omnibus vel pluribus aliis. conceditur tamen quod 
+      <lb ed="#P" n="31"/>omnis homo currens et omnem hominem currere sunt oraitiones 
+      <lb ed="#P" n="32"/>conuertibiles sumptis terminis personaliter sic quod omnis 
+      <lb ed="#P" n="33"/>homo currens est aliquem hominem currere et omnem 
+      ho<lb ed="#P" n="34" break="no"/>minem currere est aliquis homo currens. Si vero solus 
+      <lb ed="#P" n="35"/>petrus currat. tunc licet petrus sit omnis homo currens: non tamen videtur 
+      <lb ed="#P" n="36"/>concedendum quod petrum currere sit omnem hominem currere / 
+      <lb ed="#P" n="37"/>licet sit ome quod est hominem currere. vnde hoc dictum 
+      <lb ed="#P" n="38"/>omnem hominem currere potest exponi per hanc. omne quod 
+      <lb ed="#P" n="39"/>est hominem currere et sic petrum currere esset tunc omnem 
+      <lb ed="#P" n="40"/>hominem currere. Nec sequitur quod omnis homo currat. Sicut 
+      <lb ed="#P" n="41"/>licet petrus sit omnis homo currens et omnis homo currens sit 
+      <lb ed="#P" n="42"/>aliquis existens in actu. Non tamen verum est tunc 
+      <lb ed="#P" n="43"/>quod omnis homo sit currens. Si vero exponitur per istas 
+      ofo<lb ed="#P" n="44" break="no"/>nes hunc hominem currere / et illum hominem currere etc. 
+      <lb ed="#P" n="45"/>vel omne quod est hominem currere sic falsum est tunc 
+      <lb ed="#P" n="46"/>quod petrum currere sit omnem hominem currere.
+    </p>
+            <p xml:id="D78nca-e17573-d1e3330">
+      Ad 
+      confir<lb ed="#P" n="47" break="no"/>mationem per idem. Ad pleniorem intellectum eorum que 
+      <lb ed="#P" n="48"/>spectant ad hanc materiam. sciendum quod si propositio ca 
+      <lb ed="#P" n="49"/>thegorica affirmatiua de inesse sit vera. Puta .a. 
+      <lb ed="#P" n="50"/>est .b. tunc dictum predicatur de subiecto et econtra. 
+      <lb ed="#P" n="51"/>quia .a. esse .b. est .a. ens .b. et .a. ens .b. est. a. Si vero 
+      <lb ed="#P" n="52"/>sit falsa et impossibilis / vt petrus est irrationalis tunc 
+      <lb ed="#P" n="53"/>petrum esse irrationabilem non est petrus nec est aliquid 
+      <lb ed="#P" n="54"/>nec actu neque potentia. Si vero sit falsa tamen possibil 
+      <lb ed="#P" n="55"/>vt petrus est albus tunc petrum esse album non est ali 
+      <lb ed="#P" n="56"/>quid in actu sed potest esse aliquid: quia potest esse 
+      pe<lb ed="#P" n="57" break="no"/>trus et quia petrus potest esse ens album. Si vero sit pro 
+      <lb ed="#P" n="58"/>positio negatiua falsa vt petrus non est homo tunc 
+      pe<lb ed="#P" n="59" break="no"/>trum non esse hominem non est aliquid. Sicut petrus 
+      <lb ed="#P" n="60"/>non ens homo seu non idem homini non est tunc 
+      ali<lb ed="#P" n="61" break="no"/>quid. Si vero propositio negatiua sit vera vt .a. non 
+      <lb ed="#P" n="62"/>est .b. aut igitur a. est actu aut non. Si primum tunc .a. non 
+      <lb ed="#P" n="63"/>esse .b. est aliquid: puta .a. siue .b. sit siue non sit. S 
+      i<lb ed="#P" n="64" break="no"/>cut tunc verum est quod .a. non ens .b. seu non idem .b. est ali 
+      <lb ed="#P" n="65"/>quid. Si vero .a. non sit in actu / aut igitur non potest esse et 
+      <lb ed="#P" n="66"/>tunc .a. non esse .b. nich il est nec actu nec potentia. 
+      <!--75.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>vt petrum irrationalem non esse asinum non est alquid nec actu nec 
+      <lb ed="#P" n="68"/>potentia. Aut a. non est actu sed potest esse et tunc auta. potest 
+      <lb ed="#P" n="69"/>esse et non esse .b. et tunc .a. non esse .b. est aliquid in po 
+      <lb ed="#P" n="70"/>tentia quia possibile est quod .a. non esse .b. sit. a. et sit idem 
+      <lb ed="#P" n="71"/>ipsi .a. aut .a. non potest esse quin sit .b. vt petrus non potest 
+      <lb ed="#P" n="72"/>esse quin sit viuens et conseruetur a deo et tunc .a. non esse 
+      <lb ed="#P" n="73"/>b. non est aliquid in actu nec in potentia nisi forte in 
+      <lb ed="#P" n="74"/>sensu diuisionis. Hec enim propositio petrum non 
+      viue<lb ed="#P" n="75" break="no"/>re seu petrum non conseruari a deo est possibile videtur 
+      <lb ed="#P" n="76"/>distinguenda secundum compositionem et diuisionem. Sicun 
+      <lb ed="#P" n="77"/>ista petrus non habens vitam potest esse ens actu seu petrus 
+      <lb ed="#P" n="78"/>priuatus vita potest viuere: in sensu diuisionis vera est: 
+      <lb ed="#P" n="79"/>in sensu compositionis falsa.
+    </p>
+            <p xml:id="D78nca-e17573-d1e3408">
+      ¶ Ad argumentum in 
+      <lb ed="#P" n="80"/>principio quaestionis patet ex dictis. Ad argumenta con 
+      <lb ed="#P" n="81"/>tra primam conclusionem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

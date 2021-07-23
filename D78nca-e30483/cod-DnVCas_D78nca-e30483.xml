@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="47-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-e30483"><!-- l1d8q1 -->
+            <head xml:id="D78nca-e30483-Hd1e108">Quaestio 1</head>
+            <head xml:id="D78nca-e30483-Hd1e111" type="question-title">
+      utrum 
+      ratione naturali sufficienter 
+      probari possit deum esse substantiam 
+      simplicem et inextensam.
+    </head>
+            <p xml:id="D78nca-e30483-d1e114">
+      <!--105.xml-->
+               <pb ed="#P" n="47-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>¶ Sequitur octaua distinctio. 
+      <lb ed="#P" n="2"/>CIrca distinctionem 
+      <lb ed="#P" n="3"/>octauam. in qua magister agit 
+      <lb ed="#P" n="4"/>de simplicitate et 
+      immutabilita<lb ed="#P" n="5" break="no"/>te diuine essentie. Quero vtrum 
+      <lb ed="#P" n="6"/>ratione naturali sufficienter proba 
+      <lb ed="#P" n="7" break="no"/>ri possit deum esse substantiam sim 
+      <lb ed="#P" n="8" break="no"/>plicem et inextensam.
+    </p>
+            <p xml:id="D78nca-e30483-d1e140">
+      Quod non. 
+      <lb ed="#P" n="9"/>quia talem substantiam non potest 
+      ha<lb ed="#P" n="10" break="no"/>bere intellectus noster in prospectu obiectiue. probo. quia 
+      <lb ed="#P" n="11"/>secundum <ref xml:id="D78nca-e30483-Rd1e148">philosophum. 3. de anima</ref> circa medium. intellectus noster 
+      nihil<lb ed="#P" n="12" break="no"/>intelligit nisi speculando fantasmata: sed fantasma 
+      <lb ed="#P" n="13"/>nil repraesentat nisi sub ratione extensi. quia fantasma est mo 
+      <lb ed="#P" n="14"/>tus factus a sensu. igitur.
+    </p>
+            <p xml:id="D78nca-e30483-d1e159">
+      ¶ Contra. sufficienter proba 
+      <lb ed="#P" n="15"/>tur deum esse substantiam nobilissimam. patet supra. igitur esse 
+      <lb ed="#P" n="16"/>substantiam incorpoream. quia substantia primo diuidii 
+      <lb ed="#P" n="17"/>in corporeum et in icorporeum et substantia incorporea 
+      <lb ed="#P" n="18"/>prefertur corporali.
+    </p>
+            <p xml:id="D78nca-e30483-d1e171">
+      ¶ Notandum. spesiuns aliquando sumitur 
+      <lb ed="#P" n="19"/>pro vento et flatu aeris. aliquando autem accipitur vt a medicis 
+      <lb ed="#P" n="20"/>pro quodam corpore subtilissimo per quod fit pulsus 
+      <lb ed="#P" n="21"/>in homine seu pro quadam virtute vitali vel animali ortum ha 
+      <lb ed="#P" n="22"/>bente a corde vel a cerebro per quem fit motus et 
+      sen<lb ed="#P" n="23" break="no"/>sus et pulsus et anhelitus. aliquando etiam accipitur pro anima 
+      <lb ed="#P" n="24"/>vt anima bruti dicitur sempus et per consequens substantia spiritualis 
+      <lb ed="#P" n="25"/>Sed sposctns istis modis est res extensa habens parten 
+      <lb ed="#P" n="26"/>situ distinctas. quarum vna est extra aliam. ideo ponitur 
+      <lb ed="#P" n="27"/>in questione. an deus sit substantia spumalis et inextem 
+      <lb ed="#P" n="28"/>sa partem negatiuam questionis videntur sensisse multo 
+      <lb ed="#P" n="29"/>secte sub celo que dicunt solem / vel saturnum / vel ioui 
+      <lb ed="#P" n="30"/>esse deum vel deos.
+    </p>
+            <p xml:id="D78nca-e30483-d1e200">
+      ¶ Item Saducei. de quibus. actuum 
+      <lb ed="#P" n="31"/>23o. dicunt neque angelum / neque spiritum esse.
+    </p>
+            <p xml:id="D78nca-e30483-d1e205">
+      ¶ Item 
+      An<lb ed="#P" n="32" break="no"/>selmus de incarnatione verbi. cap. 9. Dialectici mo 
+      <lb ed="#P" n="33"/>derni / nihil esse credunt nisi quod ymaginationibus 
+      <lb ed="#P" n="34"/>comprehendere possunt nec peutant esse aliquid in quo 
+      <lb ed="#P" n="35"/>partes nulle sint.
+    </p>
+            <p xml:id="D78nca-e30483-d1e216">
+      ¶ Item Cassianus. 10. et vlti. collu 
+      <lb ed="#P" n="36"/>prime partis que est secunda collatio abbatis ysaac referi 
+      <lb ed="#P" n="37"/>quod fere ab vniuerso genere monachorum per prouinciam egyi 
+      <lb ed="#P" n="38"/>pti commorantium. hic error suscipiebatur. scilicet. quod deus o 
+      <lb ed="#P" n="39"/>potens humane figure compoaitione formatus sit. Dicit 
+      <lb ed="#P" n="40"/>enim scriptura quod homo ad ymaginem dei factus sit et epulam 
+      <lb ed="#P" n="41"/>Theophili potestificis / reprobantis hunc errorem cum gra 
+      <lb ed="#P" n="42"/>ui amaritudine receperunt. inter quos quidem pater anti 
+      <lb ed="#P" n="43"/>quus famose sanctitatis nomine Seraphin cum magna 
+      <lb ed="#P" n="44"/>difficultate / ab hoc errore reuo catus est post quam reuo 
+      <lb ed="#P" n="45"/>cationem erat in oronibus mente confusus eo quod ymagina 
+      <lb ed="#P" n="46"/>deitatis quam in oratione sibi praeponere consueuerat abo 
+      <lb ed="#P" n="47"/>leri de suo corde sentiret et cum fletu amaro dicebat 
+      <lb ed="#P" n="48"/>Deu me tulerunt a me deum meum et nunc quem adorem 
+      <lb ed="#P" n="49"/>ignoro.
+    </p>
+            <p xml:id="D78nca-e30483-d1e249">
+      ¶ Item. partem questionis negatiuam videntur 
+      <lb ed="#P" n="50"/>sensisse Pytagorici. vt tangitur. 12. metha. circa 
+      me<lb ed="#P" n="51" break="no"/>dium. posuerunt enim optimum et nobilissimum non in 
+      prin<lb ed="#P" n="52" break="no"/>cipio esse: sed in composito ex principiis: sed secundum ver 
+      <lb ed="#P" n="53"/>tatem tenendum est quod circumscribendo humanitatem assum 
+      <lb ed="#P" n="54"/>ptam a filio dei deus est substantia spumalis incorporea 
+      <lb ed="#P" n="55"/>et inextensa per negationem partium situ distantium. pro 
+      <lb ed="#P" n="56"/>batur per Aug 1 de trini. dicit enim errorem esse 
+      pone<lb ed="#P" n="57" break="no"/>re deum esse corpus.
+    </p>
+            <p xml:id="D78nca-e30483-d1e269">
+      ¶ Item. 15. de tri. c. 4. et. 5. 
+      incor<lb ed="#P" n="58" break="no"/>poralia preferuntur corporalibus.
+    </p>
+            <p xml:id="D78nca-e30483-d1e275">
+      ¶ Item Ansel. 
+      mo<lb ed="#P" n="59" break="no"/>no. 15. et. 17. et Richar. 2 de trini. cap. 2. et 2. 4. Item 
+      <lb ed="#P" n="60"/>deus est vbique nullum corpus est vbique
+    </p>
+            <p xml:id="D78nca-e30483-d1e282">
+      ¶ Preterea. se 
+      <lb ed="#P" n="61"/>cundum philosophriam humanam sic dicendum est. patet ex. g8od 
+      <lb ed="#P" n="62"/>phisi. primum mouens necesse est esse impartibile nec ha 
+      <lb ed="#P" n="63"/>bere inagnitudinem. etiam. 12. metha. ostensum est inquis 
+      <lb ed="#P" n="64"/>quoniam non couenit hanc substantiam habere vllam 
+      magni<lb ed="#P" n="65" break="no"/>tudinem: sed est sine parte et indiuisibilis.
+    </p>
+            <p xml:id="D78nca-e30483-d1e295">
+      ¶ Sed vi¬ 
+      <!--105.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="66"/>dendum est. an hoc possit sufficienter probari in luse 
+      <lb ed="#P" n="67"/>naturali et gratia huius primo videndum quo modo hoc 
+      pro<lb ed="#P" n="68" break="no"/>batur per Arist. et eius commentatorem. secundo qualiter hoc 
+      <lb ed="#P" n="69"/>possit aliis rationibus probari
+    </p>
+            <p xml:id="D78nca-e30483-d1e311">
+      ¶ Quantum ad primum Arist 
+      <lb ed="#P" n="70"/>probat primum mouens esse virtutem incorporcam et inextem 
+      <lb ed="#P" n="71"/>sam ex via motus tripliciter. Primo ex infinita po 
+      <lb ed="#P" n="72"/>tentia primi motoris. Secundo. ex perpetuitate motus ce 
+      <lb ed="#P" n="73"/>lestis. Et tertio ex immobilitate primi motoris. Quo 
+      <lb ed="#P" n="74"/>ad primum arguitur sic. 8. phi. si virtus primi motoris 
+      <lb ed="#P" n="75"/>est corporea et extensa. aut igitur est magnitudine in 
+      <lb ed="#P" n="76"/>finita / aut finita. non primum quia talis magnitudo non 
+      <lb ed="#P" n="77"/>est. nec secundum / quia in magnitudine finita non est virtus 
+      <lb ed="#P" n="78"/>infinita extensa. Talis enim virtus est maior secundum ex 
+      <lb ed="#P" n="79"/>tensionem et secundum efficaciam causandi in maiori parte 
+      <lb ed="#P" n="80"/>et per consequens fi est infinita erit in magnitudine infinita 
+      <lb ed="#P" n="81"/>quod autem primi motoris virtus sit infinita. probauit prius 
+      <lb ed="#P" n="82"/>per hoc quod mouet tempore infinito: sed sic arguendo pro 
+      <lb ed="#P" n="83"/>batur ignotum per magis ignotum. minus enim potest suf 
+      <lb ed="#P" n="84"/>ficienter probari in lumine naturali virtutem primi mo 
+      <lb ed="#P" n="85"/>toris esse formaliter infinitam in perfectione / et vigore quam 
+      <lb ed="#P" n="86"/>ipsam esse inextensam et incorpoream. quod autem ex 
+      perpe<lb ed="#P" n="87" break="no"/>tuitate motus non arguatur talis infinitas in primo 
+      <lb ed="#P" n="88"/>motore videbitur dist. 42. Secundo. alia via: scilicet ex 
+      perpe<lb ed="#P" n="89" break="no"/>tuitate motus celestis arguitur secundum Arist. 8. phisi. 
+      <lb ed="#P" n="90"/>sic nulla virtus corporea et extensa mouet tempore in 
+      <lb ed="#P" n="91"/>finito ex se: sed virtus primi motoris mouet ex se tempore in 
+      <lb ed="#P" n="92"/>finito. igitur. maior probatur. quia si .a. virtus extensa mo 
+      <lb ed="#P" n="93"/>ueret .b. tempore infinito. igitur c. certa pars ipsius. a. mo 
+      <lb ed="#P" n="94"/>uebit .b. vel aliquam partem eius vel mobile sibi 
+      propor<lb ed="#P" n="95" break="no"/>tionatum in tempore minori et non in tempore infinito. 
+      <lb ed="#P" n="96"/>potentia enim totius est potentia maior quam potentia par 
+      <lb ed="#P" n="97"/>tis. potentia autem maior potest mouere tempere longiori / 
+      <lb ed="#P" n="98"/>et quia que erit proportio motoris ad motorem eadem erit 
+      <lb ed="#P" n="99"/>temporis ad tempus. igitur c. pars certa ipsius a. motoris 
+      <lb ed="#P" n="100"/>mouebit tantum tempore finito. igitur equalis pars 
+      moue<lb ed="#P" n="101" break="no"/>bit equali tempore finito. igitur cum a. contineat tantum partes tales 
+      <lb ed="#P" n="102"/>finitas sequitur quod totum tempus quo a mouebit erit fi 
+      <lb ed="#P" n="103"/>nitum hanc deductionem approbat commentator 
+      <lb ed="#P" n="104"/>in de substantia orbis tractatu secundo. Et addit 
+      <lb ed="#P" n="105"/>quod sicut motus celi non esset infinitus nisi esset a virtu 
+      <lb ed="#P" n="106"/>te non in corpore. ita corpus celeste. quia est finitum non esset 
+      <lb ed="#P" n="107"/>permanentie infinite nisi virtus que largitur ei motum eter 
+      <lb ed="#P" n="108"/>num largiatur ei in sua substantia permanentiam eter 
+      <lb ed="#P" n="109"/>nam: sed hec deductio procedit ex aliquibus que in lu 
+      <lb ed="#P" n="110"/>mine naturali non solum non sunt euidentia. immo 
+      quo<lb ed="#P" n="111" break="no"/>rum opposita sunt probabiliora quam ipsa. scilicet quod si .a. vir 
+      <lb ed="#P" n="112"/>tus extensa motiua mouet tempore infinito c certa pars 
+      <lb ed="#P" n="113"/>eius mouebit tantum tempore finito.
+    </p>
+            <p xml:id="D78nca-e30483-d1e409">
+      ¶ Contra. virtus mo 
+      <lb ed="#P" n="114"/>tiua incorruptibilis et inalterabilis si mouet tempore 
+      <lb ed="#P" n="115"/>aliquo pari ratione potest mouere tempore infinito. patet quia est 
+      <lb ed="#P" n="116"/>infatigabilis. et ita quocunque tempore finito dato in quo 
+      <lb ed="#P" n="117"/>mouerit. ita potens est iterum mouere in fine illius tem 
+      <lb ed="#P" n="118"/>poris sicut in principio sed quelibet pars ipsius .a. est 
+      <lb ed="#P" n="119"/>virtus incorruptibilis. quia ex quo .a. est incorruptibi 
+      <lb ed="#P" n="120"/>le non componitur ex corruptibilibus. igitur.
+    </p>
+            <p xml:id="D78nca-e30483-d1e427">
+      ¶ 
+      Confi<lb ed="#P" n="121" break="no"/>matur. sicut sol natus est illuminare perpetuo. ita 
+      <lb ed="#P" n="122"/>est medietas solis. igitur si per possibile vel 
+      impossi<lb ed="#P" n="123" break="no"/>bile esse diuisa posset perpetuo illuinare. licet non tam ex 
+      <lb ed="#P" n="124"/>tense et intense sicut totus sol.
+    </p>
+            <p xml:id="D78nca-e30483-d1e439">
+      ¶ Confirmatur. virtus 
+      <lb ed="#P" n="125"/>motiua subdupla vel subtripla ad .a. potest equali tem 
+      <lb ed="#P" n="126"/>pore mouere sicut .a. igitur et si medietas ipsius .a. seor 
+      <lb ed="#P" n="127"/>sum existens posset mouere sequitur quod posset mouere equa 
+      <lb ed="#P" n="128"/>li tempore cum .a. antecedens probatur. quia vnus planeta vel stel 
+      <lb ed="#P" n="129"/>la est minoris potentie et efficacie quam alter. et tamen 
+      <lb ed="#P" n="130"/>omnes agere possunt tempore infinito. Item pars totius 
+      <lb ed="#P" n="131"/>passiui incorruptibilis potest pati et recipere et transmu¬ 
+      <!--106.xml-->
+      <pb ed="#P" n="48-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tari tempore infinito sicut et totum passiuum. igitur pari 
+      <lb ed="#P" n="2"/>ratione de actiuo vel motiuo incorruptibili. antecedens patet de 
+      <lb ed="#P" n="3"/>portione materie que est in hoc lapide vel eius medie 
+      <lb ed="#P" n="4"/>tate. Item. commentator de substantia orbis. 
+      tracta<lb ed="#P" n="5" break="no"/>tu. 3o. ponit quod virtus finita in se et in vigore et in vel 
+      <lb ed="#P" n="6"/>locitate potest esse in corpore et in velocitate similiter et in 
+      <lb ed="#P" n="7"/>finita secundum tempus / nec sequitur quod si in corpore celesti 
+      <lb ed="#P" n="8"/>sit finita virtus propria actione vt in ipso sit virtus fini 
+      <lb ed="#P" n="9"/>ta in tempore. ideo aliter arguitur ex perpetuitate 
+      mo<lb ed="#P" n="10" break="no"/>tus in lumine naturali motum celi esse ab aliquo mo 
+      <lb ed="#P" n="11"/>tore incorporeo. et sumitur argumentatio hec ex 
+      ir<lb ed="#P" n="12" break="no"/>methaphisice: commento. 41. et dictis commenta 
+      <lb ed="#P" n="13"/>toris. Arguitur sic. nullus motus perpetuus et 
+      spe<lb ed="#P" n="14" break="no"/>cialiter necessario perpetuus fit praecise a motore possi 
+      <lb ed="#P" n="15"/>bili quiescere et cessare a motu: sed omne corporeum 
+      <lb ed="#P" n="16"/>natum est quiescere et a motu cessare. igitur nullus mo 
+      <lb ed="#P" n="17"/>tus necessario perpetuus fit praecise a motore 
+      corpo<lb ed="#P" n="18" break="no"/>reo: sed motus celi in lumine naturali ponendus est per 
+      <lb ed="#P" n="19"/>petuus et simpliciter absolute non posse cessare. igitur ma 
+      <lb ed="#P" n="20"/>ior nota. quia ex opposito praedicati sequitur oppositum 
+      <lb ed="#P" n="21"/>subiecti. minor probatur. Omne enim corpus quantum 
+      <lb ed="#P" n="22"/>est ex se natum est quiescere et moueri. probo. tum quia motus 
+      <lb ed="#P" n="23"/>et quies sunt priuatiue opposita circa corpus mobile 
+      <lb ed="#P" n="24"/>igitur idem subiectum est ex se possibile ad vtrumque 
+      oppo<lb ed="#P" n="25" break="no"/>sitorum priuatiue. Tum quia natura est principium motus 
+      <lb ed="#P" n="26"/>et quietis. 2. phisi. Tum quia omne quod mouetur ab alio 
+      <lb ed="#P" n="27"/>mouetur. 7. phisi. igitur ex se est in potentia ad 
+      mo<lb ed="#P" n="28" break="no"/>tum non ex se in actu. igitur ex se natum est quiescere Tum  
+      <lb ed="#P" n="29"/>quia omne quod mouetur ad aliquam perfectionem vel dispo 
+      <lb ed="#P" n="30"/>sitionem quam non habet actu sed tantum in potentia natum 
+      <lb ed="#P" n="31"/>est de se quiescere sub illa in actu habita: sed omne 
+      cor<lb ed="#P" n="32" break="no"/>pus motum est in potentia ad aliquam dispositionem vel 
+      <lb ed="#P" n="33"/>situm. igitur.
+    </p>
+            <p xml:id="D78nca-e30483-d1e535">
+      ¶ Confirmatur. quod est de se possibi 
+      <lb ed="#P" n="34"/>le non esse non perpetuatur simpliciter necessario in esse ni 
+      <lb ed="#P" n="35"/>si virtute alicuius cause in qua nulla esset potentia 
+      <lb ed="#P" n="36"/>ad non esse illius: sed motus celi est de se possibile non 
+      <lb ed="#P" n="37"/>esse et non ex se necesse esse. igitur non perpetuatur 
+      no<lb ed="#P" n="38" break="no"/>cessario nisi virtute alicuius cause in qua nulla est 
+      <lb ed="#P" n="39"/>potentia ad non esse illius. igitur non perpetuatur 
+      <lb ed="#P" n="40"/>necessario nisi virtute alicuius cause in corpeore. 
+      mi<lb ed="#P" n="41" break="no"/>nor probatur. quia cum motus sit ab alio nec sit ens ni 
+      <lb ed="#P" n="42"/>si in actu permixto potentie nec est ex se necesse esse. 
+      <lb ed="#P" n="43"/>et quia pars motus est eiusdem rationis cum toto. quelibet 
+      <lb ed="#P" n="44"/>autem pars motus est possibilis simpliciter non esse et aliquando 
+      <lb ed="#P" n="45"/>totaliter est in esse de futuro / vel in esse de praeterito. igitur 
+      <lb ed="#P" n="46"/>motus celi non perpetuatur simpliciter et absolute necessa 
+      <lb ed="#P" n="47"/>rio nisi abaliquo motore in quo nulla est potentia ad 
+      <lb ed="#P" n="48"/>quietem vel cessationem motus et in quo nulla est poten 
+      <lb ed="#P" n="49"/>tia / neque essentialiter / neque accidentaliter ad non mouere: sed 
+      <lb ed="#P" n="50"/>nullum tale est corpus. dicit ibidem commentator / commen 
+      <lb ed="#P" n="51"/>to. 41. quod hec fuit intentio Arist. cum dicit. Omnis po 
+      <lb ed="#P" n="52"/>tentia in corpore est finita. et possibile est vt actio ei 
+      <lb ed="#P" n="53"/>sit finita et cesset. ideo eternitas eius est propter moto 
+      <lb ed="#P" n="54"/>rem in quo nulla est potentia ad aliquem modum 
+      trans<lb ed="#P" n="55" break="no"/>mutationis / neque essentialis / neque accidentalis. ideo ta 
+      <lb ed="#P" n="56"/>lis entitas necesse est vt sit a virtute omnino 
+      incorpo<lb ed="#P" n="57" break="no"/>rea. Et addit commentator quod hoc fuit clausum antiquis 
+      <lb ed="#P" n="58"/>sapientibus et quod iste locus fuit lapsus sapientum: sed hec 
+      <lb ed="#P" n="59"/>deductio licet videatur probabilior in lumine 
+      natu<lb ed="#P" n="60" break="no"/>rali quam precedens nec videatur esse deductio illa quam 
+      <lb ed="#P" n="61"/>facit Aristo. sed videatur alia addita. Dico tamen quod per 
+      <lb ed="#P" n="62"/>hanc non sufficienter probatur imaterialitas primi 
+      <lb ed="#P" n="63"/>primo quia fundatur in hoc quod motus celi simpliciter et ab 
+      <lb ed="#P" n="64"/>solute necessario perpetuatur ex hoc quod primus motor 
+      <lb ed="#P" n="65"/>mouet mere naturaliter. et quod deus agit ad extra mera 
+      <lb ed="#P" n="66"/>necessitate naturali quod est falsum. et in lumine natu¬ 
+      <!--106.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>rali multis est probabile. Oppositum igitur non est euf 
+      <lb ed="#P" n="68"/>dens argumentatio. Item hec deductio in lumine na 
+      <lb ed="#P" n="69"/>turali accipit falsum et dubium. scilicet quod omnis virtus cor 
+      <lb ed="#P" n="70"/>porea motiua vel actiua est ex se possibilis non 
+      moue<lb ed="#P" n="71" break="no"/>re vel non agere.
+    </p>
+            <p xml:id="D78nca-e30483-d1e624">
+      ¶ Contra. virtus que mouet et agit 
+      <lb ed="#P" n="72"/>mere necessitate naturali non potest ex se mouere et non 
+      <lb ed="#P" n="73"/>mouere: sed si potest interdum non mouere hoc prouenit 
+      <lb ed="#P" n="74"/>aliunde / vel quia potest impediri impedimento superante 
+      <lb ed="#P" n="75"/>eius potentiam. vel quia in mouendo dependet a superi 
+      <lb ed="#P" n="76"/>ori virtute in cuius potentia est agere et non agere. sed 
+      <lb ed="#P" n="77"/>aliqua virtus corporea est motiua et actiua mere ne 
+      <lb ed="#P" n="78"/>cessitate naturali. patet de virtute solis illuminatiua 
+      <lb ed="#P" n="79"/>orbium propinquorum. nec potest ibi esse impedimentum 
+      vin<lb ed="#P" n="80" break="no"/>cens eius virtutem. igitur non potest ex se non agere ni 
+      <lb ed="#P" n="81"/>si ratione alterius superioris potentie libere. non 
+      appa<lb ed="#P" n="82" break="no"/>ret igitur ratio quare virtus incorporea et inextensa non 
+      <lb ed="#P" n="83"/>sit in potentia ad mouere et non mouere: sed semper 
+      ne<lb ed="#P" n="84" break="no"/>cessario in actu et quod hoc repugnet virtuti corporee 
+      <lb ed="#P" n="85"/>et extense cum naturalis necessitas causandi magis vi 
+      <lb ed="#P" n="86"/>deatur conuenire cause actiue corporali quam spatimali. et 
+      <lb ed="#P" n="87"/>cum libertas contingentie magis videatur conuenire 
+      <lb ed="#P" n="88"/>virtute spirituali quam corporali diceretur. igitur ad 
+      il<lb ed="#P" n="89" break="no"/>lam deductionem quod quamuis caelum non necessario mouea 
+      <lb ed="#P" n="90"/>tur quate nus est corpus mobile et subiectum passiuum 
+      <lb ed="#P" n="91"/>respectu motus nec quiescere repugnat sibi ex ratione 
+      <lb ed="#P" n="92"/>corporis mobilis. tamen ex propria ratione et propria natura 
+      <lb ed="#P" n="93"/>talis corporis / et quatenus habet virtutem naturalem 
+      <lb ed="#P" n="94"/>motiuam inexistentem formaliter vel semper presentem mo 
+      <lb ed="#P" n="95"/>bili et insuperabilem ab aliquo impedimento / vel ab ali 
+      <lb ed="#P" n="96"/>qua contraria virtute necessario mouetur. Item. sicut 
+      <lb ed="#P" n="97"/>celum dicitur esse in potentia ad moueri secundum hanc 
+      per<lb ed="#P" n="98" break="no"/>tem motus vel illam. ita consequeter motor est in potentia 
+      <lb ed="#P" n="99"/>ad moueri secundum hanc partem motus / et ad motionem 
+      <lb ed="#P" n="100"/>actiuam seu causationem huius partis. igitur si hoc non 
+      <lb ed="#P" n="101"/>obstante ponis ipsum mouere perpetuo necessario. 
+      ita<lb ed="#P" n="102" break="no"/>diceretur de virtute corporea. Et ideo si queratur. 
+      <lb ed="#P" n="103"/>quid concludat deductio Arist. 8. phisi. superius 
+      re<lb ed="#P" n="104" break="no"/>citata potest dici quod non concludit sufficienter virtutem. 
+      <lb ed="#P" n="105"/>primi motoris esse incorpoream et inextensam simpliciter 
+      <lb ed="#P" n="106"/>sed tantum videtur probare quod non sit virtus extensa mate 
+      <lb ed="#P" n="107"/>rialis generabilis et corruptibilis sicut mouentia phi 
+      <lb ed="#P" n="108"/>sica inferiora. talis enim virtus si est finita in corpore 
+      <lb ed="#P" n="109"/>finito non potest moueri motu continuo perpetuo et vni 
+      <lb ed="#P" n="110"/>formi. probo. quia aliqua pars eius mouebit tantum tem 
+      <lb ed="#P" n="111"/>pore finito / et non tanto tempore quanto totum cuius est 
+      <lb ed="#P" n="112"/>pars. quia tale mouens est alterabile et passibile a 
+      con<lb ed="#P" n="113" break="no"/>trariis resistiuis et corruptiuis. et per consequens fatigabile 
+      <lb ed="#P" n="114"/>et diminuibile propter contra actiones mutuas. et per consequens 
+      <lb ed="#P" n="115"/>minus durabit quam maior virtus. vt paruus ignis quam 
+      <lb ed="#P" n="116"/>magnus. cum igitur sit proportio partis ad totu in effi 
+      <lb ed="#P" n="117"/>cacia virtutis motiue et actiue. sequitur quod erit pro 
+      <lb ed="#P" n="118"/>portio temporis quo potest minor potentia agere et 
+      du<lb ed="#P" n="119" break="no"/>rare ad tepus quo maior potentia eiusdem rationis 
+      fi<lb ed="#P" n="120" break="no"/>nita potest sic mouendo et in agendo durare. et per consequens 
+      <lb ed="#P" n="121"/>virtus materialis et passibilis et alterabilis non potest 
+      <lb ed="#P" n="122"/>mouere motu infinito nisi sit infinita. hoc autem est 
+      in<lb ed="#P" n="123" break="no"/>possibile. quia vel esset in magnitudine finita vel infini 
+      <lb ed="#P" n="124"/>ta. quorum vtrumque reprobatur vt supra sic. igitur potest ac 
+      <lb ed="#P" n="125"/>cipi deductio Arist. et isto modo videtur exponere 
+      <lb ed="#P" n="126"/>Aristo. commentator intractatu. 3o. de substatia 
+      or<lb ed="#P" n="127" break="no"/>bis.
+    </p>
+            <p xml:id="D78nca-e30483-d1e748">
+      ¶ Tertio ex immobilitate primi motoris 
+      argui<lb ed="#P" n="128" break="no"/>tur inextensio primi motoris per hunc modum. omne 
+      <lb ed="#P" n="129"/>quantum corporeum est mobile. sed primum ens et etiam 
+      pri<lb ed="#P" n="130" break="no"/>mum mouens est immobile. ergo non est quantum et 
+      cor<lb ed="#P" n="131" break="no"/>poreum. maior patet. quia esse mobile videtur esse passio 
+      <lb ed="#P" n="132"/>corporis vt per se primi subiecti. minor probatur 
+      <!--107.xml-->
+      <pb ed="#P" n="48-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Omne quod mouetur ab alio mouetur. sed primus 
+      <lb ed="#P" n="2"/>mouens vel primum ens non mouetur ab alio. igitur 
+      <lb ed="#P" n="3"/>non mouetur. maior probatur in principio. 7. phisi. Omne 
+      <lb ed="#P" n="4"/>quod quiescit ad qui etem alterius mouetur ab alio: 
+      <lb ed="#P" n="5"/>sed omne mobile quiescit ad quietem alterius. igitur 
+      <lb ed="#P" n="6"/>omne mobile dum mouetur: mouetur ab alio. Et vltra probat 
+      <lb ed="#P" n="7"/>conclusio negatiua quod nullum mobile mouetur a seipso 
+      <lb ed="#P" n="8"/>primo sic. nihil quod mouetur a seipsoquiescit ad quia 
+      <lb ed="#P" n="9"/>tem alterius: sed omne mobile quiescit ad quiete ab 
+      <lb ed="#P" n="10"/>terius. igitur nullum mobile mouetur a seipso. igitur 
+      <lb ed="#P" n="11"/>minor probatur. quia necesse est si cuiuscumque mobili 
+      <lb ed="#P" n="12"/>pars quiescit totum quiescere. probo. Omne quod 
+      <lb ed="#P" n="13"/>mouetur est quantum diuisibile sit. igitur. a. b. mobile cu 
+      <lb ed="#P" n="14"/>ius .b. medietas vel aliqua pars quiescat / aut igitur 
+      <lb ed="#P" n="15"/>quiescente .b. mouetur a b / aut non: sed quiescit. Si 
+      <lb ed="#P" n="16"/>secundum propositum. Si primum. igitur .a .b. mouetur. et .b. 
+      <lb ed="#P" n="17"/>eius pars non mouetur. igitur non mouetur per seipsum 
+      <lb ed="#P" n="18"/>primo sed per partem. et tameun a principio ponebatur ab ad 
+      <lb ed="#P" n="19"/>uersario moueri a seipso primo. maiorem autem / scilice 
+      <lb ed="#P" n="20"/>nullum quod mouetur a seipso primo quiescit ad qui 
+      <lb ed="#P" n="21"/>etem alterius. non probat Arist. sed sic potest probari illud 
+      <lb ed="#P" n="22"/>quod mouetur a seipso primo non quiescit ad quietem 
+      <lb ed="#P" n="23"/>alicuius sibi intrinseci. igitur multo minus ad quia 
+      <lb ed="#P" n="24"/>tem alterius extrinseci. antecedens probatur. si a. mobile mo 
+      <lb ed="#P" n="25"/>uetur a seipso primo / aut .b. eius parte quiescente to 
+      <lb ed="#P" n="26"/>tum quiescit aut non. Si secundum propositum. Si primum: 
+      <lb ed="#P" n="27"/>igitur .a .b. totum quiescit. et pars eius mouetur. igitur 
+      <lb ed="#P" n="28"/>totum mouetur per partem. igitur non primo a seipso quod 
+      <lb ed="#P" n="29"/>est propositum. Aliter autem confirmatur maior ab aliquibus 
+      <lb ed="#P" n="30"/>sic eo modo natum est mobile quiescere quonatum est 
+      <lb ed="#P" n="31"/>moueri. 5. phisi. sed illud quod a seipso mouetur pri 
+      <lb ed="#P" n="32"/>mo non est natum moueri per partem vel per motum pat 
+      <lb ed="#P" n="33"/>tis. igitur non est natum quiescere ad quietem partis. 
+      Ali<lb ed="#P" n="34" break="no"/>ter probatur maior sic. quod conuenit alicui toti primo 
+      <lb ed="#P" n="35"/>ratione totius / non primo ratione partis non remouetur 
+      <lb ed="#P" n="36"/>ab eo propter hoc quod remouetur ab aliquo quod non 
+      <lb ed="#P" n="37"/>est ipsum licet sit aliquid eius vt si triangulus habe 
+      <lb ed="#P" n="38"/>primo tres non remoueretur ab eo habere tres. licet 
+      remo<lb ed="#P" n="39" break="no"/>ueatur ab angulo vel a parte eius. Arist. igitur pro 
+      <lb ed="#P" n="40"/>bat quod nihil mouetur a seipso primo / vt ly primo 
+      no<lb ed="#P" n="41" break="no"/>tat causalitatem precisam. et sic exponit rationem Arist 
+      <lb ed="#P" n="42"/>magister Io. sco. lib. ius. senten. dist. 2. q. 10. Et iux:¬ 
+      <lb ed="#P" n="43"/>ta hoc resumitur ratio Aristo. sic. nihil quod mouetur. 
+      <lb ed="#P" n="44"/>seipso primo: quiescit ad quietem partis causaliter: sed 
+      <lb ed="#P" n="45"/>omne mobile quiescit ad quietem partis causaliter. igitur 
+      <lb ed="#P" n="46"/>tur. maior patet. quia motus partis non est illi toti causa 
+      <lb ed="#P" n="47"/>motus. et ita totum non mouetur primo ad motum par 
+      <lb ed="#P" n="48"/>tis causaliter. igitur nec quiescit propter quietem 
+      parti<lb ed="#P" n="49" break="no"/>causaliter. quia quod est alicui causa motus per sui 
+      praesen<lb ed="#P" n="50" break="no"/>tiam est ei causa quietis per suam absentiam. minor 
+      pro<lb ed="#P" n="51" break="no"/>batur. quia sicut pars est causa totius et naturaliter prior 
+      <lb ed="#P" n="52"/>toto. ita est quies partis naturaliter prior quiete totius 
+      <lb ed="#P" n="53"/>et causa quietis totius et motus partis est prior mo 
+      <lb ed="#P" n="54"/>tu totius et causa eius. probatur iterum. quia totum quiesce 
+      <lb ed="#P" n="55"/>re habet duas causas veritatis. vna causa. quia mot 
+      <lb ed="#P" n="56"/>nulli parti inest. alia causa. quia motus a quadam par 
+      <lb ed="#P" n="57"/>te eius remouetur. igitur partem quiescere est vna cau 
+      <lb ed="#P" n="58"/>sa quare totum quiescat. igitur omne mobile quiescit ad 
+      <lb ed="#P" n="59"/>quietem partis causaliter.
+    </p>
+            <p xml:id="D78nca-e30483-d1e896">
+      ¶ Ad videndum qualiter hec 
+      <lb ed="#P" n="60"/>ratio Aristo. posita in principio. 7. phisi. quam commen 
+      <lb ed="#P" n="61"/>tator et multi alii vocant demonstrationem valeat. Non 
+      <lb ed="#P" n="62"/>tandum primo. quod cum dicitur totum aliquod moueri vel 
+      <lb ed="#P" n="63"/>mouere. ly totum potest teneri cathegorematice quomodo di 
+      <lb ed="#P" n="64"/>citur quod tota domus est quadrata vel valet centum libras 
+      <lb ed="#P" n="65"/>alio modo sincathegorematice et quasi signum distributiuum 
+      <lb ed="#P" n="66"/>pro partibus integralibus: sicut omnis vel nullus pro partibus 
+      <!--107.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>subiectis. Notandum secundo quod aliquid dicitur primo 
+      ta<lb ed="#P" n="68" break="no"/>le dupliciter. vno modo vt ly primo est determinatio logica 
+      <lb ed="#P" n="69"/>et est terminus secunde intentionis et specificat praedicationem 
+      <lb ed="#P" n="70"/>quo modo dicitur quod risibile praedicatur primo de homine 
+      <lb ed="#P" n="71"/>non de sorte et sic non est ad propositum. quia nullum 
+      mobi<lb ed="#P" n="72" break="no"/>le sic singulare mouetur sic primo siue a se siue 
+      ab<lb ed="#P" n="73" break="no"/>alio moueatur. Alio modo vt ly primo est terminus primi 
+      <lb ed="#P" n="74"/>intentionis et est determinatio phisica. vel metha. et 
+      <lb ed="#P" n="75"/>notat modum essendi et sic aliquod totum dicitur esse primo 
+      <lb ed="#P" n="76"/>tale dupliciter. vno modo vt ly primo opponitur ei quod est 
+      <lb ed="#P" n="77"/>secundum partem precise. et sic accipitur. 5. phisi. c. 1. illud dicitur 
+      <lb ed="#P" n="78"/>moueri primo quod mouetur secundum quamlibet sui par 
+      <lb ed="#P" n="79"/>tem. et econtra illud dicitur moueri non primo cuius vna 
+      <lb ed="#P" n="80"/>pars mouetur et alia non mouetur. sic etiam dicitur. 8o 
+      <lb ed="#P" n="81"/>phifi. quod aliquid dicitur moueri in aliquo tempore primo quod 
+      <lb ed="#P" n="82"/>in qualibet parte illius temporis mouetur. Et per 
+      op<lb ed="#P" n="83" break="no"/>positum quid dicitur moueri in aliquo tempore non primo 
+      <lb ed="#P" n="84"/>quia in quadam parte illius temporis praecise mouetur / et 
+      <lb ed="#P" n="85"/>in alia non mouetur et correspondenter aliquod fotum 
+      di<lb ed="#P" n="86" break="no"/>citur primo mouere. quia non mouet eo quod quedam pars 
+      <lb ed="#P" n="87"/>eius precise sit mouens et alia sit non mouens. Secundo modo 
+      <lb ed="#P" n="88"/>dicitur aliquod totum esse primo tale. vt ly primo 
+      op<lb ed="#P" n="89" break="no"/>ponatur ei quod est esse tale secundum partem vel partes 
+      <lb ed="#P" n="90"/>siue praecise siue non praecise et sic dicitur aliquod totum esse 
+      <lb ed="#P" n="91"/>primo tale quando ipsum est huiusmodi et nulla eius pars est huiusmodi 
+      <lb ed="#P" n="92"/>vt hic triangulus dicitur primo habere tres vel esse 
+      fi<lb ed="#P" n="93" break="no"/>gura trium angulorum vel hec figura esse circulus vel 
+      <lb ed="#P" n="94"/>domus dicitur primo valere. c. lic vel b. vel a. bipedale 
+      <lb ed="#P" n="95"/>esse primo equale illi alteri bipedali. et isto modo nullum 
+      <lb ed="#P" n="96"/>mobile mouetur primo siue moueatur a se siue ab alio. 
+      <lb ed="#P" n="97"/>quia moueri est passio quasi homogenea que eiusdem ratio 
+      <lb ed="#P" n="98"/>nis conuenit toti et parti. Ulterius magis in specia 
+      <lb ed="#P" n="99"/>li ad propositum descendendo aliquod totum moueri 
+      prim<lb ed="#P" n="100" break="no"/>mo a seipso vel mouere primo seipsum intelligitur mul 
+      <lb ed="#P" n="101"/>tipliciter. vno modo quia mouet se et non per partem praecise. puta 
+      <lb ed="#P" n="102"/>non quia quedam pars eius integralis sit mouens et 
+      alte<lb ed="#P" n="103" break="no"/>ra eius pars sit non mouens: sed nota immo totum sic mo 
+      <lb ed="#P" n="104"/>uet seipsum quod quelibet pars integralis mouet / et 
+      que<lb ed="#P" n="105" break="no"/>libet pars mouetur et nulla pars mouet totum: sed to 
+      <lb ed="#P" n="106"/>tum mouet seipsum et quelibet pars integralis 
+      mo<lb ed="#P" n="107" break="no"/>uet seipsam et sic graue dicitur ab aliquibus mouere se 
+      <lb ed="#P" n="108"/>ipsum primo et per oppositum. si animal sic mouetur quod pars 
+      <lb ed="#P" n="109"/>dextera moueat sinistram et consequeter moueat totum ia ani 
+      <lb ed="#P" n="110"/>mal non diceretur mouere seipsum primo. Alio modo dicitur 
+      <lb ed="#P" n="111"/>totum mouere primo seipsum. quia non per hoc quod vna pars 
+      <lb ed="#P" n="112"/>integralis sit mouens et altera mota non mouens nec est 
+      <lb ed="#P" n="113"/>quia vna pars eius essentialis sit principium quo mouen 
+      <lb ed="#P" n="114"/>di actiue et altera sit principium quo mouendi passiue 
+      <lb ed="#P" n="115"/>sed sic mouet se quod nulla pars eius siue essentialis / siue 
+      <lb ed="#P" n="116"/>integralis est principium quo mouet et altera principium 
+      <lb ed="#P" n="117"/>quo mouetur magis quam econtra. et sic animal non dis 
+      <lb ed="#P" n="118"/>retur mouere seipsum primo. quia anima est principium 
+      <lb ed="#P" n="119"/>quo mouet et corpus est principium quo mouetur. sic etiam 
+      <lb ed="#P" n="120"/>diceretur quod graue non mouet se primo. quia grauitas vel 
+      <lb ed="#P" n="121"/>forma eius esset principium quo mouetur. licet enim sit 
+      <lb ed="#P" n="122"/>simpliciter et proprie mouens et materia sit principium quo 
+      <lb ed="#P" n="123"/>mouetur. Alio modo aliquid potest dici mouere se primo 
+      <lb ed="#P" n="124"/>quia in mouendo se non dependet a priori motore totalis 
+      <lb ed="#P" n="125"/>distincto. Alio modo. quia mouet se non per hoc quod prius 
+      <lb ed="#P" n="126"/>moueat alterum totale distinctum et consequeter ad motum illius 
+      <lb ed="#P" n="127"/>alterius sequatur motus ipsius vt nauta mouendo na 
+      <lb ed="#P" n="128"/>uem mouet se conequenter. et sic secundum aliquos graue 
+      mo<lb ed="#P" n="129" break="no"/>uet se. quia primo mouet medium diuidendo ipsum. et 
+      <lb ed="#P" n="130"/>consequenter ad diuisionem medii sequitur motus grauis Ad 
+      <lb ed="#P" n="131"/>propositum si aduersarius diceret quod primum ens sic mouetur 
+      <lb ed="#P" n="132"/>primo a seipso. quia non per hoc quod ipsum primo moueat al 
+      <!--108.xml-->
+      <pb ed="#P" n="49-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>terum totaliter distinctum: nec per hoc quod moueatur vel 
+      de<lb ed="#P" n="2" break="no"/>pendeat ab alio motore priori totaliter distincto: nec 
+      <lb ed="#P" n="3"/>per hoc quod vna pars eius integralis sit mouens / et alte 
+      <lb ed="#P" n="4"/>ra mota non mouens: sed est corpus mouens seipsum circa 
+      <lb ed="#P" n="5"/>centrum / sicut grgaue mouet se ad centrum et leue a centro /  
+      <lb ed="#P" n="6"/>siue in eo sit distinguere primum motiuum quo per motum 
+      <lb ed="#P" n="7"/>partis essentialis formalis et primum mobile: quae siue in 
+      <lb ed="#P" n="8"/>eo non sit distinguere talia principia: sed sua substantia 
+      cor<lb ed="#P" n="9" break="no"/>porea idem sit motima et mobilis. Si inquam aduersarius in 
+      <lb ed="#P" n="10"/>luine naturali sic diceret. Non videtur ratio aristo. sufficienter 
+      <lb ed="#P" n="11"/>hoc improbare. cum enim primo dicitur in minori quod omne mobile 
+      <lb ed="#P" n="12"/>quiescit ad quietem partis si intelligitur quod cuiuscumque 
+      mo<lb ed="#P" n="13" break="no"/>bilis si aliqua pars quiescat. etiam ceteris partibus 
+      mo<lb ed="#P" n="14" break="no"/>tis totum dicatur simpliciter et absolute quiescere: non tantum 
+      <lb ed="#P" n="15"/>secundum quid sic. Minor videtur manifeste falsa: et videtur 
+      <lb ed="#P" n="16"/>equiualere vni conditionali peccanti per fallaciam secundum quid 
+      <lb ed="#P" n="17"/>et simpliciter: quia non sequitur ethyops non est albus: ergo non 
+      <lb ed="#P" n="18"/>est albus secundum dentes: nec sequitur / ethyops non est niger 
+      <lb ed="#P" n="19"/>secundum dentes: ergo non est niger. ita non sequitur .a. corpus 
+      <lb ed="#P" n="20"/>mouetur: igitur .c. eius pars mouetur: nec sequitur. a. mobule quis 
+      <lb ed="#P" n="21"/>scit secundum .c. partem: igitur. a. mobile simpliciter quiescit
+    </p>
+            <p xml:id="D78nca-e30483-d1e1113">
+      ¶ Ad 
+      <lb ed="#P" n="22"/>probationem minoris: dicendum quod .c. parte ipsius .a. 
+      quie<lb ed="#P" n="23" break="no"/>scente contingit quod. a. simpliciter et absolute mouetur: si ma 
+      <lb ed="#P" n="24"/>ior pars quam eius medietas secundum quodliet sui mouetur et cum 
+      <lb ed="#P" n="25"/>vltra infertur: igitur .a. mouetur secundum partem: igitur non primo 
+      <lb ed="#P" n="26"/>a seipso.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1127">
+      ¶ Respondeo conceditur quod tunc .a. non mouetur primo: 
+      <lb ed="#P" n="27"/>sed secundum partem: sed non sequitur quando omnes partes mouentur 
+      <lb ed="#P" n="28"/>quin moueatur a seipso primo. Nec etiam sequitur quin pars 
+      <lb ed="#P" n="29"/>mota mouetur a se primo. Unde per idem arguitur 
+      <lb ed="#P" n="30"/>quod nullum mobile mouetur primo siue a se / siue ab alie 
+      <lb ed="#P" n="31"/>quia si parte eius quiescente mouetur igitur non primo mo 
+      <lb ed="#P" n="32"/>uetur. Notandum tamen quod si corpus mobile sit continuum 
+      fir<lb ed="#P" n="33" break="no"/>mum et solidum ita vt partes infra totum non possit 
+      va<lb ed="#P" n="34" break="no"/>rie situari: nec possint rarefieri vel condensari tunc vna 
+      <lb ed="#P" n="35"/>parte eius quiescente localiter necesse est omnes quie scere 
+      <lb ed="#P" n="36"/>siue natum sit moueri a se siue ab alio iuxta dictum philosopho 
+      <lb ed="#P" n="37"/>o. metha. ca. de vno. continuum est cuius motus est vnus et sic 
+      <lb ed="#P" n="38"/>poneretur de primo mobili: secus est de corpore 
+      rarefa<lb ed="#P" n="39" break="no"/>ctibili / et condensabili.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1158">
+      ¶ Ad primam probationem maioris 
+      <lb ed="#P" n="40"/>negatur antecedens: quia si sit solidum vna parte eius quiescen 
+      <lb ed="#P" n="41"/>te localiter omnes quiescunt: et immobilitas vnius partis im 
+      <lb ed="#P" n="42"/>pedit interdum alias partes moueri siue a se / siue ab 
+      <lb ed="#P" n="43"/>alio. Si etiam non sit firmum et solidum: si plusquam eius 
+      me<lb ed="#P" n="44" break="no"/>dietas quiescat aliqua eius parte mota totum dicetur 
+      sim<lb ed="#P" n="45" break="no"/>pliciter / et absolute quiescens ad quietem cuiusdam partis 
+      <lb ed="#P" n="46"/>et dicetur motum secundum quid: quia secundum partem minorem mo 
+      <lb ed="#P" n="47"/>diate.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1178">
+      ¶ Ad probationem antecedentis dicendum quod ab mobile 
+      <lb ed="#P" n="48"/>natum moueri a seipso primo quiescet simpliciter et absolu 
+      <lb ed="#P" n="49"/>te: et mouebitur secundum quid si plusquam eius medietas quiescit 
+      <lb ed="#P" n="50"/>licet residus moueatur. Et cum infertur quod mouetur secundum 
+      <lb ed="#P" n="51"/>partem: igitur non a seipso. primo conceditur quod tunc in illo ca 
+      <lb ed="#P" n="52"/>su non mouetur totum primo nec a se / nec ab alio: sed non 
+      <lb ed="#P" n="53"/>sequitur: quin sit natum moueri a seipso: et quin primo mo 
+      <lb ed="#P" n="54"/>ueatur a seipso: quandao circunscripto impedimento totum mo 
+      <lb ed="#P" n="55"/>uetur. nec sequitur quin illa pars quae sola mouetur: mouea 
+      <lb ed="#P" n="56"/>tur primo a seipsa. tamen loquendo de primo mobili 
+      dice<lb ed="#P" n="57" break="no"/>retur quod conditio seu hypotesis est impossibilis scilicet quod pars 
+      <lb ed="#P" n="58"/>eius quiescat et alie moueantur. Ad secundam probationem 
+      maio<lb ed="#P" n="59" break="no"/>ris. conceditur maior quo ad multa. Si enim natum est moueri ta 
+      <lb ed="#P" n="60"/>li sepere motus natum est quiescere tli smperce quietis oppositioita et 
+      cor<lb ed="#P" n="61" break="no"/>tesente: si est natum est interdum moueri totaliter: interdum moueri 
+      <lb ed="#P" n="62"/>secundum partem: ita natum est interdum quiescere totaliter interdum secundum per 
+      <lb ed="#P" n="63"/>tem: sed minor sic negatur. tale. enim potest interdum sic moueri: quod 
+      <lb ed="#P" n="64"/>altera eius pars mouetur: et altera no. vt si pars aque calide 
+      redu<lb ed="#P" n="65" break="no"/>cat seipsam ad frigiditatem et altera non se reducat propter in 
+      <lb ed="#P" n="66"/>pedimentum praesens. Maior tamen non est vera quo ad consequentiam quia 
+      <lb ed="#P" n="67"/>tis et motus respectu totius ex motu / et quiete partis 
+      <!--108.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="68"/>quia ad hoc quod totum sumendo cathegoricem moueatur 
+      <lb ed="#P" n="69"/>simpliciter / et absolute / requiritur quod maior pars quam medie 
+      <lb ed="#P" n="70"/>tas totaliter moueatur sed ad hoc quod totum dicatur 
+      <lb ed="#P" n="71"/>absolute quiescere: sufficit quod medietas eius quiescat: 
+      <lb ed="#P" n="72"/>quia quiescere est non moueri. Et ad verificationem talis 
+      <lb ed="#P" n="73"/>negationis de toto sufficit verificatio negationis de 
+      me<lb ed="#P" n="74" break="no"/>dietate totaliter
+    </p>
+            <p xml:id="D78nca-e30483-d1e1243">
+      ¶ Ad tertiam probationem maioris: vide 
+      <lb ed="#P" n="75"/>tur probare quod nihil mouetur primo siue a se siue ab alio: 
+      <lb ed="#P" n="76"/>vt ly primo est determinatio logica / vel vt ly primo 
+      op<lb ed="#P" n="77" break="no"/>ponitur ei quod est secundum partem siue praecise siue non 
+      praeci<lb ed="#P" n="78" break="no"/>se: quo verum est quod hoc totum est primo quantitatis bipe 
+      <lb ed="#P" n="79"/>dalis adequate: sed hoc non est ad propositu. Constat enim 
+      <lb ed="#P" n="80"/>quod nihil sic mouetur primo: et ex hoc etiam non deuenire 
+      <lb ed="#P" n="81"/>tur ad primum mouens omnino immobile.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1261">
+      ¶ Item posset 
+      <lb ed="#P" n="82"/>dici quod aliquod totum mouetur a seipso primo: quia 
+      nul<lb ed="#P" n="83" break="no"/>la pars eius mouet totum: licet qualibet pars eius moueat seip 
+      <lb ed="#P" n="84"/>sam: et ita illud praedicatum negatur de qualibet parte et non de to 
+      <lb ed="#P" n="85"/>to: si tamen moueri remouetur totaliter a quadam parte 
+      <lb ed="#P" n="86"/>contingit quod mouere seipsum tollatur a toto: sicut valere 
+      <lb ed="#P" n="87"/>centum affirmatur de tota domo: et negatur de parte. sed 
+      <lb ed="#P" n="88"/>si valere aliquid negaretur a quadam parte valere .c. 
+      ne<lb ed="#P" n="89" break="no"/>garetur de toto.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1281">
+      ¶ Ad formam vlterius additam negatur 
+      <lb ed="#P" n="90"/>maior: siue ly causaliter notet causalitatem effectiuam: siue 
+      <lb ed="#P" n="91"/>causalitatem matalem integralium partium. Minoraunt est falsa 
+      <lb ed="#P" n="92"/>si ly causaliter notet causalitatem effectiuam / et motiuam. Si 
+      <lb ed="#P" n="93"/>vero notet causalitatem matualem partium integralium nihil ad 
+      <lb ed="#P" n="94"/>prapositum: quia cum dicitur aliquid moueri a se: 
+      nota<lb ed="#P" n="95" break="no"/>tur causalitas effectiua motus. non videtur igitur ratio aristo. de 
+      <lb ed="#P" n="96"/>monstratiua ad probandum immaterialitatem primi entis ex 
+      <lb ed="#P" n="97"/>immobilitate: quia non demonstrat sufficienter immobi 
+      <lb ed="#P" n="98"/>litatem. Unde rationem aristo. difficilius est defendere / et su 
+      <lb ed="#P" n="99"/>stinere arguendo: quam euadere probabiliter respondendo quod 
+      <lb ed="#P" n="100"/>non est signum rationis demonstratiue. Multi vero labora 
+      <lb ed="#P" n="101"/>uerunt vt sustinerent hanc rationem: et ostenderent qualiter 
+      va<lb ed="#P" n="102" break="no"/>let: eo quod reputant eam demonstrationem: quam forte si alius 
+      <lb ed="#P" n="103"/>quam aristo. fecisset: non sic ponderarent: qualiter autem et quid 
+      <lb ed="#P" n="104"/>concludat videbitur con 
+      <lb ed="#P" n="105"/>ei culus: est videre an 
+      <lb ed="#P" n="106"/>circa finem quesis. Secundud qarui aliter posset in luine 
+      <lb ed="#P" n="107"/>naturali sufficienter probari primum ens esse spauimale et inex 
+      <lb ed="#P" n="108"/>tensum. Et ad hoc primo potest argui ex primitate et indepen 
+      <lb ed="#P" n="109"/>pentia et incausalitate primi entis: sic ente simpliciter primo. 
+      <lb ed="#P" n="110"/>nihil est naturaliter prius omni enti corporeo est aliquid naturaliter / et 
+      <lb ed="#P" n="111"/>simpliciter prius igitur nullum ens corporeum est simpliciter 
+      pri<lb ed="#P" n="112" break="no"/>mum: sed deus est simpliciter primum: aut igitur nullum est ens 
+      sim<lb ed="#P" n="113" break="no"/>pliciter primum: aut ipsum est incorporeum. Minor probatur 
+      <lb ed="#P" n="114"/>quia omne ens corporeum componitur ex partibus quae sunt naturali 
+      <lb ed="#P" n="115"/>ter priores toto.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1341">
+      ¶ Preterea. ens simpliciter primum non est 
+      <lb ed="#P" n="116"/>causatum et dependens essentialiter ab aliis tamquam causis prioribus 
+      <lb ed="#P" n="117"/>omne ens corporeum et extensum est causatum / et essentialiter 
+      depen<lb ed="#P" n="118" break="no"/>dens ex aliquibus tamquam ex causis naturaliter prioribus: quia est composi 
+      <lb ed="#P" n="119"/>tum ex principiis componentibus quae sunt causae secundum aristo. 5. 
+      <lb ed="#P" n="120"/>metha.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1354">
+      ¶ Confirmatur. primm effectiuum est incausatum et 
+      indepen<lb ed="#P" n="121" break="no"/>dens effective / et primum finitiuum est incantum / et independens fina 
+      <lb ed="#P" n="122"/>liter: igitur simpliciter prinm secundum entitatem est simplicite 
+      <lb ed="#P" n="123"/>incanatum et independens in entitate
+    </p>
+            <p xml:id="D78nca-e30483-d1e1363">
+      ¶ Confirmatur. primum ens 
+      <lb ed="#P" n="124"/>esset maxime et ex pluribus causatum et dependens: quam 
+      ali<lb ed="#P" n="125" break="no"/>quod aliud ens: quia si est corpus dabet poni maximum corpus. 
+    </p>
+            <p xml:id="D78nca-e30483-d1e1370">
+               <lb ed="#P" n="126"/>¶ Preterea. primm ens scilicet deus est incausatum a causis ext rin 
+      <lb ed="#P" n="127"/>secis. patet in superioribus igitur et a causis intrinsecis: et per consequents 
+      <lb ed="#P" n="128"/>non compositur ex partibus integnalibus. consequentia probatur: quia causari et depen 
+      <lb ed="#P" n="129"/>dere a causis intrinsecis et partibus malibus et integnalibus est im 
+      <lb ed="#P" n="130"/>perfectior / et ignobilior modus causationis et dependentie: quam 
+      <lb ed="#P" n="131"/>causari et dependere a causais extrinsecis scilicet effectima et 
+      finali<lb ed="#P" n="132" break="no"/>probo: quia causari / et dependere a causis imperfectioribus 
+      <lb ed="#P" n="133"/>et ignobilioribus est modus dependentie ignobilior 
+      <lb ed="#P" n="134"/>sed dependere a partibus integnalibus / et materiali 
+      <!--109.xml-->
+      <pb ed="#P" n="49-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bus / et quantitatiuis est dependere a causis 
+      ignobi<lb ed="#P" n="2" break="no"/>lioribus: quia causare effectiue vel finaliter non arguit 
+      <lb ed="#P" n="3"/>per se imperfectionem in causa: sed causare per 
+      mo<lb ed="#P" n="4" break="no"/>dum partis materialis et integralis arguit 
+      imper<lb ed="#P" n="5" break="no"/>fectionem in tali causa: talis enim causa est imperfectior effectu et 
+      <lb ed="#P" n="6"/>est gratia compositi.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1412">
+      ¶ Deinde ex primi entis vnitate arguitur sic 
+      <lb ed="#P" n="7"/>nulla essentia / seu nam de se multiplicabilis in plura 
+      in<lb ed="#P" n="8" break="no"/>diuidua est deitas: omnis nam corporea et extensa est de se 
+      <lb ed="#P" n="9"/>multiplicabilis in plura immo in infinita indiuidua essen 
+      <lb ed="#P" n="10"/>tialiter distincta / siue equelia siue inequalia: igitur maior patet ex qua 
+      <lb ed="#P" n="11"/>stione praecedenti. Minor probatur: quia talis nam est diuisibilis 
+      <lb ed="#P" n="12"/>in duas medietates: quarum qualibet est subiectaliter / et totaliter distin 
+      <lb ed="#P" n="13"/>cta ab alia etiam situ / et etiam quaelibet est eiusdem spei cum ab 
+      <lb ed="#P" n="14"/>tera / et cum toto: sicut qualibet pars aque est aqua: et consequeter 
+      <lb ed="#P" n="15"/>de medietate medietatis.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1434">
+      ¶ Ex quo vltra sequitur quod 
+      <lb ed="#P" n="16"/>erunt infiniti dii essentialiter / et totaliter / et situ distincti: 
+      <lb ed="#P" n="17"/>quorum quicumque dato erit dare in duplo imperfectiorem deum 
+      <lb ed="#P" n="18"/>et quorum quanto aliquis est prior / et independentior: tanto est 
+      <lb ed="#P" n="19"/>imperfectior: quorum etiam deorum vnus erit gratia alterius: vt 
+      <lb ed="#P" n="20"/>cause finalis.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1448">
+      ¶ Ex quo sequitur vltra quod non erit aliquis 
+      <lb ed="#P" n="21"/>gradus entis ita imperfectus: quin sit dare aliquid formliter in deo 
+      <lb ed="#P" n="22"/>imperfectius: immo quin sit dare aliquem deum imperfectiorem 
+      <lb ed="#P" n="23"/>et eiusdem rationis cum deo perfectissimo: quia cum omne quantum 
+      <lb ed="#P" n="24"/>sit diuisibile in infinitum et omni ente finito dato in iposito est 
+      <lb ed="#P" n="25"/>in infinitum dare in illo ens imperfectius
+    </p>
+            <p xml:id="D78nca-e30483-d1e1461">
+      ¶ Confirmatur. Uel 
+      <lb ed="#P" n="26"/>esset corpus homogeneum vel etherogeneum. si primum / stat 
+      <lb ed="#P" n="27"/>ratio praecedens. si secundum / igitur ibi est dare partem nobiliorem 
+      <lb ed="#P" n="28"/>alterius rationis ab omni alio ente: et illam dico deum Aut igitur 
+      <lb ed="#P" n="29"/>est substantia inextensa: et sic propositum / aut extensa / et sic 
+      co<lb ed="#P" n="30" break="no"/>posititur ex aliquibus eiusdem rationis: et stat ratio praedicta. omne 
+      <lb ed="#P" n="31"/>etiam extensum etherogeneum compositur ex aliquibus homo 
+      <lb ed="#P" n="32"/>geneis: alioquin contineret infinitas quidditates specie di 
+      <lb ed="#P" n="33"/>stinctas.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1481">
+      ¶ Deinde ad idem arguitur ex primi entis 
+      ac<lb ed="#P" n="34" break="no"/>tualitate et nobilitate sic conditio entis nobilior 
+      con<lb ed="#P" n="35" break="no"/>uenit primo enti: sed esse ens spirituale videtur conditio 
+      <lb ed="#P" n="36"/>nobilior: nec includit contradictionem.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1490">
+      ¶ Preterea 
+      <lb ed="#P" n="37"/>Primum ens est intellectiuum / et volitiuum: sed nam pure 
+      <lb ed="#P" n="38"/>corporea et extensa non est intellectiua: igitur.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1497">
+      ¶ Preterea. 
+      <lb ed="#P" n="39"/>primum ens non est ex se in potentia ad aliquam perfectionem 
+      <lb ed="#P" n="40"/>quam non habet actu: et quo sibi deest: nec est ex se in potentia 
+      <lb ed="#P" n="41"/>ad priuationem alicuius perfectionis quae sibi insit: sed omne enim 
+      <lb ed="#P" n="42"/>corporeum est econtra: igitur. Maior patet: quia non habet perfectiones 
+      <lb ed="#P" n="43"/>modo potentie. 12. met. et quia hoc est imperfectiois et nunc esset 
+      <lb ed="#P" n="44"/>perfectius vel imperfectius quam prius. Minor probatur: quia omne corpus 
+      <lb ed="#P" n="45"/>est mobile: igitur est in potentia ad aliquem motum saltem. 
+      <lb ed="#P" n="46"/>partialem et ad perfectionem seu dispositionem acquisibile vt 
+      <lb ed="#P" n="47"/>terminam illius motus: et quia motus est actus entis in potentia 
+      <lb ed="#P" n="48"/>et entis imperfecti. 3o. phisi.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1521">
+      ¶ Preterea. Ominis subiectia corpo 
+      <lb ed="#P" n="49"/>rea nata est affici / et inforari accidentibus vt quantitate et 
+      quili<lb ed="#P" n="50" break="no"/>tatibus variis etiam eiusdem rationis cum quibusdam accidentibus 
+      <lb ed="#P" n="51"/>corruptibilibus. patet de quantitate et luine. Omne autem sub 
+      <lb ed="#P" n="52"/>iectum affectum accidentibus natum est quantum est ex se 
+      affi<lb ed="#P" n="53" break="no"/>ci quocumque accidente eiusdem rationis: et est ex se 
+      indifferen<lb ed="#P" n="54" break="no"/>ter in potentia subiectiua / et in formali ad hoc vel ad 
+      i<lb ed="#P" n="55" break="no"/>lud accidens eiusdem rationis. et quia vna pars eius est quantum est 
+      <lb ed="#P" n="56"/>ex se in potentia ad accidentia alterius partis: et per se ei non 
+      <lb ed="#P" n="57"/>repugnat informari illis. Ex quo arguitur quod omne corpus est 
+      <lb ed="#P" n="58"/>ex se mutabile secundum accidens absolutum.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1546">
+      ¶ Preterea. per 
+      <lb ed="#P" n="59"/>aitionem qua tangitur. 8. phisi. circa medium: et. 12. meth. ca. e 
+      <lb ed="#P" n="60"/>et commento. 35. Cotingit dare mobile mouens: et est da 
+      <lb ed="#P" n="61"/>re mobile non mouens: ergo est dare mouens non 
+      mobi<lb ed="#P" n="62" break="no"/>le: et per consequens incorporeum. consequentia probatur: quia si aliqua 
+      congre<lb ed="#P" n="63" break="no"/>gantur per accidens / et alterum per se reparitur pari ratione: et alte 
+      <lb ed="#P" n="64"/>rum vt de ydromelle. Si vero instetur de substantia et accidente 
+      <lb ed="#P" n="65"/>non valet: tum quia nulla substantia est totaliter sine accidente ni 
+      <lb ed="#P" n="66"/>si sit incorporea / et inextensa. tum quia cum magis depen¬ 
+      <!--109.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>dens / et minus dependens interdum congregantur in eodem 
+      <lb ed="#P" n="68"/>si magis dependens potest repiri per se diuisim multo ma 
+      <lb ed="#P" n="69"/>gis illud quod est minus dependens: et si illud quod dependet 
+      <lb ed="#P" n="70"/>reperitur per se: multo magis illud a quo dependet potest repe 
+      <lb ed="#P" n="71"/>riri per se: sed moueri est per se magis dependens quam 
+      moue<lb ed="#P" n="72" break="no"/>re: immo dependet a mouere. Si igitur potest reperiri 
+      moue<lb ed="#P" n="73" break="no"/>ri in aliquo absque hoc quod sit motiuum: multo magis repe 
+      <lb ed="#P" n="74"/>ritur esse motiuum: quod non erit mobile. Econtra autem de 
+      <lb ed="#P" n="75"/>accidente et substantia: quia accidens est ignobilius / et dependens. 
+    </p>
+            <p xml:id="D78nca-e30483-d1e1590">
+               <lb ed="#P" n="76"/>¶ Confirmatur. In motu alterationis ita est quod est 
+      deue<lb ed="#P" n="77" break="no"/>nire ad alteras inalterabile vt caelum: ergo et in motu locali 
+      <lb ed="#P" n="78"/>erit deuenire ad mouens non mobile localiter.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1599">
+      ¶ Dein 
+      <lb ed="#P" n="79"/>de ex necesitate primi entis arguitur sic. Nulla nam corporea et 
+      <lb ed="#P" n="80"/>extensa est ex se formaliter necesse esse: sed primum ens est per 
+      <lb ed="#P" n="81"/>se et ex se formaliter necesse esse: quia est incausabile effective: igitur 
+      <lb ed="#P" n="82"/>Maior probatur: quia omne quantum ex se / et per se est diuisibile: et per 
+      <lb ed="#P" n="83"/>consequens diuisionis susceptibile: quia esse diuisibile est per se 
+      <lb ed="#P" n="84"/>prima vel passio quantitatis. 5. metha. igitur non per se ei repu 
+      <lb ed="#P" n="85"/>gnat diuidi: igitur non esse quia esse et vnitas totius destruit 
+      <lb ed="#P" n="86"/>diuisis partibus.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1619">
+      ¶ Confirmatur. Nulla nam est ex se foraliter 
+      <lb ed="#P" n="87"/>nesse esse: cuius propria accidentia et proprie dispositiones sunt ex 
+      <lb ed="#P" n="88"/>se possibiles non esse: quia ad non esse suarum pro 
+      <lb ed="#P" n="89"/>priarum dispositionum sequitur ipsum non esse. 
+      <lb ed="#P" n="90"/>sed si primum ens sit substantia corporea et extensa eius pro 
+      <lb ed="#P" n="91"/>pria accidentia / et proprie dispositoes sunt possibiles non esse 
+      <lb ed="#P" n="92"/>ex se: quia eius quantitas est possibilis non esse: quia eiusdem rationis 
+      <lb ed="#P" n="93"/>cum quantitate corporum inferiorum et consequenter alia accidentia eius ster 
+      <lb ed="#P" n="94"/>ex se possibilia non esse: quia quantitas est primum et quosi 
+      sub<lb ed="#P" n="95" break="no"/>iectum aliorum accidentium.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1641">
+      ¶ Confirmatur. quantitas multiplicabi 
+      <lb ed="#P" n="96"/>lis ex se in plura indiuidua / in nullo est per se formaliter necesse esse 
+      <lb ed="#P" n="97"/>quia talis est ex se multiplicabilis in infinita: igitur eius infi 
+      <lb ed="#P" n="98"/>nita indiuidua necesio essent: sed omnis nam corporea est 
+      plu<lb ed="#P" n="99" break="no"/>rificabilis in plura indiuidua essentialiter et totaliter distincta: 
+      <lb ed="#P" n="100"/>quia eius due medietates sunt duo indiuidua eiusdem quiddi 
+      <lb ed="#P" n="101"/>tatis specifice. hec ratio principalis si valet videtur probare quod 
+      <lb ed="#P" n="102"/>substantia celi vel solis non est in lumine naturali ponenda ex se et 
+      <lb ed="#P" n="103"/>per se formaliter necesse esse: et huic confonant verba commentato 
+      <lb ed="#P" n="104"/>riis in de substantia orbis tractatu 2o. vbi dicit quod caelum quia est cor 
+      <lb ed="#P" n="105"/>pus finitum indiget virtute non tantum mouente ipsum in loco sequi 
+      <lb ed="#P" n="106"/>largiente ei iesse / et in sua substantia permanentiam eternam: 
+      si<lb ed="#P" n="107" break="no"/>cut motum eternum: ita. enim esset de finitate permanentie sue 
+      <lb ed="#P" n="108"/>substantie sicut de finitate actionis et tractatu. 4. 
+      <lb ed="#P" n="109"/>dicit quod motor celi est causa continuationis aeterne: et nisi ille 
+      es<lb ed="#P" n="110" break="no"/>set destrueretur motus et caelum: sed videtur dicere oppositum 
+      <lb ed="#P" n="111"/>tractatu 3o: quia redarguit Auicem. ponentem corpus cele 
+      <lb ed="#P" n="112"/>ste esse necessarium non ex se: sed ab alio scilicet a virtute 
+      separa<lb ed="#P" n="113" break="no"/>ta: et. 12. metha. commen. 41. positioit quod caelum habet potentiam 
+      <lb ed="#P" n="114"/>ad vbi non in substantia: quia nihil est non necessarium ex se et 
+      necessa<lb ed="#P" n="115" break="no"/>rium ab alio nisi motus.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1687">
+      ¶ Deinde arguitur ab aliquibus ad idem 
+      <lb ed="#P" n="116"/>Motus celi eternus habet aliquam per se causam finalem: sed non ali 
+      <lb ed="#P" n="117"/>quam naturam corpoream: igitur spiritualem. maior 
+      <lb ed="#P" n="118"/>patet quia nec est finis vltimus omnium: nec est fru 
+      <lb ed="#P" n="119"/>stra: et quia habet causam effectiuam. Minor probatur primo: quia 
+      <lb ed="#P" n="120"/>finis per se motus aeterni est aliquid semper in actu vniformi et inua 
+      <lb ed="#P" n="121"/>riabili. Si enim ille finis est difformis et variabilis: et in 
+      <lb ed="#P" n="122"/>potentia ad aliter et aliter haberi / et acquiri: sequitur quod ille 
+      mo<lb ed="#P" n="123" break="no"/>tus esset frustra: quia ad habendum quod nec habetur nec habebitur vel 
+      <lb ed="#P" n="124"/>habitu deperdetur: sequitur et quod ille motus non esset vniformis: 
+      <lb ed="#P" n="125"/>ed difformis secundum quod difformiter se habebit ad finem. patet  
+      <lb ed="#P" n="126"/>de motu grauis et leuis: qui variatur: et sit difformis secundum quod a 
+      <lb ed="#P" n="127"/>iliter et aliter appropiquet fini.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1717">
+      ¶ Confirmatur: quia finis per  
+      <lb ed="#P" n="128"/>se motus celi non est vbi vel situs iste vel situs ille: quia ille 
+      <lb ed="#P" n="129"/>habito non recederet nisi violenter: nec finis per se 
+      <lb ed="#P" n="130"/>est generatio et corruptio inferiorum: quia hec sunt causata 
+      <lb ed="#P" n="131"/>et posteriora ac ignobiliora per se: igitur finis videtur es 
+      <lb ed="#P" n="132"/>se spirituale inuariabile quod est causa finalis per 
+      <!--110.xml-->
+      <pb ed="#P" n="50-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>modum amati et desiderati vt declarat commentator. 12. 
+      <lb ed="#P" n="2"/>met. commen. 36. super id t ca. mouet autem sicut appetibile 
+    </p>
+            <p xml:id="D78nca-e30483-d1e1741">
+               <lb ed="#P" n="3"/>¶ Respondeo. Licet hec veritas non sit euidenter demodo 
+      <lb ed="#P" n="4"/>strata contra proteruientem etiam probabiliter loquentem: dicere 
+      <lb ed="#P" n="5"/>tur enim quod primo enti non repugnat habere prius tali 
+      priori<lb ed="#P" n="6" break="no"/>tate quali pars componens dicitur prior composito. nam talis 
+      <lb ed="#P" n="7"/>prioritas arguit imperfectionem in eo quod est sic prius: et 
+      <lb ed="#P" n="8"/>arguit maiorem nobilitatem in eo quod est sic causatum / et 
+      de<lb ed="#P" n="9" break="no"/>pendens. Et hec fuit opinio pythagoricorum et leusip 
+      <lb ed="#P" n="10"/>pi de quibus dicitur. 12o. metha. quod ipsi putant optimum et no 
+      <lb ed="#P" n="11"/>bilissimum esse non in principio sed bonum et perfectum esse in 
+      <lb ed="#P" n="12"/>constituto ex principiis: quia plantarum / et animalium sunt prin 
+      <lb ed="#P" n="13"/>cipia. dico tamen quod tanquam probabilius in lumine naturali tenen 
+      <lb ed="#P" n="14"/>dum est prim ens esse substantiam spiritualem incorpoream 
+      <lb ed="#P" n="15"/>et inextensam. Ex quo patet error sectarum colentium planetam 
+      <lb ed="#P" n="16"/>aliquem tanquam deum. via autem probabilior videtur esse ex dei 
+      <lb ed="#P" n="17"/>vnitate et independentia / et incausalitate primi entis simpliciter 
+      <lb ed="#P" n="18"/>et ad hoc potest reduci ratio aristo. posita in. 7. phisico. 
+    </p>
+            <p xml:id="D78nca-e30483-d1e1778">
+               <lb ed="#P" n="19"/>¶ Pro quae notandum quod primum mouens alicuius potest dici 
+      <lb ed="#P" n="20"/>tripliciter. primo vt supra quia est mouens non eo quod 
+      aliqua<lb ed="#P" n="21" break="no"/>eius pars sit mouens et alia non. 2o. quod est proprium et immedia 
+      <lb ed="#P" n="22"/>tum vltimo moto / vel ipsi motui: ita quod inter ipsum et mobi 
+      <lb ed="#P" n="23"/>le non est motor medius posterior / et motor 
+      remotissi<lb ed="#P" n="24" break="no"/>mus dicitur vltimus secundum hunc modum dicitur. 7o. phisi. quod primum 
+      <lb ed="#P" n="25"/>mouens simul est cum eo quod mouetur: et infra dicitur quod in visu 
+      <lb ed="#P" n="26"/>et gustu et odoratum / et in omnibus sensibus primum mouens est 
+      <lb ed="#P" n="27"/>cum ipso sensu: proportionaliter isti modi loquendi deus dicitur 
+      <lb ed="#P" n="28"/>vltimus finis et srmpiries specialissima: vel indiuiduum dicitur 
+      <lb ed="#P" n="29"/>primum in ordine praedicamentali: et genus generalissimum dicitur vlti 
+      <lb ed="#P" n="30"/>mum: et sic proceditur ascendendo. 3o modo primum mouens dicitur illud 
+      <lb ed="#P" n="31"/>quod in mouendo non dependet a superiori et priori 
+      mo<lb ed="#P" n="32" break="no"/>tore: nec est resolubile in priorem motorem: et sic vltimus 
+      <lb ed="#P" n="33"/>finis dicitur primum efficiens / et vltimum mouens. 2o modo 
+      <lb ed="#P" n="34"/>praedicto dicitur primum mouens isto I3o modo: et sic accepit Ari 
+      <lb ed="#P" n="35"/>sto. primum mouens. 7. et. 8. phi. qui cum inquirit qualiter 
+      de<lb ed="#P" n="36" break="no"/>uenitur ad primum mouens: iuxta est hunc modum dicit aristo 
+      <lb ed="#P" n="37"/>7. phi. quod in omni alteratione simul est vltmum alterans 
+      <lb ed="#P" n="38"/>et primum quod alteratur: et sic accipitur primitas secundum processum 
+      <lb ed="#P" n="39"/>descensus. Ad propositum arist. probat quod nihil mouetur a 
+      se<lb ed="#P" n="40" break="no"/>ipso primo isto 3o modo: quia omne quod mouetur quamuis moue 
+      <lb ed="#P" n="41"/>at sei praemum mouetur ab alio: sic quod necesse est vt in mouendo 
+      <lb ed="#P" n="42"/>dependeat ab alio motore priori distincto et non potest ess 
+      <lb ed="#P" n="43"/>mouens primum I3o modo: et per consequens oportet deuenire ad aliquod 
+      <lb ed="#P" n="44"/>primum mouens immobile. probatur igitur conclusio sic. primum  
+      <lb ed="#P" n="45"/>monens est omnino independens in mouendo a motore priori 
+      <lb ed="#P" n="46"/>distincto a quae per se dependeat in mouendo: sed nullum 
+      mo<lb ed="#P" n="47" break="no"/>uens corporeum et extensum est sic independens in mouen 
+      <lb ed="#P" n="48"/>do. igitur nullum mouens corporeum est simpliciter primm mouens 
+      <lb ed="#P" n="49"/>Maior probatur: quia sic ens simpliciter primm vt non habet ens 
+      pri<lb ed="#P" n="50" break="no"/>et superius: et est in entitate omnino independens a priori essen 
+      <lb ed="#P" n="51"/>tialiter sic simpliciter primum mouens non dependet in 
+      mo<lb ed="#P" n="52" break="no"/>uendo a priori motore naturaliter. Minor probatur: quia omne 
+      co<lb ed="#P" n="53" break="no"/>pus dependet per se / et essentialiter a partibus intrinsecis tamquam 
+      <lb ed="#P" n="54"/>principiis constitutiuis naturaliter prioribus: sic etiam eius motio 
+      <lb ed="#P" n="55"/>totalis siue actiua siue passiua habet partiales 
+      motio<lb ed="#P" n="56" break="no"/>nes naturaliter priores: et per consequens in essendo / et in mouendo est de 
+      <lb ed="#P" n="57"/>pendens a priori.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1865">
+      ¶ Confirmatur. Si nullum est mouens nisi 
+      <lb ed="#P" n="58"/>corporeum: sequitur quod nihil est primm mouens simpliciter: quia si 
+      <lb ed="#P" n="59"/>a. corpus totum mouet seipsum: igitur prius naturaliter medietas 
+      <lb ed="#P" n="60"/>mouet seipsam: et independenter a toto: non econtra: igitur 
+      <lb ed="#P" n="61"/>a. non erat simpliciter primum mouens
+    </p>
+            <p xml:id="D78nca-e30483-d1e1876">
+      ¶ Consimiliter arguitur deu 
+      <lb ed="#P" n="62"/>medietate reipectu sue medietatis. Iuxta hoc 
+      for<lb ed="#P" n="63" break="no"/>maretur sic ratio arist. nullum quod mouetur primo a seipso quies 
+      <lb ed="#P" n="64"/>cit propter cessationem et quietem alterius: sed omne corpus 
+      mo<lb ed="#P" n="65" break="no"/>bile quiescit / vel natum est quiescere propter quietem alterius: 
+      <lb ed="#P" n="66"/>igitur. Maior patet intelligendo quod non quiescit a motione actu 
+      <!--110.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>ua / vel passiua propter hoc quod aliud prius cesset a motione 
+      <lb ed="#P" n="68"/>actiua / vel passiua: quia tunc in mouendo dependeret a 
+      <lb ed="#P" n="69"/>priori motore: et ita non esset primum mouens simpliciter. Mi 
+      <lb ed="#P" n="70"/>nor patet: quia omne corpus mobile habet partes vt principia con 
+      <lb ed="#P" n="71"/>stitutiua a quibus esentialiter et intrinsece dependet et quadam 
+      <lb ed="#P" n="72"/>eius parte cessante mouere vel moueri totum dicitur 
+      cessa<lb ed="#P" n="73" break="no"/>re a motione simpliciter / vel secundum quid / et propter cessationem par 
+      <lb ed="#P" n="74"/>tis tamquam cause prioris in essendo / et mouendo.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1911">
+      ¶ Ex 
+      <lb ed="#P" n="75"/>his patet quod quamuis idem posset mouere se ipsum sic quod totum 
+      <lb ed="#P" n="76"/>moueat totum: et quolibet pars integnalis moueat: et moueatur 
+      <lb ed="#P" n="77"/>a seipsa: cum hoc tamen stat quod omne quod mouetur ab alio mo 
+      <lb ed="#P" n="78"/>uetur et ab alio vt parte integuali: quia si mouetur non est primum 
+      <lb ed="#P" n="79"/>monens: sed exigit aliud mouens prius et superius / et omnino 
+      in<lb ed="#P" n="80" break="no"/>dependens in mouendo a motore naturaliter priori: et per consequens non 
+      <lb ed="#P" n="81"/>est corpus.
+    </p>
+            <p xml:id="D78nca-e30483-d1e1930">
+      ¶ Ad rationem in principio quaestionis. Illud non 
+      <lb ed="#P" n="82"/>est vniversaliter verum de cognitis per discursum argumentatuum: 
+      <lb ed="#P" n="83"/>et quorum primo non habemus conceptus proprios simplices sed  
+      <lb ed="#P" n="84"/>compositos / vel causatos ex conceptibus communibus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="7-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-de4659"><!-- l1prolq3 -->
+            <head xml:id="D78nca-de4659-Hd1e108">Quaestio 3</head>
+            <head xml:id="D78nca-de4659-Hd1e111" type="question-title">
+      utrum aliquem fidelem 
+      meruisse per studium sacre theologie sit 
+      aliquod intelligibile distinctum ab omnibus 
+      rebus / actu vel potentia existentibus.
+    </head>
+            <p xml:id="D78nca-de4659-d1e114">
+               <lb ed="#P" n="119"/>¶ Tertia questio prologi. 
+      <lb ed="#P" n="120"/>TErtio et vltimo circa prologum 
+      que<lb ed="#P" n="121" break="no"/>ritur vtrum aliquem fidelem 
+      me<lb ed="#P" n="122" break="no"/>ruisse per studium sacre theologie sit 
+      ali<lb ed="#P" n="123" break="no"/>quod intelligibile distinctum ab omnibus 
+      <lb ed="#P" n="124"/>rebus / actu vel potentia existentibus.
+    </p>
+            <p xml:id="D78nca-de4659-d1e130">
+      Quod 
+      <lb ed="#P" n="125"/>sic. quia non est creatura vel creature solum: quia illud in 
+      <lb ed="#P" n="126"/>telligibile est necessarium. omnis autem creatura est conti 
+      <lb ed="#P" n="127"/>gens poni / et non poni. nec est aggregatum ex deo et 
+      <lb ed="#P" n="128"/>creatura propter idem: nec est precise deus patet. igitur. 
+    </p>
+            <p xml:id="D78nca-de4659-d1e141">
+               <lb ed="#P" n="129"/>¶ Contra. quod non est nec potest esse creatura vel 
+      crea<lb ed="#P" n="130" break="no"/>ture / vel deus / vel aggregatum ex deo et creatura est 
+      <lb ed="#P" n="131"/>figmentum: quia est incausatum et incausabile. nec est cau 
+      <lb ed="#P" n="132"/>sa. sed omnino nihil actu et potentia.
+    </p>
+            <p xml:id="D78nca-de4659-d1e153">
+      ¶ In hac questio 
+      <!--26.xml-->
+      <pb ed="#P" n="8-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ne inquirendum est. an per quodlibet complexum 
+      veridi<lb ed="#P" n="2" break="no"/>cum vel falsidicum significatur complexe aliquod intel 
+      <lb ed="#P" n="3"/>ligibile distinctum ab omnibus entitatibus actu vel 
+      po<lb ed="#P" n="4" break="no"/>tentia existentibus et incomplexe demonstrabilis. Et 
+      <lb ed="#P" n="5"/>primo videbitur de complexe significabili per proposi 
+      <lb ed="#P" n="6"/>tiones necessarias. que tamen formantur de rebus non ne 
+      <lb ed="#P" n="7"/>cessariis. vt petrus non est paulus. Secundo. de huiusmoi 
+      <lb ed="#P" n="8"/>significabili per propositiones impossibiles formatas tamen 
+      <lb ed="#P" n="9"/>de rebus possibilibus. vt petrus est paulus. Tertio. per 
+      <lb ed="#P" n="10"/>propositiones de preterito. Quarto. per propositiones de futu 
+      <lb ed="#P" n="11"/>ro. Quinto. de complexe significabilibus per propositiones / 
+      <lb ed="#P" n="12"/>de inesse contingenter veras. Sexto. de 
+      significabi<lb ed="#P" n="13" break="no"/>libus per propositiones de possibili. 
+      <lb ed="#P" n="14"/>dicendum 
+    </p>
+            <!-- article 1 -->
+            <p xml:id="D78nca-de4659-d1e194">
+               <lb ed="#P" n="15"/>Quo ad primum artitulum et. quod di 
+      <lb ed="#P" n="16"/>veritatem necessariam de inesse formatam de rebus cotin 
+      <lb ed="#P" n="17"/>gentibus cuiusmodi est ista. petrus non est paulus 
+      <lb ed="#P" n="18"/>non significatur complexe aliquod intelligibile 
+      distin<lb ed="#P" n="19" break="no"/>ctum ab omnibus entitatibus actu vel potentia / existentibus 
+      <lb ed="#P" n="20"/>incomplexe demonstrabilibus. probatur. sit illud .b. 
+      exi<lb ed="#P" n="21" break="no"/>stentibus petro et paulo / aut .b. secundum quodlibet 
+      for<lb ed="#P" n="22" break="no"/>maliter et intrinsece contentum in ipso est intelligibile 
+      <lb ed="#P" n="23"/>ositiuum / aut secundum quodlibet intrinsecum sui est intel 
+      <lb ed="#P" n="24"/>ligibile formaliter priuatiuum / aut partim secundum aliquid 
+      <lb ed="#P" n="25"/>sui positiuum: et parti priuatiuum. Si primum: igitur cum 
+      <lb ed="#P" n="26"/>b. per se sit intelligibile obiectum necessarium. sequitur quod 
+      <lb ed="#P" n="27"/>esset extra deum aliquod positiuum actuale necessarium quod 
+      <lb ed="#P" n="28"/>nec posset produci nec tolli a deo. Si secundum. 
+      Co<lb ed="#P" n="29" break="no"/>tra. quia includit petrum vel paulum. totale enim significa 
+      <lb ed="#P" n="30"/>bile per complexum non est totaliter distinctum a significabi 
+      <lb ed="#P" n="31"/>libus incomplexe per extrema complexi. Si tertium. sit. c. 
+      <lb ed="#P" n="32"/>illud intelligibile priuatiuum additum vltra omnia signifi 
+      <lb ed="#P" n="33"/>cabilia positiua quae includit. tunc .c. erit privatiuum alicu 
+      <lb ed="#P" n="34"/>ius positiui quero: quid sit illud positiuum. non potest da 
+      <lb ed="#P" n="35"/>ri nisi intelligibile quod est petru esse paulum. igitur 
+      <lb ed="#P" n="36"/>petrum esse paulum est intelligibile positiuum. quod est falu 
+      <lb ed="#P" n="37"/>sum. quia nec actu nec potentia.
+    </p>
+            <p xml:id="D78nca-de4659-d1e246">
+      ¶ Confirmatur 
+      <lb ed="#P" n="38"/>aut .b. vltra omnes entitates incomplexe significabiles 
+      <lb ed="#P" n="39"/>quas includit vel quas significat: dicta propositio 
+      inclu<lb ed="#P" n="40" break="no"/>dit formaliter aliquod intelligibile aut non. Si secundum 
+      <lb ed="#P" n="41"/>igitur non est nisi ille entitates vel aliqua illarum. quia ex 
+      <lb ed="#P" n="42"/>illis non fit aliquod intelligibile. vnum extra animum 
+      <lb ed="#P" n="43"/>quod non sit ille entitates simul sumpte minus quam de la 
+      <lb ed="#P" n="44"/>pidibus in cumulo. Si primum: sit illud. c. additum 
+      <lb ed="#P" n="45"/>tunc .c. est intelligibile totaliter distinctum ab omnibus 
+      <lb ed="#P" n="46"/>entitatibus incomplexe significabilibus: quia est additum praeteri 
+      <lb ed="#P" n="47"/>omnes et vltra omnes entitates importatas per illam pro 
+      <lb ed="#P" n="48"/>positionem. Sed contra. tum quia .c. non erit aliquod itel 
+      <lb ed="#P" n="49"/>ligibile positiuum nec privuatiuum vt supra. tum quia vel 
+      <lb ed="#P" n="50"/>c. est intelligibile simplex significabile incomplexe / aut 
+      <lb ed="#P" n="51"/>significabile complexe. Non primum. quia esset entitas 
+      <lb ed="#P" n="52"/>actu vel potentia distincta totaliter a petro et paulo 
+      <lb ed="#P" n="53"/>et suo consignificato. Non secundum. quia nullum tale significa 
+      <lb ed="#P" n="54"/>tur per illam propositionem nisi intelligibile quod est petrum 
+      <lb ed="#P" n="55"/>non esse paulu. et tale includit intelligibilia incomplexi 
+      <lb ed="#P" n="56"/>significabilia et non est totaliter distinctum et additum 
+      <lb ed="#P" n="57"/>vltra omnia intelligibilia incomplexe. quia aliquod tale pos 
+      <lb ed="#P" n="58"/>set intelligi sine illis.
+    </p>
+            <p xml:id="D78nca-de4659-d1e294">
+      ¶ Preterea. sit petrus hic et 
+      <lb ed="#P" n="59"/>paulus illic / aut igitur .b. puta petrum non esse paulus 
+      <lb ed="#P" n="60"/>est partim secundum aliquid sui hic vbi est petrus. et par 
+      <lb ed="#P" n="61"/>tim secundum aliquid sui est illic vbi est paulus aut non 
+      <lb ed="#P" n="62"/>Si secundum. igitur non includit intelligibile quod est 
+      <lb ed="#P" n="63"/>petrus nec intelligibile quod est paulus. sed intelli 
+      <lb ed="#P" n="64"/>gibile totaliter disparatum ab illis. et extra illa sicut 
+      <lb ed="#P" n="65"/>ab asino / et equo. Si primum. aut igitur est hic aut illic 
+      <lb ed="#P" n="66"/>totaliter. ita quod nihil includit formaliter / quod non sit hic 
+      <!--26.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>vel illic / aut non est sic totaliter hic et illic. Si primum: 
+      ha<lb ed="#P" n="68" break="no"/>betur propositum. quia nihil eius est hic nisi petrus vel 
+      <lb ed="#P" n="69"/>pars petri. et nihil est illic nisi paulus vel pars pau 
+      <lb ed="#P" n="70"/>li. Si secundum. aut igitur secundum residuum sui est alibi: 
+      si<lb ed="#P" n="71" break="no"/>cut secundum aliquid sui est hic et habetur propositum. quia 
+      <lb ed="#P" n="72"/>ps alibi existens erit entitas positiua vel entitates 
+      po<lb ed="#P" n="73" break="no"/>sitiue / aut secundum reliquum residuum sui est nusquam et nulli 
+      <lb ed="#P" n="74"/>bi. tunc sit illud residuum .c. sequitur quod .c. est figmentum 
+      <lb ed="#P" n="75"/>quia nullibi ponitur. nec actu nec potentia. secundum 
+      ali<lb ed="#P" n="76" break="no"/>quid sui. et quia non videtur ymaginabile quod sit .c. inclu 
+      <lb ed="#P" n="77"/>um et contentum formaliter in .b. additum vltra omnes enti 
+      <lb ed="#P" n="78"/>tates incomplexe significabiles importatas per huiusmor 
+      <lb ed="#P" n="79"/>propositionem.
+    </p>
+            <p xml:id="D78nca-de4659-d1e346">
+      ¶ Preterea. non est ponenda pluralitas si 
+      <lb ed="#P" n="80"/>ne necessitate. sed non est necesse ad petrum non esse 
+      <lb ed="#P" n="81"/>paulum poni aliquod intelligibile non significabile in 
+      <lb ed="#P" n="82"/>complexe. quia per huiusmodi dictum vel orationem non significa 
+      <lb ed="#P" n="83"/>tur aliquid poni. et tamen significatur aliquod 
+      intelligibi<lb ed="#P" n="84" break="no"/>le poni. scilicet .b. igitur
+    </p>
+            <p xml:id="D78nca-de4659-d1e360">
+               <lb ed="#P" n="85"/>Contra. intelligibile necessarium et 
+      immutabi<lb ed="#P" n="86" break="no"/>le distinguitur ab omni intelligibili con 
+      <lb ed="#P" n="87"/>tingenti et mutabili. Sed per .a. propositionem predictam 
+      <lb ed="#P" n="88"/>siue vocalem / siue mentalem significatur et apprehendi 
+      <lb ed="#P" n="89"/>tur formaliter et ei correspondet obiectiue aliquod intelli 
+      <lb ed="#P" n="90"/>gibile necessarium et immutabile et nulla entitas incom 
+      <lb ed="#P" n="91"/>plexe significabilis importata per a. est intelligibile ne 
+      <lb ed="#P" n="92"/>cessarium et immutabile: igitur. secunda pars minoris pa 
+      <lb ed="#P" n="93"/>tet. quia nulla talis entitas est intelligibile necessarium 
+      <lb ed="#P" n="94"/>et immutabilenisi deus: sed prima pars minoris pro 
+      <lb ed="#P" n="95"/>patur sic: petrum non esse paulum est quoddam 
+      intelligibi<lb ed="#P" n="96" break="no"/>le et apprehensum a me formaliter per .a. 
+      apprehensi<lb ed="#P" n="97" break="no"/>onem. patet quia apprehendo formaliter petrum non esse pau 
+      <lb ed="#P" n="98"/>lum: sed petrum non esse paulum est necessarium: alioquin 
+      <lb ed="#P" n="99"/>possibile esset petrum esse paulum. si igitur oppositum est 
+      in<lb ed="#P" n="100" break="no"/>telligibile sequitur quod illud est necessarium. igitur 
+      ali<lb ed="#P" n="101" break="no"/>quod intelligibile obiectiue necessarium et immutabile 
+      <lb ed="#P" n="102"/>significatur et apprehenditur formaliter per huiusmodi ap 
+      <lb ed="#P" n="103"/>prehensionem et ei correspondet. igitur.
+    </p>
+            <p xml:id="D78nca-de4659-d1e404">
+      ¶ Confirma 
+      <lb ed="#P" n="104" break="no"/>tur. omnis propositio necessaria seu necessario vera 
+      ha<lb ed="#P" n="105" break="no"/>bet aliquod intelligibile necessarium pro aliquo suo 
+      <lb ed="#P" n="106"/>significato. igitur et hec petrus non est paulus: sed  
+      <lb ed="#P" n="107"/>nullam entitatem incomplexe significabilem habet pro 
+      si<lb ed="#P" n="108" break="no"/>gnificato que sit intelligibile necessarium. igitur. etc. 
+      <lb ed="#P" n="109"/>maior patet. quia propositio non dicitur necessaria vel ne 
+      <lb ed="#P" n="110"/>cessario vera per intrinsecam denominationem secundum 
+      for<lb ed="#P" n="111" break="no"/>malem necessitatem sue entitatis. quia sic est accidens 
+      <lb ed="#P" n="112"/>contingens: sed dicitur necessario per extrinsecam 
+      deno<lb ed="#P" n="113" break="no"/>minationem. igitur quia est respectu alicuius obiectiue 
+      <lb ed="#P" n="114"/>intelligibilis necessario: et quia ei correspondet pro si 
+      <lb ed="#P" n="115"/>gnificato aliquod intelligibile necessarium. probatur 
+      <lb ed="#P" n="116"/>minor. quia dicitur necessaria / eo quod necessario ita est 
+      <lb ed="#P" n="117"/>in re sicut per eam significatur. vnde necessitas et 
+      im<lb ed="#P" n="118" break="no"/>mutabilitas veritatis circa propositionem non est nisi ex ne 
+      <lb ed="#P" n="119"/>cessitate alicuius intelligibilis significati per illam 
+      <lb ed="#P" n="120"/>Sicut contingentia veritatis circa propositionem non est 
+      <lb ed="#P" n="121"/>nisi ex contingentia alicuius intelligibilis per eam si 
+      <lb ed="#P" n="122"/>gnificati.
+    </p>
+            <p xml:id="D78nca-de4659-d1e448">
+      ¶ Preterea. supposita eternitate specie 
+      <lb ed="#P" n="123"/>rum: secundum philosophos hec esset semper vera et 
+      ne<lb ed="#P" n="124" break="no"/>cessaria. aliquis asinus existit. licet nullus asinus sem 
+      <lb ed="#P" n="125"/>per et necessario existat. Si igitur ei correspondet 
+      <lb ed="#P" n="126"/>tale intelligibile quod sit aliquem asinum esse sit illud d. 
+      <lb ed="#P" n="127"/>aut .d. intelligibile est semper per tempus eternum et 
+      ne<lb ed="#P" n="128" break="no"/>cessarium aut non. Si secundum. igitur veritati eterne non 
+      <lb ed="#P" n="129"/>opatet correspondere huiusmodi complexe significabile eter 
+      <lb ed="#P" n="130"/>num et necessarium. Si primum. igitur aliquod 
+      intelli<lb ed="#P" n="131" break="no"/>gibile quod est aliquem asinum esse est eternum et necessarium 
+      <lb ed="#P" n="132"/>extra animam. consequens est falsum: quia hunc asinum esse non est 
+      <!--27.xml-->
+      <pb ed="#P" n="8-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>necessarium. nec illum asinum esse est necessarium. et sic de 
+      sin<lb ed="#P" n="2" break="no"/>gulis. et tamen quodli bet istorum est aliquem asinum esse. igitur 
+      <lb ed="#P" n="3"/>ista particularis est falsa. quia quelibet singularis est 
+      <lb ed="#P" n="4"/>falsa. nec habet verificari pro aliquo intelligibili con 
+      <lb ed="#P" n="5"/>plexe significabili necessario preterea petrum esse non pau 
+      <lb ed="#P" n="6"/>lum non est huiusmodi intelligibile. igitur petrum non esse pau 
+      <lb ed="#P" n="7"/>lum non est huiusmodi intelligibile. antecedens patet ex 
+      preceden<lb ed="#P" n="8" break="no"/>ti quaestione. consequentia probatur. quia media partis aduersarie eque 
+      <lb ed="#P" n="9"/>sunt contra vtrumque. igitur.
+    </p>
+            <p xml:id="D78nca-de4659-d1e498">
+      ¶ Per idem arguitur de propositione de possibi 
+      <lb ed="#P" n="10"/>li. vt petrus potest esse vel potest esse albus. quia est necessa 
+      <lb ed="#P" n="11"/>ria et nulla entitas significabilis incomplexe importa 
+      <lb ed="#P" n="12"/>ta per illam est necessaria.
+    </p>
+            <p xml:id="D78nca-de4659-d1e507">
+      ¶ Per idem arguitur de con 
+      <lb ed="#P" n="13" break="no"/>ditionali necessaria. cuius antecedens / et consequens sunt contin 
+      <lb ed="#P" n="14"/>gentia vel impossibilia. vt si petrus currit petrus 
+      mo<lb ed="#P" n="15" break="no"/>uetur. et si asinus volat asinus habet pecienas. Argui 
+      <lb ed="#P" n="16"/>tur enim quod aliquod intelligibile obiectiue correspondet 
+      <lb ed="#P" n="17"/>totali conditionali distinctum ab intelligibilibus 
+      cor<lb ed="#P" n="18" break="no"/>respondentibus vtrique parti cathegorice. 
+      <lb ed="#P" n="19"/>negetur prima pars minoris.
+    </p>
+            <p xml:id="D78nca-de4659-d1e525">
+               <lb ed="#P" n="20"/>Ad primum Ad probationem cum dicitur pe 
+      <lb ed="#P" n="21"/>trum non esse paulum. est quoddam intelligibile et 
+      appre<lb ed="#P" n="22" break="no"/>hensum formaliter a me conceditur. et cum dicitur quod 
+      pe<lb ed="#P" n="23" break="no"/>trum non esse paulum est necessarium. dicendum quod proprie 
+      <lb ed="#P" n="24"/>loquendo. hec propositio est truncata. quia subintelligitur 
+      <lb ed="#P" n="25"/>aliquid quod determinetur per se necessarium et 
+      ha<lb ed="#P" n="26" break="no"/>bet sic perfici petrum non esse paulum. est ens vel aliquidi 
+      <lb ed="#P" n="27"/>vel intelligibile necessarium. et sic negatur. sicut et fal 
+      <lb ed="#P" n="28"/>sum est quod petrus non est paulus. sit intelligibile ne 
+      <lb ed="#P" n="29"/>cessarium. immo ponitur secundum actualem et positiuam existentiam 
+      <lb ed="#P" n="30"/>quando ponitur petrus: et tollitur quo ad actualem existentiam 
+      <lb ed="#P" n="31"/>remoto petro. probatur iterum: quia illud totale 
+      signifi<lb ed="#P" n="32" break="no"/>catum quod dicitur petrum non esse paulum includeret 
+      <lb ed="#P" n="33"/>intelligibile quod est petrus / vel quod est paulus: et 
+      <lb ed="#P" n="34"/>aliquodincomplexe significabile: sed tale non est intel 
+      <lb ed="#P" n="35"/>ligibile necessarium. igitur illud totale intelligibile 
+      <lb ed="#P" n="36"/>non est necessarium cum includat formaliter contingens 
+    </p>
+            <p xml:id="D78nca-de4659-d1e565">
+               <lb ed="#P" n="37"/>¶ Ad improbationem. cum dicitur quod oppositum est 
+      im<lb ed="#P" n="38" break="no"/>possibile. scilicet petrum esse paulum. dicendum est quod proprie 
+      <lb ed="#P" n="39"/>loquendo et accipiendo dictum mere personaliter / et 
+      <lb ed="#P" n="40"/>significatiue illud est falsum. tum quia nullum intelligi 
+      <lb ed="#P" n="41"/>bile opponitur huic intelligibili. quod est petrum non 
+      <lb ed="#P" n="42"/>esse paulum. sicut nec huic intelligibili quod est extra 
+      <lb ed="#P" n="43"/>animam. petrus non ens paulus. nec oppositio habusmor 
+      <lb ed="#P" n="44"/>roprie est intelligibilium obiective extra animam. tum 
+      <lb ed="#P" n="45"/>quia petrum esse paulum non est quoddam intelligibile in se 
+      <lb ed="#P" n="46"/>formaliter impossibile. vt patebit in articulo sequenti 
+      <lb ed="#P" n="47"/>conceditur tamen quod iste propositiones opponuntur. et dicta 
+      <lb ed="#P" n="48"/>aliquo modo illis conformia. Aliter posset dicit quod hec 
+      <lb ed="#P" n="49"/>propositio. petrum non esse paulum est necessarium: potest ha 
+      <lb ed="#P" n="50"/>bere duplicem sensum. Unus est quod aliquod obiectum 
+      <lb ed="#P" n="51"/>intelligibile quod est petrum non esse paulum. est in se 
+      for<lb ed="#P" n="52" break="no"/>maliter necessarium. et sic negatur. Alius sensus est. 
+      <lb ed="#P" n="53"/>quod petrus est tale intelligibile. quod non potest esse 
+      pau<lb ed="#P" n="54" break="no"/>ius. seu quod non potest esse petrus ens paulus. aut quod 
+      <lb ed="#P" n="55"/>propositio correspondens tali dicto necessario est nobis ve 
+      <lb ed="#P" n="56"/>ra si formetur et ex hoc non habetur contra propositum: quia 
+      <lb ed="#P" n="57"/>per istum sensum secundum: non denotatur formalis ne 
+      <lb ed="#P" n="58"/>cessitas alicuius obiecti intellectualis terminantis 
+      <lb ed="#P" n="59"/>apprehensionem vel significationem. nec denotatur 
+      <lb ed="#P" n="60"/>correspondentia seu positio alicuius obiective intelli 
+      <lb ed="#P" n="61"/>gibilis in se formaliter necessarii. sed potius denotatur 
+      <lb ed="#P" n="62"/>ossibilitas et correspondentia cuiusdam obiecti intel 
+      <lb ed="#P" n="63"/>ligibilis. quod foret petrus ens paulus.
+    </p>
+            <p xml:id="D78nca-de4659-d1e626">
+      ¶ Ad 
+      con<lb ed="#P" n="64" break="no"/>firmationem negetur maior ex quo non est simpliciter a 
+      <lb ed="#P" n="65"/>irmatiua de inesse et de praesenti et singularis. vt supposi 
+      <lb ed="#P" n="66"/>ta eternitate specierum secundum opinionem phlosophforu. hec 
+      <!--27.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>est necessaria. aliquis homo est actu viuens et vigilans 
+      <lb ed="#P" n="68"/>et tamen non habet pro obiecto significato aliquod intel 
+      <lb ed="#P" n="69"/>ligibile. etiam complexe significabile necessarium pro quo 
+      <lb ed="#P" n="70"/>verificetur quia nunc verificatur pro intelligibili quod  
+      <lb ed="#P" n="71"/>est hunc hominem viuere actualiter et pro intelligibili: 
+      <lb ed="#P" n="72"/>quod est illum hominem viuere et cetera que sunt contin 
+      <lb ed="#P" n="73"/>gentia.
+    </p>
+            <p xml:id="D78nca-de4659-d1e655">
+      ¶ Ad probationem maioris. concedo quod propositio 
+      <lb ed="#P" n="74"/>non dicitur necessaria propter necessitatem formalem 
+      <lb ed="#P" n="75"/>et intrinsecam sue entitatis absolute. sed dico etiam quod 
+      <lb ed="#P" n="76"/>nec videtur vera necessario quia sibi correspondeat pro 
+      <lb ed="#P" n="77"/>significato aliquod obiectum intelligibile in se forma 
+      <lb ed="#P" n="78"/>liter necessarium. nec videtur quod res necessario taliter 
+      <lb ed="#P" n="79"/>se habeat vel quod necessario ita sit in re sicut esse per eam 
+      <lb ed="#P" n="80"/>significatur proprie loquendo. quia interdum propositio 
+      neces<lb ed="#P" n="81" break="no"/>saria non significat aliquam rem taliter se habere nec 
+      <lb ed="#P" n="82"/>significat taliter esse in re: sed significat quoddam intel 
+      <lb ed="#P" n="83"/>ligibile vel non esse huiusmodi / vel significat fuisse vel fore 
+      <lb ed="#P" n="84"/>vel posse esse vel non posse esse huiusmoi. Possunt igitur 
+      <lb ed="#P" n="85"/>assignari varie cause veritatis necessarie respectu 
+      <lb ed="#P" n="86"/>diuersarum propositionum. interdum enim propositio dicitur 
+      necessa<lb ed="#P" n="87" break="no"/>ria / vel necessario vera. quia sibi correspondet pro signi 
+      <lb ed="#P" n="88"/>ficato aliquod obiectum intelligibile necessarium pro 
+      <lb ed="#P" n="89"/>quo verificetur vt si sit simpliciter cathegorica affirma 
+      <lb ed="#P" n="90"/>tiua de inesse de praesenti et singularis et verificatur pro alio 
+      <lb ed="#P" n="91"/>a se interdum. quia non potest formari quin sit vera. non quia 
+      <lb ed="#P" n="92"/>intelligibile necessarium formaliter sibi correspondeat pro 
+      si<lb ed="#P" n="93" break="no"/>gnificato: sed quia ipsa est vnum singulare pro quo suffici 
+      <lb ed="#P" n="94"/>enter nata est verificari vt aliquod accidens est. vel quia 
+      <lb ed="#P" n="95"/>nata est sufficienter verificari pro quocunque singula 
+      <lb ed="#P" n="96"/>ri indifferenter cuiusdam multitudinis infinite suc 
+      <lb ed="#P" n="97"/>cessiue. et non est possibile talem multitudinem 
+      totali<lb ed="#P" n="98" break="no"/>ter deficere. vt de particulari supradicta secundum 
+      <lb ed="#P" n="99"/>opinionem philosophorum. interdum autem quia intelligibile quod 
+      im<lb ed="#P" n="100" break="no"/>portatur per subiectum et pro quo stat subiectum non 
+      <lb ed="#P" n="101"/>potest non esse huiusmodi cuiusmodi esse significatur per huiusmodi 
+      <lb ed="#P" n="102"/>propositionem et per omnia ista non denotatur positio et correspon 
+      <lb ed="#P" n="103"/>dentia significati intelligibilis in se necessarii sed 
+      <lb ed="#P" n="104"/>penotatur et remouetur possibilitas et correspondem 
+      <lb ed="#P" n="105"/>tia cuiuscunque intelligibilis quod foret. etc. Ex his 
+      <lb ed="#P" n="106"/>patet. quod ex propositionibus necessariis de possibili 
+      <lb ed="#P" n="107"/>non inferretur contra conclusionem positam. vt dicendo 
+      <lb ed="#P" n="108"/>petrum posse esse album est necessarium denegatur et remoue 
+      <lb ed="#P" n="109"/>tur possibilitas obiecti intelligibilis quod foret pe 
+      <lb ed="#P" n="110"/>trus non possibilis esse albus. Quod autem additur de 
+      <lb ed="#P" n="111"/>hypotetica conditionali necessaria: non videtur ra 
+      <lb ed="#P" n="112"/>tionabile quod illi correspondeat aliquod obiectum intel 
+      <lb ed="#P" n="113"/>igibile quod non apprehendatur per propositiones 
+      <lb ed="#P" n="114"/>cathegoricas: et pari ratione toti sillogismo inferenti 
+      <lb ed="#P" n="115"/>conclusionem ex premissis corresponderet aliquod 
+      ob<lb ed="#P" n="116" break="no"/>iectum intelligibile. quod non significaretur nec 
+      ap<lb ed="#P" n="117" break="no"/>prehenderetur per premissas nec per conclusionem 
+      <lb ed="#P" n="118"/>quia concludit ex premissis falsis vel contingentibus 
+      <lb ed="#P" n="119"/>neri illationem sillogisticam necessariam: vt verum et 
+      ne<lb ed="#P" n="120" break="no"/>cessarium sit sic esse sicut significatur per conclusionem 
+      <lb ed="#P" n="121"/>si ita est sicut significatur per premissas.
+    </p>
+            <p xml:id="D78nca-de4659-d1e762">
+      ¶ Dicendum 
+      <lb ed="#P" n="122"/>ergo quod ex necessitate consequentie: non oportet poni extra 
+      ani<lb ed="#P" n="123" break="no"/>mam / aliquod intelligibile in se necessarium. quia huiusmo i 
+      <lb ed="#P" n="124"/>propositio necessaria non significat quatinus est necessaria 
+      <lb ed="#P" n="125"/>aliquod intelligibile poni in re. nec eius veritas hoc 
+      <lb ed="#P" n="126"/>exigit. sed significat quod si aliquod intelligibile est huiusmot 
+      <lb ed="#P" n="127"/>ipsum vel alterum intelligibile est vel non est huiusmoi. 
+    </p>
+            <p xml:id="D78nca-de4659-d1e778">
+               <lb ed="#P" n="128"/>¶ Notandum tamen quod per omnes huiusmodi propositiones necessa 
+      <lb ed="#P" n="129"/>rias significantur et apprehenduntur quasi quoddam 
+      <lb ed="#P" n="130"/>intelligibile necessarium in figura vel forma loquendi 
+      <lb ed="#P" n="131"/>et intelligendi quia intellectus fertur super omnia 
+      <lb ed="#P" n="132"/>intelligibilia quasi sibi correspondet tale intelligi¬ 
+      <!--28.xml-->
+      <pb ed="#P" n="9-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bile necessarium complexe significabile. sed non est ita secundum 
+      <lb ed="#P" n="2"/>veritatem et proprietatem rei / sicut intellectus 
+      apprehenden<lb ed="#P" n="3" break="no"/>do vniversaliter per conceptionem communem apprehendit quasi sibi 
+      cor<lb ed="#P" n="4" break="no"/>responderet intelligibile vniverale extra animam
+    </p>
+            <!-- article 2 -->
+            <p xml:id="D78nca-de4659-d1e809">
+               <lb ed="#P" n="5"/>Quo ad secundum articulum dicendum / quod per 
+      propo<lb ed="#P" n="6" break="no"/>sitionem siue vocalem siue mo 
+      <lb ed="#P" n="7"/>nalentimpossibile cuiusmodi est ista / petrus est paulus non 
+      <lb ed="#P" n="8"/>significatur nec apprehenditur nec sibi obiectiue correspondet 
+      <lb ed="#P" n="9"/>aliquod intelligibile complexe significabile distinctum ab 
+      <lb ed="#P" n="10"/>omnibus rebus seu entitatibus actu vel potentia 
+      existenti<lb ed="#P" n="11" break="no"/>bus incomplexe significabilibus. probatur: quia sit illud .b. aut igitur 
+      <lb ed="#P" n="12"/>b. est intelligibile totaliter distinctum a petro et paulo 
+      in<lb ed="#P" n="13" break="no"/>telligibilibus incomplexe significabilibus. aut non tota 
+      <lb ed="#P" n="14"/>liter distinctum. sed est aliquod illorum vel includit ipsum. Si 
+      <lb ed="#P" n="15"/>primum. igitur .b est intelligilile vnum simplex quod potest 
+      si<lb ed="#P" n="16" break="no"/>gnificari et intelligi sine petro et paulo / et eodem modo deum 
+      <lb ed="#P" n="17"/>esse summum bonum / non includit deitatem nec bonitatem 
+      <lb ed="#P" n="18"/>nec potest fingi quod sit relatio inter extrema. tum quia huiusmoi 
+      <lb ed="#P" n="19"/>relatio non est nisi extrema vel alterum illorum / vel est 
+      enti<lb ed="#P" n="20" break="no"/>tas incomplexe conceptibilis. tum quia omne quod relatiue dicitur 
+      <lb ed="#P" n="21"/>est aliquid excepto relatiuo secundum Augustinum. 7o. de tri 
+      <lb ed="#P" n="22"/>nitate. c. primo. Et vltra. si detur primum: sequitur quod .b. in 
+      <lb ed="#P" n="23"/>telligibile non est in intelligibile. Nullum enim 
+      intelligi<lb ed="#P" n="24" break="no"/>bile dicitur impossibile nisi cuius formali conceptu concipiuntur 
+      <lb ed="#P" n="25"/>plura incompossibilia. Si secundum / aut igitur vltra petrum et paulum 
+      <lb ed="#P" n="26"/>et praeter alias entitates incomplexe significabiles et vltra 
+      ten<lb ed="#P" n="27" break="no"/>pus consignificatum addit et includit aliquod intelligibile. 
+      <lb ed="#P" n="28"/>aut non. Si secundum. igitur non est nisi hec intelligibilia 
+      incom<lb ed="#P" n="29" break="no"/>plexe demonstrab ilia: quia ex illis non fit aliquod per se vnum 
+      <lb ed="#P" n="30"/>alioquin esset .b. intelligibile possibile. Si primum sit illud 
+      <lb ed="#P" n="31"/>additum .c. tunc .c. est intelligibile distinctum totaliter ab omni 
+      <lb ed="#P" n="32"/>intelligibili incomplexe significabili per illam propositionem. quia 
+      <lb ed="#P" n="33"/>est additum praeter illa et vltra illa.
+    </p>
+            <p xml:id="D78nca-de4659-d1e874">
+      ¶ Sed contra: quia .c. non 
+      <lb ed="#P" n="34"/>erit intelligibile positiuum nec privatiuum alicuius positiui 
+      <lb ed="#P" n="35"/>quia non potest dari cuius positiui. et quia c. non erit intelligibi 
+      <lb ed="#P" n="36"/>le significabile complexe cum non includit nec petrum nec 
+      <lb ed="#P" n="37"/>paulum nec sit petrum esse paulum / sed quasi pars 
+      <lb ed="#P" n="38"/>eius non erit simplex intelligibile significabile 
+      in<lb ed="#P" n="39" break="no"/>complexe / quia nullum tale est intelligibile impossi 
+      <lb ed="#P" n="40"/>bile.
+    </p>
+            <p xml:id="D78nca-de4659-d1e892">
+      ¶ Preterea: non est ponenda pluralitas sine 
+      <lb ed="#P" n="41"/>necessitate sed non est necessitas ponere huiusmodi intel 
+      <lb ed="#P" n="42"/>ligibile preter intelligibilia significata per extrema pro 
+      <lb ed="#P" n="43"/>positionis cum consignificato / quia huiusmoi infinita 
+      intel<lb ed="#P" n="44" break="no"/>ligibilia ponerentur actu extra animam. patet. quia .b. esse 
+      <lb ed="#P" n="45"/>petrum erit alterum intelligibile quod sit d. tunc. d. esse .b. 
+      <lb ed="#P" n="46"/>vel petrum erit alterum etc. Et quia .b. intelligibile si nec 
+      <lb ed="#P" n="47"/>ponitur nec potest poni. igitur est figmentum. igitur fictio 
+      <lb ed="#P" n="48"/>est huiusmodi intelligibilia ponere obiectiue terminare 
+      co<lb ed="#P" n="49" break="no"/>gnitionem.
+    </p>
+            <p xml:id="D78nca-de4659-d1e914">
+      ¶ Preterea. aut hec propositio / petrus est 
+      <lb ed="#P" n="50"/>paulus significat illud intelligibile sicut ipsum se habet 
+      <lb ed="#P" n="51"/>aut non sicut se habet. Si primum. igitur est vera. Si secundum 
+      <lb ed="#P" n="52"/>igitur contradictoria significat .b. sicut seipsum / habet 
+      <lb ed="#P" n="53"/>igitur hec propositio petrus non est paulus / significabit 
+      pe<lb ed="#P" n="54" break="no"/>trum esse paulum / et est vera / ex eo quod significat quod petrus 
+      <lb ed="#P" n="55"/>est paulus: quia propositio est vera / ex eo quod per se suum signisica 
+      <lb ed="#P" n="56"/>tum totale sic se habet sicut illa propositio significat secundum se. 
+    </p>
+            <p xml:id="D78nca-de4659-d1e932">
+               <lb ed="#P" n="57"/>¶ Confirmatur. vel hec propositio / petrus est paulus 
+      <lb ed="#P" n="58"/>habet conformitatem ad suum per se significatum quod 
+      <lb ed="#P" n="59"/>est .b. aut difformitatem. Si primum: igitur est vera: quia 
+      lo<lb ed="#P" n="60" break="no"/>quor de conformitate quae est veritas vel causa veritatis et 
+      <lb ed="#P" n="61"/>de difformitate opposita. Si secundum. igitur propositio 
+      contra<lb ed="#P" n="62" break="no"/>dictoria habet conformitatem ad illud igitur contra 
+      <lb ed="#P" n="63"/>dictoria est vera ex conformitate ad .b. puta ad petrum 
+      <lb ed="#P" n="64"/>esse paulum / et ex eo quod petrus est paulus / et vltra si habet 
+      <lb ed="#P" n="65"/>difformitatem ad .b. igitur habet conformitatem ad 
+      signifi<lb ed="#P" n="66" break="no"/>cabile complexe contradictorie oppositum quod est secundum 
+      <!--28.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>te petrum non esse paulum / sed huiusmodi contradictorie 
+      op<lb ed="#P" n="68" break="no"/>positum est verum. igitur hec propositio petrus est paulus est flam / 
+      <lb ed="#P" n="69"/>ex eo quod habet conformitatem ad intelligibile significabile 
+      <lb ed="#P" n="70"/>complexe verum et positum in re 
+      <lb ed="#P" n="71"/>Intelligibile quod nec ponitur / nec est 
+      <lb ed="#P" n="72"/>Contra. possibile poni distinguitur ab omnibus 
+      enti<lb ed="#P" n="73" break="no"/>tatibus positis vel possibilibus poni: sed aliquod intelligi 
+      <lb ed="#P" n="74"/>bile quod nec ponitur nec potest poni significatur et apprehenditur 
+      <lb ed="#P" n="75"/>formaliter per .a. propositionem et nulla res seu entitas incomple 
+      <lb ed="#P" n="76"/>xe significabilis importatur per .a. quin ponatur vel posset 
+      <lb ed="#P" n="77"/>poni. igitur prima pars minoris probatur: quia petrum esse pau 
+      <lb ed="#P" n="78"/>lum est quoddam intelligibile apprehensum est a me forma 
+      <lb ed="#P" n="79"/>liter per .a. a pprehensionem: quia apprehendo formaliter petrum 
+      <lb ed="#P" n="80"/>esse paulum: sed petrum esse paulum formaliter est impossibile igitur 
+    </p>
+            <p xml:id="D78nca-de4659-d1e991">
+               <lb ed="#P" n="81"/>¶ Confirmatur. propositio impossibilis habet pro significato aliquod 
+      <lb ed="#P" n="82"/>itelligibile impossibile poni quod sibi correspondet 
+      obiecti<lb ed="#P" n="83" break="no"/>ue / sed dicta propositio non habet aliquod intelligibile pro signi 
+      <lb ed="#P" n="84"/>ficato quod sit impossibile / et quod sit aliqua entitas incom 
+      <lb ed="#P" n="85"/>plexe demonstrabilis. igitur. Maior probatur: quia propositio 
+      <lb ed="#P" n="86"/>non dicitur impossibilis per intrinsecam denominationem secundum 
+      <lb ed="#P" n="87"/>suam formalem entitatem. igitur ratione obiectiue intelligibi 
+      <lb ed="#P" n="88"/>lis significati correspondentis. Dicitur enim impossibilis eo 
+      <lb ed="#P" n="89"/>quod nec sic est nec potest sic esse in re praecise sicut per eam 
+      <lb ed="#P" n="90"/>significatur. Secundo. subiectum propositionis vere stat pro 
+      <lb ed="#P" n="91"/>aliquo intelligibili: sed hec est vera / petrum esse 
+      pau<lb ed="#P" n="92" break="no"/>lum est impossibile. igitur eius subiectum stat pro aliquo 
+      <lb ed="#P" n="93"/>intelligibili obiectiue / illud non est petrus nec paulus 
+      <lb ed="#P" n="94"/>nec ambo simul: quia sunt res possibiles: et pari ratione non 
+      <lb ed="#P" n="95"/>stat pro aliqua entitate incomplexe significabili / nec pro 
+      <lb ed="#P" n="96"/>quibuscunque entibus incomplexe significabilibus: 
+      <lb ed="#P" n="97"/>quia ille sunt possibiles. igitur pro altero intelligibili 
+      <lb ed="#P" n="98"/>complexe significabili. Tertio comparando propositi 
+      <lb ed="#P" n="99"/>onem impossibile ad necessariam. arguitur sic per se totale es 
+      <lb ed="#P" n="100"/>adequatum significatum propositionis vere et necessarie non est 
+      <lb ed="#P" n="101"/>omnino idem cum totali significato propositionis false et immpossibilis: 
+      <lb ed="#P" n="102"/>sed contingit omnino easdem res incomplexe significabiles significari 
+      <lb ed="#P" n="103"/>per huiusmodi propositiones. igitur. et per idem arguitur de omni propositione 
+      <lb ed="#P" n="104"/>vera respectu propositionis false. vel sic propositiones seu signa 
+      <lb ed="#P" n="105"/>quae conueniunt et coicant in omni re incomplexe significabili importata 
+      <lb ed="#P" n="106"/>per alteram illarum et tamen non conueniunt in omni intelligibili significato 
+      <lb ed="#P" n="107"/>per alteram illarum / nec in totalibus significatis habet vtraque 
+      <lb ed="#P" n="108"/>vel altera aliquod intelligibile pro significato distinctum ab omnibus 
+      <lb ed="#P" n="109"/>incomplexe significabilibus. Sed aliqua propositio impossibilis et 
+      <lb ed="#P" n="110"/>propositio necessaria non conueniunt et conicant in omni intelligibili 
+      <lb ed="#P" n="111"/>nec in totalibus significatis: sed conueniunt et conicant interdum 
+      <lb ed="#P" n="112"/>in omni entitate incomplexe significabili importata per eas. igitur 
+      <lb ed="#P" n="113"/>vtraque vel altera illarum habet pro significato aliquod intelligibile di 
+      <lb ed="#P" n="114"/>stinctum ab omnibus entitatibus incomplexe significabilibus. 
+      <lb ed="#P" n="115"/>Prima pars minoris patet: quia propositioni impossibili correspondet 
+      <lb ed="#P" n="116"/>aliquod intelligibile seu significabile quod non potest poni. 
+      <lb ed="#P" n="117"/>dicitur enim impossibilis ratione alicuius sui significati et 
+      pro<lb ed="#P" n="118" break="no"/>positioni necessarie correspondet pro significato aliquod intelligibile 
+      ne<lb ed="#P" n="119" break="no"/>cessarium. quia dicitur necessaria ex eo quod necesse est eam sic 
+      <lb ed="#P" n="120"/>poni in re sicut significatur. secunda pars minoris probatur de istis 
+      <lb ed="#P" n="121"/>petrus est paulus petrus non est paulus: omnis homo est 
+      <lb ed="#P" n="122"/>animal nullus homomem animal: quia signum non addit prosignificato 
+      <lb ed="#P" n="123"/>nouam entitatem incomplexe demonstrabilem / que non 
+      si<lb ed="#P" n="124" break="no"/>gnificaretur per terminos cathegoreumaticos. Similiter 
+      <lb ed="#P" n="125"/>omne corpus est album et omne album est corpus / et deus intelligit 
+      <lb ed="#P" n="126"/>mala et deus vult mala: et ita in multis.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1094">
+      ¶ Per idem 
+      <lb ed="#P" n="127"/>arguitur vniuersaliter de propositionibus sibi contradictoriis 
+      <lb ed="#P" n="128"/>quia conueniunt et comnicant in omni re incomplexe significabili 
+      im<lb ed="#P" n="129" break="no"/>portata per alteram / non tamen conueniunt et communicant in omni 
+      <lb ed="#P" n="130"/>intelligibili generaliter importato per alteram.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1105">
+      ¶ Confirmatur. in 
+      <lb ed="#P" n="131"/>ista propositione petrus non est paulus est quoddam intelligibile quod 
+      <lb ed="#P" n="132"/>negatur poni in re vel significatur toilli et non poni illud non est res quae 
+      <!--29.xml-->
+      <pb ed="#P" n="9-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>est petrus / nec res quae est paulus / nec aliqua alia entitas 
+      <lb ed="#P" n="2"/>incomplexe demonstrabilis. igitur illud est quoddam alterum 
+      <lb ed="#P" n="3"/>inteligibile significabile complexe per affirmatiuam impossibile 
+      <lb ed="#P" n="4"/>scilicet petrus est paulus. Quarto: de omni propoaitione falsa sequitur 
+      <lb ed="#P" n="5"/>quod sit vera. probo. sit. d. ista propositio .a. est .b. quam dicis esse 
+      <lb ed="#P" n="6"/>falsam tunc sic totale significatum per .d. ponitur actu in re 
+      ex<lb ed="#P" n="7" break="no"/>tra animam et omne obiectum intelligibile significatum per.d. ponitur 
+      <lb ed="#P" n="8"/>actu extra animam. sed .a. esse .b. est significatum per se et 
+      for<lb ed="#P" n="9" break="no"/>maliter per d. quod sit formaliter illud. igitur .a. esse .b. ponitur 
+      <lb ed="#P" n="10"/>actu extra animam. igitur. d. est vera: quia ita ponitur in re 
+      si<lb ed="#P" n="11" break="no"/>cut ipsa significat. maior probatur: quia omnis entitas incom 
+      <lb ed="#P" n="12"/>plexe significabilis quae importatur per .d. ponitur actu extra 
+      <lb ed="#P" n="13"/>animam: et per te nulum obiectum intelligibile significatur per. d. nisi 
+      <lb ed="#P" n="14"/>entitates incomplexe significabiles. Si dicatur quod totum significatum 
+      <lb ed="#P" n="15"/>ipsius .d. ponitur in re / non tamen est vera: quia non ita se habet in 
+      <lb ed="#P" n="16"/>re sicut significatur se habere per .d. propositionem.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1153">
+      ¶ Contra 
+      re<lb ed="#P" n="17" break="no"/>sponsionem ad principale arguitur sic: has res aliter se 
+      <lb ed="#P" n="18"/>habere quam se habeat est quoddam significabile per. d propositionem: 
+      <lb ed="#P" n="19"/>sed has res aliter se habere quam se habeant / non est intelli 
+      <lb ed="#P" n="20"/>gibile idem cum istis rebus vel aliquae istarum rerum nec cum quibus 
+      <lb ed="#P" n="21"/>cumque aliis entitatibus incomplexe demonstrabilibus. igitur 
+      <lb ed="#P" n="22"/>aliquod intelligibile significatur per. d. quod distinguitur ab omnibus 
+      en<lb ed="#P" n="23" break="no"/>titatibus incomplexe significabilibus. maior patet: quia per te .d. 
+      pro<lb ed="#P" n="24" break="no"/>positio falsa significat has res aliter se habere quam se habeant. 
+      <lb ed="#P" n="25"/>minor patet: quia contradictio videtur quod has res aliter se 
+      <lb ed="#P" n="26"/>habere quam habeant sit idem istis rebus: quia tunc sicut verum est 
+      <lb ed="#P" n="27"/>has res poni ita verum esset eas poni aliter se habere quam se 
+      <lb ed="#P" n="28"/>habeant. Si autem has res aliter se habere quam se habeant non 
+      <lb ed="#P" n="29"/>est intelligibile idem istis rebus multominus est idem quibus 
+      <lb ed="#P" n="30"/>cumque rebus aliis.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1186">
+      ¶ Confirmatur. sint .a. et .b. non contigua / 
+      <lb ed="#P" n="31"/>et per. d. propositionem falsam significentur esse contigua. tunc 
+      <lb ed="#P" n="32"/>sic has res taliter se habere / puta esse contiguas est 
+      intelligi<lb ed="#P" n="33" break="no"/>bile significatum per. d. sed has res esse contiguas est intelligibile 
+      <lb ed="#P" n="34"/>non idem istis rebus. igitur aliquod intelligibile non idem istis re 
+      <lb ed="#P" n="35"/>bus significatur per. d. sed non aliquod intelligibile quod sit entitas 
+      <lb ed="#P" n="36"/>incomplexe significabilis. igitur. maior patet: quia d. significat formaliter 
+      <lb ed="#P" n="37"/>a. et .b. esse contigua. minor patet: quia si essent idem. igitur .a. et .b 
+      <lb ed="#P" n="38"/>essent contigua. et ita potest semper resumi ratio de hoc intel 
+      <lb ed="#P" n="39"/>ligibili quod est aliter se habere seu de tali modo se habendi¬ 
+    </p>
+            <p xml:id="D78nca-de4659-d1e1208">
+               <lb ed="#P" n="40"/>¶ Confirmatur. has res sic se habere sicut se habent est 
+      quod<lb ed="#P" n="41" break="no"/>dam intelligibile significabile complexe / sed non est idem istis re 
+      <lb ed="#P" n="42"/>bus sic se habentibus. igitur has res sic se habere est complexe 
+      <lb ed="#P" n="43"/>significabile distinctum ab istis rebus et per consequens a quibuscumque aliis 
+      <lb ed="#P" n="44"/>rebus incomplexe significabilibus. minor probatur: quia has res sic 
+      <lb ed="#P" n="45"/>se habere sicut se habent non significatur per.d. propositionem falsam / et 
+      <lb ed="#P" n="46"/>tamen he res sunt he res sic se habentes et significantur per.d. 
+      propositio<lb ed="#P" n="47" break="no"/>nem. igitur.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1228">
+      ¶ Confirmatur: he res aliter et non taliter se habent 
+      <lb ed="#P" n="48"/>in re extra sicut se habere significantur per. d. et econtra he res 
+      ta<lb ed="#P" n="49" break="no"/>liter et non aliter se habent sicut se habere significantur per 
+      <lb ed="#P" n="50"/>e. contradictoriam ipius. d. Quero igitur / aut isti modi se 
+      <lb ed="#P" n="51"/>prsesndi quorum vnus positioitur significari per. d. non per. e. et altel 
+      <lb ed="#P" n="52"/>per .e. non per .d. se tenent ex parte signi tantum / aut ex parte significati 
+      <lb ed="#P" n="53"/>obiectiue cogniti. Si secundum propositum: quia qulibet est 
+      <lb ed="#P" n="54"/>quoddam intelligibile significabile complexe / et vnus significatur 
+      <lb ed="#P" n="55"/>vnam et non per alia: cum tamen omnis entitas incomplexe 
+      significabi<lb ed="#P" n="56" break="no"/>lis importata per vnam importatur per aliam Si primum. Contra 
+      <lb ed="#P" n="57"/>tum quia illi modi se habendi sunt ea pro quibus verificatur propositi 
+      <lb ed="#P" n="58"/>vel falsificatur / et quo mutato: mutatur propositio 
+      <lb ed="#P" n="59"/>de veritate in falsisatem. Tum: quia se tenent ex parte obiectiue 
+      <lb ed="#P" n="60"/>significati / patet ex terminis: quia dicitur has res sic vel aliter 
+      <lb ed="#P" n="61"/>se habere significatur per huiusmodi propositionem. igitur. Quinto: nomen 
+      <lb ed="#P" n="62"/>figmenti cuius ratio est in se falsa significat aliquod 
+      intelli<lb ed="#P" n="63" break="no"/>gibile distinctum vel non idem potentia cuicumque vel quibus 
+      <lb ed="#P" n="64"/>cumque entitatibus incomplexe significabilibus actu vel po 
+      <lb ed="#P" n="65"/>tentia existentibus. igitur pari vel maiori ratione propositio 
+      <lb ed="#P" n="66"/>impossibilis. antecedens probatur: quia primo perihermenias. hirco¬ 
+      <!--29.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>ceruus significat aliquid / sed nondum verum vel falsum. igitur no 
+      <lb ed="#P" n="68"/>men figmenti significat quoddam intelligibile. sed quod di 
+      <lb ed="#P" n="69"/>stinguatur ab omnibus intelligibilibus quae sunt entitates incom 
+      <lb ed="#P" n="70"/>plexe demonstrabiles probatur: quia iste sunt possibiles 
+      <lb ed="#P" n="71"/>quia quaelibet est possibilis / et ex illis non fit aliquod vnum 
+      <lb ed="#P" n="72"/>quod non sit ille entitates. igitur ille entitates siue 
+      con<lb ed="#P" n="73" break="no"/>lunctim siue diuisim sumpte sunt possibiles / sed 
+      intelli<lb ed="#P" n="74" break="no"/>gibile significatum nomine figmenti est impossibile aliter non esset 
+      <lb ed="#P" n="75"/>nomen figmenti. igitur significat aliquod intelligibile alterum / quod 
+      <lb ed="#P" n="76"/>scilicet importatur per dictum huius / scilicet hanc rem sic se habere ad 
+      <lb ed="#P" n="77"/>illam quo modo scilicet se habere est impossibile. 
+      <lb ed="#P" n="78"/>per idem videtur probari / quod per istam
+    </p>
+            <p xml:id="D78nca-de4659-d1e1303">
+               <lb ed="#P" n="79"/>Ad primum intelligibile possibile poni: non est 
+      <lb ed="#P" n="80"/>intelligibile possibile poni significaretur et apprehenderetur 
+      <lb ed="#P" n="81"/>aliquod intelligibile quod non apprehenditur per conceptu obiecti: 
+      <lb ed="#P" n="82"/>quia complexe significabile per illam est intelligibile 
+      impossib<lb ed="#P" n="83" break="no"/>le poni / et subiectum stat tantum pro intelligibili possibile po 
+      <lb ed="#P" n="84"/>ni. consequens est falsum: quia per partem subiecti significatur omne 
+      in<lb ed="#P" n="85" break="no"/>telligibile. dicendum est igitur negando primam partem 
+      mi<lb ed="#P" n="86" break="no"/>noris. Ad probationem cum dicitur petrum esse paulum est 
+      <lb ed="#P" n="87"/>quodam intelligibile est apprehensum a me / hoc habet duplicem 
+      <lb ed="#P" n="88"/>sensum. Unus est: aliquod obiectum intelligibile quod est petrum 
+      <lb ed="#P" n="89"/>esse paulum terminat obiectiue vere proprie intellectionem 
+      <lb ed="#P" n="90"/>et intellectio fertur et tendit in quoddam obiectum 
+      intelli<lb ed="#P" n="91" break="no"/>gibile quod est petrum esse paulum: et illud exhibet et repraesentat 
+      <lb ed="#P" n="92"/>et hic sensus est falsus. Alius sensus est quod aliqua est 
+      <lb ed="#P" n="93"/>vel potest esse apprehensio per quam formaliter apprehenditur 
+      <lb ed="#P" n="94"/>hoc intelligibile petrus et hoc intelligibile paulus: et tali 
+      <lb ed="#P" n="95"/>ter apprehenditur et significatur quod attribuit hoc 
+      intelli<lb ed="#P" n="96" break="no"/>gibile illi: et quod ad veritatem talis apprehensionis vel iudicii 
+      <lb ed="#P" n="97"/>conformis requireretur et sufficeret quod petrus esset paulus / seu 
+      <lb ed="#P" n="98"/>quod possibilis est apprehensio conformis in repraesentando illi 
+      <lb ed="#P" n="99"/>ofoni et cui adequate subordinatur illa oratio in significando / et 
+      <lb ed="#P" n="100"/>sic conceditur: nec est contra propositum Et cum vltra dicitur quod po 
+      <lb ed="#P" n="101"/>trum esse paulum est intelligibile impossibile. Si intelligitur 
+      <lb ed="#P" n="102"/>quod aliquod obiectum intelligibile terminans vel natum termi 
+      <lb ed="#P" n="103"/>nare apprehensionem et sigtionem apprehensionis: sit petrum 
+      <lb ed="#P" n="104"/>esse paulum / vel importetur per hoc quod dico petrum esse paulum 
+      <lb ed="#P" n="105"/>et quod illud intelligibile sit in se formaliter impossibile et sic 
+      <lb ed="#P" n="106"/>negatur. Si vero intelligitur quod non sit possibile aliquod intelli 
+      <lb ed="#P" n="107"/>gibile esse quod sit petrum esse paulum vel petrus ens paulus: sic 
+      <lb ed="#P" n="108"/>oceditur / et non est contra propositum: quia per hoc non notatur 
+      po<lb ed="#P" n="109" break="no"/>sitio vel correspondentia alicuius obiecti intelligibilis in se forma 
+      <lb ed="#P" n="110"/>liter impossibilis / sed potius denegatur impossibilitas vel 
+      <lb ed="#P" n="111"/>correspondentia cuiuscumque intelligibilis quod foret petrum esse 
+      <lb ed="#P" n="112"/>paulum / licet enim tali apprehensioni secundum veritatem et rei 
+      proprieta<lb ed="#P" n="113" break="no"/>tem non correspondeat obiectiue terminatiue aliquod 
+      intelligibi<lb ed="#P" n="114" break="no"/>le in se formaliter impossibile / tamen apparet correspondere in quadam 
+      <lb ed="#P" n="115"/>similitudine et in transsumptione et in figura intelligendi 
+      si<lb ed="#P" n="116" break="no"/>cut de intellectione vniversalis. Concipimus enim aliquid enunciam 
+      <lb ed="#P" n="117"/>do ipsum esse illud quod non est et quod impossibile est esse / et sic ita concip 
+      <lb ed="#P" n="118"/>mus quasi corresponderet intellectui proprium obiectum vere intelli 
+      <lb ed="#P" n="119"/>gibile in se formaliter impossibile / sicut et mathematice 
+      intel<lb ed="#P" n="120" break="no"/>ligimus superficies et nuneros quasi intelligibilia abstracta 
+      <lb ed="#P" n="121"/>a materia: sic est diceretur quod non intelligibile significat intelligibi 
+      <lb ed="#P" n="122"/>le impossibile Et similiter hec oratio medium inter contradictoria per huiusmoli 
+      <lb ed="#P" n="123"/>enim conceptus dicimus aliquem concipere impossibile / non ideo quia 
+      <lb ed="#P" n="124"/>tali apprehensioni correspondeat pro obiectiue terminatiuo aliquod 
+      <lb ed="#P" n="125"/>intelligibile medium inter contradictoria: immo ideo 
+      <lb ed="#P" n="126"/>dicitur oratio in se falsa: quia nullum intelligibile potest ei 
+      cor<lb ed="#P" n="127" break="no"/>respondere.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1412">
+      ¶ Ad secundam per idem arguitur / quod per istam obie 
+      <lb ed="#P" n="128"/>ctum intelligibile non est obiectu intelligibile 
+      signi<lb ed="#P" n="129" break="no"/>sicaretur aliquod obiectum intelligibile quod esset inintelligibile 
+      <lb ed="#P" n="130"/>quia subiectum stat pro aliquo intelligibili. dicendum est igitur 
+      ne<lb ed="#P" n="131" break="no"/>gando minorem maxime si non sit propositio pure affirma 
+      <lb ed="#P" n="132"/>tiua et de subiecto simplici: sed interdum sufficit quod stet 
+      <!--30.xml-->
+      <pb ed="#P" n="10-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>pro diuersis intelligibilibus determinato modo per inte 
+      <lb ed="#P" n="2"/>lectum acceptis. interdum autem non stat pro aliquo ob 
+      <lb ed="#P" n="3"/>iecto intelligibili de quo et pro quo demonstrato natur 
+      <lb ed="#P" n="4"/>sit vere affirmari tale subiectum: vt dicendo obiectum 
+      <lb ed="#P" n="5"/>intelligibile et insignificabile non est intelligibile. est 
+      <lb ed="#P" n="6"/>igitur propositio talis vera: non quia subiectum stet pro ali 
+      <lb ed="#P" n="7"/>quo obiecto intelligibili de quo demonstrato vere 
+      af<lb ed="#P" n="8" break="no"/>firmatur tale subiectum: sed quia non est dare aliquod 
+      <lb ed="#P" n="9"/>obiectiue intelligibile de quo vel pro quo affirmetur vel 
+      <lb ed="#P" n="10"/>verificetur illud praedicatum: et quamuis subiectum significet 
+      <lb ed="#P" n="11"/>aliqua intelligibilia tamen pro nullo illorum potest 
+      sta<lb ed="#P" n="12" break="no"/>re respectu prdicati ad verificandum propositionem. 
+    </p>
+            <p xml:id="D78nca-de4659-d1e1458">
+               <lb ed="#P" n="13"/>¶ Ad tertium per idem videtur argui de istis / intelligi 
+      <lb ed="#P" n="14"/>bile est intelligibile et intelligibile non est intelligibile 
+      <lb ed="#P" n="15"/>quod aliquod obiectum intelligeretur per vnam quod non per 
+      <lb ed="#P" n="16"/>aliam.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1469">
+      ¶ Ad primam igitur formam dicendum est: quod 
+      tota<lb ed="#P" n="17" break="no"/>le seu adequatum significatum alicuius propositionis 
+      <lb ed="#P" n="18"/>potest dici vno modo collectum ex omnibus intelligibilibus 
+      <lb ed="#P" n="19"/>significatis per illam propositionem et sic negatur prima 
+      <lb ed="#P" n="20"/>pars antecedentis: scilicet quod totale significatum propositionis 
+      <lb ed="#P" n="21"/>necessarie non distinguatur a totali significato propositionis 
+      impo<lb ed="#P" n="22" break="no"/>sibilis: sic etiam falsum est quod petrum esse hominem 
+      <lb ed="#P" n="23"/>sit totale significatum huius petrus est homo: aut quod 
+      <lb ed="#P" n="24"/>totale significatum huius petrus non est paulus sit pe 
+      <lb ed="#P" n="25"/>trum non esse paulum.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1491">
+      ¶ Secundo modo potest dici 
+      <lb ed="#P" n="26"/>intelligibile pro quo stat et supponit subiectum simul 
+      <lb ed="#P" n="27"/>cum obiecto intelligibili pro quostat praedicatum / et sic ad 
+      <lb ed="#P" n="28"/>huc negatur prima pars antecedentis. Patet de istis / petrus 
+      <lb ed="#P" n="29"/>est paulus / petrus non est paulus. sic etiam falsum est 
+      <lb ed="#P" n="30"/>quod petrum non esse paulum sit totale significatum istius 
+      <lb ed="#P" n="31"/>petrus non est paulus: quia petrum non esse paulum est 
+      pe<lb ed="#P" n="32" break="no"/>trus non ens paulus / et hoc non includit formaliter 
+      <lb ed="#P" n="33"/>paulum.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1511">
+      ¶ Tertio modo totale significatum alicuius 
+      propo<lb ed="#P" n="34" break="no"/>sitionis potest dici intelligibile huiusmodi cuiusmodi intelligi 
+      <lb ed="#P" n="35"/>bile sufficit ad verificandum formalem significationem illi 
+      <lb ed="#P" n="36"/>propositionis seu intelligibile sic se habens pro quo sic se hbe 
+      <lb ed="#P" n="37"/>bente verificatur sufficienter / vel nata est sufficienter 
+      <lb ed="#P" n="38"/>verificari illa propositio et accipio large et communiter obie 
+      <lb ed="#P" n="39"/>ctum intelligibile esse huiusmodi vel sic se habere / scilicet pro esse 
+      <lb ed="#P" n="40"/>vel non esse huiusmodi cuiusmodi esse vel non esse 
+      signifi<lb ed="#P" n="41" break="no"/>cat praedicatio cuiuscumque praedicamenti / et sic conceditur: 
+      <lb ed="#P" n="42"/>quod totale significatum propositionis vere et necessari 
+      <lb ed="#P" n="43"/>non est idem totali significato propositionis 
+      impossi<lb ed="#P" n="44" break="no"/>bilis: sed non sequitur quod sit intelligibile distinctum ab in 
+      <lb ed="#P" n="45"/>telligibili significato totali propositionis 
+      impossibi<lb ed="#P" n="46" break="no"/>lis. quia sic nullum intelligibile est totale significatum 
+      pro<lb ed="#P" n="47" break="no"/>positionis impossibilis: sic etiam falsum est quod petrum 
+      <lb ed="#P" n="48"/>esse paulum sit totale significatum illius petrus est paul 
+      <lb ed="#P" n="49"/>quia falsum est quod petrum esse paulum sit quoddam obiecti 
+      <lb ed="#P" n="50"/>intelligibile / vere et proprie terminans intellectionem 
+      <lb ed="#P" n="51"/>et in quod fertur intellectio et quod exhibetur 
+      termina<lb ed="#P" n="52" break="no"/>tiue per intellectionem. Aut quod pro tali intelligibili 
+      <lb ed="#P" n="53"/>sit nata verificari aliqua propositio: quod autem non sequa 
+      <lb ed="#P" n="54"/>tur totale significatum propositionis necessarie: non est 
+      <lb ed="#P" n="55"/>inteligibile idem totali significato propositionis 
+      neces<lb ed="#P" n="56" break="no"/>sarie. igitur est intelligibile distinctum ab illo 
+      intel<lb ed="#P" n="57" break="no"/>ligibili. patet: quia petrus sedenis est res que non est 
+      <lb ed="#P" n="58"/>eadem petro non sedenti: nec tamen est res distincta 
+      <lb ed="#P" n="59"/>actu vel potentia. quia impossibile est quod aliquid sit 
+      pe<lb ed="#P" n="60" break="no"/>trus sedens / et quod simul aliquid sit petrus non sedens et 
+      <lb ed="#P" n="61"/>hoc non sit illud. Ex illo igitur discursu secundum hunc 
+      <lb ed="#P" n="62"/>sensum solum infertur quod petrum esse paulum non est 
+      <lb ed="#P" n="63"/>petrum non esse paulum / nec econtra quod conceditur 
+      <lb ed="#P" n="64"/>sed non sequitur quod sint obiecta intelligibilia plura 
+      di<lb ed="#P" n="65" break="no"/>stincta vel quod pter entitates incomplexe significabiles / sit 
+      <lb ed="#P" n="66"/>aliquod obiectiue intelligibile secundum veritatem et propri¬ 
+      <!--30.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>etatem rei loquendo nisi tantum in quadam similitudine et 
+      <lb ed="#P" n="68"/>proportione sicut de intentione vniuersali.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1595">
+      ¶ Quarto 
+      <lb ed="#P" n="69"/>modo dicitur intelligibile pro quo verificatur illa 
+      <lb ed="#P" n="70"/>propositio si sit vera. vel falsificatur: si sit falsa. et sic adhud 
+      <lb ed="#P" n="71"/>negatur prima pars antecedentis/ quia pro eodem intelligibil 
+      <lb ed="#P" n="72"/>siue ex vno siue ex pluribus collecto verificatur vna 
+      <lb ed="#P" n="73"/>pars contradictionis et falsificatur altera: sic etiam fal 
+      <lb ed="#P" n="74"/>sum est quod petrum esse paulum sit totale significatum huius 
+      <lb ed="#P" n="75"/>petrus est paulus: sed totale significatum huius est 
+      pe<lb ed="#P" n="76" break="no"/>trus et paulus: et hoc duo non sunt petrum esse paulum 
+    </p>
+            <p xml:id="D78nca-de4659-d1e1615">
+               <lb ed="#P" n="77"/>¶ Quinto. totale significatum propositionis posset / licet impro 
+      <lb ed="#P" n="78"/>prie dici significatum propositionis sumptum simul cum aliqua significat 
+      <lb ed="#P" n="79"/>one equiualenti tali propositioni ad perfectam explicationem 
+      <lb ed="#P" n="80"/>et sic totale significatum huius petrus est paulus / diceretur 
+      <lb ed="#P" n="81"/>petrum esse paulum / vel quod petrus sit homo qui est paulus et multa 
+      <lb ed="#P" n="82"/>huiusmoi significata: sed secundum istum sensum vltimate resoluendo 
+      <lb ed="#P" n="83"/>accipitur totale significatum pro totali et completia significatione: quia dice 
+      <lb ed="#P" n="84"/>re quod totale significatum huius / petrus est paulus est petrum esse 
+      <lb ed="#P" n="85"/>paulum / sensus est hec propositio petrus est paulus significat tam 
+      <lb ed="#P" n="86"/>petrum quam paulum et significat taliter scilicet affirmando paulum de 
+      <lb ed="#P" n="87"/>petro et in hoc consistit completa formalis sua significatio et in 
+      <lb ed="#P" n="88"/>isto sensu non concluditur nisi tantum distinctio significatorum 
+      obiecti<lb ed="#P" n="89" break="no"/>ue vel significationum seu signorum.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1646">
+      ¶ Ad secundam formam par 
+      <lb ed="#P" n="90"/>idem arguitur / quod aliquod intelligibile significatur per vnam istari 
+      <lb ed="#P" n="91"/>quod non est per alterum intelligibile est intelligibile / 
+      intelligibi<lb ed="#P" n="92" break="no"/>le non est intelligibile. consequens est falsum: quia per subiectum cuiuslibet 
+      <lb ed="#P" n="93"/>significatur omne intelligibile. Per idem arguitur: quod aliquod intel 
+      <lb ed="#P" n="94"/>ligibile significatur nonie intelligibilis quod non significatur nomine 
+      <lb ed="#P" n="95"/>no intelligibilis vel econtra: quia intelligibile non est non 
+      <lb ed="#P" n="96"/>intelligibile. Per idem arguitur: quod illa significabilia 
+      <lb ed="#P" n="97"/>complexe distinguuntur per aliqua obiecta incomplexe significabus 
+      <lb ed="#P" n="98"/>lia: quia signa quae conicant in aliquo intelligibili et non in omni 
+      in<lb ed="#P" n="99" break="no"/>telligibili habent aliqua intelligibilia totaliter distincta in 
+      <lb ed="#P" n="100"/>quibus nullo modo coicant / vel alterum illorum habet aliquod 
+      <lb ed="#P" n="101"/>tale obiectum intelligibile pro significato totaliter 
+      distin<lb ed="#P" n="102" break="no"/>ctum ab omni intelligibili significato per alterum. Dicendum igitur quod 
+      <lb ed="#P" n="103"/>aliquas propositiones vel aliqua signa conuenire et conicare 
+      <lb ed="#P" n="104"/>in omni intelligibili significato per alterum potest intelligi dupliciter. vno 
+      <lb ed="#P" n="105"/>modo quod nullum vere et proprie intelligibile obiectiue termi 
+      <lb ed="#P" n="106"/>natiue significaretur et repraesentaretur per vnum quin per reliquum / et sic 
+      <lb ed="#P" n="107"/>conceditur maior et negatur prima pars minoris. Alio modo quod 
+      <lb ed="#P" n="108"/>pro quocumque intelligibili obiectie / natum est supponere 
+      <lb ed="#P" n="109"/>vel verificari vnum et reliquum: et omne obiectiue 
+      intelligi<lb ed="#P" n="110" break="no"/>bile sic se habens quomodo se habens requiritur vel sufficit ad ve 
+      <lb ed="#P" n="111"/>rificandum vnum requiritur vel sufficit ad verificandum alterum: 
+      <lb ed="#P" n="112"/>et sic negatur maior: aliquod enim signum sic significat aliqua quod ali 
+      <lb ed="#P" n="113"/>quod de illis et pro illis demonstratis non potest vere affirmari 
+      <lb ed="#P" n="114"/>et proquibus non potest supponere: patet de composito ex nomine et 
+      <lb ed="#P" n="115"/>negatione vt non homo / et de oratione in se falsa / vt homo irrati 
+      <lb ed="#P" n="116"/>onalis. Similiter aliqua propositio significat aliqua intelligibilia 
+      <lb ed="#P" n="117"/>taliter quod pro illis non potest verificari / immopositio illorum inferi 
+      <lb ed="#P" n="118"/>falsitatem illius signi: vt dicendo intelligibile non est 
+      intelli<lb ed="#P" n="119" break="no"/>gibile
+    </p>
+            <p xml:id="D78nca-de4659-d1e1714">
+      ¶ Ad probationem prime partis minoris negatur assum 
+      <lb ed="#P" n="120"/>ptum: loquendo vere et secundum proprietatem rei.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1719">
+      ¶ Dices ex his vel 
+      <lb ed="#P" n="121"/>detur quod signa contradictoria significant omnino idem / licet aliter et 
+      <lb ed="#P" n="122"/>aliter contra <ref xml:id="D78nca-de4659-Rd1e1725">articulum <name xml:id="D78nca-de4659-Nd1e1727">domini cardinalis</name>
+               </ref>. Respondetur negando 
+      <lb ed="#P" n="123"/>consequentiam: quia contradictoria significare idem maxime ad intentionem 
+      <lb ed="#P" n="124"/>articuli importat intelligibile sic se habens quo modo requiritur 
+      <lb ed="#P" n="125"/>et sufficit ad veritatem vnius contradictorii sit ideo intelligibili sic 
+      <lb ed="#P" n="126"/>se habenti quomodo requiritur et sufficit ad veritatem alterius / et quod 
+      <lb ed="#P" n="127"/>intelligibile pro quo verificatur vnum contradictoriorum est idem illud 
+      <lb ed="#P" n="128"/>pr quo verificatur et reliquum / et hoc est falsum: quia non est 
+      ide<lb ed="#P" n="129" break="no"/>nec actu / nec potentia: quia hoc importat .b. esse huiusmodi est 
+      <lb ed="#P" n="130"/>idem huic intelligibili quod est .b. non esse huiusmoo 
+      <lb ed="#P" n="131"/>di.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1752">
+      ¶ Ad confirmationem additam proprie loquen 
+      <lb ed="#P" n="132" break="no"/>do negatur quod aliquod intelligibile significatur per illam 
+      <!--31.xml-->
+      <pb ed="#P" n="10-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ppositionem non poni nisi in quadam similitud ine 
+      <lb ed="#P" n="2"/>sed per illam significatur aliquod intelligibile non esse 
+      <lb ed="#P" n="3"/>idem paulos vel quod intelligibile significatur non poni 
+      <lb ed="#P" n="4"/>identitate ad paulum: sicut dicendo in intelligibile est in 
+      <lb ed="#P" n="5"/>intelligibile non significatur aliquod obiectum intelligibile quod 
+      <lb ed="#P" n="6"/>sit intelligibile / et per istam chimera non est aliqua res. 
+      <lb ed="#P" n="7"/>nulla res significatur tolli vel non poni etc.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1779">
+      ¶ Ad 
+      quan<lb ed="#P" n="8" break="no"/>tum negetur consequentia et ad probationem minoris quae dicit quod .a. 
+      <lb ed="#P" n="9"/>esse .b. est significatum per .d. propositionem est falsa de 
+      <lb ed="#P" n="10"/>vi verbi: supposito quod .a. esse .b. sit impossibile: quia 
+      <lb ed="#P" n="11"/>nullum intelligibile obiectiue terminatiue vere et 
+      pro<lb ed="#P" n="12" break="no"/>prie loquendo exhibetur per. d. quod sit .a. esse .b. tamen in hoc 
+      <lb ed="#P" n="13"/>sensu potest esse vera quod .d. significat .a. et .b. et taliter quod 
+      <lb ed="#P" n="14"/>affirmative de inesse etc. et quod hoc dictum .a. esse. b. est dictum 
+      <lb ed="#P" n="15"/>equiualens et adequate correspondens illi propositioni: sed 
+      <lb ed="#P" n="16"/>tunc est fallacia figure dictionis / mutando quid in vel 
+      <lb ed="#P" n="17"/>quale quid in taliter / et mutando significatum in signifi 
+      <lb ed="#P" n="18"/>catum sic significari. Licet enim omne intelligibile 
+      obie<lb ed="#P" n="19" break="no"/>ctiue significatum per .d. ponatur in re extra / non tamen ponitur sic 
+      <lb ed="#P" n="20"/>vt exigeret veritas ipsius. d. nec sic vt pro eo natum sit 
+      <lb ed="#P" n="21"/>verificari. d. minor autem dicit non solum quid significet / sed  
+      <lb ed="#P" n="22"/>qualiter secundum illum sensum. Si vero .a. esse .b. sit 
+      possibi<lb ed="#P" n="23" break="no"/>le / licet sit modo falsum sic constat maiorem esse falsam: vt 
+      <lb ed="#P" n="24"/>dicendo petrus est albus: quia non ponitur compositum ex po 
+      <lb ed="#P" n="25"/>tro et albedine neceius albedo / vel dicendo compositum 
+      <lb ed="#P" n="26"/>ex huiusmoi partibus est. contingit etiam quod maior sit vera: vt 
+      <lb ed="#P" n="27"/>si per.d. propationem intelligatur ista: petrus est contiguus pau 
+      <lb ed="#P" n="28"/>lo / vel distas pedaliter a paulo. Et tunc ad minorem 
+      di<lb ed="#P" n="29" break="no"/>cendum quod est vera: quia petrum esse huiusmodi est intelligibile 
+      <lb ed="#P" n="30"/>potentiale: sed tunc est fallacia figure dictionis in 
+      argu<lb ed="#P" n="31" break="no"/>mento mutando quid in qualiter. quia licet esse terminans 
+      <lb ed="#P" n="32"/>obiectiue intelligibile significatum per .d. ponitur actu non 
+      <lb ed="#P" n="33"/>tamen omnimode taliter qualiter poni significatur per .d. 
+      <lb ed="#P" n="34"/>et exigeret veritas. d. et tunc ad improbationem 
+      mi<lb ed="#P" n="35" break="no"/>noris ibi posite eum dicitur has res aliter se 
+      habe<lb ed="#P" n="36" break="no"/>re quam se habeant est significatum per . d. propositionem di 
+      <lb ed="#P" n="37"/>cendum quod hec propositio si sumitur in sensu compositio 
+      <lb ed="#P" n="38"/>nis falsa est: quia importat quod aliquod intelligibile signi 
+      <lb ed="#P" n="39"/>ficatur per.d. propositionem et ipsum est has res 
+      ali<lb ed="#P" n="40" break="no"/>ter se habere quam se habeant / vel quod ipsum sit has res sic 
+      <lb ed="#P" n="41"/>et aliter se habere et ita. d. propositio implicaret 
+      con<lb ed="#P" n="42" break="no"/>tradictionem vel in isto sensu importat quod .d. 
+      proposi<lb ed="#P" n="43" break="no"/>tionis significatio formalis est ista: he res aliter se 
+      <lb ed="#P" n="44"/>habent quam se habeant / et quod. d. equiualet isti propositioni in 
+      <lb ed="#P" n="45"/>formali significatione / et sic adhuc. d. implicaret 
+      con<lb ed="#P" n="46" break="no"/>tradictionem. Si vero dicta propositio sumatur in sen 
+      <lb ed="#P" n="47"/>su diuisionis: vt si .a. et .b. non sint contigua / et .d. proposi 
+      <lb ed="#P" n="48"/>tio significat et affirmat formaliter quod .a. et .b. sunt 
+      conti<lb ed="#P" n="49" break="no"/>gua: tunc has res taliter se habere significatur per .d. 
+      pro<lb ed="#P" n="50" break="no"/>positionem et tamen ille res non taliter se habent sic 
+      sume<lb ed="#P" n="51" break="no"/>do illam maiorem equiualet isti / has res taliter se habere 
+      <lb ed="#P" n="52"/>significatur per. d. que tamen non taliter se habent. et sic potes 
+      <lb ed="#P" n="53"/>dici quod ratio concludit solum quod aliquod intelligibile significatum 
+      <lb ed="#P" n="54"/>per. d. non est idem quibuscunque entitatibus incomplexe 
+      si<lb ed="#P" n="55" break="no"/>gnificabilibus: sed non concludit quod aliquod intelligibile si 
+      <lb ed="#P" n="56"/>gnificatum per .d. sit intelligibile distinctum ab omnibus enm 
+      <lb ed="#P" n="57"/>titatibus incoplexe significabilibus actu vel potentia 
+      exi<lb ed="#P" n="58" break="no"/>stentibus. diceretur enim quod has res esse contiguas est 
+      intel<lb ed="#P" n="59" break="no"/>ligibile potentiale quod potest esse idem istis rebus / tamen non 
+      <lb ed="#P" n="60"/>est aliud ab eis / nec actu / nec potentia: sicut petrus 
+      se<lb ed="#P" n="61" break="no"/>dens non est intelligibile idem petro non sedenti / nec 
+      <lb ed="#P" n="62"/>tamen aliud actu vel potentia: quia impossibile est quod hoc 
+      <lb ed="#P" n="63"/>sit et illud sit et hoc non sit illud. Aliter potest dici quod 
+      <lb ed="#P" n="64"/>hec propositio has res taliter se habere / puta esse 
+      co<lb ed="#P" n="65" break="no"/>tiguas significatur per .d. potest habere tres sensus. 
+      <lb ed="#P" n="66"/>Unus est: aliquod intelligibile / et obiectiue / et termi¬ 
+      <!--31.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>natiue exhibetur et repraesentatur per. d. et ipsum est 
+      <lb ed="#P" n="68"/>has res sic se habere. Secundus sensus: aliquod 
+      <lb ed="#P" n="69"/>intelligibile obiectiue significatur per. d et ipsum est 
+      <lb ed="#P" n="70"/>vel potest esse has res taliter se habere. Tertius 
+      sen<lb ed="#P" n="71" break="no"/>sus est: formalis significatio ipsius. d. est talis: quod 
+      si<lb ed="#P" n="72" break="no"/>gnificat .a. et .b. enunciando affirmatiue contiguitatem 
+      <lb ed="#P" n="73"/>et sic quod eius veritas exigit quod .a. esset contiguum .b. in 
+      <lb ed="#P" n="74"/>primo sensu falsa est in secundo sensu vera est. et tunc 
+      <lb ed="#P" n="75"/>non valet discursus: sed mutatur quale vel quasi 
+      qua<lb ed="#P" n="76" break="no"/>le in quid vel quale quid in discursum ex premissis de 
+      <lb ed="#P" n="77"/>possibili: sicut hic .a. esse substantiam contiguam ipsib. 
+      <lb ed="#P" n="78"/>est mihi possibile effectiue: sed .a: esse contigua ipsi 
+      <lb ed="#P" n="79"/>b. est .a. esse substantiam. igitur .a. esse substantiam 
+      <lb ed="#P" n="80"/>est michi possibile effectiue / vel hic actus meritorius 
+      <lb ed="#P" n="81"/>vel actum esse meritorium est effectus cause secunde. 
+      <lb ed="#P" n="82"/>sed actus meritorius vel actum esse meritorium non 
+      <lb ed="#P" n="83"/>potest esse effectiue solius dei. igitur aliquid quod non 
+      <lb ed="#P" n="84"/>potest esse effectus solius dei est effectus cause 
+      secun<lb ed="#P" n="85" break="no"/>de. In tertio sensu est vera: sed non valet discursus 
+      <lb ed="#P" n="86"/>nec est forma sillogistica: quia non accipitur debite 
+      mi<lb ed="#P" n="87" break="no"/>nor sub maiore / vel etiam mutatur taliter se 
+      habe<lb ed="#P" n="88" break="no"/>re in quid.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1961">
+      ¶ Ad confirmationem patet per idem. Ad aliam 
+      <lb ed="#P" n="89"/>confirmationem negatur minor. Ad probationem patet 
+      <lb ed="#P" n="90"/>in quaestione precedenti / respondendo ad primum cotra 
+      <lb ed="#P" n="91"/>primam et secundam conclusionem.
+    </p>
+            <p xml:id="D78nca-de4659-d1e1970">
+      ¶ Ad aliam 
+      con<lb ed="#P" n="92" break="no"/>firmationem dicendum: quod isti modi qui sunt has res 
+      <lb ed="#P" n="93"/>sic se habere et has res non sic / sed aliter se habere se 
+      <lb ed="#P" n="94"/>tenent ex parte obiectiue significati: quia si he res sic 
+      <lb ed="#P" n="95"/>se habent has res sic se habere / est he res sic se 
+      ha<lb ed="#P" n="96" break="no"/>bentes nec ex hoc habetur propositum: scilicet quod sit 
+      ali<lb ed="#P" n="97" break="no"/>quod intelligibile distinctum vel non natum esse idem 
+      <lb ed="#P" n="98"/>quibuscumque entibus incomplexe significabilibus vel 
+      de<lb ed="#P" n="99" break="no"/>monstrantibus actu vel potentia existentibus / sed so 
+      <lb ed="#P" n="100"/>lum concluditur quod aliquod intelligbile significabile 
+      con<lb ed="#P" n="101" break="no"/>plexe non est modo idem actu istis rebus existentibus 
+      <lb ed="#P" n="102"/>tamen potest esse idem illis: sicut et iste res possunt se ha 
+      <lb ed="#P" n="103"/>bere / non sic / sed aliter. et cum dicitur quod quilibet talis 
+      mo<lb ed="#P" n="104" break="no"/>dus. taliter se habendi / est quoddam intelligibile: con 
+      <lb ed="#P" n="105"/>ceditur. Et cum dicitur quod vnus significatur per.d. non per e. 
+      <lb ed="#P" n="106"/>et alius econtra. dicendum quod vtraque est distinguenda. si 
+      <lb ed="#P" n="107"/>enim he res sic se habent in re sicut significat eas se ha 
+      <lb ed="#P" n="108"/>bere: tunc verum est quod hic modus se habendi significatur per 
+      <lb ed="#P" n="109"/>d. et habet duas causas veritatis. sed quod hic modus se 
+      <lb ed="#P" n="110"/>habendi non significatur per .e. falsa est in hoc sensu: quod 
+      <lb ed="#P" n="111"/>intelligibile quod est hic mnodus se habendi non significatur per 
+      <lb ed="#P" n="112"/>e. sed vera est in hoc sensu quod formalis significatio ipsius 
+      <lb ed="#P" n="113"/>e. non est in significando quod he res taliter se habeant / nec 
+      <lb ed="#P" n="114"/>talis modus se habendi manens potest verificare talem 
+      significatio<lb ed="#P" n="115" break="no"/>nem vniformiter de aliqua propatione / et sic non infertur nisi 
+      <lb ed="#P" n="116"/>distinctio signorum vel non identitas huius obiecti 
+      in<lb ed="#P" n="117" break="no"/>telligibilis sic se habentis ad hoc obiectum non sic se habens 
+      <lb ed="#P" n="118"/>vt petri sedentis ad petrum non sedentem et vtrumque est actu 
+      <lb ed="#P" n="119"/>vel potentia entitas incomplexe significabilis.
+    </p>
+            <p xml:id="D78nca-de4659-d1e2033">
+      ¶ Ad quintum 
+      <lb ed="#P" n="120"/>negetur antecedens / loquendo secundum veritatem et proprietatem rei. 
+      <lb ed="#P" n="121"/>nomen enim figmenti cuius ratio est in se falsa vel oratio 
+      compo<lb ed="#P" n="122" break="no"/>sita ex determinabili et determinatione repugnante 
+      si<lb ed="#P" n="123" break="no"/>gnificat plura intelligibilia tali modo quod pro nullo suo significato 
+      <lb ed="#P" n="124"/>potest verificari esse de illo nomine / nec potest supponere pro 
+      <lb ed="#P" n="125"/>aliquo suo significato sufficienter ad verificandum esse de ipsto si 
+      <lb ed="#P" n="126"/>cut dicendo non intelligibile est intelligibile per subiectum 
+      <lb ed="#P" n="127"/>significantur omnia intelligibilia / sed taliter quod non potest stare pro 
+      <lb ed="#P" n="128"/>aliquo illorum verificando huiusmodi enunciationem nec ei 
+      correspon<lb ed="#P" n="129" break="no"/>det aliquod significatum pro quae possit verificare huiusmodi enunciationem. 
+      <lb ed="#P" n="130"/>Et cum dicitur quod nomen figmenti vt hircoceruus significat aliquid / 
+      <lb ed="#P" n="131"/>vel supponit pro aliquo in propatione vera / dicendo hircoceruus 
+      <lb ed="#P" n="132"/>est figmentum vel est impossibile. dico quod proprie loquendo non significat 
+      <!--32.xml-->
+      <pb ed="#P" n="11-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>aliquid nec aliquod obiectiue per se intelligibile in se 
+      <lb ed="#P" n="2"/>formaliter impossibile / nec pro aliquo talio biecto 
+      <lb ed="#P" n="3"/>intelligibili supponit / nisi in quadam similitudine 
+      <lb ed="#P" n="4"/>etranssumptione et in figura loquendi et modo intelligen 
+      <lb ed="#P" n="5"/>di: quia per huiusmodi terminum significantur plura quasi quoddam 
+      <lb ed="#P" n="6"/>intelligibile compositum ex incompossibilibus et quasi foret 
+      <lb ed="#P" n="7"/>quaeddam intelligibile idem isti et illi intelligibili: et quia nulli in 
+      <lb ed="#P" n="8"/>tellectioni vel significationi correspondet tale intelligibile 
+      <lb ed="#P" n="9"/>obiectiue et terminatiue. ideo dicitur nomen figmenti esse no 
+      <lb ed="#P" n="10"/>men obiectiui impossibilis. non quod sibi correspondeat tale intel 
+      <lb ed="#P" n="11"/>ligibile in se formaliter impossibile. Sed quia ei non 
+      correspon<lb ed="#P" n="12" break="no"/>det nec correspondere potest aliquod intelligibile de quo et pro 
+      <lb ed="#P" n="13"/>quo natum sit verificari esse aliquid / ita quod potius negatur quam 
+      <lb ed="#P" n="14"/>ponatur correspondentia et possibilitas obiecti intelligibilis: 
+      <lb ed="#P" n="15"/>et ideo enunciatio aliqua si sit vera de illo est vera / non 
+      <lb ed="#P" n="16"/>propter correspondentiam obiecti intelligibilis pro quo 
+      verifi<lb ed="#P" n="17" break="no"/>catur / sed propter negationem obiecti correspondentis / pro 
+      <lb ed="#P" n="18"/>quo natu sit verificari esse aliquid actu vel potentia. 
+      <lb ed="#P" n="19"/>deus actualiter videt obiectiue lineam
+    </p>
+            <p xml:id="D78nca-de4659-d1e2111">
+               <lb ed="#P" n="20"/>Contra: infinitam et ignem infinitum: quia duplo ma 
+      <lb ed="#P" n="21"/>iore .a. igni pedali et quadruplo maiorem. etc. sed huiusmo 
+      <lb ed="#P" n="22"/>intelligibile non est possibile vt supponitur nunc. igitur 
+      <lb ed="#P" n="23"/>intellectioni correspondet aliquod intelligibile obiectiue in 
+      <lb ed="#P" n="24"/>se formaliter impossibile distinctum vel non idem 
+      quibuscum<lb ed="#P" n="25" break="no"/>que intelligibilibus possibilibus diceretur quamuis deus intuf 
+      <lb ed="#P" n="26"/>tiue videat ignem duplo maiorem .a. igne et ignem 
+      quadru<lb ed="#P" n="27" break="no"/>plo maiorem et sic in infinitum: non tamen videt vnum ignem in 
+      <lb ed="#P" n="28"/>finitum vt vnum per se obiectiue et terminatiue intelligibi 
+      <lb ed="#P" n="29"/>le cum igni per se repugnet infinitas: sicut videndo nu 
+      <lb ed="#P" n="30"/>merum duplo maiorem binario et numerum quadruplo ma 
+      <lb ed="#P" n="31"/>iore / et sic sine statu / non tamen videt numerum infinitum ali 
+      <lb ed="#P" n="32"/>quem vnum: quia ratio numeri repugnat multitudini infini 
+      <lb ed="#P" n="33"/>te sicut de figura circulari vel triangulsari videt duplo 
+      <lb ed="#P" n="34"/>maiorem et sic sine statu / et tamen nullam vnam figuram huiusmodi 
+      <lb ed="#P" n="35"/>videt infinitam: quia infinito repugnant huiusmodi rationes. 
+      In<lb ed="#P" n="36" break="no"/>cludunt enim terminationem: sic etiam omni triangulo viso 
+      vi<lb ed="#P" n="37" break="no"/>det deus duplo minorem et tamen nullum triangulum mini 
+      <lb ed="#P" n="38"/>mum videt. vel aliter diceretur quod deum cognoscere 
+      obiecti<lb ed="#P" n="39" break="no"/>ue vnum ignem infinitum potest intelligi dupliciter. vnomodo per 
+      <lb ed="#P" n="40"/>modum vnius per se obiecti in prospectu positi et 
+      intui<lb ed="#P" n="41" break="no"/>tiue praesentis apprehensi mere incomplexe / vel per modum 
+      <lb ed="#P" n="42"/>affirmationis simplicis absque negatione quo modo habet in 
+      <lb ed="#P" n="43"/>prospectum vnum hominem / et sic negatur. Si ignem esse 
+      infi<lb ed="#P" n="44" break="no"/>nitum implicat contradictionem et repugnet existentie ignis 
+      <lb ed="#P" n="45"/>alioquin pari ratione deus haberet in suo prospectu tamquam 
+      <lb ed="#P" n="46"/>vnum per se obiectum intelligibile vnum hominem irrationa 
+      <lb ed="#P" n="47"/>lem et inailatum et vnum verum et perfectum deum 
+      insipien<lb ed="#P" n="48" break="no"/>tem et malum. Alio modo quod deus intelligat vnum infinitum 
+      <lb ed="#P" n="49"/>ignem per modum negatiois: puta intelligendo ignem non 
+      <lb ed="#P" n="50"/>finitum et tanquam aliquod obiectu sub determinatione sibi rae 
+      <lb ed="#P" n="51"/>pugnante / vel negatione conditionis sibi essentialis / sicut 
+      <lb ed="#P" n="52"/>intellectus noster dicens triangulum infinitum non 
+      pos<lb ed="#P" n="53" break="no"/>se esse diceretur intelligere triangulum infinitum: et sic deus 
+      <lb ed="#P" n="54"/>intelligit ignem infinitum circumscripto omini modo imper 
+      <lb ed="#P" n="55"/>fectionis reperibili in intentione mea: non quod deus 
+      iu<lb ed="#P" n="56" break="no"/>dicet aliquem ignem infinitum seu non finitum esse vel 
+      pos<lb ed="#P" n="57" break="no"/>se esse: sed sicut nos apprehendere possumus ignem 
+      <lb ed="#P" n="58"/>cum negatione infinitantis abique falsitate. vel aliter dice 
+      <lb ed="#P" n="59"/>retur quod deus habet in suo prospectu obiectiue ignem infinitum. 
+      <lb ed="#P" n="60"/>quia licet repugnet igni infinitas essendi in actu 
+      pear<lb ed="#P" n="61" break="no"/>mansiuo completo et terminato: non tamen ei repugnat 
+      <lb ed="#P" n="62"/>infinitas essendi in actu successiuo et permixto poten 
+      <lb ed="#P" n="63"/>tie / sicut deus in suo prospectu habet motum futurum 
+      <lb ed="#P" n="64"/>infinitum / possibilem. quia infinitas non repugnat motui 
+      <lb ed="#P" n="65"/>in tali mo essendi sic quod ignis potest in infinitum auger 
+      <lb ed="#P" n="66"/>ita quod ex priori et posteriori fiat per se vnum maius. ideo 
+      <!--32.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>infinitas possibilis in actu permixto potentie / non in  
+      <lb ed="#P" n="68"/>actu completo et terminato realiter extra deum 
+      co<lb ed="#P" n="69" break="no"/>gnoscitur actualiter complete simul ab intellectu 
+      di<lb ed="#P" n="70" break="no"/>nino. Sed ex hoc non sequitur quod nomin figinenti et ofoni 
+      <lb ed="#P" n="71"/>per se false composite ex intelligibilibus per se 
+      repu<lb ed="#P" n="72" break="no"/>gnantibus / vt homo irrationalis inanimatus / vel vt 
+      <lb ed="#P" n="73"/>deus verus insipiens correspondeat proprie aliquod vnum 
+      <lb ed="#P" n="74"/>obiectiue intelligibile terminatiuum intellectionis 
+      <lb ed="#P" n="75"/>Ex hoc autem non sequitur: quod deus habeat in suo 
+      pro<lb ed="#P" n="76" break="no"/>spectu aliquam vnam figuram infinitam circularem / vel 
+      <lb ed="#P" n="77"/>triangularem: licet habeat vnum ignem infinitum. probo: 
+      <lb ed="#P" n="78"/>quia ratio circuli / vel trianguli / vel numeri dicit per se 
+      <lb ed="#P" n="79"/>terminationem: nec est ratio abstrahens a terminatione 
+      <lb ed="#P" n="80"/>et negatione terminationis. quod enim intelligitur vt cir 
+      <lb ed="#P" n="81"/>culus vel quadratum intelligitur vt terminatum. ideo 
+      ac<lb ed="#P" n="82" break="no"/>tualis infinitas repugnat huismodi figure / non tantum 
+      <lb ed="#P" n="83"/>materialiter / sed et per se formaliter ex ratione talis figu 
+      <lb ed="#P" n="84"/>re. Ratio autem quanti: vel ignis abstrahit a terminati 
+      <lb ed="#P" n="85"/>one et negatione terminatiois: licet impossibile sit quod res 
+      <lb ed="#P" n="86"/>huiusmodi sit in actu simpliciter quin ipsa sit terminata. Secundo 
+      <lb ed="#P" n="87"/>quia ignis sic est in infinitum augmentabilis quod ex 
+      prio<lb ed="#P" n="88" break="no"/>ri et posterori addito fit per se compositio vnius ignis et 
+      <lb ed="#P" n="89"/>ignis per se et formaliter componitur ex ignibus. Sed  
+      <lb ed="#P" n="90"/>queuis minor circulus vel triangulus contineatur 
+      ma<lb ed="#P" n="91" break="no"/>terialiter infra maiorem: tamen minor figura circula 
+      <lb ed="#P" n="92"/>ris vel triangulus non est per se compositiua maioris 
+      <lb ed="#P" n="93"/>figure huiusmodi: quia triangulus vt triangulus non per se 
+      con<lb ed="#P" n="94" break="no"/>ponitur ex triangulis vt trianguli sunt. Si quis vero 
+      <lb ed="#P" n="95"/>vellet concedere quod nominibus figmentorum et cuilibet 
+      ofo<lb ed="#P" n="96" break="no"/>ni in se false: et consequeter cuilibet propositioni impossibili 
+      <lb ed="#P" n="97"/>correspondet aliquod obiectiue intelligibile praeter 
+      quacun<lb ed="#P" n="98" break="no"/>que obiecta intelligibilia possibilia: non tamen videtur dicen 
+      <lb ed="#P" n="99"/>dum quod ofoni vere et complexo vero vel possibili 
+      correspon<lb ed="#P" n="100" break="no"/>deat obiectiue proprie aliquod intelligibile praeter omnes enti 
+      <lb ed="#P" n="101"/>tates incomplexe significabiles actu vel potentia existentes. 
+      <lb ed="#P" n="102"/>prima <!-- line unclear -->
+    </p>
+            <!-- 3rd article -->
+            <p xml:id="D78nca-de4659-d1e2303">
+               <lb ed="#P" n="103"/>Quo ad tertium artitulum 
+      propos<lb ed="#P" n="104" break="no"/>tio. Per complexum verum de praeterito non significatur 
+      <lb ed="#P" n="105"/>complexe aliquod obiecum intelligibile distinctum ab 
+      <lb ed="#P" n="106"/>omnibus entitatibus incomplexe significabilibus praesenti 
+      <lb ed="#P" n="107"/>bus praeteritis et futuris vel possibilibus. probatur: sit .b. 
+      <lb ed="#P" n="108"/>illud intelligibile quod significatur complexe per istan 
+      <lb ed="#P" n="109"/>adam fuit / aut .b. puta adam fuisse includit forma 
+      <lb ed="#P" n="110"/>liter intelligibile quod est adam / aut non. Si secundum 
+      <lb ed="#P" n="111"/>Contra. quia complexe significabile includit aliquod 
+      <lb ed="#P" n="112"/>telligibile incomplexe significabile: quia totale signi 
+      <lb ed="#P" n="113"/>ficatu propositionis non est totaliter distinctum et 
+      dis<lb ed="#P" n="114" break="no"/>paratum ab omni significato per extrema. Si primum / 
+      <lb ed="#P" n="115"/>aut igitur extra adam et praeter. d. tempus praeteritum in 
+      <lb ed="#P" n="116"/>quo adam erat includitur aliquod alterum intelligibi 
+      <lb ed="#P" n="117"/>le / aut non. Si secundum propositum / quia tam adam quam. d. 
+      tem<lb ed="#P" n="118" break="no"/>pus sunt intelligibilia incomplexe significabilia. 
+      <lb ed="#P" n="119"/>Tempus enim non erit nisi quedam res sic se 
+      haben<lb ed="#P" n="120" break="no"/>tes. res autem sic se habentes sunt ipse res. Si pri 
+      <lb ed="#P" n="121"/>mum sit illud additum .c. Contra: quia .c. non erit 
+      <lb ed="#P" n="122"/>intelligibile significabile complexe: quia 
+      composi<lb ed="#P" n="123" break="no"/>tum ex significabilibus incomplexe / nec erit intelli 
+      <lb ed="#P" n="124"/>gibile simplex significabile incomplexe vt probatur 
+      <lb ed="#P" n="125"/>supra. et cetera. Secundo: quia vel esset 
+      intelligibi<lb ed="#P" n="126" break="no"/>le positiuum vel priuatiuum additum vltra adam. 
+      <lb ed="#P" n="127"/>et tempus ex quo potest argui ad principale: quia 
+      <lb ed="#P" n="128"/>vel .b. est intelligibile positiuum in actu vel 
+      positi<lb ed="#P" n="129" break="no"/>uum tantum possibile / vel nec actu / nec potentia 
+      <lb ed="#P" n="130"/>esset intelligibile positiuum. Si primum. Contra: tum  
+      <lb ed="#P" n="131"/>quia extra deum esset actuale positiuum quod 
+      de<lb ed="#P" n="132" break="no"/>as non posset tollere: quod videtur contra dei omnipo¬ 
+      <!--33.xml-->
+      <pb ed="#P" n="11-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tentiam nec etiam illud esset dependens a deo: tum quia illud 
+      <lb ed="#P" n="2"/>positiuum non esset necessarium ratione intelligibilis quod est 
+      <lb ed="#P" n="3"/>adam / quia adam est intelligibile contingens quod potest poni et no 
+      <lb ed="#P" n="4"/>poni. igitur est necessarium ratione adiuncti vltra adam quod est 
+      <lb ed="#P" n="5"/>falsum: quia nullum potest dari intelligibile additum vltra 
+      <lb ed="#P" n="6"/>adam quod non includat adam quod sit in se formaliter 
+      neces<lb ed="#P" n="7" break="no"/>sarium. Si secundum contra: tum quia ponatur in actu posit 
+      <lb ed="#P" n="8"/>uo et nunc incipiet adam fuisse vel non erit nisi positio 
+      <lb ed="#P" n="9"/>ade qua iam fuit et haberetur propositum: quia adam fuisse non 
+      <lb ed="#P" n="10"/>erit: nisi adam qui praefuit. tum quia non aliter poneretur nunc 
+      <lb ed="#P" n="11"/>adam fuisse quam ab eterno: quia ab eterno ponebatur in po 
+      <lb ed="#P" n="12"/>tentia pro futuro. Si tertium. igitur vel est figmentum vel est in 
+      <lb ed="#P" n="13"/>telligibile pure privatiuum vel compositum ex positiuo 
+      <lb ed="#P" n="14"/>et priuatiuo: si primum propositum. si secundum vel tertium 
+      <lb ed="#P" n="15"/>Contra primo: quia adam fuisse ratione priuationis erit 
+      <lb ed="#P" n="16"/>formaliter remotio alicuius praexistentis quod est falsum: 
+      <lb ed="#P" n="17"/>quia circunscripto omni alio pter deum et adam nouiter 
+      <lb ed="#P" n="18"/>creatum / statim postea verum erit adam fuisse 
+      circun<lb ed="#P" n="19" break="no"/>scripto tempore. Secundo: quia illud positiuum cuius est priua 
+      <lb ed="#P" n="20"/>tio poterit poni a deo. igitur hoc intelligibile 
+      priua<lb ed="#P" n="21" break="no"/>tiuum poterit tolli. igitur non est necessarium adam fuisse 
+      <lb ed="#P" n="22"/>Tertio: quia cuius positiui illa priuatio esset formali 
+      <lb ed="#P" n="23"/>ter: non huius quod est adam esse: quia adam fuisse et adam 
+      <lb ed="#P" n="24"/>esse simul sunt / nec illud positiuum est. d. tempus pre 
+      <lb ed="#P" n="25"/>teritum in quo adam erat / quia adam fuisse non erit 
+      <lb ed="#P" n="26"/>nisi aggregatum ex adam et negatione ipsius .d. 
+      ten<lb ed="#P" n="27" break="no"/>poris quod est falsum. tum: quia si per impossibile re 
+      <lb ed="#P" n="28"/>diret tempus praeteritum / adhuc verum esset adam 
+      fu<lb ed="#P" n="29" break="no"/>isse. tum quia illud aggregatum magis directe 
+      impor<lb ed="#P" n="30" break="no"/>tatur per hoc quod dico adam non est in. d. tempore quod 
+      <lb ed="#P" n="31"/>est verum ab eterno / et ita idem esset adam fuisse et adam 
+      <lb ed="#P" n="32"/>non esse in. d. tempore. tum quia adam fore in. d. tem 
+      <lb ed="#P" n="33"/>pore foret idem intelligibile quod adam fuisse in. di 
+      <lb ed="#P" n="34"/>tempore: quia pari ratione erit intelligibile aggregati 
+      <lb ed="#P" n="35"/>ex adam et negatione.d. temporis.
+    </p>
+            <p xml:id="D78nca-de4659-d1e2453">
+      ¶ Secunda propositio 
+      <lb ed="#P" n="36"/>Adam fuisse est adam praeteritus leu adam qui fuit. 
+      <lb ed="#P" n="37"/>probatur: quia sicut adam esse praesentialiter est adam esse 
+      <lb ed="#P" n="38"/>praesentem. sic adam fuisse est adam esse praeritum / et adam fore / est adam 
+      <lb ed="#P" n="39"/>esse futurum. sed adam esse est adam praesens et qui est praesentialiter / quia in 
+      <lb ed="#P" n="40"/>superioribus probatum est quod deum esse est deus. igitur. 
+    </p>
+            <p xml:id="D78nca-de4659-d1e2466">
+               <lb ed="#P" n="41"/>¶ Item sicut se habet adam praesens ad adam praeteri 
+      <lb ed="#P" n="42"/>tum seu ad adam qui fuit et ad adam futurum seu 
+      <lb ed="#P" n="43"/>qui erit: sic se habet adam esse ad adam fuisse vel ad 
+      <lb ed="#P" n="44"/>adam fore. sed idem intelligibile est adam qui nunc est 
+      prae<lb ed="#P" n="45" break="no"/>sentialiter et adam qui fuit et adam qui erit. igitur. Pre 
+      <lb ed="#P" n="46"/>terea. aut adam fuisse est adam praeteritus seu adam qu 
+      <lb ed="#P" n="47"/>fuit / aut est. d. tempus praeteritum in quo adam erat / aut 
+      <lb ed="#P" n="48"/>aggregatum ex adam et d. tempore praeterito / aut est quod 
+      <lb ed="#P" n="49"/>dam intelligibile significabile complexe distinctum 
+      <lb ed="#P" n="50"/>ab istis. si primum proposituum: si quartum. Contra: per 
+      <lb ed="#P" n="51"/>probationes prime propositionis. si secundum. Contra: quia 
+      <lb ed="#P" n="52"/>adam fuisse non magis includeret adam quam petrum 
+      <lb ed="#P" n="53"/>fuisse: et idem esset .a. fuisse et .b. fuisse et sic de omni 
+      <lb ed="#P" n="54"/>bus que simul fuerunt. si tertium. Contra: primo quia 
+      <lb ed="#P" n="55"/>magis dicendum esset quod adam fuisse est impossibile quam 
+      <lb ed="#P" n="56"/>quod sit necessarium quia huiusmodi aggregatum est na 
+      <lb ed="#P" n="57"/>turaliter impossibile: quia altera pars nec est nunc actu / 
+      <lb ed="#P" n="58"/>nec potentia saltem naturaliter. Secundo: quia si nullum tem 
+      <lb ed="#P" n="59"/>ius esset posset deus creare. b. et immediate postea 1 
+      <lb ed="#P" n="60"/>haberet fuisse. Tertio: quia .a. esse non est aggregatum ex 
+      <lb ed="#P" n="61"/>a. et tempore praesenti. igitur .a. fuisse non erit aggre 
+      <lb ed="#P" n="62"/>gatum ex .a. et tempore praeterito. antecedens patet: tum quia a. 
+      <lb ed="#P" n="63"/>esse manet idem numero tempore fluente immo 
+      tempo<lb ed="#P" n="64" break="no"/>re non existente. Tum quia deum esse est necessarium et eter 
+      <lb ed="#P" n="65"/>num / non autem aggregatum ex deo et tempore. Quarto 
+      <lb ed="#P" n="66"/>quia si .a. fuisse in d. tempore est aggregatum ex .a. et d. ten 
+      <!--33.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>pore. igitur pari ratione .a. fore in. d. erat aliquando 
+      ag<lb ed="#P" n="68" break="no"/>gregatum ex .a. et. d. et .a. esse in. d. fuit aggregatum ex .a 
+      <lb ed="#P" n="69"/>et d. igitur idem omnino obiectum in telligibile et succen 
+      <lb ed="#P" n="70"/>siue .a. fore. et .a. esse et .a. fuisse. hoc autem consequens videtur 
+      <lb ed="#P" n="71"/>contra alios et contra media eorum: quia .a. fuisse nunquam est 
+      <lb ed="#P" n="72"/>verum quin sit verum necessarium .a autem esse vel fore 
+      <lb ed="#P" n="73"/>nunquam est verum quin sit contingens. et quia vt arguunt adam 
+      <lb ed="#P" n="74"/>non esse opponitur huic quod dico adam esse non 
+      <lb ed="#P" n="75"/>autem opponitur huic quod est adam fuisse vel fore vt ponunt 
+      <lb ed="#P" n="76"/>Illud etiam consequens videtur inferre propositum: quia si idem 
+      in<lb ed="#P" n="77" break="no"/>intelligibile est primo .a. fore / postea .a. esse / postea a. 
+      <lb ed="#P" n="78"/>fuisse. conuenientius non potest poni quid sit illud intelligi 
+      <lb ed="#P" n="79"/>bile quam ipsum prius futurum / postea praesens / postea 
+      praeteri<lb ed="#P" n="80" break="no"/>tum: quia nichil videtur primo esse potentia et esse futu 
+      <lb ed="#P" n="81"/>rum / postea esse praesens positiuum in actu / postea esse 
+      prae<lb ed="#P" n="82" break="no"/>teritum nisi. a. Dicendum est igitur. quod si adam 
+      corru<lb ed="#P" n="83" break="no"/>pto et praeterito / et modo non existente verum sit quod adam est 
+      <lb ed="#P" n="84"/>adam / sic dicendum quod adam fuisse est semper et erit semper adam. 
+      <lb ed="#P" n="85"/>Si vero non sit verum quod adam sit adam simpliciter / sed cum 
+      <lb ed="#P" n="86"/>determinatione aliqua diminuente de hoc quod est esse 
+      <lb ed="#P" n="87"/>adam simpliciter / tunc dicendum est quod adam fuisse est adam 
+      prae<lb ed="#P" n="88" break="no"/>teritus seu adam qui fuit.
+    </p>
+            <p xml:id="D78nca-de4659-d1e2577">
+               <lb ed="#P" n="89"/>Contra Intelligibile necessarium et 
+      immutabi<lb ed="#P" n="90" break="no"/>ie distinguitur ab intelligibili contingen 
+      <lb ed="#P" n="91"/>ti et mutabili: sed adam est intelligibile / contingens / et 
+      <lb ed="#P" n="92"/>mutabile / et possibile poni et tolli / sed adam fuisse est 
+      <lb ed="#P" n="93"/>intelligibile quoddam necessarium / quia necessarium est adam 
+      <lb ed="#P" n="94"/>fuisse / et impossibile est adam non fuisse. Ominis autem 
+      en<lb ed="#P" n="95" break="no"/>titas incomplexe significabilis alia a deo est contigens 
+      <lb ed="#P" n="96"/>non necessaria.
+    </p>
+            <p xml:id="D78nca-de4659-d1e2597">
+      ¶ Confirmatur: intelligibile quod transit 
+      <lb ed="#P" n="97"/>de possibili ad impossibile et de non necessario ad 
+      <lb ed="#P" n="98"/>necessarium distinguitur ab omni intelligibili quod 
+      <lb ed="#P" n="99"/>non sic transit / sed adam fuisse est nunc necessarium: alias 
+      <lb ed="#P" n="100"/>autem non erat necessarium. adam autem non fuisse nunc est 
+      <lb ed="#P" n="101"/>impossibile et aliquando erat possibile. Nulla autem 
+      <lb ed="#P" n="102"/>entitas incomplexe significabilis actualis vel potentialis sic 
+      <lb ed="#P" n="103"/>transit / sed semper habet potentiam ad poni et deponi. igitur 
+      <lb ed="#P" n="104"/>cum dicitur in minori: quod adam fu 
+    </p>
+            <p xml:id="D78nca-de4659-d1e2617">
+               <lb ed="#P" n="105"/>Ad primum isse est intelligibile: conceditur 
+      <lb ed="#P" n="106"/>et cum dicitur quod est necessarium: quia necessarium est adam 
+      <lb ed="#P" n="107"/>fuisse: idem argumentum potest reduci contra illos. Quero 
+      <lb ed="#P" n="108"/>enim an adam praeteritus sit intelligibile necessarium vel 
+      in<lb ed="#P" n="109" break="no"/>telligibile non necessarium. Si secundum. igitur tu arguis possi 
+      <lb ed="#P" n="110"/>bile est adam non esse adam praeteritum. S primum contra: quia 
+      <lb ed="#P" n="111"/>adam praeteritus est adam qui fuit: sed adam qui fuit est adam 
+      <lb ed="#P" n="112"/>et est iste homo. igitur iste homo esset intelligibile necessarium. 
+      <lb ed="#P" n="113"/>Dicendum igitur quod hec propositio adam fuisse est necessarium: habet 
+      <lb ed="#P" n="114"/>duplicem sensum. vnus est: aliquod intelligibile quod est adam 
+      <lb ed="#P" n="115"/>fuisse est in se formaliter necessarium: et sic negatur. 
+      Ali<lb ed="#P" n="116" break="no"/>sensus est. adam est quoddam intelligibile quod non potest non 
+      <lb ed="#P" n="117"/>fuisse / vel quod modo necessarium est fuisse / et de quo si enunca 
+      <lb ed="#P" n="118"/>etur fuisse non potest esse enunciatio falsa / et sic conceditur: 
+      <lb ed="#P" n="119"/>nec est contra propositum: quia per hoc non denotatur proprie et vereo 
+      <lb ed="#P" n="120"/>necessitas secundum quam aliquod intelligibile obiectum sit in se 
+      <lb ed="#P" n="121"/>formaliter necessarium: sed potius denotatur possibilitas 
+      cuius<lb ed="#P" n="122" break="no"/>cumque intelligibilis quod foret hic adam non praeteritus vel hic 
+      <lb ed="#P" n="123"/>adam qui non fuit. aut si denotetur necessitas aliqua: non est 
+      <lb ed="#P" n="124"/>necessitas vere et proprie: sed necessitas secundum quid et impropie 
+      <lb ed="#P" n="125"/>et secundum similitudinem nec est necessaritas extremi sed copule sed 
+      <lb ed="#P" n="126"/>quam adam necessarium est fuisse / sicut cum dicimus quod chimeram 
+      <lb ed="#P" n="127"/>necesse est non esse: sicut et dicimus quod deus est nouiter cre 
+      <lb ed="#P" n="128"/>ans. hic non est nouitas proprie et simpliciter secundum quam deus 
+      <lb ed="#P" n="129"/>causans sit nouum aliquid. sed e nouitas in similitudine: quia deus 
+      <lb ed="#P" n="130"/>est nouiter creans: licet nullum nouum sit formaliter in deo. pri 
+      <lb ed="#P" n="131"/>mus duorum sensuum supradictorum videtur esse 
+      <lb ed="#P" n="132"/>sensus diuisionis qui falsus est. Secundus autem videtur sen¬ 
+      <!--34.xml-->
+      <pb ed="#P" n="12-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sus compositionis quo modo diceretur econtra quod diuina ad 
+      <lb ed="#P" n="2"/>ceptatio et velle diuinum est contingens.
+    </p>
+            <p xml:id="D78nca-de4659-d1e2692">
+      ¶ Ad confirmatio 
+      <lb ed="#P" n="3"/>nem per idem / negatur enim quod proprie loquedo adam fuisse 
+      <lb ed="#P" n="4"/>sit aliquod intelligibile transiens de non necessario 
+      in<lb ed="#P" n="5" break="no"/>telligibili in necessarium intelligibile quia hoc est equae 
+      impos<lb ed="#P" n="6" break="no"/>sibile sicut quod adam transeat de non ente necessario in 
+      <lb ed="#P" n="7"/>ens necessarium / sed intelligibile quod est adam transiens de 
+      <lb ed="#P" n="8"/>non necessario fuisse in necessario fuisse quae non est necessi 
+      <lb ed="#P" n="9"/>tas cuiuscumque obiecti intelligibilig in se formaliter / nisi 
+      <lb ed="#P" n="10"/>in similitudine. et potest dici necessitas ade aliquid fuisse. et 
+      <lb ed="#P" n="11"/>cum dicitur quod adam non fuisse transit de possibili ad impos 
+      <lb ed="#P" n="12"/>sibile / non est intelligendum quod aliquod obiectum 
+      intelligi<lb ed="#P" n="13" break="no"/>bile prius foret in se formaliter possibile et postea fiat 
+      <lb ed="#P" n="14"/>possibile: quia hoc repugnat nature rei et derogat di 
+      <lb ed="#P" n="15"/>vine potentie non denotatur igitur impossibilitas 
+      ali<lb ed="#P" n="16" break="no"/>cuius obiecti intelligibilis in se formaliter impossibilis / sed 
+      <lb ed="#P" n="17"/>est impossibilitas improprie et quasi logica secundum quam 
+      <lb ed="#P" n="18"/>adam impossibile est adam non fuisse et est impossibilitas 
+      <lb ed="#P" n="19"/>quasi copule et determinatio cuiusdam negationis: vel 
+      <lb ed="#P" n="20"/>ad praedicta potest sic distingui: necessarium potest sumi 
+      logi<lb ed="#P" n="21" break="no"/>ce vel methaphysice. primo modo est modus 
+      affirma<lb ed="#P" n="22" break="no"/>tionis vel negationis / et sic est verum quod petrum 
+      neces<lb ed="#P" n="23" break="no"/>sarium est fuisse et enunciatio correspondens est necessario 
+      <lb ed="#P" n="24"/>vera. secundo modo potest adhuc sumi necessarium dupliciter: vel 
+      <lb ed="#P" n="25"/>proprie et simpliciter pro vera et reali necessitate essendi 
+      <lb ed="#P" n="26"/>simpliciter vel essendi aliquale realiter positiue / et sic falsum est quod a 
+      <lb ed="#P" n="27"/>fuisse sit necessarium: vel large et improprie et secundum quid 
+      <lb ed="#P" n="28"/>puta pro necessitate secundum quam necessarium est aliquod intelligibi 
+      <lb ed="#P" n="29"/>le fuisse vel posse esse vel posse non esse: vt cum dicimus quod 
+      <lb ed="#P" n="30"/>chimeram necesse est non esse / et sic conceditur quod .a. fuisse 
+      <lb ed="#P" n="31"/>est necessarium que non est necessitas secundum rem et 
+      pro<lb ed="#P" n="32" break="no"/>prietatem: sed secundum similitudinem et methaphorice 
+      <lb ed="#P" n="33"/>in proportione quadam ad veras necessitates essendi. 
+      <lb ed="#P" n="34"/>Ex his patet quid sit dicendum ad quaestionem 
+    </p>
+            <!-- article 4 -->
+            <p xml:id="D78nca-de4659-d1e2766">
+               <lb ed="#P" n="35"/>Quantum ad quartum articulum Prima propositio: 
+      <lb ed="#P" n="36"/>Antichristum fore non est aliquod 
+      in<lb ed="#P" n="37" break="no"/>telligibile: terminans obiectiue apprehensionem 
+      distin<lb ed="#P" n="38" break="no"/>ctum ab omni entitate incomplexe significabili praesenti et 
+      futu<lb ed="#P" n="39" break="no"/>ra. probatur: sit illud .b. aut .b. est intelligibile solum 
+      <lb ed="#P" n="40"/>potentiale et futurum seu in futuro ponendum: aut est in 
+      <lb ed="#P" n="41"/>telligibile iam praesens et praesentialiter positum: aut nec pre 
+      <lb ed="#P" n="42"/>sens nec futurum. si primum: igitur non est nisi antichristus fu 
+      <lb ed="#P" n="43"/>turus quia nihil ponitur futurum nisi antichristus / et fru 
+      <lb ed="#P" n="44"/>tra ponuntur huiusmodi intelligibilia futura: quia 
+      <lb ed="#P" n="45"/>potest saluari veritas ponendo alterum tantum. si tertium. 
+      <lb ed="#P" n="46"/>igitur .b. intelligibile non aliter ponitur quam. g8. fore sit 
+      <lb ed="#P" n="47"/>g. aliquod possibile quod nunquam erit. si secundum. contra: 
+      <lb ed="#P" n="48"/>quia .b. intelligibile erat heri actualiter et praesentialiter 
+      po<lb ed="#P" n="49" break="no"/>situm. igitur nunc est necessarium .b. intelligibile 
+      fuise<lb ed="#P" n="50" break="no"/>se: igitur necessarium est antichristum fore. Dices. ita pos 
+      <lb ed="#P" n="51"/>set argui de veritate praesenti huius propositionis / an 
+      <lb ed="#P" n="52"/>tichristus erit. Respondeo quod non: quia positio et praesentia 
+      <lb ed="#P" n="53"/>actualis huius veritatis non est positio vel presentia 
+      <lb ed="#P" n="54"/>alicuius intelligibilis nisi huius rei que est hec propo 
+      <lb ed="#P" n="55"/>sitio. ideo cum dicitur possibile est hanc propositionem 
+      <lb ed="#P" n="56"/>non fuisse veram / non denotatur aliquod intelligibile quod 
+      <lb ed="#P" n="57"/>fuerit non fuisse nisi in quadam similitudine et figura loquendi 
+      <lb ed="#P" n="58"/>sed in proposito .b. intelligibile esset nunc praesentialiter po 
+      <lb ed="#P" n="59"/>situm propria et formali positione et praesentia intrinseca 
+      <lb ed="#P" n="60"/>distincta a propria et formali positione et praesentia cuiuscum 
+      <lb ed="#P" n="61"/>que entitatis vel alterius intelligibilis. ideo si postea 
+      <lb ed="#P" n="62"/>possibile sit .b. non fuisse: sequitur quod intelligibile quod non 
+      <lb ed="#P" n="63"/>eanium in figura loquendi. sed quod fuit vere positum et praesens 
+      pro<lb ed="#P" n="64" break="no"/>pria et formali intrinseca positione et potentia posset 
+      <lb ed="#P" n="65"/>nunquam fuisse. Item cum possibile sit antichristum non 
+      fo<lb ed="#P" n="66" break="no"/>re. igitur possibile est .b. intelligibile nunc positum non 
+      <!--34.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>poni sine positione antichristi. deponatur igitur .b. tunc vel 
+      <lb ed="#P" n="68"/>deponitur sine transitu et successione contradictorio 
+      <lb ed="#P" n="69"/>rum / vel cum transitu et successione. si secundum: igitur muta 
+      <lb ed="#P" n="70"/>tio / et sequitur quod .b. erat actuale positiuum. si primum. 
+      igi<lb ed="#P" n="71" break="no"/>tur. b. nihil erat nisi antichristus futurus: quia nullum 
+      in<lb ed="#P" n="72" break="no"/>telligibile quod foret vel fuisset praesens deponitur. sed 
+      <lb ed="#P" n="73"/>tantum ponitur antichristum non fore qui prius ponebatur 
+      <lb ed="#P" n="74"/>futurus. Item vel .b. est intelligibile positiuum vel prin 
+      <lb ed="#P" n="75"/>uatiuum. si primum cum non sit pure potentiale: quia 
+      <lb ed="#P" n="76"/>vel est impossibile poni / vel nunc iam ponitur: sequitur 
+      <lb ed="#P" n="77"/>quod erit positiuum actuale quod est falsum. si secundum: 
+      que<lb ed="#P" n="78" break="no"/>ro cuius positiui est per se et formaliter priuatio non ip 
+      <lb ed="#P" n="79"/>sius antichristi / nec huius quod est antichristum esse / quia simul 
+      <lb ed="#P" n="80"/>stant .a. esse et .a. fore nec est priuatio temporis .d. in  
+      <lb ed="#P" n="81"/>quo. d. anticristus erit: quia in illo tempore simul stat 
+      <lb ed="#P" n="82"/>antichristum esse et antichristum fore: et quia talis priuatio 
+      po<lb ed="#P" n="83" break="no"/>netur quando. d. tempus transierit: quia nullo tempore 
+      exi<lb ed="#P" n="84" break="no"/>stente possibile est .a. fore et esse: et quia antichristum fore non 
+      <lb ed="#P" n="85"/>erit nisi aggregatum ex negatione antichristi et 
+      negati<lb ed="#P" n="86" break="no"/>one temporis. d. sed hoc non est antichristum fore nec 
+      <lb ed="#P" n="87"/>infert antichristum fore.
+    </p>
+            <p xml:id="D78nca-de4659-d1e2888">
+      ¶ Preterea. ad idem potest 
+      ar<lb ed="#P" n="88" break="no"/>gui per rationes in precedenti articulo.
+    </p>
+            <p xml:id="D78nca-de4659-d1e2893">
+      ¶ Secunda 
+      <lb ed="#P" n="89"/>propositio. Illud intelligibile quod est antichristum fore est 
+      <lb ed="#P" n="90"/>ipse antichrpistus futurus proportionabiliter sicut dictum est 
+      <lb ed="#P" n="91"/>et probatum de illis de prterito. Preterea. si. a. primo 
+      fo<lb ed="#P" n="92" break="no"/>re et .a. postea esse et .a. postea fuisse non sunt ipsum .a. 
+      <lb ed="#P" n="93"/>prius futurum / postea praesens / postea praeteritum. sequi 
+      <lb ed="#P" n="94"/>tur quod ista sunt obiecta intelligibilia distincta. consequens 
+      <lb ed="#P" n="95"/>est contra magistrum. libro primo sententiarum. di. 
+      <lb ed="#P" n="96"/>42 capitulo vltimo. vbi declarat quod quamuis deus 
+      prae<lb ed="#P" n="97" break="no"/>sciret hunc hominem nasciturum: et modo non scit 
+      <lb ed="#P" n="98"/>eum nasciturum et prius non sciret hunc esse natum: et 
+      <lb ed="#P" n="99"/>modo scit hunc esse natum. non ex hoc sequitur quod mo 
+      <lb ed="#P" n="100"/>do non sciat aliquid quod prius sciuit / nec dicta argu 
+      <lb ed="#P" n="101"/>mentatio valet: immo deus semper scit omnia que ali 
+      <lb ed="#P" n="102"/>quando sciuit. quia hoc non est scire diuersa / immo om 
+      <lb ed="#P" n="103"/>nino idem. nam quod futurum erat tunc nunc praeteritum 
+      <lb ed="#P" n="104"/>est sicut nos in diuersis temporibus loquentes 
+      desi<lb ed="#P" n="105" break="no"/>gnamus eadem dicere variis modis loquendi: dum 
+      <lb ed="#P" n="106"/>enim adhuc futura est designamus eam per hoc 
+      aduer<lb ed="#P" n="107" break="no"/>bium cras. dum vero praesens designamus eam per mo 
+      <lb ed="#P" n="108"/>do et hodie. et dum praeterita est designamus per heri. sic 
+      <lb ed="#P" n="109"/>etiam antiqui patres crediderunt christum nasciturum: nos 
+      <lb ed="#P" n="110"/>autem credimus eum iam natum: nec tamen diuersa 
+      <lb ed="#P" n="111"/>credimus nos et ipsi. Sed dicit alibi quod hec 
+      argumenta<lb ed="#P" n="112" break="no"/>tio non valet: deus potuit incarnari et mori et resurgere 
+      <lb ed="#P" n="113"/>et modo non potest. igitur potuit quo modo non potest 
+    </p>
+            <p xml:id="D78nca-de4659-d1e2950">
+               <lb ed="#P" n="114"/>¶ Respondet magister: quod sicut deus semper omnia scit 
+      <lb ed="#P" n="115"/>que aliquando sciuit et semper vult que aliquando 
+      vo<lb ed="#P" n="116" break="no"/>luit. ita omnia semper potest que aliquando potuit: 
+      si<lb ed="#P" n="117" break="no"/>cut enim olim potuit incarnari ita potest modo incarnatus  
+      <lb ed="#P" n="118"/>esse in quo eiusdem rei potentia monstratur. et sicut 
+      <lb ed="#P" n="119"/>plim voluit resurgere / ita et modo resurrexisse in quo 
+      <lb ed="#P" n="120"/>vnius rei voluntas exprimitur / sicut dicimus iste potest 
+      <lb ed="#P" n="121"/>hodie legere et cras dicemus iste potest legisse vel po 
+      <lb ed="#P" n="122"/>tuit heri legere: vbi vnius rei monstratur potentia: hec 
+      <lb ed="#P" n="123"/>magister. Si vero illa essent obiecta intelligibilia di 
+      <lb ed="#P" n="124"/>stincta videtur quod ratio aduersariorum staret par 
+      <lb ed="#P" n="125"/>quam probant quod deus aliquod obiectum intelligibile 
+      <lb ed="#P" n="126"/>et scibile aliquado sciuit quod modo non scit et quod aliquod 
+      <lb ed="#P" n="127"/>obiectiue possibile aliquando potuit quod modo non 
+      <lb ed="#P" n="128"/>potest et quod aliquod obiectum esset aliquando formaliter posi 
+      <lb ed="#P" n="129"/>sibile / aliquando impossibile / aliquando contingens aliquando necessarium. 
+      <lb ed="#P" n="130"/>predicta arguitur sic. antichristu fore est 
+      <lb ed="#P" n="131"/>Contra intelligibile / contingens / et 
+      immutabi<lb ed="#P" n="132" break="no"/>le: sed nulla entitas incomplexe significabilis est con. 
+      <!--35.xml-->
+      <pb ed="#P" n="12-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tingens et immutabilis. igitur. Maior patet: quia cir 
+      <lb ed="#P" n="2"/>ca propositionem de futuro ante aduentum rei falsitas 
+      <lb ed="#P" n="3"/>non potest succedere veritati nec econtra nec est pos 
+      <lb ed="#P" n="4"/>sibile quod nunc incipiat .a. fore: licet sit contingens. 
+      <lb ed="#P" n="5"/>Minor patet. si enim sit immutabilis est necessaria 
+      <lb ed="#P" n="6"/>vt deus: et si sit contingens est mutabilis vt icreatu 
+      <lb ed="#P" n="7"/>ra.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3016">
+      ¶ Confirmatur nulla entitas creata vel 
+      crea<lb ed="#P" n="8" break="no"/>bilis distinguitur ab aliqua entitate creata vel cre 
+      <lb ed="#P" n="9"/>abili sicut contingens a necessario: sed .a. fore et .a. 
+      <lb ed="#P" n="10"/>fuisse distinguuntur vt intelligibile necessarium et inte 
+      <lb ed="#P" n="11"/>ligibile contingens. igitur. Preterea. sequitur quod .a. esse et 
+      <lb ed="#P" n="12"/>a. fore et .a. fuisse essent omnino idem intelligibile. con 
+      <lb ed="#P" n="13"/>sequentia patet: quia quodlibet esset idem ipsi .a. 
+      conse<lb ed="#P" n="14" break="no"/>quens est falsum. primo quia non est idem christum fuisem 
+      <lb ed="#P" n="15"/>se incarnatum et passum / et christum fore incarnandum 
+      <lb ed="#P" n="16"/>et passurum: quia falsum est ipsum esse incarnandum 
+      <lb ed="#P" n="17"/>vel passurum. Secundo quia petrum fore fuit eternum a par 
+      <lb ed="#P" n="18"/>te ante et non a parte post et petrum fuisse erit eter 
+      <lb ed="#P" n="19"/>num a parte post / non a parte ante et petrum esse non 
+      <lb ed="#P" n="20"/>est eternum. Si tamen illa essent idem petrum 
+      fu<lb ed="#P" n="21" break="no"/>isset et foret eternaliter / quia sibi non competeret esse 
+      <lb ed="#P" n="22"/>quin competeret fuisse et fore. etc. 
+      <lb ed="#P" n="23"/>conceditur / quod antichristum fore 
+    </p>
+            <p xml:id="D78nca-de4659-d1e3053">
+               <lb ed="#P" n="24"/>Ad primumi est contingens et illud 
+      intel<lb ed="#P" n="25" break="no"/>igibile quod est antichristum fore / non est in se forma 
+      <lb ed="#P" n="26"/>liter necessarium nec impossibile / et quia 
+      contingen<lb ed="#P" n="27" break="no"/>ter erit et contingenter est futurus vt sit 
+      contingen<lb ed="#P" n="28" break="no"/>tia extremi et obiecti / et contingentia copule. Sed  
+      <lb ed="#P" n="29"/>cum dicitur quod .a. fore est immutabile: distinguendum 
+      <lb ed="#P" n="30"/>est sicut supra dictum est de ista .a. fuisse est 
+      necessari<lb ed="#P" n="31" break="no"/>um: sic etiam hec foret distinguenda: diuinum velle 
+      <lb ed="#P" n="32"/>vel diuina acceptatio vel ordinatio est mutabilis. 
+    </p>
+            <p xml:id="D78nca-de4659-d1e3075">
+               <lb ed="#P" n="33"/>¶ Ad confirmationem per idem et cetera. Ad secundum: 
+      <lb ed="#P" n="34"/>Si .a. sit nunc presentialiter et fuerit et futurum sit 
+      <lb ed="#P" n="35"/>tunc concedendum est quod .a. fore et .a. esse et .a. fuisse sunt 
+      <lb ed="#P" n="36"/>idem: quia idem. a. nunc est .a. praeteritum et .a. praesens et a 
+      <lb ed="#P" n="37"/>futurum: id est quod fuit est et erit. Si vero .a. fuit 
+      <lb ed="#P" n="38"/>et non est in praesenti nec sit futurum / tunc falsum est 
+      <lb ed="#P" n="39"/>dicere quod .a. fuisse et .a. esse et .a. fore sint idem: sicut 
+      <lb ed="#P" n="40"/>tunc falsum est dicere quod .a. praeteritum et .a. praesentialiter 
+      <lb ed="#P" n="41"/>existens et .a. futurum sint idem. ex quo .a. non erit in 
+      fu<lb ed="#P" n="42" break="no"/>turo: nec tamen tunc est dicendum quod sint distincta in 
+      <lb ed="#P" n="43"/>telligibilia: sed nec idem / nec distincta actu sed 
+      po<lb ed="#P" n="44" break="no"/>tentia idem: sicut petrus sedens non est idem petre 
+      <lb ed="#P" n="45"/>non sedenti vel petro albo / posito quod sit sedens non 
+      <lb ed="#P" n="46"/>albus / nec est aliquid distinctum actu vel potentia a po 
+      <lb ed="#P" n="47"/>tro albo: quia impossibile est quod hoc sit et illud sit: et hoc 
+      <lb ed="#P" n="48"/>non sit illud: immo idem omnino potest esse hoc et 
+      <lb ed="#P" n="49"/>illud simul vel successiue. Ex hoc patet quod illud in 
+      <lb ed="#P" n="50"/>telligibile quod modo est christum fuisse vel esse 
+      incarna<lb ed="#P" n="51" break="no"/>tum non sit idem alicui intelligibili quod est christum esse in 
+      <lb ed="#P" n="52"/>carnandum nec econtra: sicut nec est verum quod christus 
+      <lb ed="#P" n="53"/>incarnatus sit christus incarnandus: quia christus 
+      incarnan<lb ed="#P" n="54" break="no"/>dus nichil est actu nec potentia / nisi de potentia dei 
+      <lb ed="#P" n="55"/>absoluta. tamen illud intelligibile quod est christum nunc 
+      <lb ed="#P" n="56"/>esse vel fuisse incarnatum est idem illi intelligibili quod 
+      <lb ed="#P" n="57"/>aliquando erat christum esse incarnandum et econtra: 
+      <lb ed="#P" n="58"/>sicut christus incarnatus est idem ei quod aliquando 
+      <lb ed="#P" n="59"/>erat christus incarnandus: et quod pro tali tempore erat 
+      <lb ed="#P" n="60"/>christum esse incarnandum est nunc pro praesenti tempore christum esse 
+      <lb ed="#P" n="61"/>incarnatum: ita quod de illis dictis proportionaliter dicendum 
+      <lb ed="#P" n="62"/>est sicut de istis terminis. christus incarnatus / et christus 
+      in<lb ed="#P" n="63" break="no"/>carnandus: eodem modo de istis terminis. petrus 
+      <lb ed="#P" n="64"/>puer / petrus senex. ergo. etc 
+    </p>
+            <!-- article 5 -->
+            <p xml:id="D78nca-de4659-d1e3149">
+               <lb ed="#P" n="65"/>Quantum ad quintum articulum. consimilis est responsio 
+      <lb ed="#P" n="66"/>sicut de propositionibus necessariis et impossi 
+      <!--35.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67" break="no"/>bilibus. et consimilis probatio vt patebit magis ample. dist. 2.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3162">
+               <lb ed="#P" n="68"/>Conta intelligibile a deo cognitum ab 
+      eterno<lb ed="#P" n="69" break="no"/>et pro eterno necessario distinguitur ab 
+      <lb ed="#P" n="70"/>intelligibili non sic cognito a deo ab eterno et 
+      neces<lb ed="#P" n="71" break="no"/>sario: sed omnis entitas incomplexe significabilis / siue 
+      <lb ed="#P" n="72"/>actualis / siue potentialis est cognita a deo ab 
+      eter<lb ed="#P" n="73" break="no"/>no et necessario: sed aliquod intelligibile significatum per 
+      <lb ed="#P" n="74"/>veritatem de inesse contingentis non sic cognoscitur a 
+      <lb ed="#P" n="75"/>deo. probatur. quia .a. esse realiter et actualiter et praesentialiter album 
+      <lb ed="#P" n="76"/>in .a. instanti: et pro .a. instanti praesenti non cognoscitur a 
+      <lb ed="#P" n="77"/>deo ab eterno necessario. probatur. quia .a. esset realiter 
+      <lb ed="#P" n="78"/>actualiter / praesentialiter album / in .a. ab eterno: quod vi 
+      <lb ed="#P" n="79"/>detur esse contradictio: et quia sequitur deus scit et 
+      co<lb ed="#P" n="80" break="no"/>gnoscit et vult .a. esse realiter et praesentialiter esse album / in. a. 
+      <lb ed="#P" n="81"/>instanti. igitur. a. instans est: et quod est album igitur. alio 
+      <lb ed="#P" n="82"/>quin deus deciperetur. igitur si antecedens est ab eterno et necest 
+      <lb ed="#P" n="83"/>sario verum. et consequens absolute verum.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3200">
+      ¶ Confirmatur. intel 
+      <lb ed="#P" n="84"/>ligibile naturaliter et necessario repraesentatum in essentia di 
+      <lb ed="#P" n="85"/>uina distinguitur ab intelligibili repraesentato in eadem 
+      <lb ed="#P" n="86"/>non naturaliter nec necessario sed libere: sed 
+      entita<lb ed="#P" n="87" break="no"/>tes incomplexe significabiles necessario repraesentantur. quia 
+      de<lb ed="#P" n="88" break="no"/>us non potest illas non intelligere: sed quedam complexe 
+      si<lb ed="#P" n="89" break="no"/>gnificabilia per veritates contingentes repntantur 
+      <lb ed="#P" n="90"/>contingenter: quia per liberam determinationem diuine vo 
+      <lb ed="#P" n="91"/>luntatis. igitur. 2o. intellectus nunc cognoscens et 
+      iu<lb ed="#P" n="92" break="no"/>dicans .a. esse simpliciter in .b. instanti actualiter existente et 
+      <lb ed="#P" n="93"/>prius non iudicans et cognoscens .a. esse simpliciter in .b. in 
+      <lb ed="#P" n="94"/>stanti praesenti: sed prius cognoscens et iudicans .a. fore 
+      <lb ed="#P" n="95"/>in .b. instanti futuro: et postea non cognoscens nec 
+      iu<lb ed="#P" n="96" break="no"/>dicans .a. esse vel fore in .b. instanti: sed fuisse / aut non 
+      <lb ed="#P" n="97"/>omnino et precise idem cognoscit et iudicat nunc et prius: 
+      <lb ed="#P" n="98"/>aut non omnino eodem modo et vniformiter cognoscit et 
+      <lb ed="#P" n="99"/>iudicat nunc et prius: sed intellectus diuinus est huiusmor 
+      <lb ed="#P" n="100"/>aut igitur cognoscit et iudicat nunc et prius alterum 
+      <lb ed="#P" n="101"/>et alterum intelligibile. et sic propositum. aut aliter et aliter 
+      <lb ed="#P" n="102"/>et non eodem modo. et hoc non. quia esset alietas formaliter 
+      <lb ed="#P" n="103"/>in intellectione diuina et variatio. maior patet. intelle 
+      <lb ed="#P" n="104"/>ctus enim iudicans et cognoscens omnino et precise idem 
+      <lb ed="#P" n="105"/>quod prius et non aliter: sed omnino vniformiter vt prius 
+      <lb ed="#P" n="106"/>si prius iudicauit aliquid fore et nunc iudicat illud fo 
+      <lb ed="#P" n="107"/>re. non enim est varia denotatio cognoscendi nisi propter 
+      <lb ed="#P" n="108"/>ilietatem cognitionis vel obiecti cogniti vt cognitum 
+    </p>
+            <p xml:id="D78nca-de4659-d1e3257">
+               <lb ed="#P" n="109"/>¶ Confirmatur. aut a. esse inb. instanti et .a fore in .b 
+      <lb ed="#P" n="110"/>instanti. et a. fuisse in .b. instanti sunt idem 
+      intelligibi<lb ed="#P" n="111" break="no"/>le obiectum aut non. Si secundum. igitur deus nunc et prius 
+      <lb ed="#P" n="112"/>iudicat alterum et alterum obiectum intelligibile sed non 
+      <lb ed="#P" n="113"/>aliam entitatem incomplexe significabilem. Et vltra si non 
+      <lb ed="#P" n="114"/>sunt idem intelligibile. igitur vel quodlibet illorum vel 
+      <lb ed="#P" n="115"/>alterum est intelligibile distinctum ab .a. et non vt 
+      enti<lb ed="#P" n="116" break="no"/>tas ab entitate. Si primum. contra. quia vnum infert 
+      nega<lb ed="#P" n="117" break="no"/>tionem alterius et repugnat et sunt incompossibilia.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3279">
+               <lb ed="#P" n="118"/>Ad primum idem arguitur quod petrus exi 
+      <lb ed="#P" n="119"/>stens in .a. instanti non est 
+      pe<lb ed="#P" n="120" break="no"/>trus nec idem petro: quia petrus ab eterno necessario 
+      <lb ed="#P" n="121"/>et naturaliter cognoscitur a deo et repraesentatur in essentia 
+      <lb ed="#P" n="122"/>diuina. non autem petrus actualiter existens in .a. instanti 
+    </p>
+            <p xml:id="D78nca-de4659-d1e3292">
+               <lb ed="#P" n="123"/>¶ Per idem etiam arguitur quod petrum moueri velociter 
+      <lb ed="#P" n="124"/>non est petrum moueri: quia deus cognoscit petrum 
+      mo<lb ed="#P" n="125" break="no"/>ueri per totum dien: sed moueri velociter non 
+      iudica<lb ed="#P" n="126" break="no"/>tur nisi per horam
+    </p>
+            <p xml:id="D78nca-de4659-d1e3303">
+      ¶ Per idem etiam arguitur quod hoc album quod est 
+      <lb ed="#P" n="127"/>simile ipsi. b. albo vel quod est quadratum non est idem 
+      <lb ed="#P" n="128"/>albo simili vel albo quadrato: quia possibile est quod hoc 
+      <lb ed="#P" n="129"/>album videtur vel videbitur a me per vnam horam. non autem 
+      <lb ed="#P" n="130"/>hoc simile vel hoc quadratum. quia infra horam fiet non 
+      <lb ed="#P" n="131"/>simile vel non quadratum.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3316">
+      ¶ Dicendum est igitur quod secunda 
+      <lb ed="#P" n="132"/>pars minoris est neganda. Ad probationem hec 
+      <!--36.xml-->
+      <pb ed="#P" n="13-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>propositio .a. esse realiter album in .b. instanti. non cognoscitur a 
+      <lb ed="#P" n="2"/>deo necessario ab eterno habet duplicem sensum. Unus 
+      <lb ed="#P" n="3"/>est illud intelligibile. quod modo de facto et nouiter est 
+      <lb ed="#P" n="4"/>a. esse album realiter in .b. instanti. non cognoscitur a deo 
+      <lb ed="#P" n="5"/>ab eterno. et sic negatur. quia omne obiectum intelligibile 
+      <lb ed="#P" n="6"/>significabile / complexe / vel incomplexe / siue futurum / siue 
+      <lb ed="#P" n="7"/>non futurum repraesentatur ab eterno et necessario intel 
+      <lb ed="#P" n="8"/>lectui diuino: quia impossibile est aliquod intelligibi 
+      <lb ed="#P" n="9"/>le latere intellectum diuinum pro aliquo tempore. nouit enim 
+      <lb ed="#P" n="10"/>quod illud intelligibile est vel non est. et quod erit vel non 
+      <lb ed="#P" n="11"/>erit. Alius sensus est quod deus non iudicauit nec asse 
+      <lb ed="#P" n="12"/>ruit ab eterno et necessario quod.a. esset actualiter in .b. 
+      in<lb ed="#P" n="13" break="no"/>stanti et quod diuina intellectio non erat ab eterno iudi 
+      <lb ed="#P" n="14"/>dicium et assertio secundum quam iudicaret .a. esse 
+      actua<lb ed="#P" n="15" break="no"/>liter in .b. instanti. et hic sensus videtur magis 
+      sen<lb ed="#P" n="16" break="no"/>sus compositionis. et videtur magis importari quando ten 
+      <lb ed="#P" n="17"/>minus obiecti cogniti ponitur post terminum cogno 
+      <lb ed="#P" n="18"/>scendi dicendo. deus non cognouit ab eterno .a. esse 
+      <lb ed="#P" n="19"/>in .b. instanti. et sic conceditur ista propositio. deus enim com 
+      <lb ed="#P" n="20"/>tingenter et nouiter cognoscit et iudicat .a. esse in. .b. 
+      <lb ed="#P" n="21"/>instanti. sicut contingenter et nouiter vult .a. esse / et 
+      <lb ed="#P" n="22"/>dat esse ipsi.a. in b. instanti. nec ex hoc sequitur quod nunc 
+      <lb ed="#P" n="23"/>cognoscat vel iudicet aliquod intelligibile quod prius 
+      <lb ed="#P" n="24"/>non intelligeret nec iudicaret: sed quod illud intelligibi 
+      <lb ed="#P" n="25"/>le quod non cognoscebat nec iudicabat esse: sed 
+      fo<lb ed="#P" n="26" break="no"/>re modo iudicat esse / sicut supra allegatum est per 
+      ma<lb ed="#P" n="27" break="no"/>gistrum. lib. 1. di. 4. et. 4 4. Eodem autem modo quo 
+      <lb ed="#P" n="28"/>illa propositio est vera non valet discursus: sed est fallacia 
+      <lb ed="#P" n="29"/>figure dictionis.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3391">
+      ¶ Si arguitur sic. petrus cogno 
+      <lb ed="#P" n="30"/>scitur a deo necessario ab eterno. petrum esse nunc 
+      <lb ed="#P" n="31"/>realiter in .b. instanti non cognoscitur a deo necessario 
+      <lb ed="#P" n="32"/>ab eterno. igitur nunc petrum esse realiter in b instanti non 
+      <lb ed="#P" n="33"/>est petrus non sequitur: sed solum sequitur quod petrus non 
+      <lb ed="#P" n="34"/>est necessario ab eterno petrum esse atualiter in .b. instanti 
+    </p>
+            <p xml:id="D78nca-de4659-d1e3404">
+               <lb ed="#P" n="35"/>¶ Ad confirmationem per idem. Ad secundum potest reduci 
+      <lb ed="#P" n="36"/>cotra alios: quia sit .b. illud intelligibile / significabile 
+      <lb ed="#P" n="37"/>complexe / per istam petrus est actualiter / et praesentialiter existens 
+      <lb ed="#P" n="38"/>in .d. instanti. tunc .b. intelligibile intelligitur nunc a 
+      <lb ed="#P" n="39"/>deo poni actualiter et praesentialiter in .d. instanti. non enim po 
+      <lb ed="#P" n="40"/>nitur tantum in potentia vel in futuritione vt prius. nec 
+      <lb ed="#P" n="41"/>est impossibile poni nec erat ab eterno positum actu 
+      <lb ed="#P" n="42"/>aliter et praesentialiter sicut modo. igitur cum deus modo 
+      <lb ed="#P" n="43"/>sciat et iudicet .b. poni actualiter in .d. instanti. et prius 
+      <lb ed="#P" n="44"/>non sciret: sed .b. fore et esse ponendum sequitur quod .b. 
+      <lb ed="#P" n="45"/>fore: et b. poni sunt intelligibilia distincta vel quod deus aliter 
+      <lb ed="#P" n="46"/>cognoscit. Si autem sunt intelligibilia distincta. 
+      que<lb ed="#P" n="47" break="no"/>ritur de illo intelligibili quod est .b. fore et erit 
+      pro<lb ed="#P" n="48" break="no"/>cessus in infinitum. si enim petrum esse et petrum fore sunt intel 
+      <lb ed="#P" n="49"/>igibilia distincta a petro. primum sit .b. et secundum sit .c. tunc 
+      <lb ed="#P" n="50"/>b. esse: et b. fore erunt intelligibilia distincta ab ipso b 
+      <lb ed="#P" n="51"/>sit etiam primum. d. et secundum .c. tunc vtrunque aliquando erit 
+      <lb ed="#P" n="52"/>futurum aliquando praesens et sic sine statu. Item idem argumentum 
+      <lb ed="#P" n="53"/>reducitur ad probandum quod non est idem petrus primo 
+      <lb ed="#P" n="54"/>futurus. postea presens / postea preteritus. Dicen 
+      <lb ed="#P" n="55"/>dum est igitur negando minorem. sufficit enim quod 
+      cogno<lb ed="#P" n="56" break="no"/>gno scat et iudicet illud intelligibile se habere 
+      ali<lb ed="#P" n="57" break="no"/>quam prius / aut non vt prius vt nec sit alietas obiectiue 
+      <lb ed="#P" n="58"/>intelligibilium quorum vnum nunc cognoscatur et prius non 
+      <lb ed="#P" n="59"/>cognosceretur. et aliud econtra. nec sit alietas 
+      cogni<lb ed="#P" n="60" break="no"/>tionis: sed sit non idemptitas secundum quam obiectum ens 
+      <lb ed="#P" n="61"/>non est idem obiecto non existenti vel secundum quam ens tale 
+      <lb ed="#P" n="62"/>non est idem enti non tali. tamen ens modo tale est idem 
+      <lb ed="#P" n="63"/>enti quod prius non erat tale.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3469">
+      ¶ Ad confirmationem 
+      <lb ed="#P" n="64"/>dicendum est. quod preteritio et futuritio dicuntur per 
+      ha<lb ed="#P" n="65" break="no"/>bitudinem ad praesens. et preteritum dicit respectu preteri 
+      <lb ed="#P" n="66"/>ti distantis a nunc praesenti et futurum dicit respectum futu 
+      <!--36.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>ri distantis a nunc presenti. Si igitur .a. fore in .b. 
+      in<lb ed="#P" n="68" break="no"/>stanti et .a. esse. et .a. fuisse in .b. instanti sumantur per respectum 
+      <lb ed="#P" n="69"/>id idem praesens. sic non sunt nec possunt esse idem 
+      intelligi<lb ed="#P" n="70" break="no"/>bile. nec tamen sunt diuersa intelligibilia obiecta sicut 
+      <lb ed="#P" n="71"/>.a. praesens in .b. instanti: et .a. preteritum in .b. instanti: et .a. 
+      <lb ed="#P" n="72"/>futurum in .b. instanti. impossibile est enim omnia ista 
+      si<lb ed="#P" n="73" break="no"/>mul verificari sicut dictum est supra de petro sedente 
+      <lb ed="#P" n="74"/>respectu petri non sedentis. nec sequitur quod cognoscat 
+      <lb ed="#P" n="75"/>alterum intelligibile quam cognosceret prius. Si vero 
+      <lb ed="#P" n="76"/>illa referantur ad diuersa tempora. sic dicendum quod idem  
+      <lb ed="#P" n="77"/>intelligibile omnino est supposito quod .a. sit nunc in .b. 
+      in<lb ed="#P" n="78" break="no"/>stanti: quia idem intelligibile quod nunc est .a. esse in .b. in 
+      <lb ed="#P" n="79"/>stanti prius erat .a. fore in .b. instanti et post erit .a. fuisse in 
+      <lb ed="#P" n="80"/>b. instanti.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3513">
+      ¶ Notandum est tamen. quod si .a. non existente. verum 
+      <lb ed="#P" n="81"/>est dicere quod .a. est .a. tunc .a. fuisse et .a. fore est .a. siue 
+      <lb ed="#P" n="82"/>.a. sit existens actu siue non. Si vero affirmatio de seipso 
+      <lb ed="#P" n="83"/>sit falsa non existente re: tunc dicendum quod si .a. fuit et sit et 
+      <lb ed="#P" n="84"/>erit pro futuro. verum est quod .a. fore est .a. et quod .a. fuisse 
+      <lb ed="#P" n="85"/>est. a. Si vero non sit existens / sed fuerit vel futurum / sit. 
+      <lb ed="#P" n="86"/>tunc non est dicendum quod .a. fore sit. a. simpliciter: sed quod sit 
+      <lb ed="#P" n="87"/>a. futurum nec quod .a. fuisse sit. a. simpliciter: sit .a. preteritum
+    </p>
+            <!-- article 6 -->
+            <p xml:id="D78nca-de4659-d1e3533">
+               <lb ed="#P" n="88"/>Quantum ad sextum articulum dicendum 
+      confor<lb ed="#P" n="89" break="no"/>miter vt in primo / et secundo atricu 
+      <lb ed="#P" n="90"/>lo. probatur. quia angelum posse esse quod significatur 
+      con<lb ed="#P" n="91" break="no"/>plexe per hanc propositionem. angelus potest esse. non est nisi 
+      <lb ed="#P" n="92"/>angelus possibilis esse. igitur nullum est intelligibile di 
+      <lb ed="#P" n="93"/>tinctum ab omni entitate actuali vel potentiali. antecedens 
+      pro<lb ed="#P" n="94" break="no"/>batur. quia angelum esse est angelus ens. patet ex questione 
+      <lb ed="#P" n="95"/>precedenti et patebit. dist. 2. igitur angelum posse esse 
+      <lb ed="#P" n="96"/>non est nisi angelus possibilis. sicut enim se habet 
+      an<lb ed="#P" n="97" break="no"/>gelum esse ad angelum existetem. sic angelum posse esse ad angelum 
+      <lb ed="#P" n="98"/>possibile.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3560">
+      ¶ Preterea. si angelum posse esse sit intelligibi 
+      <lb ed="#P" n="99"/>le non idem nec possibile esse idem angelo sit illud / intelli 
+      <lb ed="#P" n="100"/>gibile b. aut igitur .b. obiectum intelligibile est actua 
+      <lb ed="#P" n="101"/>liter et positiue / aut nec est nec potest esse huiusmoi. Si 
+      ter<lb ed="#P" n="102" break="no"/>tium. igitur angelum posse esse est impossibile et figmen 
+      <lb ed="#P" n="103"/>tum. Si primum. contra. quia ab eterno essent extra deum  
+      <lb ed="#P" n="104"/>actualiter positiua necessaria in se formaliter que deus 
+      <lb ed="#P" n="105"/>non posset tollere quod derogat divine libertati / et 
+      <lb ed="#P" n="106"/>omnipotentie. et quia intelligibile .b. includit formaliter an 
+      <lb ed="#P" n="107"/>gelum qui non est actualiter positiuum. igitur .b. non est 
+      <lb ed="#P" n="108"/>ictuale positiuum. Si secundum. contra. primo hbetur 
+      pro<lb ed="#P" n="109" break="no"/>positum. quia cum nihil sit ibi in potentia et postea in actu 
+      <lb ed="#P" n="110"/>nisi angelus creabilis. igitur .b. non est nisi angelus 
+      <lb ed="#P" n="111"/>possibilis esse. et reductio illius ad actum non erit nisi re 
+      <lb ed="#P" n="112"/>ductio angeli ad actum essendi / aut si non. si igitur illud 
+      <lb ed="#P" n="113"/>intelligibile possibile ponatur in esse sequitur quod ange 
+      <lb ed="#P" n="114"/>us incipit posse esse. 2o illa propositio. angelus potest esse non 
+      <lb ed="#P" n="115"/>esset vera actu: sed tantum in potentia: quia .b. eius complexe 
+      <lb ed="#P" n="116"/>significatum adequatum non ponitur actu sed tantum potentia 
+      <lb ed="#P" n="117"/>Dices. ita arguitur contra te. quia si illud intelligibile non 
+      <lb ed="#P" n="118"/>sit nisi angelus possibilis esse. igitur non ponitur actu eius 
+      <lb ed="#P" n="119"/>significatum. igitur non est ita in re sicutsignificat. igitur 
+      <lb ed="#P" n="120"/>non est vera. Respondeo licet eius obiectiue significa 
+      <lb ed="#P" n="121"/>tum non ponatur in actu. tamen est vera: quia ipsa non signi 
+      <lb ed="#P" n="122"/>ficat aliquod intelligibile poni sed posse poni. Si 
+      <lb ed="#P" n="123"/>vero illud intelligibile significabile complexe sit intel 
+      <lb ed="#P" n="124"/>igibile distinctum ab angelo qui potest esse et non ponitur 
+      <lb ed="#P" n="125"/>opatet quod illud sit positum et non solum possibile poni / sicut 
+      <lb ed="#P" n="126"/>angelus / alioquin non erit nisi angelus possibilis 
+      <lb ed="#P" n="127"/>esse / et non existens. Si dicatur quod est intelligibile priuatiuum 
+      <lb ed="#P" n="128"/>et in actu priuatiuo. Contra. pari ratione. b. angelus 
+      <lb ed="#P" n="129"/>producendus est intelligibile priuatiuum: quia nihil plus 
+      <lb ed="#P" n="130"/>ponit in re hoc quam illud. igitur non est nisi idem intelligibile 
+      <lb ed="#P" n="131"/>privatiuum. quia non priuabunt nisi idem. Preterea deum posse 
+      <lb ed="#P" n="132"/>creare est deus potens creare. igitur angelum posse crea¬ 
+      <!--37.xml-->
+      <pb ed="#P" n="13-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ri et esse est angelus possibilis creari et esse. antecedens probatur 
+      <lb ed="#P" n="2"/>quia deum posse creare est formaliter potentia infinita et 
+      <lb ed="#P" n="3"/>omnipotens et continet formaliter potentiam infinitam. igi 
+      <lb ed="#P" n="4"/>est deus vel continet formaliter deum: sed non continet fo 
+      <lb ed="#P" n="5"/>maliter deum. quia vltra deum et preter deum includeret ali 
+      <lb ed="#P" n="6"/>quid additum ipsi deo quod est falsum. quia illud non esse 
+      <lb ed="#P" n="7"/>nisi creatura et ita deum posse creare non esset nisi aggre 
+      <lb ed="#P" n="8"/>gatum ex deo et creatura quod est improbatum quest 
+      <lb ed="#P" n="9"/>one precedenti probando quartam conclusionem. et quia 
+      <lb ed="#P" n="10"/>posse creare est perfectio simpliciter non minus quam poten 
+      <lb ed="#P" n="11"/>tia creandi et est intelligibile increatum et incausabi 
+      <lb ed="#P" n="12"/>le et independens.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3669">
+      ¶ Confirmatur. si deum posse cre 
+      <lb ed="#P" n="13"/>are sit intelligibile significabile complexe distinctum 
+      <lb ed="#P" n="14"/>ab omni entitate incomplexe significabili sit illud .b 
+      <lb ed="#P" n="15"/>aut igitur .b. est intelligibile actuale positiuum aut non 
+      <lb ed="#P" n="16"/>sed potest esse / aut nec sic / nec sic vt supra. igitur. etc 
+      <lb ed="#P" n="17"/>probatur quod angelum posse esse non sit angelus possi 
+      <lb ed="#P" n="18"/>Conti. abilis esse seu angelus ens in potentia. primo sic. 
+      <lb ed="#P" n="19"/>b. angaelum posse esse non est nisi deum posse producere .b. an 
+      <lb ed="#P" n="20"/>gelum. igitur non est angelus possibilis esse. antecedens proba 
+      <lb ed="#P" n="21"/>tur. quia si non sit illud sed sit formaliter angelus possibi 
+      <lb ed="#P" n="22"/>lis esse sequitur quod. b. angelus creandus est possibilis 
+      <lb ed="#P" n="23"/>potentia propria formali et intrinseca non solum per de 
+      <lb ed="#P" n="24"/>nominationem extrinsecam a potentia diuina. consequens est 
+      <lb ed="#P" n="25"/>contra <ref xml:id="D78nca-de4659-Rd1e3699">Ansel. de casu diaboli. c. 12.</ref> vbi ponit quod mun 
+      <lb ed="#P" n="26"/>dus ante sui creationem erat possibilis et 
+      impossibi<lb ed="#P" n="27" break="no"/>lis. possibilis quidem potentia aliena sed impossibilis 
+      <lb ed="#P" n="28"/>sua propria.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3709">
+      ¶ Secundo b. angelus possibilis et causat 
+      <lb ed="#P" n="29"/>dus est intelligibile non positum in actu: sed in poten 
+      <lb ed="#P" n="30"/>tia tantum: sed b. angelum posse esse est intelligibile positum 
+      <lb ed="#P" n="31"/>in actu. probatur primo. quia si non poneretur in actu: sed 
+      <lb ed="#P" n="32"/>tantum in potentia. sequitur quod hec non est actu vera licet 
+      <lb ed="#P" n="33"/>possit esse vera. b. angelus potest esse. probatur consequentia. quia pro 
+      <lb ed="#P" n="34"/>positio non est actu vera. si non est actualiter in re sicut 
+      <lb ed="#P" n="35"/>significat: sed hec significat angelum posse esse. igitur si 
+      <lb ed="#P" n="36"/>intelligibile quod est .b. angaelum posse esse non ponatur 
+      <lb ed="#P" n="37"/>in actu illa non erit actu vera.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3731">
+      ¶ Secundo aliter sequi 
+      <lb ed="#P" n="38"/>tur quod b. posse esse esset in potentia: et quod potentia esset ad 
+      <lb ed="#P" n="39"/>posse sicut ad actum.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3738">
+      ¶ Tertio. quia si non ponitur actu: si 
+      <lb ed="#P" n="40"/>potest poni ponatur igitur modo in actu. et sequitur quod  
+      <lb ed="#P" n="41"/>agelum posse esse modo incipit quod modo impossibile. quia si 
+      <lb ed="#P" n="42"/>modo verum est. b. angelum posse esse sequitur quod prius ef 
+      <lb ed="#P" n="43"/>ab eterno fuit verum.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3749">
+      ¶ Tertio principaliter deum posse 
+      <lb ed="#P" n="44"/>creare. b. angelum non est deus potens creare .b. 
+      an<lb ed="#P" n="45" break="no"/>gelum. igitur. b. angelum posse creari a deo non est 
+      <lb ed="#P" n="46"/>b. angelus. antecedens probatur primo. quia posita actual 
+      <lb ed="#P" n="47"/>creatione. b. angeli tollitur deum creare .b. angelum: 
+      <lb ed="#P" n="48"/>quia adueniente actu cedit potentia: secundum 
+      commenta<lb ed="#P" n="49" break="no"/>torem. primo phisicorum. quia potentia opponitur actui. est 
+      <lb ed="#P" n="50"/>enim actus existere rem non ita sicut in potentia. 9. me 
+      <lb ed="#P" n="51"/>thaphi. et ita in deo formaliter esset mutatio. 2o. quia 
+      <lb ed="#P" n="52"/>deum posse calefacere et deum posse frigefacere e 
+      <lb ed="#P" n="53"/>sent idem et per consequens calefacere et frigefacere essent ide 
+      <lb ed="#P" n="54"/>consequentia et falsitas consequentis patent. 3o. phisi. 2 q. 
+      <lb ed="#P" n="55"/>posse quidem sanari et posse laborare alterum est. la 
+      <lb ed="#P" n="56"/>borare nanque et sanari idem esset. subiectum autem et sa 
+      <lb ed="#P" n="57"/>nabile / et infirmum / idem et vnum est. 3o. quia deum non 
+      <lb ed="#P" n="58"/>posse creare chimeram esset deus non potens creari 
+      <lb ed="#P" n="59"/>chimeram. pari ratione consequens est falsum. quia deus 
+      <lb ed="#P" n="60"/>est perfectio simpliciter: sed non posse producere chi 
+      <lb ed="#P" n="61"/>meram non est perfectio simpliciter cum conueniat lapidi. 
+    </p>
+            <p xml:id="D78nca-de4659-d1e3792">
+               <lb ed="#P" n="62"/>¶ Quarto principaliter angelus possibilis esse est ange 
+      <lb ed="#P" n="63"/>lus / sed angelum posse esse non est angelus. igitur 
+      an<lb ed="#P" n="64" break="no"/>gelum posse esse non est angelus possibilis esse. Maior 
+      <lb ed="#P" n="65"/>probatur: quia hec est necessaria / angelus est angelus n 
+      <lb ed="#P" n="66"/>miuus quam ista homo est animal / que tamen ponitur necessa 
+      <!--37.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>ria secundum <ref xml:id="D78nca-de4659-Rd1e3811">articulum <name xml:id="D78nca-de4659-Nd1e3813">domini cardinalis</name>
+               </ref>. Minor probatur 
+      <lb ed="#P" n="68"/>tum quia remoto angelo per annichilationem non tollitur 
+      <lb ed="#P" n="69"/>angelum posse esse immo est necessarium et eternum: tum 
+      <lb ed="#P" n="70"/>quia petrum posse esse non est petrum esse
+    </p>
+            <p xml:id="D78nca-de4659-d1e3824">
+               <lb ed="#P" n="71"/>Ad primum argumentum negatur antecedens: ad proba 
+      <lb ed="#P" n="72" break="no"/>tionem concedo consequens .b. enim ange 
+      <lb ed="#P" n="73"/>lus creandus est in se formaliter et intrinsece possibi 
+      <lb ed="#P" n="74"/>lis secundum potentiam obiectiuam et nihil est possibile ef 
+      <lb ed="#P" n="75"/>fectiue potentia extrinseca quin formaliter et intrinsece 
+      <lb ed="#P" n="76"/>sit possibile potentia propria passiua vel quasi 
+      passi<lb ed="#P" n="77" break="no"/>ua et obiectiua. hec enim sunt correlatiua / nec deus 
+      <lb ed="#P" n="78"/>potest facere nisi id quod in se et ex se formaliter et intrinse 
+      <lb ed="#P" n="79"/>ce est possibile: alioquin posset facere chimeram. Ad  
+      <lb ed="#P" n="80"/>dictum Anselmi: potest dici quod intentio eius est: quod cum 
+      <lb ed="#P" n="81"/>mundus vel angelus non erat et poterat esse / non est 
+      in<lb ed="#P" n="82" break="no"/>telligendum quod posset esse per quandam possibilitatem et 
+      <lb ed="#P" n="83"/>virtutem aliam a deo qua potest facere ad creationem mundi 
+      <lb ed="#P" n="84"/>vel que esset realiter ad aliquid vel qua inesset alicui rea 
+      <lb ed="#P" n="85"/>li positiue habenti huiusmodi possibilitatem. vnde ibidem 
+      <lb ed="#P" n="86"/>dicit Anselmus illud quod omnino nihil est non habet ali 
+      <lb ed="#P" n="87"/>quam possibilitatem et quod mundus erat aliquaond sibiipsi 
+      <lb ed="#P" n="88"/>impossibilis / quia in eius potestate non erat vt esset: 
+      <lb ed="#P" n="89"/>Intendit igitur quod mundus non habebat potentiam 
+      <lb ed="#P" n="90"/>ad esse sicut subiectum actu praexistens dicitur habere 
+      <lb ed="#P" n="91"/>potentiam ad illud secundum quod est mutabile / licet enim po 
+      <lb ed="#P" n="92"/>tentia intelligitur quasi esse in quodam subiecto vel 
+      fun<lb ed="#P" n="93" break="no"/>damento positiuo substracto: tamen auteme mundi creationem 
+      <lb ed="#P" n="94"/>nichil omnino suberat prius creare nisi deus.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3879">
+      ¶ Ad secundum 
+      <lb ed="#P" n="95"/>negetur minor.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3884">
+      ¶ Ad primam propositionem negetur consequentia 
+      <lb ed="#P" n="96"/>Ad probationem. si propositio significat ita esse in re et non est ita nec 
+      <lb ed="#P" n="97"/>ita ponitur in re conceditur quod propositio est falsa: sed si propositio 
+      <lb ed="#P" n="98"/>non significat ita esse in re / nec significat aliqualiter 
+      <lb ed="#P" n="99"/>esse in re sed tantum significat posse esse aliqualiter in re tunc 
+      <lb ed="#P" n="100"/>ipsa est actu vera / licet non sit ita actualiter in re / et licet 
+      <lb ed="#P" n="101"/>suum intelligibile pro quo verificatur non ponatur in re sed potest 
+      <lb ed="#P" n="102"/>poni et esse sicut posse esse ipsa significat / sic et hec propositio 
+      <lb ed="#P" n="103"/>a. fuit est vera / non quia proprie loquendo ita sit in re sicut 
+      <lb ed="#P" n="104"/>ipsa significat / sed quia ita fuit in re sicut fuisse in re 
+      <lb ed="#P" n="105"/>illa propositio significat. Si quis autem accipiat large 
+      <lb ed="#P" n="106"/>et improprie ita esse in re sicut propositio significat / 
+      <lb ed="#P" n="107"/>sic diceretur quod ita est actu in re sicut illa propositio signi 
+      <lb ed="#P" n="108"/>ficat / licet intelligibile per illam significatum non sit actu 
+      <lb ed="#P" n="109"/>in re / quia illa propositio non significat suum significatum 
+      <lb ed="#P" n="110"/>esse actu sed posse esse / ideo illud intelligibile posse esse est 
+      <lb ed="#P" n="111"/>ita esse actu sicut ipsa significat.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3921">
+      ¶ Ad secundam propositio 
+      <lb ed="#P" n="112"/>nem minoris quod .b. posse esse sit in potentia / vel quod 
+      po<lb ed="#P" n="113" break="no"/>tentia angeli possibilis sit in re / vel ad potentiam habet 
+      <lb ed="#P" n="114"/>duplicem sensum / vnus est: illud intelligibile quod est .b. 
+      <lb ed="#P" n="115"/>posse esse seu quod importatur per hoc quod dico .b. pos 
+      <lb ed="#P" n="116"/>se esse / seu per potentiam obiectiuam potest esse actualiter 
+      <lb ed="#P" n="117"/>licet non sit / et sic conceditur quod hoc non est aliquid nisi quod in 
+      <lb ed="#P" n="118"/>telligibile quod potest esse potest esse / nec magis est inconueniens 
+      <lb ed="#P" n="119"/>in isto sensu quod posse esse aliquando fuit in potentia et aliquando 
+      <lb ed="#P" n="120"/>in actu quam quod actus et esse actualiter aliquando est et ponitur 
+      ac<lb ed="#P" n="121" break="no"/>tualiter aliquando non / sed in potentia tantum: licet sit impro 
+      <lb ed="#P" n="122"/>prius modus loquendi. Alius sensus est non est actu 
+      <lb ed="#P" n="123"/>verum quod. b. angelus potest esse sed potest esse verum seu 
+      <lb ed="#P" n="124"/>quod. b. angelus non potest esse / sed potest esse et sic negatur.
+    </p>
+            <p xml:id="D78nca-de4659-d1e3952">
+      ¶ Ad 
+      <lb ed="#P" n="125"/>tertiam propositionem: dico quod positio illius intelligibilis in 
+      <lb ed="#P" n="126"/>actu est positio ipsius. b. angeli in actu et non est po 
+      <lb ed="#P" n="127"/>sitio secundum quam. b. angelus modo possit esse qui prius non 
+      <lb ed="#P" n="128"/>posset esse sed est positio secundum quam intelligibile prius 
+      <lb ed="#P" n="129"/>possibile esse ponitur nunc in actu. ideo negatur quod .b. 
+      <lb ed="#P" n="130"/>posse esse incipit in sensu compositionis id est quod incipiat 
+      <lb ed="#P" n="131"/>posse esse: sicut si. b. angelus possibilis et creandus et 
+      <lb ed="#P" n="132"/>futurus ponatur inesse non sequitur quod incipit esse angelus 
+      <!--38.xml-->
+      <pb ed="#P" n="14-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>possibilis creandus / vel futurus. vel ad ista potest di 
+      <lb ed="#P" n="2"/>ci quod. b. angaelum posse esse sit intelligibile positum solum 
+      <lb ed="#P" n="3"/>in potentia potest intelligi dupliciter: quia vel in poten 
+      <lb ed="#P" n="4"/>tia secundum qua b. angelus potest esse / seu secundum quam aliquo 
+      <lb ed="#P" n="5"/>intelligibile potest esse et sic conceditur. vel in potentia secundum 
+      <lb ed="#P" n="6"/>quam possit posse esse non secundum quam ponit esse sic negatur com 
+      <lb ed="#P" n="7"/>formiter quod .b. angelum posse esse sit intelligibile positiuum 
+      <lb ed="#P" n="8"/>in actu potest intelligi dupliciter. vno modo quod sibi conue 
+      <lb ed="#P" n="9"/>niat realiter et positiue actus essendi. et sic negatur 
+      <lb ed="#P" n="10"/>Alio modo large quia non solum potest esse verum. immo est de fa 
+      <lb ed="#P" n="11"/>cto verum quod. b. angelus potest esse / seu quod. b. angelus non 
+      <lb ed="#P" n="12"/>solum potest posse esse. immo potest esse. et sic conceditur. Ad 
+      <lb ed="#P" n="13"/>tertium principale negatur antecedens. ad primam probationem ad 
+      <lb ed="#P" n="14"/>cipiendo potentiam non pro negatione actus: sed pro non 
+      <lb ed="#P" n="15"/>repugnantia ad actum quod abstrahit ab affirmatio 
+      <lb ed="#P" n="16"/>ne et negatione actus negatur assumptum. quia deum esse 
+      <lb ed="#P" n="17"/>est possibile isto modo: sed accipiendo potentiam pro 
+      <lb ed="#P" n="18"/>negatione actus cum non repugnantia ad eundem. sic di 
+      <lb ed="#P" n="19"/>cendum quod deum non posse creare tollatur adueniente actu 
+      <lb ed="#P" n="20"/>ali creatione. falsum est in sensu diuisionis: sed ve 
+      <lb ed="#P" n="21"/>rum est in sensu compositionis: et tunc non valet discur 
+      <lb ed="#P" n="22"/>sus nisi ad concludendum quod deus non semper est deum pos 
+      <lb ed="#P" n="23"/>se creare. b. angelum.
+    </p>
+            <p xml:id="D78nca-de4659-d1e4029">
+      ¶ Ad secundam propositionem conceditu 
+      <lb ed="#P" n="24"/>primum consequens. conceditur etiam secundum. si de facto deus sit simul 
+      <lb ed="#P" n="25"/>calefaciens aliquid / et frigefaciens aliud: sed tunc 
+      di<lb ed="#P" n="26" break="no"/>cuntur idem per accidens et contingenter et respectu 
+      diuerso<lb ed="#P" n="27" break="no"/>rum. Et ad improbationem illud procedit de posse pa 
+      <lb ed="#P" n="28"/>siue et subiectiue quod est sic intelligendum si posse sa 
+      <lb ed="#P" n="29"/>nari et posse laborare essent idem terminatiue sicut sunt 
+      <lb ed="#P" n="30"/>idem subiectiue sequitur quod laborare et sanari essent idee 
+      <lb ed="#P" n="31"/>vel potest intelligi quod sicut eidem non possunt conuenire si 
+      <lb ed="#P" n="32"/>mul sanari et laborare. sic eidem non conuenit simul pos 
+      <lb ed="#P" n="33"/>se sanari et simul laborare. sicut enim actus sunt incem 
+      <lb ed="#P" n="34"/>possibiles ita impossibile est aliquod subiectum hiu 
+      <lb ed="#P" n="35"/>bere potentiam vel potentias ad ambos actus simu 
+      <lb ed="#P" n="36"/>babendos. tunc enim laborare et sanari essent idem saltem 
+      <lb ed="#P" n="37"/>secundum subiectiuam et materialem vnitatem. tamen idem subie 
+      <lb ed="#P" n="38"/>ctum simul habet potentiam ad quodlibet diuisim et pre 
+      <lb ed="#P" n="39"/>diuersis temporibus. vel potest intelligi quod differunt ra 
+      <lb ed="#P" n="40"/>tione et non sunt idem quidditatiue. vnde ibidem 
+      inten<lb ed="#P" n="41" break="no"/>dit quod motus est actus subiecti non secundum quod actu talis 
+      <lb ed="#P" n="42"/>scilicet primo es vel lignum: sed secundum quod habet potentit 
+      <lb ed="#P" n="43"/>ad formam aliquam. et ad hoc probandum dicit quod non est 
+      <lb ed="#P" n="44"/>idem heri esse et esse potentia mobile. quoniam si idem simpliciter esset 
+      <lb ed="#P" n="45"/>et secundum rationem tunc motus esset actus eris secundum quod es 
+      <lb ed="#P" n="46"/>et subdit quod in contrariis malum est hoc differre secundum 
+      <lb ed="#P" n="47"/>rationem. quia posse sanari et posse laborare / alterum est 
+      <lb ed="#P" n="48"/>secundum rationem alioquin esset idem laborare et sanari.
+    </p>
+            <p xml:id="D78nca-de4659-d1e4086">
+      Ad 
+      <lb ed="#P" n="49"/>tertiam probationem antecedentis conceditur consequens. ad improba 
+      <lb ed="#P" n="50"/>tionem cum dicitur quod non posse producere chimeram non 
+      <lb ed="#P" n="51"/>est perfectio simpliciter si sumitur subiectum simpliciter con 
+      <lb ed="#P" n="52"/>ceditur quod hoc praedicatum non est predicabile predicans 
+      <lb ed="#P" n="53"/>per se formaliter perfectionem simpliciter. quia non infert id cui 
+      <lb ed="#P" n="54"/>conuenit esse perfectius aliquo alio. sic autem non infertur 
+      <lb ed="#P" n="55"/>nisi distinctio predicabilium. Si vero sumatur personalitis 
+      <lb ed="#P" n="56"/>sic aliquod non posse producere chimeram est perfectio 
+      <lb ed="#P" n="57"/>simpliciter et aliquod non posse huiusmodi non est perfectio 
+      sim<lb ed="#P" n="58" break="no"/>pliciter.
+    </p>
+            <p xml:id="D78nca-de4659-d1e4110">
+      ¶ Ad quartum principale. si angelo non existente 
+      <lb ed="#P" n="59"/>hec sit vera. angelus est angelus. negatur minor. Ad 
+      <lb ed="#P" n="60"/>primam probationem per idem arguitur. quod angelus po 
+      <lb ed="#P" n="61"/>sibilis esse non est angelus. dicendum igitur quod remoto 
+      <lb ed="#P" n="62"/>b. angelo / non remouetur. b. angaelum posse esse potest 
+      in<lb ed="#P" n="63" break="no"/>telligi dupliciter. vno modo quod. b. angelo cadente in non esse 
+      <lb ed="#P" n="64"/>non remoueatur ab actuali existentia. et ab esse simpliciter illud 
+      <lb ed="#P" n="65"/>intelligibile quod formaliter importatur per. b. angelum possi 
+      <lb ed="#P" n="66"/>esse. et sic negatur sicut et remouetur illud intelligibile quia 
+      <lb ed="#P" n="67"/>est .b. possibile esse. alio modo quod .b. angelo cadente in non esse 
+      <!--38.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="68"/>non desinit. b. angelus posse esse. et sic conceditur: nec 
+      in<lb ed="#P" n="69" break="no"/>fertur propositum: quia nec tunc ipsum desinit esse angelus iuxta 
+      <lb ed="#P" n="70"/>illam viam. et sicut manet ipsum posse esse. ita maneret ipsum 
+      <lb ed="#P" n="71"/>esse angelum. Ad secundam probationem. in eodem sensu est 
+      <lb ed="#P" n="72"/>verum quod peccatum posse esse est peccatum. in quo sensu ve 
+      <lb ed="#P" n="73"/>rum est quod peccatum possibile esse est peccatum esse: in illa igitur 
+      <lb ed="#P" n="74"/>propositione peccatum posse esse / est peccatum. potest accipili 
+      <lb ed="#P" n="75"/>posse pro potentia subiectiua vel effectiua seu quasi 
+      <lb ed="#P" n="76"/>effectiua peccati vt sit sensus / posse peccare est peccatum 
+      <lb ed="#P" n="77"/>et sic conceditur negatiua et non probatur propositu. alio 
+      <lb ed="#P" n="78"/>modo pro potentia obiectiua et formali ipius peccati. et 
+      <lb ed="#P" n="79"/>sic negatina esset neganda Si vero peccato existente verum 
+      <lb ed="#P" n="80"/>est quod peccatum est peccatum sicut et ista. peccatum possibile esse 
+      <lb ed="#P" n="81"/>non est peccatum. foret tunc neganda. Si vero velit quis 
+      <lb ed="#P" n="82"/>tenere quod .b. angelo non existente. hec est falsa .b. angelus est 
+      <lb ed="#P" n="83"/>angelus tunc neganda esset maior principaluis
+    </p>
+            <p xml:id="D78nca-de4659-d1e4171">
+      ¶ Ad 
+      probatio<lb ed="#P" n="84" break="no"/>nem diceretur quod articulus condemnat quod hec non sit necessaria se 
+      <lb ed="#P" n="85"/>cundum fidem homo est animal. est enim necia. quia christus resurgens 
+      <lb ed="#P" n="86"/>ex mortuis iam non moritur mors illi vltra non dominabitur 
+      <lb ed="#P" n="87"/>habet enim corpus immortale quod non potest mori sicut et caelum 
+      <lb ed="#P" n="88"/>vel angelus dicuntur incorruptibilia. et iterum necessaria se 
+      <lb ed="#P" n="89"/>cundum connexionem necessariam terminorum. quia habet 
+      neces<lb ed="#P" n="90" break="no"/>sitatem veritatis oppositam contingentie secundum quam sit 
+      <lb ed="#P" n="91"/>possibile hominem non esse animal. et secundum quam possibile sit 
+      <lb ed="#P" n="92"/>aliquid sumere sub subicton de quo non dicatur praedicatum 
+      <lb ed="#P" n="93"/>immo impossibile est aliquod intelligibile esse hominem quin ipsum 
+      <lb ed="#P" n="94"/>sit animal. hanc necessitatem ponit Ansel. de 
+      concordia<lb ed="#P" n="95" break="no"/>libero arbitrio. c. 2. dicens quod non est idem rem esse praesentem / et 
+      <lb ed="#P" n="96"/>rem praesentem esse praesentem aut rem esse futuram / et rem futuram esse futu 
+      <lb ed="#P" n="97"/>ram sicut non est idem rem esse albam / et rem albam esse albam: lignum 
+      <lb ed="#P" n="98"/>enim non est semper de necessaritate album. lignum vero album 
+      <lb ed="#P" n="99"/>semper necesse est esse album. quia non potest fieri vt album lignum 
+      <lb ed="#P" n="100"/>non sit album. similiter res non necessaritate est praesens. potuit enim fie 
+      <lb ed="#P" n="101"/>ri vt praesens non esset. rem autem praesentem necesse est esse praesentem semper. quia 
+      <lb ed="#P" n="102"/>nec prius quam sit nec postque est praesens. potest praesens simul esse et non 
+      <lb ed="#P" n="103"/>praesens eodem modo res aliquai non necessaritate futura est. rem vero 
+      <lb ed="#P" n="104"/>futuram necesse est esse futuram. quoniam futurum nequit esse simul non 
+      <lb ed="#P" n="105"/>futurum. et infra cum dicimus quod omnis homo est homo. aut si est homo 
+      <lb ed="#P" n="106"/>homo est aut esse album est album. aut si est album album est necessae 
+      <lb ed="#P" n="107"/>esse. quia dicitur quod non potest aliquid simili esse et non esse. hec Ansel. ex 
+      <lb ed="#P" n="108"/>quo patet quam necitatem intendit. quia necessaritatem oppositam 
+      <lb ed="#P" n="109"/>politati. secundum quam possibile est aliquid esse hominem / et non esse 
+      <lb ed="#P" n="110"/>animal. et necessaritatem secundum quam necesse est dici praedicatum de omni 
+      <lb ed="#P" n="111"/>de quo dicitur subiectum: sed si hoc non sufficit dicatur vt supra 
+    </p>
+            <p xml:id="D78nca-de4659-d1e4234">
+               <lb ed="#P" n="112"/>¶ Aduerte quod sicut respctum rerum singularium formamus 
+      <lb ed="#P" n="113"/>ponceptus indiuiduales et specificos / et generales. ideo ex hoc 
+      <lb ed="#P" n="114"/>aliqui sunt imaginati huic varietati conceptum corresponde 
+      <lb ed="#P" n="115"/>re extra animam proportionaliter distinctionem obiectorum intel 
+      <lb ed="#P" n="116"/>ligibilium quarum vnum esset singulare et inferius. aliud commune 
+      mi<lb ed="#P" n="117" break="no"/>nus. aliud magis comne. et inde quasierunt quid sint et vbi sint et 
+      <lb ed="#P" n="118"/>qualiter distinguuntur huiusmodi obiecta intelligibilia vniversalia. sic in 
+      <lb ed="#P" n="119"/>proposito. quia de rebus existentibus et possibilibus apprehensiones va 
+      <lb ed="#P" n="120"/>rias formamus. quasdam incomplexas et quasdam complexas. et 
+      <lb ed="#P" n="121"/>harum / quasdam affirmatiuas quasdam negatiuas quaesdam 
+      <lb ed="#P" n="122"/>veras quaesdam falsas quaesdam contingentes quaesdam necessarias quaesdam in 
+      <lb ed="#P" n="123"/>possibiles quaesdam de praesenti quaesdam de futuro. Ex hoc ima 
+      <lb ed="#P" n="124"/>ginati sunt quod huiusmoi differentis apprehensionum correspondet 
+      propo<lb ed="#P" n="125" break="no"/>tionaliter differentia itelligibilium obiective terminantium. et quia non 
+      <lb ed="#P" n="126"/>potest saluari hanc differentiam esse rerum et entitatum incomplexe significa 
+      <lb ed="#P" n="127"/>bilium posuert illam esse quaerundam intelligibilium complexe significabi 
+      <lb ed="#P" n="128"/>lium sed non est ita secundum veritatem: sed tantum secundum similitudinem et mo 
+      <lb ed="#P" n="129"/>dum intelligendi. intelligimus enim varie et res variantur quasi cor 
+      <lb ed="#P" n="130"/>responderent obiecta talia. sic etiam quia omne praedicatum concretum 
+      <lb ed="#P" n="131"/>attribuitur subiencto quasi apponeret formam simplicem ideo 
+      <lb ed="#P" n="132"/>ex hoc imaginati sunt aliqui in multis probationibus 
+      <lb ed="#P" n="133"/>huiusmodi formas correspondere licet nonsit ita. de hac mate 
+      <lb ed="#P" n="134"/>ria dicetur inferius. di. 2. et di. 3. et di. 3o
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

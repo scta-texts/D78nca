@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#AndreasDeNovoCastro">Andreas de Novo Castro</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-23">July 23, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DnVCas">Paris 1514</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="161-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="D78nca-f05738"><!-- l1d37q1 -->
+            <head xml:id="D78nca-f05738-Hd1e108">Quaestio 1</head>
+            <head xml:id="D78nca-f05738-Hd1e111" type="question-title">
+      Utrum deus sit 
+      actualiter extra celum praesens spacio 
+      infinito ymaginario.
+    </head>
+            <p xml:id="D78nca-f05738-d1e114">
+      ¶ Sequitur distinctio. 37. 
+      <lb ed="#P" n="5"/>CIrca distinctionem 
+      <lb ed="#P" n="6"/>37 in qua magister tractat quali 
+      <lb ed="#P" n="7"/>ter deus per suam immensitatem 
+      <lb ed="#P" n="8"/>est vbique et in qua inquirit vbi erat 
+      <lb ed="#P" n="9"/>deus ante mundi constitutionem 
+      <lb ed="#P" n="10"/>Quero Utrum deus sit actuali 
+      <lb ed="#P" n="11" break="no"/>ter extra celum praesens spacio infi 
+      <lb ed="#P" n="12" break="no"/>nito ymaginario.
+    </p>
+            <p xml:id="D78nca-f05738-d1e134">
+      Quod sic: quia de 
+      <lb ed="#P" n="13"/>us intelligit intuitiue et distincte 
+      <lb ed="#P" n="14"/>huiusmodi spacium infinitum extra celum: quia etiam 
+      <lb ed="#P" n="15"/>nos intelligimus illud confuse: igitur est actu presens il 
+      <lb ed="#P" n="16"/>li. Probatio consequentie: quia omne obiectum actu 
+      <lb ed="#P" n="17"/>intellectum a deo est actualiter presens deo: nisi 
+      il<lb ed="#P" n="18" break="no"/>lud obiectum sit figmentum vel nisi sit tantum in po 
+      <lb ed="#P" n="19"/>tentia: sed huiusmodi spacium non est figmentum: quod 
+      <lb ed="#P" n="20"/>mundus iste actualiter est in quadam portione illius 
+      <lb ed="#P" n="21"/>determinata intellectualiter acceptibili et significabili. non 
+      <lb ed="#P" n="22"/>est etiam tantum in potentia: quia non solum 
+      possibi<lb ed="#P" n="23" break="no"/>le est esse spacium vacuum extra celum: sed etiam actua 
+      <lb ed="#P" n="24"/>liter ponitur actualitate correspondente tali 
+      intelli<lb ed="#P" n="25" break="no"/>gibili priuatiuo: quomodo dicitur aliquis actu cecus / vel 
+      ce<lb ed="#P" n="26" break="no"/>citas actualiter conuenire ceco: et quomodo diceretur 
+      <lb ed="#P" n="27"/>actualiter locus esse vacuus.
+    </p>
+            <p xml:id="D78nca-f05738-d1e169">
+      ¶ Contra / quia frustra po 
+      <lb ed="#P" n="28"/>nitur actu esse presens vbi nihil agit / nec egit / nec 
+      a<lb ed="#P" n="29" break="no"/>get. esset enim ibi ociose. Primo inducentur rationes pro 
+      <lb ed="#P" n="30"/>pter quas diuersi tenent partes oppositas 
+      questio<lb ed="#P" n="31" break="no"/>nis.
+    </p>
+            <p xml:id="D78nca-f05738-d1e181">
+      ¶ Secundo respondebitur 
+      <lb ed="#P" n="32"/>¶ Quantum ad primum arguitur quod deus sit actualiter pre 
+      <lb ed="#P" n="33"/>sens illi spacio infinito extra celum. Probatur sic.  
+      <lb ed="#P" n="34"/>Deus ante mundi creationem erat actu in huiusmo 
+      <lb ed="#P" n="35"/>di spacio infinito ymaginabili: igitur et nunc est. Con 
+      <lb ed="#P" n="36"/>sequentia patet. tum / quia non est ratio negandi nunc 
+      <lb ed="#P" n="37"/>magis quam tunc. tum / quia propter creationem 
+      mun<lb ed="#P" n="38" break="no"/>di non deseruit illa spacia: alioquin mutatus fuisset 
+      <lb ed="#P" n="39"/>Antecedens probatur: quia ante mundi creationem 
+      <lb ed="#P" n="40"/>deus erat actualiter: igitur in toto huiusmodi spacio vel in 
+      <lb ed="#P" n="41"/>aliqua portione / seu differentia illius per 
+      ymagina<lb ed="#P" n="42" break="no"/>tionem acceptibili / et significabili. non enim videtur 
+      intelligi<lb ed="#P" n="43" break="no"/>bile quod aliqua res actualiter existat: quin sit in aliquo 
+      <lb ed="#P" n="44"/>situ actuali vel potentiali / et ymaginario finito / vel 
+      <lb ed="#P" n="45"/>infinito. Non potest autem dari quod esset in finita 
+      portio<lb ed="#P" n="46" break="no"/>ne illius spacii: quia non est maior ratio de vna portio 
+      <lb ed="#P" n="47"/>ne quam de alia: igitur erat in toto.
+    </p>
+            <p xml:id="D78nca-f05738-d1e218">
+      ¶ Secundo. Deus 
+      an<lb ed="#P" n="48" break="no"/>te mundi creationem erat in spacio in quo nunc ymagi 
+      <lb ed="#P" n="49"/>namur mundum: et cui nunc esse presens yrmaginatur 
+      <lb ed="#P" n="50"/>mundus et intelligitur: igitur et nunc est: et ab eterno erat 
+      <lb ed="#P" n="51"/>in spacio extra celum. Consequentia probatur: quia si ante 
+      <lb ed="#P" n="52"/>mundi creationem erat vbi nunc est mundus. hoc non 
+      <lb ed="#P" n="53"/>erat: quia ibi esset aliqua creatura: sed quia ibi poterat crea 
+      <lb ed="#P" n="54"/>re: igitur cum nunc / et ab eterno posset consimiliter crea 
+      <lb ed="#P" n="55"/>re mundum istum / vel alium in spacio extra sequitur quod non 
+      <lb ed="#P" n="56"/>minus est ibidem quam esset ab eterno praesens isti spacio in quo 
+      <lb ed="#P" n="57"/>nunc intelligiter mundus esse. Antecedens probatur primo: quia 
+      <lb ed="#P" n="58"/>si prius non erat praesens isti spacio / et modo sit presens: igitur 
+      <lb ed="#P" n="59"/>in creatione mundi mutatus.
+    </p>
+            <p xml:id="D78nca-f05738-d1e247">
+      ¶ Secundo / quia deum agere 
+      <lb ed="#P" n="60"/>mundum in hoc spacio: praesupponit deum esse in hoc 
+      spa<lb ed="#P" n="61" break="no"/>cio et prius naturaliter est deus hic quam agat hic et prius 
+      na<lb ed="#P" n="62" break="no"/>turaliter est in aliquo spacio quam agat lbi. Probo: quia 
+      <lb ed="#P" n="63"/>sicut deum agere ad deum esse: sic deum agere in aliquo 
+      <lb ed="#P" n="64"/>spacio ad deum esse in illo spacio sed deum agere 
+      prae<lb ed="#P" n="65" break="no"/>supponit deum esse: igitur. etc.
+    </p>
+            <p xml:id="D78nca-f05738-d1e263">
+      ¶ Tertio deus posset nunc 
+      <lb ed="#P" n="66"/>creare aliquod corpus extra caelum: igitur iam actualiter 
+      <!--332.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>preexistit ibidem. Consequentia probatur. tum / quia esse 
+      <lb ed="#P" n="68"/>illic praexigitur et intelligitur huic quod est agere illic. tum 
+      <lb ed="#P" n="69"/>quia si modo non sit illic et fieret nouiter illie: sequitur 
+      <lb ed="#P" n="70"/>quod mutaretur localiter. Consequens est falsum secundum magistrum 
+      <lb ed="#P" n="71"/>distinctione ista. ca. penultimo. Deus enim est omnino 
+      <lb ed="#P" n="72"/>immutabilis localiter. Et Augustinus octauo super 
+      <lb ed="#P" n="73"/>genesim cap. vltimo. Non debemus opinari 
+      substan<lb ed="#P" n="74" break="no"/>tiam dei temporibus / locisque mutabilem / ac per tem 
+      <lb ed="#P" n="75"/>pora / et loca mobilem. Consequentia probatur: quia illud  
+      <lb ed="#P" n="76"/>mutatur localiter: quod nunc est alicubi et prius non 
+      <lb ed="#P" n="77"/>erat ibi / sed alibi: et quod incipit esse nouiter vbi prius 
+      <lb ed="#P" n="78"/>non erat et desinit esse vbi prius erat: et quod transit de 
+      si<lb ed="#P" n="79" break="no"/>tu in situm. Sic autem esset: si deus crearet alium 
+      mun<lb ed="#P" n="80" break="no"/>dum extra celum / et annichilaret mundum istum: tunc 
+      <lb ed="#P" n="81"/>inciperet esse praesens illi spacio extra celum / et desineret 
+      <lb ed="#P" n="82"/>esse praesens illi spacio in quo intelligitur mundus iste nunc 
+      <lb ed="#P" n="83"/>esse.
+    </p>
+            <p xml:id="D78nca-f05738-d1e309">
+      ¶ Dices. deus non mutabitur. sed fit ibidem no 
+      <lb ed="#P" n="84"/>uiter praesens per mutationem et nouitatem realem corpo 
+      <lb ed="#P" n="85"/>ris / et per nouam positionem corporis ibidem. 
+    </p>
+            <p xml:id="D78nca-f05738-d1e316">
+               <lb ed="#P" n="86"/>¶ Contra. si deus fit ibi nouiter solum ratione corporis 
+      <lb ed="#P" n="87"/>et per mutationem vel nouitatem corporis / et propter 
+      <lb ed="#P" n="88"/>nouam positionem corporis ibidem: sequitur quod prius na 
+      <lb ed="#P" n="89"/>turaliter est ibidem corpus illud quam deus. Consequens est 
+      <lb ed="#P" n="90"/>falsum. tum / quia cum naturaliter prius possit esse sine 
+      <lb ed="#P" n="91"/>posteriori non econtra. 5. meth. sequitur quod illud corpus 
+      <lb ed="#P" n="92"/>posset illie esse sine deo: non econtra. tum / quia corpus 
+      <lb ed="#P" n="93"/>esse illic praesupponit deum creare vel creasse ibidem 
+      cor<lb ed="#P" n="94" break="no"/>pus illud: sed deum creare illic praesupponit deum esse 
+      ibi<lb ed="#P" n="95" break="no"/>dem: igitur corpus esse illic: non est prius quam deum esse illic 
+      <lb ed="#P" n="96"/>Esset enim prius naturaliter ibi quam deus crearet illud.
+    </p>
+            <p xml:id="D78nca-f05738-d1e343">
+      ¶ Item. 
+      <lb ed="#P" n="97"/>contra responsionem probo quod non minus ymo magis 
+      <lb ed="#P" n="98"/>dicendum tunc est deum mutari localiter quam corpus: quia 
+      <lb ed="#P" n="99"/>mutari localiter est se habere nunc et prius aliter et aliter sed 
+      <lb ed="#P" n="100"/>locum: et esse nunc et prius alibi et alibi: sed hoc non 
+      con<lb ed="#P" n="101" break="no"/>uenit illi corpori: quia cum prius nichil esset sequitur 
+      <lb ed="#P" n="102"/>quod nullibi erat: nec aduenit nouiter ad locum: sed deus 
+      <lb ed="#P" n="103"/>prius existens alibi aduenit / et accedit nouiter ad spaci 
+      <lb ed="#P" n="104"/>um in quo non erat: et deserit locum in quo prius erat 
+    </p>
+            <p xml:id="D78nca-f05738-d1e363">
+               <lb ed="#P" n="105"/>¶ Quarto. Deus potest esse extra celum absque 
+      po<lb ed="#P" n="106" break="no"/>sitione aliculus creature ibidem: igitur iam actum existit il 
+      <lb ed="#P" n="107"/>lic. Consequentia probatur: quia si deus non sit extra 
+      ce<lb ed="#P" n="108" break="no"/>um: et potest ibi esse sine positione creature. ponatur 
+      <lb ed="#P" n="109"/>in esse: tunc sequitur quod deus mutatur seu sequitur deum 
+      <lb ed="#P" n="110"/>mutari. Probo: quia esset transitus contradictionis: 
+      <lb ed="#P" n="111"/>igitur mutatio in aliquo non in creatura: quia ibi non 
+      po<lb ed="#P" n="112" break="no"/>nitur esse: igitur in deo. Antecedens probatur: quia angelus 
+      <lb ed="#P" n="113"/>potest esse extra celum sine corpore. Probo: quia si deus 
+      <lb ed="#P" n="114"/>crearet ibi angelum cum corpore potest annichilare illud 
+      <lb ed="#P" n="115"/>corpus conseruato angelo non moto: vt si angelus sit 
+      <lb ed="#P" n="116"/>in aere medio alicuius domus potest deus parietibus 
+      <lb ed="#P" n="117"/>non motis: et angelo non moto annichilare aerem: et re 
+      <lb ed="#P" n="118"/>maneret angelus in vacuo spacio sine corpore: igitur 
+      <lb ed="#P" n="119"/>et potest simpliciter esse extra celum: igitur pari rationem 
+      <lb ed="#P" n="120"/>deus potest ibidem esse cum corpore et post modum 
+      an<lb ed="#P" n="121" break="no"/>nichilato corpore non desinet deus illic esse: sicut nec 
+      <lb ed="#P" n="122"/>necesse erat angelum desinere esse: et ita deus posset 
+      <lb ed="#P" n="123"/>esse pluries in eodem situ potentiali ymaginatiuo cum inter 
+      <lb ed="#P" n="124"/>ruptionibus et successionibus
+    </p>
+            <p xml:id="D78nca-f05738-d1e409">
+      ¶ Quinto. deus est extra caelum per po 
+      <lb ed="#P" n="125"/>tentiam. igitur est ibi per essentiam / et presentiam. 
+      <lb ed="#P" n="126"/>Antecedens patet: quia potest agere aliquid ibidem. 
+      Con<lb ed="#P" n="127" break="no"/>sequentia probatur: quia propter infinitatem et immensitatem po 
+      <lb ed="#P" n="128"/>tentie sue est illic secundum potentiam: sed non minus est 
+      <lb ed="#P" n="129"/>infinitus / et immensus secundum essentiam: igitur sua 
+      immensi<lb ed="#P" n="130" break="no"/>tas est ratio essendi illic secundum essentiam.
+    </p>
+            <p xml:id="D78nca-f05738-d1e425">
+      ¶ Sexto. 
+      si<lb ed="#P" n="131" break="no"/>cut eternitas ad esse semper / sic immensitas ad esse 
+      vbi<lb ed="#P" n="132" break="no"/>que: sed deus ratione eternitatis fuit semper ab eterno 
+      <!--333.xml-->
+      <pb ed="#P" n="161-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>pro tempe infinito ymaginario: ergo ratione immensitatis fuit ab 
+      <lb ed="#P" n="2"/>eterno vbique in spacio ymaginario infinito.
+    </p>
+            <p xml:id="D78nca-f05738-d1e443">
+      ¶ Sep 
+      <lb ed="#P" n="3" break="no"/>timo. Deus ex eo quod est perfectionis infinite est tam perfe 
+      <lb ed="#P" n="4"/>ctum quod maius eo cogitari non potest. Et quia est bonum 
+      in<lb ed="#P" n="5" break="no"/>finitum melius eo sine contradictione cogitari non 
+      po<lb ed="#P" n="6" break="no"/>test: et quia est aeternus tantum durat quod aliquis plus durare non 
+      <lb ed="#P" n="7"/>potest cogitari. Igitur cum sit infinite immensus: est praesens 
+      <lb ed="#P" n="8"/>tanto spacio: quod in maiori spacio aliquid esse cogitari 
+      <lb ed="#P" n="9"/>non potest. Si autem sit tantum praesens spacio in quo intelligitur 
+      <lb ed="#P" n="10"/>mundus iste aliquid esse in maiori spacio cogitari potest fa 
+      <lb ed="#P" n="11"/>ciliter absque contradictione: igitur.
+    </p>
+            <p xml:id="D78nca-f05738-d1e465">
+      ¶ Octauo. quod non 
+      <lb ed="#P" n="12"/>est imperfectionis: nec derogat: sed potius consonat di 
+      <lb ed="#P" n="13"/>vine perfectioni et immensitati non est deo denegandum 
+      <lb ed="#P" n="14"/>sed deum esse in spacio infinito ymaginario extra mun 
+      <lb ed="#P" n="15"/>dum est huiusmodi. Magis enim consonat infinite 
+      e<lb ed="#P" n="16" break="no"/>ius magnitudini. de qua psalmista. Magnitudinis 
+      <lb ed="#P" n="17"/>eius non est finis: ymo oppositum videtur derogare eius 
+      <lb ed="#P" n="18"/>immensitati: quia si sit precise in tam paruo spacio in 
+      <lb ed="#P" n="19"/>quo est mundus: iagister diffinitur / et determinatur / et 
+      con<lb ed="#P" n="20" break="no"/>cluditur loco: quod est contra magistrum in distin. praesenti 
+      <lb ed="#P" n="21"/>Patet etiam ex nomine immensitatis. Immensus enim idem 
+      <lb ed="#P" n="22"/>est quod non mensus / nec mensuratus. Eius autem existentiam et 
+      <lb ed="#P" n="23"/>praesentiam esset mensa et commensurata adequate magnitudini fini 
+      <lb ed="#P" n="24"/>te huius mundi.
+    </p>
+            <p xml:id="D78nca-f05738-d1e497">
+      ¶ Confirmatur. possibile esset creaturam esse vbi 
+      <lb ed="#P" n="25"/>que non minus quamsit deus: quia posset esse praesens toti mundo nunc 
+      <lb ed="#P" n="26"/>existenti: quia angelus vel corpus potest poni in pluribus locis
+    </p>
+            <p xml:id="D78nca-f05738-d1e504">
+      ¶ No 
+      <lb ed="#P" n="27"/>no. ad hoc videntur plures autctoritates. Primo illud <ref xml:id="D78nca-f05738-Rd1e508">Ba 
+      <lb ed="#P" n="28"/>ruch. 3o. ca.</ref> o israel quam magna est domus dei et ingens locus 
+      <lb ed="#P" n="29"/>possessionis eius / magnus / et non habens finem: excelsus / et 
+      in<lb ed="#P" n="30" break="no"/>mensus Item. <ref xml:id="D78nca-f05738-Rd1e517">3. Regum. 8.</ref> celum et celi caelorum te capere 
+      <lb ed="#P" n="31"/>non possunt. Item <ref xml:id="D78nca-f05738-Rd1e523">Iob. 2o.</ref> excelsior celo est / et quid facies 
+      <lb ed="#P" n="32"/>profundior inferno. et vnde cognosces longior terra: mensura 
+      <lb ed="#P" n="33"/>eius et latior mari. Item ecclesia cantat. Uirgo dici geni 
+      <lb ed="#P" n="34"/>trix quem totus non capit orbis. etc.
+    </p>
+            <p xml:id="D78nca-f05738-d1e533">
+      ¶ Item. <ref xml:id="D78nca-f05738-Rd1e535">Aug. 8. su 
+      <lb ed="#P" n="35"/>per Gen. ca. vlti.</ref> Deus potentia sua excellenti et incommu 
+      <lb ed="#P" n="36"/>mutabili est interior omni re: quia in ipso sunt omnia et exterior 
+      <lb ed="#P" n="37"/>omni re: igitur secundum Aug. est in omnibus et extra omnia.
+    </p>
+            <p xml:id="D78nca-f05738-d1e545">
+      ¶ Item 
+      <lb ed="#P" n="38"/>per dictum hermetis. deus est sphera cuius centrum est vbique: 
+      <lb ed="#P" n="39"/>et circumferentia nusquam. Et idem. Deus est sphera cui tot 
+      <lb ed="#P" n="40"/>sunt circumferentie quot puncta.
+    </p>
+            <p xml:id="D78nca-f05738-d1e554">
+      ¶ Decimo. hec videtur 
+      <lb ed="#P" n="41"/>intentio <ref xml:id="D78nca-f05738-Rd1e558">augu. 2 ciui. ca. 5.</ref> dicentis sic. Querentibus de 
+      <lb ed="#P" n="42"/>mundi tempore cur potius tunc / et non antea factus sit 
+      di<lb ed="#P" n="43" break="no"/>camus quid ipsi respondeant de mundi loco. Nam si infinita 
+      <lb ed="#P" n="44"/>spacia temporis in mundum cogitant in quibus non videtur eis 
+      <lb ed="#P" n="45"/>deus ab opere cessare potuisse. similiter cogitant extra mun 
+      <lb ed="#P" n="46"/>dum infinita spacia locorum: in quibus si quis dicat non potuis 
+      <lb ed="#P" n="47"/>se vacare omnipotentem: consequens esset: vt 
+      innumera<lb ed="#P" n="48" break="no"/>biles mundos somniare cogatur: sequitur an forte substan 
+      <lb ed="#P" n="49"/>tiam dei a tantis spaciis locorum extra mundum 
+      absen<lb ed="#P" n="50" break="no"/>tem esse dicturi sunt. Et vno tantum tam exiguo loco in 
+      <lb ed="#P" n="51"/>quo mundus est esse occupatam Non opinor eos in hec 
+      <lb ed="#P" n="52"/>vaniloquia progressuros. hec augu.
+    </p>
+            <p xml:id="D78nca-f05738-d1e586">
+      ¶ In oppositum 
+      <lb ed="#P" n="53"/>frustra / et inconuenienter ponitur deus esse actu praesens ei: quod 
+      <lb ed="#P" n="54"/>omnino nichil est: nec potest esse aliquid magis quam chymera: 
+      <lb ed="#P" n="55"/>et spacium infinitum ex caelum est huiusmodi: igitur. Maior proba 
+      <lb ed="#P" n="56"/>tur: quia aliter dicerentur conuenientur deus esse actualiter in chy 
+      <lb ed="#P" n="57"/>mera / et hyroceruo et figmentis. Minor probatur: quia vel est 
+      <lb ed="#P" n="58"/>actu productum vel producibile et in potentia. non primum: quia 
+      a<lb ed="#P" n="59" break="no"/>liquod infinitum esset actualiter productum a deo ab aeterno. non 
+      <lb ed="#P" n="60"/>secundum. tum / quia ponatur produci / et esset aliquid positiuum: et 
+      <lb ed="#P" n="61"/>tamen esset vacuum vt nunc. tum / quia si sit aliquid tantum in 
+      poten<lb ed="#P" n="62" break="no"/>tia producibile: igitur deus non est actu praesens illi vel in illo: qui 
+      <lb ed="#P" n="63"/>deus non est in creatura creanda. vt in antichristo futuro. Ex quo 
+      <lb ed="#P" n="64"/>secundo arguitur sic. deus ante mundi creationem no erat praesens actua 
+      <lb ed="#P" n="65"/>liter creaturis futuris: nec actualiter erat in eis: igitur nec 
+      <lb ed="#P" n="66"/>in huiusmodi spacio. consequentia probatur: quia huiusmodi spacium non minus est 
+      <!--333.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>omnino et proprie nihil quam creatura creanda. immo magis: quia 
+      in<lb ed="#P" n="68" break="no"/>possibile est ipsum esse aliquid praeter deum et creaturas causabiles ef 
+      <lb ed="#P" n="69"/>fectiue a deo
+    </p>
+            <p xml:id="D78nca-f05738-d1e631">
+      ¶ Tertio / vel huiusmodi spacium infinitum est omni 
+      <lb ed="#P" n="70"/>bus intelligibile positiuum aut privatiuum. non primum / quia 
+      <lb ed="#P" n="71"/>esset actu quantum positiuum / infinitum / eternum. Si secundum 
+      <lb ed="#P" n="72"/>igitur alicuius positiui / privatiuum et non nisi quanti infiniti cor 
+      <lb ed="#P" n="73"/>poris: sed deus non est in priuationbus rerum causbilium: 
+      <lb ed="#P" n="74"/>et vltra cum priuatio tollatur per positionem positiui cuius est 
+      pri<lb ed="#P" n="75" break="no"/>uatio: magister positio huius mundi est remotio huius 
+      spa<lb ed="#P" n="76" break="no"/>cii ymaginarii in quo deus prius intendebat mundum 
+      crea<lb ed="#P" n="77" break="no"/>re: igitur mundus iste non est nunc praesens illi spacio: quia non est praesens 
+      <lb ed="#P" n="78"/>sue priuationi: igitur nec deus est nunc praesens illi spacio in quo ab 
+      <lb ed="#P" n="79"/>eterno voluit mundum creare.
+    </p>
+            <p xml:id="D78nca-f05738-d1e655">
+      ¶ Quarto. vel huiusmodi 
+      spa<lb ed="#P" n="80" break="no"/>cium habet actu formaliter et veraciter differentias distinctas quasi 
+      par<lb ed="#P" n="81" break="no"/>tes et portiones sui: aut non. si secundum / igitur fictio et falsum est di 
+      <lb ed="#P" n="82"/>cere quod mundus iste sit in quadam parte / vel portione vel differentia 
+      il<lb ed="#P" n="83" break="no"/>lius spacii tantum: et quod aer sit in alia portione eius et ignis in 
+      <lb ed="#P" n="84"/>alia. si primum / contra tum per <ref xml:id="D78nca-f05738-Rd1e668">arist. 4. phisi.</ref> quia penitus nichil est 
+      <lb ed="#P" n="85"/>nec substantia / nec accidens: tum / quia esset actu quantum infinitum. tum / 
+      <lb ed="#P" n="86"/>quia esset primo et essentialiter locus et conuenientius quam superficies con 
+      <lb ed="#P" n="87"/>tinens: quia ei primo / et essentialiter / et immobiliter / et inuariabiliter 
+      <lb ed="#P" n="88"/>conuenirent differentie positionis secundum quas corpus locabile natum est esse 
+      <lb ed="#P" n="89"/>alibi et alibi: et secundum quarum immobilitatem attenditur primo immo 
+      <lb ed="#P" n="90"/>bilitas loci / et identitas vel diuersitas formalis locorum: hec 
+      <lb ed="#P" n="91"/>enim superficies ambiens non erit formaliter et immobliter hic locus 
+      <lb ed="#P" n="92"/>nisi vt in hac differentia talis spacii.
+    </p>
+            <p xml:id="D78nca-f05738-d1e689">
+      ¶ Quinto. sicut aeternitas 
+      <lb ed="#P" n="93"/>ad semper esse / sic immensitas ad vbique esse: sed deus non erat 
+      ra<lb ed="#P" n="94" break="no"/>tione aeternitatis praesens actu tempori infinito ymaginario: 
+      <lb ed="#P" n="95"/>a parte ante: quia tempus / nihil omnino erat: sicut nec est modo actua 
+      <lb ed="#P" n="96"/>liter in tempore infinito / futuro / ymaginario: sicut nec est actu 
+      <lb ed="#P" n="97"/>in antichristo futuro. licet ista sint praesentia ei tamquam cognitum 
+      <lb ed="#P" n="98"/>obiectum virtuti cognoscenti: igitur nec ratione immensitatis erat praesens 
+      <lb ed="#P" n="99"/>actu infinito spatio ymaginario.
+    </p>
+            <p xml:id="D78nca-f05738-d1e707">
+      ¶ Sexto. frustra et 
+      <lb ed="#P" n="100"/>in conuenienter ponitur deus actualiter esse praesens illic vbi 
+      <lb ed="#P" n="101"/>nichil agit: nec vnquam egit: nec vnquam. aget.
+    </p>
+            <p xml:id="D78nca-f05738-d1e714">
+      ¶ Septimo 
+      <lb ed="#P" n="102"/>possibile est deum nunc actualiter agere in toto spacio 
+      <lb ed="#P" n="103"/>in quo nunc est actualiter: igitur possibile est vt nunc actua 
+      <lb ed="#P" n="104"/>liter agat per totum spacium infinitum. Infinitas enim po 
+      <lb ed="#P" n="105"/>tentie non minus potest agere vbique quam immensitas sue 
+      <lb ed="#P" n="106"/>essentie est potens esse vbique: igitur possibile est vt nunc 
+      <lb ed="#P" n="107"/>sit actu corpus infinitum: ex omni differentia positionis consequens supponitur 
+      <lb ed="#P" n="108"/>nunc esse impossibile.
+    </p>
+            <p xml:id="D78nca-f05738-d1e732">
+      ¶ Octauo. non est ponenda pluralitas: 
+      <lb ed="#P" n="109"/>yrmo infinitas sine necessitate: igitur non sunt ponenda 
+      <lb ed="#P" n="110"/>infinita spacia et infinite praesentie dei ad illa infinita spa 
+      <lb ed="#P" n="111"/>cia. Si quis autem dicat quod huiusmodi spacium ymaginarium infi 
+      <lb ed="#P" n="112"/>nitum est ipse deus
+    </p>
+            <p xml:id="D78nca-f05738-d1e744">
+      ¶ Contra. tum / quia in huiusmodi spacio 
+      <lb ed="#P" n="113"/>intelliguntur differentie positionis secundum quas hoc 
+      cor<lb ed="#P" n="114" break="no"/>pus dicitur esse hic in hac portione illius spacii: et alia pars 
+      <lb ed="#P" n="115"/>mundi in alia: et secundum cuius immobilitatem dicitur locus 
+      <lb ed="#P" n="116"/>iste immobilis. tum / quia si deus causaret alium mundum extra 
+      <lb ed="#P" n="117"/>istum sequitur quod non esset in alio loco huius spacii: ymo in 
+      <lb ed="#P" n="118"/>eodem spacio. et secundum idem esset iste mundus: et ille: quod est 
+      <lb ed="#P" n="119"/>falsum: quia hoc repugnat rationibus partis aduerse: tum / 
+      <lb ed="#P" n="120"/>quia dicere deum esse in huiusmodi spacio: non esset forma 
+      <lb ed="#P" n="121"/>liter nisi deum esse in seipso. sed hoc saluatur: esto quod non sit 
+      ex<lb ed="#P" n="122" break="no"/>tra caelum: nec per hoc euaditur quod deus non sit mutabilis secundum si 
+      <lb ed="#P" n="123"/>tum. tum / quia deus esset locus et vacuum infinitum: tum / 
+      <lb ed="#P" n="124"/>quia destructo aere huius domus deus formaliter non est va 
+      <lb ed="#P" n="125"/>cuum spacium inter parietes.
+    </p>
+            <p xml:id="D78nca-f05738-d1e775">
+      ¶ Respondeo. 
+      <lb ed="#P" n="126"/>est ista: deus non est 
+      <lb ed="#P" n="127"/>Prima propositio actualiter praesens in spa 
+      <lb ed="#P" n="128"/>tio extra celum. Probatur. illud tanquam probabilius 
+      vi<lb ed="#P" n="129" break="no"/>detur ponendum: quod magis consonat positioni philosophorum: 
+      <lb ed="#P" n="130"/>et quod foret ponendum ab homine precise stante in lumine 
+      <lb ed="#P" n="131"/>naturali rationum naturalium si illi non obuiat fides vel scri 
+      <lb ed="#P" n="132"/>ptura sacra vel determinatio ecclesie vel doctrina san 
+      <!--334.xml-->
+      <pb ed="#P" n="162-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ctorum. Patet. Sicut enim in his quae sunt iuris / et 
+      iusti<lb ed="#P" n="2" break="no"/>cie si sit aliquod dubium non sufficienter terminabile 
+      <lb ed="#P" n="3"/>per iura positiua scripta recurrendum est ad ius naturale 
+      <lb ed="#P" n="4"/>sic in dubiis non sufficienter terminabilibus per scrip 
+      <lb ed="#P" n="5"/>turas canonicas videtur dicendum conformiter rationi na 
+      <lb ed="#P" n="6"/>turali: sed deum non esse extra celum habent ponere philo 
+      <lb ed="#P" n="7"/>sophi: et homo vtens precise ratione naturali. nec hoc 
+      ob<lb ed="#P" n="8" break="no"/>uiat fidei / vel doctrine sanctorum. Probo: quia vt re 
+      <lb ed="#P" n="9"/>citat Magister distin. praesenti: cap. 3. aliqui quasierunt a do 
+      <lb ed="#P" n="10"/>ctoribus sanctis vbi erat. et habitabat deus ante mun 
+      <lb ed="#P" n="11"/>di creationem et recitat responsionem Augustini lib. 2o. 
+      <lb ed="#P" n="12"/>contra Maximum. cap. 21 quod deus erat in se: et habitat 
+      <lb ed="#P" n="13"/>in seipso / et apud seipsum: nec inuenitur responsum a 
+      <lb ed="#P" n="14"/>sanctis quod esset in spacio infinito. Magister etiam in 
+      <lb ed="#P" n="15"/>praesenti distinctione non respondet quod deus esset in 
+      huiusmo<lb ed="#P" n="16" break="no"/>di spacio infinito sed in seipso. Si tamen deum esse in 
+      <lb ed="#P" n="17"/>huiusmodi spacio infinito foret verum et si sancti 
+      re<lb ed="#P" n="18" break="no"/>putassent necessarium esse secundum veritatem fidei dicere quod 
+      <lb ed="#P" n="19"/>deus sit in huiusmodoi spacio: non videtur quin hanc re 
+      <lb ed="#P" n="20"/>sponsionem dedissent: quia hec responsio offert se statim 
+      in<lb ed="#P" n="21" break="no"/>tellectui cui fit ista quaestio.
+    </p>
+            <p xml:id="D78nca-f05738-d1e845">
+      ¶ Preterea. doctores 
+      an<lb ed="#P" n="22" break="no"/>tiqui videntur magis assentire isti parti. nam <ref xml:id="D78nca-f05738-Rd1e849">
+                  <name xml:id="D78nca-f05738-Nd1e851">Magister 
+      <lb ed="#P" n="23"/>Alexander de halis</name> in prima parte summe. q. 47.</ref> vbi 
+      <lb ed="#P" n="24"/>inquirit an deus sit extra celum dicit quod deus non est vbique 
+      <lb ed="#P" n="25"/>ab eterno secundum actum: sed secundum potentiam.
+    </p>
+            <p xml:id="D78nca-f05738-d1e862">
+      ¶ Item 
+      <ref xml:id="D78nca-f05738-Rd1e864">
+                  <name xml:id="D78nca-f05738-Nd1e866">Bonauen<lb ed="#P" n="26" break="no"/>tura</name> super primum sen. distin. praesenti</ref> dicit quod deus non est 
+      a<lb ed="#P" n="27" break="no"/>ctum extra celum: cum extra celum nichil sit.
+    </p>
+            <p xml:id="D78nca-f05738-d1e875">
+      ¶ Item. 
+      <lb ed="#P" n="28"/>
+               <ref xml:id="D78nca-f05738-Rd1e879">magister Iohannes Scotus distinctione eadem</ref> dicit 
+      <lb ed="#P" n="29"/>quod non est ymaginandum spacium infinitum ante 
+      mun<lb ed="#P" n="30" break="no"/>di creationem: quasi ibi fuerit deus praesens per 
+      essenti<lb ed="#P" n="31" break="no"/>am: ymo non vt alicui presens per essentiam fuit po 
+      <lb ed="#P" n="32"/>tens facere mundum.
+    </p>
+            <p xml:id="D78nca-f05738-d1e892">
+      ¶ Item. <ref xml:id="D78nca-f05738-Rd1e894">dominus Guillermus Altisiodo 
+      <lb ed="#P" n="33"/>rensis. primo lib. circa finem</ref> dicit quod deus est extra mundum 
+      <lb ed="#P" n="34"/>sed exponens et explicans qualiter hoc sit verum dicit 
+      <lb ed="#P" n="35"/>quod deus est extra mundum potentia: quia si infiniti mun 
+      <lb ed="#P" n="36"/>di essent: deus omnes illos repleret. Est etiam quo 
+      <lb ed="#P" n="37"/>dam modo extra mundum actu: quia est in seipso qui ma 
+      <lb ed="#P" n="38"/>ior est mundo. Deus enim sibiipsi locus est. hec ille
+    </p>
+            <p xml:id="D78nca-f05738-d1e912">
+               <lb ed="#P" n="39"/>Secunda propositio. Non est possibi 
+      <lb ed="#P" n="40"/>le deum esse actu 
+      <lb ed="#P" n="41"/>aliter in spacio infinito extra caelum. Probatur: quia si sit 
+      <lb ed="#P" n="42"/>possibile: igitur possibile est deum actualiter agere per to 
+      <lb ed="#P" n="43"/>tum huiusmodi spacium infinitum: igitur possibile 
+      es<lb ed="#P" n="44" break="no"/>set esse nunc actualiter corpus infinitum ex omni diffe 
+      <lb ed="#P" n="45"/>rentia quod pro nunc supponitur falsum.
+    </p>
+            <p xml:id="D78nca-f05738-d1e930">
+               <lb ed="#P" n="46"/>Tertia propositio. Possibile est deum esse 
+      <lb ed="#P" n="47"/>extra ceium nulla crea 
+      <lb ed="#P" n="48"/>tura tunc existente / et praesente actualiter extra caelum. pro 
+      <lb ed="#P" n="49"/>bo: quia deus potest creare. b. creaturam extra celum:  
+      <lb ed="#P" n="50"/>et esset illi deus presens: sed potest illam destruere: nec 
+      <lb ed="#P" n="51"/>tamen desineret necessario deus esse illic. Probo: quia pos 
+      <lb ed="#P" n="52"/>set spiritum angelicum creare extra celum sine aliqua alia 
+      <lb ed="#P" n="53"/>creatura. quia si foret ibi angelus cum corpore deus pos 
+      <lb ed="#P" n="54"/>set annichilare illud corpus angelo non moto. igitur 
+      <lb ed="#P" n="55"/>et spiritus diuinus posset esse extra celum cum creatura 
+      <lb ed="#P" n="56"/>nec desineret illic esse ad destructionem creature. posset 
+      <lb ed="#P" n="57"/>enim deus non minus quam angelus esse in medio vacuo hu 
+      <lb ed="#P" n="58"/>lus domus annichilato aere.
+    </p>
+            <p xml:id="D78nca-f05738-d1e961">
+               <lb ed="#P" n="59"/>Quarta propositio. Non est possibile deum nunc 
+      <lb ed="#P" n="60"/>fieri / vel esse extra caelum: nisi aliqua 
+      crea<lb ed="#P" n="61" break="no"/>tura sit vel fuerit nouiter posita extra caelum. Probatur 
+      <lb ed="#P" n="62"/>quia esset transitus contradictionis de non esse extra caelum 
+      <lb ed="#P" n="63"/>ad esse extra caelum: igitur mutatio et non in creatura: igitur in deo
+    </p>
+            <p xml:id="D78nca-f05738-d1e974">
+               <lb ed="#P" n="64"/>Quinta propositio. Deo existente extra caelum sine crea 
+      <lb ed="#P" n="65"/>tura sibi tunc actualiter presente non 
+      <lb ed="#P" n="66"/>est possibile ipsum non fieri extra caelum: nisi fiat noua 
+      <!--334.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>positio creature. et iterum remotio eiusdem creature. 
+      <lb ed="#P" n="68"/>Probatur: quia aliter esset transitus contradictionis 
+      si<lb ed="#P" n="69" break="no"/>ne mutatione in creatura: igitur in deo.
+    </p>
+            <p xml:id="D78nca-f05738-d1e994">
+               <lb ed="#P" n="70"/>Ad primum pro parte affirmativa negatur 
+      an<lb ed="#P" n="71" break="no"/>tecedens: quia sancti 
+      interroga<lb ed="#P" n="72" break="no"/>ti vbi deus erat: non leguntur hanc responsionem 
+      de<lb ed="#P" n="73" break="no"/>disse: que tamen si foret vera et conueniens poterat 
+      <lb ed="#P" n="74"/>eis faciliter occurrere. Ad probationem negatur con 
+      <lb ed="#P" n="75"/>sequentia. ymaginatio enim nostra interdum est falsa 
+      <lb ed="#P" n="76"/>et ficta: sic etiam non ymaginamur huiusmodi spatium: ni 
+      <lb ed="#P" n="77"/>si per modum quanti / extensi habentis differentias positionis 
+      <lb ed="#P" n="78"/>sine tamen qualitate. sic etiam inter latera continen 
+      <lb ed="#P" n="79"/>tis ymaginamur spacium diuisibile secundum tres dimen 
+      <lb ed="#P" n="80"/>siones et receptaculum corporum: et habens differentias po 
+      <lb ed="#P" n="81"/>sitionis: cum tamen omnino nichil subsit huiusmodi ymagina 
+      <lb ed="#P" n="82"/>tioni.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1025">
+      ¶ Ad secundum. negatur antecedens: ymo si verum est 
+      <lb ed="#P" n="83"/>deum habere nunc presentiam actualem ad spacium aliquod 
+      <lb ed="#P" n="84"/>in quo intelligatur esse mundus iste / tunc diceretur quod 
+      <lb ed="#P" n="85"/>deus simul incipit esse presens illi spacio / et mundo. 
+      <lb ed="#P" n="86"/>vnde magister cap. penultimo dicit quod deus sine sui 
+      mu<lb ed="#P" n="87" break="no"/>tatione incipit esse in mundo cum creauit illum. Ad  
+      <lb ed="#P" n="88"/>probationem primam negatur consequentia. vt .ia. dicetur 
+    </p>
+            <p xml:id="D78nca-f05738-d1e1042">
+               <lb ed="#P" n="89"/>¶ Ad secundam negatur assumptum. nam vt dicit 
+      magi<lb ed="#P" n="90" break="no"/>ster Io. Scotus distin. praesenti: cum agens creatum agat 
+      <lb ed="#P" n="91"/>etiam vbi non est presens per essentiam si deum agere 
+      <lb ed="#P" n="92"/>hic per omnipotentiam: et deum esse hic per immensita 
+      <lb ed="#P" n="93"/>tem essentie forent distincta / et separabilia. deum age 
+      <lb ed="#P" n="94"/>re hic non inferret per se deum esse hic: deo deum agere hic 
+      <lb ed="#P" n="95"/>per omnipotentiam non praeexigit deum et hic per essen 
+      <lb ed="#P" n="96"/>tiam.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1062">
+      ¶ Circa quod sciendum quod cum dicitur agere 
+      <lb ed="#P" n="97"/>hic praesupponit esse hic et prius est esse hic quam agere hic 
+      <lb ed="#P" n="98"/>si per ly hic demonstratur aliquod positiuum: puta 
+      <lb ed="#P" n="99"/>locus vel aliqua creatura. negatur illud loquendo 
+      <lb ed="#P" n="100"/>vniuersaliter de agere secundum quod agitur hic non so 
+      <lb ed="#P" n="101"/>lum transitiue id est in hoc loco: sed etiam agitur hic intran 
+      <lb ed="#P" n="102"/>sitiue. id est hic locus agitur. Si vero per ly hic 
+      de<lb ed="#P" n="103" break="no"/>monstratur spacium vacuum: tunc si intelligatur de 
+      <lb ed="#P" n="104"/>priori a quo non conuertitur consequentia. conceditur 
+      <lb ed="#P" n="105"/>quod deum esse hic est prius quam agere deum hic. Si 
+      ve<lb ed="#P" n="106" break="no"/>ro de priori secundum causalitatem / vel presuppo 
+      <lb ed="#P" n="107"/>sitionem vel preexigentiam quae terminat 
+      dependen<lb ed="#P" n="108" break="no"/>tiam / vel indigentiam negatur. hee responsiones dicte 
+      <lb ed="#P" n="109"/>sunt loquendo conformiter magis dictis sanctorum. 
+    </p>
+            <p xml:id="D78nca-f05738-d1e1093">
+               <lb ed="#P" n="110"/>¶ Sed aliter ad primum / et ad secundum potest dici 
+      <lb ed="#P" n="111"/>quod sicut deus ab eterno habuit in suo prospectu obie 
+      <lb ed="#P" n="112"/>ctiue: tempus infinitum et quantum extensiue 
+      infi<lb ed="#P" n="113" break="no"/>nitum vndiquaque. et per hoc potuit ab eterno se de ter 
+      <lb ed="#P" n="114"/>minare ad certum quando et ad certum vbi de produ 
+      <lb ed="#P" n="115"/>ctione mundi: et tamen contingenter et libere se de 
+      <lb ed="#P" n="116"/>terminauit Sic illius quanti infiniti in suo prospectu 
+      <lb ed="#P" n="117"/>positi elegit contingenter et libere certam portionem 
+      <lb ed="#P" n="118"/>cui quasi presens fieret mundus iste. Et sicut 
+      pote<lb ed="#P" n="119" break="no"/>rat creare mundum tante quantitatis vel duple / vel 
+      tri<lb ed="#P" n="120" break="no"/>ple. etc. tamen libere determinauit se ad certam 
+      quan<lb ed="#P" n="121" break="no"/>titatem. Sic quamuis posset ab eterno esse quasi 
+      pre<lb ed="#P" n="122" break="no"/>sens tanto vel tanto spacio ymaginario. Elegit ta 
+      <lb ed="#P" n="123"/>men ab eterno esse quasi presens tanto quantum 
+      corre<lb ed="#P" n="124" break="no"/>spondet mundo creando sicut de angelo existente in 
+      <lb ed="#P" n="125"/>medio domus annichilato aere.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1130">
+      ¶ Ad tertium. 
+      ne<lb ed="#P" n="126" break="no"/>gatur prima consequentia. Ad primam probationem 
+      <lb ed="#P" n="127"/>negatur illud specialiter de agere secundum quod agitur 
+      <lb ed="#P" n="128"/>ipse locus et ipsum vbi. 
+    </p>
+            <p xml:id="D78nca-f05738-d1e1139">
+               <lb ed="#P" n="129"/>¶ Ad secundam. negatur consequentia. Ad probationem 
+      <lb ed="#P" n="130"/>aliquid esse nunc ibi / et prius non fuisse: sed alibi con 
+      <lb ed="#P" n="131"/>tingit dupliciter. Uno modo per nouum accessum 
+      <lb ed="#P" n="132"/>et aduentum ipsius ad locum preexistentem: et eodem 
+      <!--335.xml-->
+      <pb ed="#P" n="162-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>modo non esse vbi prius potuit intelligi per recessum 
+      <lb ed="#P" n="2"/>a loco remanente: et sic deus non fuit nouiter in loco: nec 
+      <lb ed="#P" n="3"/>recedit a loco. Alio modo per nouam positionem vel desitio 
+      <lb ed="#P" n="4"/>nem loci: et sic non oportet illud mutari localiter proprie. 
+    </p>
+            <p xml:id="D78nca-f05738-d1e1165">
+               <lb ed="#P" n="5"/>¶ De responsione ibi posita. si per hoc quod dicitur deum esse ibi 
+      <lb ed="#P" n="6"/>nouiter ratione coporis: et per nouam positionem / et 
+      presen<lb ed="#P" n="7" break="no"/>tiam corporis denotetur aliqua causalitas in creatura 
+      <lb ed="#P" n="8"/>respectu divine potentie negatur. Si vero denote 
+      <lb ed="#P" n="9"/>tur necessaria consequentia potentie diuine ad positionem 
+      <lb ed="#P" n="10"/>ipsius corporis: negatur consequentia: scilicet quod posterius 
+      <lb ed="#P" n="11"/>sit ibi deus quam corpus: sicut deus non est naturaliter 
+      poste<lb ed="#P" n="12" break="no"/>rius dominus vel causa finalis / vel causa nouiter effecti 
+      <lb ed="#P" n="13"/>ua creature quam creatura sit.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1188">
+      ¶ Notandum tamen quod lo 
+      <lb ed="#P" n="14"/>quendo de priori natura a quo non conuertitur conse 
+      <lb ed="#P" n="15"/>quentia. vel quod potest esse sine altero non econtra. vt dicitur 
+      <lb ed="#P" n="16"/>methaphisice. Deus est prius ibi quam corpus. 
+      Loquen<lb ed="#P" n="17" break="no"/>do autem de priori causalitate vel praesuppositione / vel 
+      prae<lb ed="#P" n="18" break="no"/>existentia terminante dependentiam et indigentiam: adhuc 
+      <lb ed="#P" n="19"/>deum esse hic est prius naturaliter: tamen improprie in quadam si 
+      <lb ed="#P" n="20"/>militudine posset dici corpus ibi prius esse: quia deus 
+      <lb ed="#P" n="21"/>non esset ibi nisi crearet aliquod corpus: siue posset ibi esse 
+      <lb ed="#P" n="22"/>sine corpore siue non.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1210">
+      ¶ Ad aliud contra responsionem 
+      <lb ed="#P" n="23"/>Neutrum est proprie mutatum localiter: tamen corpus 
+      <lb ed="#P" n="24"/>magis conuenienter vel minus inconuenienter dicitur tunc mu 
+      <lb ed="#P" n="25"/>tari quam deus: quia transibit de non esse ad esse simpliciter 
+    </p>
+            <p xml:id="D78nca-f05738-d1e1219">
+               <lb ed="#P" n="26"/>¶ Ad quartum. si intelligitur absque positione creature prae 
+      <lb ed="#P" n="27"/>sente vel praeterita negatur antecedens. si vero absque positione creatu 
+      <lb ed="#P" n="28"/>re necessario semper concomitante existentiam dei extra caelum nega 
+      <lb ed="#P" n="29"/>tur consequentia. patet ex. 4. et. 5 propositionibus.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1230">
+      ¶ Ad quintum. deum 
+      <lb ed="#P" n="30"/>esse extra caelum per potentiam potest intelligi: quia potest ibi opera 
+      <lb ed="#P" n="31"/>ri: et sic negatur consequentia. Alio modo quod sit ibi 
+      <lb ed="#P" n="32"/>per actualem causalitatem effectiuam: et actualem vsum 
+      <lb ed="#P" n="33"/>et exercitium potentie actiue: puta actu causando / vel conser 
+      <lb ed="#P" n="34"/>uando: et sic negatur antecedens. Ad probationem consequentie. Omni po 
+      <lb ed="#P" n="35"/>tentie repugnaret quod non posset illic agere. Similiter 
+      immen<lb ed="#P" n="36" break="no"/>sitati essentie quod non posset ibi esse: sed immensitati eius 
+      <lb ed="#P" n="37"/>non repugnat quod sit ibi in actu: nec omnipotentie 
+      repu<lb ed="#P" n="38" break="no"/>gnat quod non agat ibi in actu. Occasione huius argumen 
+      <lb ed="#P" n="39"/>ti sciendum quod secundum magistrum distin. praesenti: deus dicitur esse vbique 
+      <lb ed="#P" n="40"/>per essentiam / praesentiam / et potentiam: quod dupliciter 
+      intelli<lb ed="#P" n="41" break="no"/>gi potest. Dicitur enim esse vbique per essentiam: eo quod quelibet 
+      <lb ed="#P" n="42"/>alia essentia est quaedam participatio diuine essentie: et 
+      deriua<lb ed="#P" n="43" break="no"/>tio / et vestigium / et quasi riuulus cuius fons est diuina essen 
+      <lb ed="#P" n="44"/>tia. Secundo. per presentiam. id est indistantiam / et simul 
+      <lb ed="#P" n="45"/>tatem. Tertio / per potentiam id est virtualem et effectiuam 
+      <lb ed="#P" n="46"/>causalitatem. Alio modo per essentiam quia per essentie indistan 
+      <lb ed="#P" n="47"/>tiam et non solum agit hic: sed essentialiter est hic. vt anima 
+      <lb ed="#P" n="48"/>in corpore circunscripta informatione. Secundo / per 
+      <lb ed="#P" n="49"/>prasesentiam id est intuitiuam visionem. Tertio / per potentiam id est 
+      <lb ed="#P" n="50"/>dominationem et operationem et actualem causalitatem effectiuam 
+      <lb ed="#P" n="51"/>et conseruatiuam et finalem.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1280">
+      ¶ Ad sextum / videtur ratio 
+      <lb ed="#P" n="52"/>in oppositum. Negatur igitur minor. non enim fuit actua 
+      <lb ed="#P" n="53"/>liter in illo tempore ymaginario / vel praesens illi. sed tante / et ta 
+      <lb ed="#P" n="54"/>lis immensitatis est et eternitatis: quod si tempus infinitum 
+      <lb ed="#P" n="55"/>et locus infinitus essent ab eterno: deus illis coexiste 
+      <lb ed="#P" n="56"/>ret.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1293">
+      ¶ Ad septimum / negatur consequentia: quia si sine 
+      con<lb ed="#P" n="57" break="no"/>tradictione posset cogitari aliquid posse maius / et 
+      <lb ed="#P" n="58"/>melius sequitur quod deus esset ens diminutum. Sed sicut 
+      <lb ed="#P" n="59"/>si non agit tot: quin plura agere cogitari posset: non 
+      <lb ed="#P" n="60"/>sequitur ipsum non esse omnipotentem. Si vero non 
+      pos<lb ed="#P" n="61" break="no"/>sit agere nisi tot quot posse produci demonstrando et 
+      <lb ed="#P" n="62"/>vltra cogitari potest: inferretur esse non omnipotens: ita si 
+      <lb ed="#P" n="63"/>non sit presens tanto spacio: quin aliquid esse praesens 
+      <lb ed="#P" n="64"/>maiori spacio cogitari possit: non sequitur ipsum non 
+      <lb ed="#P" n="65"/>esse immensum sed si non postest esse presens nisi 
+      de<lb ed="#P" n="66" break="no"/>terminato spacio finito: et aliquid esse in maiori cogita 
+      <!--335.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>rit posset: inferretur non esse immensus.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1325">
+      ¶ Ad octauum 
+      <lb ed="#P" n="68"/>Illud quod non est imperfectionis est attribuendum deo sed 
+      <lb ed="#P" n="69"/>actum vel potentiam. vt producere plures mundos: et 
+      <lb ed="#P" n="70"/>quia esse extra celum: non est imperfectionis: ideo est attri 
+      <lb ed="#P" n="71"/>buendum deo secundum actum / vel potentiam: sed non oportet 
+      <lb ed="#P" n="72"/>quod secundum actum / sicut nec creare alium mundum. Esse 
+      au<lb ed="#P" n="73" break="no"/>tem extra caelum in spacio infinito non est perfectionis 
+      <lb ed="#P" n="74"/>sed est repugnantie / et impossibilitatis: et infert imperfe 
+      <lb ed="#P" n="75"/>ctionem in deo: quia infert deum esse actualiter presen 
+      <lb ed="#P" n="76"/>tem tanto spacio in quo deum agere per totum est 
+      impos<lb ed="#P" n="77" break="no"/>sibile: et cum dicitur quod diffiniretur / et concluderetur loco 
+      <lb ed="#P" n="78"/>negatur proprie loquendo ad intentionem 
+      sancto<lb ed="#P" n="79" break="no"/>rum: quia diffiniri et concludi loco est esse sic in quo 
+      <lb ed="#P" n="80"/>dam loco: quod non esse in omni loco / nec posse esse ex 
+      <lb ed="#P" n="81"/>se in omni loco: et locum posse esse sine ipso. Sed  
+      <lb ed="#P" n="82"/>deus dicitur immensus et non mensurabilis / vel com 
+      <lb ed="#P" n="83"/>mensuratus loco: quia non est locus possibilis quin 
+      <lb ed="#P" n="84"/>deus possit ex se coexistere duplo maiori ymo nec 
+      <lb ed="#P" n="85"/>potest esse locus sine eo
+    </p>
+            <p xml:id="D78nca-f05738-d1e1367">
+      ¶ Ad confirmationem. Si 
+      con<lb ed="#P" n="86" break="no"/>sequens intelligitur de possibili et per accidens / con 
+      <lb ed="#P" n="87"/>ceditur: quia possibile est quod non esset nisi vnicus an 
+      <lb ed="#P" n="88"/>gelus / vel vnicum corpus continuum: et illi soli deus 
+      <lb ed="#P" n="89"/>esset presens. tamen immensitas / et esse vbique repugnat 
+      <lb ed="#P" n="90"/>creature eo modo quo conuenit deo.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1380">
+      ¶ Ad nonum. 
+      <lb ed="#P" n="91"/>Baruch per donum dei intelligit ipsum deum: vt est 
+      <lb ed="#P" n="92"/>continens infinitam perfectionem formaliter: et vt 
+      <lb ed="#P" n="93"/>continens infinitas creaturas eminenter / et virtuali 
+      <lb ed="#P" n="94"/>ter: et sic dicitur hec domus non habere finem: quia 
+      <lb ed="#P" n="95"/>non est perfectionis / et continentie finite. vel loqui 
+      <lb ed="#P" n="96"/>tur de domo celesti / et celi empirei in quo est habita 
+      <lb ed="#P" n="97"/>tio omnium beatorum: et hec non habet finem sue 
+      <lb ed="#P" n="98"/>durationis. Hec etiam non habet finem: id est 
+      gra<lb ed="#P" n="99" break="no"/>dum finitum perfectionis propter beatitudinem ob 
+      <lb ed="#P" n="100"/>iectiuam infinite bonitatis / et iocunditatis. 
+    </p>
+            <p xml:id="D78nca-f05738-d1e1404">
+               <lb ed="#P" n="101"/>¶ Ad aliud. Celi non possunt capere deum quasi sint 
+      <lb ed="#P" n="102"/>locus sufficienter adequatiuus / et commensuratiuus  
+      <lb ed="#P" n="103"/>divine immensitatis: quasi deus non possit ex se esse 
+      <lb ed="#P" n="104"/>in maiori loco: ymo quotquot essent mundi: adhuc 
+      <lb ed="#P" n="105"/>sic deum capere non possunt. Per idem ad alia. 
+    </p>
+            <p xml:id="D78nca-f05738-d1e1417">
+               <lb ed="#P" n="106"/>¶ Ad augustinum. Deus dicitur excellentior omni 
+      <lb ed="#P" n="107"/>creatura: quia independens a creatura nec indigens 
+      <lb ed="#P" n="108"/>ea ad sui perfectum esse.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1426">
+      ¶ <ref xml:id="D78nca-f05738-Rd1e1428">Ad dictum <name xml:id="D78nca-f05738-Nd1e1430">Hermetis</name>.</ref> 
+               <lb ed="#P" n="109"/>Illud dictum est metaphoricum et yperbolicum 
+      <lb ed="#P" n="110"/>Si enim accipiatur vt sonat: includit contradictio 
+      <lb ed="#P" n="111"/>nem: quia si circunferentia nusquam: igitur nulla est cir 
+      <lb ed="#P" n="112"/>cunferentia eius: igitur non est sphera: et si centrum 
+      <lb ed="#P" n="113"/>est vbique: sequitur quod eius non est centrum.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1447">
+      ¶ 
+      Dicen<lb ed="#P" n="114" break="no"/>dum quod Hermes volens innuere magnitudinem diui 
+      <lb ed="#P" n="115"/>ne perfectionis esse tantam: quod ab homine esse suffi 
+      <lb ed="#P" n="116"/>cienter explicari / vel intelligi non posset ait quod est sphe 
+      <lb ed="#P" n="117"/>ra cuius centrum. etc. cum centrum sphere sit infinitum 
+      <lb ed="#P" n="118"/>minus quam circunferentia. Si deus sit sphera cuius 
+      <lb ed="#P" n="119"/>centrum sit vbique: reliqua magnitudo intelligi vel expli 
+      <lb ed="#P" n="120"/>cari non potest.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1465">
+      ¶ Ad decimum. Augustinus non in  
+      <lb ed="#P" n="121"/>tendit ponere extra celum infinita huiusmodi spacia 
+      <lb ed="#P" n="122"/>quibus deus sit presens: sed illi qui querebant 
+      qua<lb ed="#P" n="123" break="no"/>re deus tunc inchoauit mundum ponebant infinita 
+      <lb ed="#P" n="124"/>tempora ab eterno fluxisse. ideo videbatur eis incon 
+      <lb ed="#P" n="125"/>ueniens deum ociose vacasse in illis temporibus 
+      infi<lb ed="#P" n="126" break="no"/>nitis. et consequenter dicebant. etc. Augustinus 
+      au<lb ed="#P" n="127" break="no"/>tem ex dictis eorum infert quod pari ratione extra mun 
+      <lb ed="#P" n="128"/>dum istum erant loca infinita ante mundi creationem 
+      <lb ed="#P" n="129"/>et si dicant non esse inconueniens deum non egisse in illis 
+      <lb ed="#P" n="130"/>infinitis locis: sed tantum in parte illius: ita dicetur eis de temporibus. 
+      <lb ed="#P" n="131"/>Si vero dicant talia spacia et loca non esse extra 
+      ce<lb ed="#P" n="132" break="no"/>lum: ita dicetur eis quod ab eterno vsque ad creationem mun 
+      <!--336.xml-->
+      <pb ed="#P" n="163-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>di non fluxerunt: nec fuerunt tempora in quibus 
+      de<lb ed="#P" n="2" break="no"/>us vacaret ociosus. Unde Augustinus ibidem sic ait 
+      <lb ed="#P" n="3"/>Cum igitur vnum mundum / et finitum suo loco determina 
+      <lb ed="#P" n="4"/>tum a deo factum esse dicant quod respondent de infinitis lo 
+      <lb ed="#P" n="5"/>cis extra mundum: cur in eis deus ab opere cesset hoc 
+      <lb ed="#P" n="6"/>respondeant de infinitis ante mundum temporibus: cur in 
+      <lb ed="#P" n="7"/>eis deus ab opere cessauerit: Sequitur quod si dicant ina 
+      <lb ed="#P" n="8"/>nes hominum cogitationes: quibus infinita 
+      ymagi<lb ed="#P" n="9" break="no"/>nantur loca: cum locus nullus sit preter mundum.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1520">
+      ¶ Re 
+      <lb ed="#P" n="10"/>spondetur eis isto modo inaniter cogitare praeterita 
+      tem<lb ed="#P" n="11" break="no"/>pora vacationis dei: cum tempus nullum sit ante mun 
+      <lb ed="#P" n="12"/>dum. hec Augustinus. Sic igitur loquitur augustinus ex 
+      <lb ed="#P" n="13"/>suppositione quod si infinita loca sint extra caelum: deus est 
+      <lb ed="#P" n="14"/>presens illis.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1533">
+      ¶ Dubium. an stando in lumine 
+      natu<lb ed="#P" n="15" break="no"/>rali ponendum sit deum esse vbique per actualem 
+      indi<lb ed="#P" n="16" break="no"/>stantiam sue formalis essentie. dicendum quod non: quia 
+      <lb ed="#P" n="17"/>nec alie intelligentie arguuntur esse hic: licet earum causali 
+      <lb ed="#P" n="18"/>tas extendatur vsque huc. Non enim oportet actiuum esse 
+      <lb ed="#P" n="19"/>presens cuilet passiuo et effectui suo per indistantiam 
+      <lb ed="#P" n="20"/>omnimodam.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1549">
+      ¶ Item. non ponitur conuenienter in certa 
+      <lb ed="#P" n="21"/>parte corporis celestis Sed per totum corpus primum 
+      <lb ed="#P" n="22"/>a maximum (conuenientius enim est quam quod existens in certa 
+      <lb ed="#P" n="23"/>parte moueatur continue ad motum illius partis. vel quod 
+      <lb ed="#P" n="24"/>sibi succedant per presentiam alie / et alie partes celi. 
+    </p>
+            <p xml:id="D78nca-f05738-d1e1560">
+               <lb ed="#P" n="25"/>¶ Item. non esset ratio quare praecise tante parti celi esset 
+      <lb ed="#P" n="26"/>presens.
+    </p>
+            <p xml:id="D78nca-f05738-d1e1568">
+      ¶ Ad argumentum in principio quaestionis concedendo 
+      <lb ed="#P" n="27"/>quod deus intelligit illud eo modo quo intelligibile est sine imperfe 
+      <lb ed="#P" n="28"/>ctione. sed intelligere huiusmodi spacium infinitum non est secundum 
+      <lb ed="#P" n="29"/>veritatem: nisi intelligere quantitatem infinitam abstrahen 
+      <lb ed="#P" n="30"/>do a qualitatibus: sicut intelligere durationem infinitam 
+      <lb ed="#P" n="31"/>habentem prius / et posterius non est nisi intelligere tem 
+      <lb ed="#P" n="32"/>pus et successionem actualem vel potentialem. vel intelli 
+      <lb ed="#P" n="33"/>gere aliquid in habitudine ad huiusmodi tempus. et 
+      intellige<lb ed="#P" n="34" break="no"/>re huiusmodi spacium esse: non quantum actuale / nec 
+      poten<lb ed="#P" n="35" break="no"/>tiale est intellectio figmenti implicans contradictionem. ne 
+      <lb ed="#P" n="36"/>gatur igitur consequentia. Ad probationem. dicendum quod huius 
+      <lb ed="#P" n="37"/>modi spacium infinitum partim dicit intelligibile potentia 
+      <lb ed="#P" n="38"/>le: partim dicit figmentum: nam secundum partes ymaginarias 
+      <lb ed="#P" n="39"/>finitas acceptibiles dicit quantum finitum potentiale: et quo 
+      <lb ed="#P" n="40"/>cunque tali accepto finito possibile esset causari maius 
+      <lb ed="#P" n="41"/>sed esse quantum dimensiuum infinitum ex omni differen 
+      <lb ed="#P" n="42"/>tia habens differentias positionis est impossibile. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>
