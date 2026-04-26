@@ -291,7 +291,7 @@
       <lb ed="#P" n="124"/>propter demeritum: licet aliquos gratis amet et 
       adiu<lb ed="#P" n="125" break="no"/>uet sine meritis: sed huiusmodi reprobatio hominis vt 
       <lb ed="#P" n="126"/>in puris naturalibus ostensi est quidam modus odii. iuxtra 
-      <lb ed="#P" n="127"/>illud <quote source="http://scta.info/resource/rom9_13@4-9">Iacob dilexi: esau autem odio habui.</quote> quod secundum 
+      <lb ed="#P" n="127"/>illud <quote xml:id="D78nca-f21455-Qd1e574" source="http://scta.info/resource/rom9_13@4-9">Iacob dilexi: esau autem odio habui.</quote> quod secundum 
       aduer<lb ed="#P" n="128" break="no"/>sarios intelligitur de huiusmodi reprobatione
     </p>
             <p xml:id="D78nca-f21455-d1e585">
@@ -358,9 +358,9 @@
       <lb ed="#P" n="50"/>ostendendum quod deus sine meritis miseretur: tam 
       <lb ed="#P" n="51"/>ad ostendendum quod alios reprobat: non propter 
       de<lb ed="#P" n="52" break="no"/>merita. Pro primo enim adducit illud Exodi. 33.
-      <lb ed="#P" n="53"/><quote source="http://scta.info/resource/ex33_19@15-24">Miserebor cuius voluero: et clemens ero in quem
+      <lb ed="#P" n="53"/><quote xml:id="D78nca-f21455-Qd1e717" source="http://scta.info/resource/ex33_19@15-24">Miserebor cuius voluero: et clemens ero in quem
       <lb ed="#P" n="54"/>michi placuerit.</quote> Et pro secundo adducit de 
-      obdu<lb ed="#P" n="55" break="no"/>ratione pharaonis illud Exodi. 9. <quote source="http://scta.info/resource/ex9_16@3-17">Posui te vt
+      obdu<lb ed="#P" n="55" break="no"/>ratione pharaonis illud Exodi. 9. <quote xml:id="D78nca-f21455-Qd1e724" source="http://scta.info/resource/ex9_16@3-17">Posui te vt
       osten<lb ed="#P" n="56" break="no"/>dam in te fortitudinem meam: et narretur nomen
       <lb ed="#P" n="57"/>meum in vniuersa terra.</quote> Nec valet dicere quod 
       loqui<lb ed="#P" n="58" break="no"/>tur de meritis presentibus vel preteritis non de fu 
@@ -369,7 +369,7 @@
       nul<lb ed="#P" n="61" break="no"/>la esset. Tum quia non commendatur gratia dei: 
       <lb ed="#P" n="62"/>quod principaliter intendit ibi apostolus. Item 
       pa<lb ed="#P" n="63" break="no"/>tet idem per correlarium quod infert apostolus 
-      di<lb ed="#P" n="64" break="no"/>cens: <quote source="http://scta.info/resource/rom9_18@1-8">ergo cuius vult miseretur: et quem vult
+      di<lb ed="#P" n="64" break="no"/>cens: <quote xml:id="D78nca-f21455-Qd1e747" source="http://scta.info/resource/rom9_18@1-8">ergo cuius vult miseretur: et quem vult
       indu<lb ed="#P" n="65" break="no"/>rat</quote>. super quo Augu. in glosa. Obduratio dei est non 
       <lb ed="#P" n="66"/>misereri: vt non ab illo irrogetur aliquid quo sit ho 
       <!--381.xml-->
@@ -414,7 +414,7 @@
       <lb ed="#P" n="98"/>voluit pati. tum quia etiam bestie sine culpa 
       depu<lb ed="#P" n="99" break="no"/>tantur malis. tum quia apostolus videtur tollere hanc 
       <lb ed="#P" n="100"/>rationem per exemplum de figulo. vnde et post 
-      exem<lb ed="#P" n="101" break="no"/>plum subdit <quote source="http://scta.info/resource/rom9_22@3-20 http://scta.info/resource/rom9_23@1-8">quod si deus volens ostendere iram: et
+      exem<lb ed="#P" n="101" break="no"/>plum subdit <quote xml:id="D78nca-f21455-Qd1e839" source="http://scta.info/resource/rom9_22@3-20 http://scta.info/resource/rom9_23@1-8">quod si deus volens ostendere iram: et
       no<lb ed="#P" n="102" break="no"/>tam facere potentiam suam sustinuit vasa ire apta
       <lb ed="#P" n="103"/>in interitum vt ostenderet diuitias glorie sue in
       va<lb ed="#P" n="104" break="no"/>sa misericordie</quote> etc.
@@ -428,7 +428,7 @@
       <lb ed="#P" n="109"/>et iniusti futuri. Consequentia patet: quia non est 
       <lb ed="#P" n="110"/>circulus in propositionibus causalibus. antecedens 
       <lb ed="#P" n="111"/>natet per Augu. libro de dono perseuerantie circa 
-      <lb ed="#P" n="112"/>nedium tractatur illud. Luce. 10. <quote source="http://scta.info/resource/lc10_13@1-15">Ue tibi cororaim
+      <lb ed="#P" n="112"/>nedium tractatur illud. Luce. 10. <quote xml:id="D78nca-f21455-Qd1e868" source="http://scta.info/resource/lc10_13@1-15">Ue tibi cororaim
       <lb ed="#P" n="113"/>ve tibi bethsaida: quia si in tyro et sydone etc.</quote> Dicit 
       <lb ed="#P" n="114"/>enim Augu. quod ideo tyrii et sydonii non crediderunt 
       <lb ed="#P" n="115"/>quia predestinati non erant: et si verbum christi 
@@ -543,7 +543,7 @@
       pe<lb ed="#P" n="70" break="no"/>nam sensus propter demerita actualia futura: 
       ta<lb ed="#P" n="71" break="no"/>men non primo reprobat et repellit a beatitudine 
       pro<lb ed="#P" n="72" break="no"/>pter huiusmodi demerita operum. et quod hoc sit 
-      inten<lb ed="#P" n="73" break="no"/>tio Augu. patet super illo verbo. <quote source="http://scta.info/resource/rom9_13@4-9">Iacob dilexi: Esau
+      inten<lb ed="#P" n="73" break="no"/>tio Augu. patet super illo verbo. <quote xml:id="D78nca-f21455-Qd1e1099" source="http://scta.info/resource/rom9_13@4-9">Iacob dilexi: Esau
       <lb ed="#P" n="74"/>autem odio habui.</quote> glosa. In iacob antequam natus 
       fuis<lb ed="#P" n="75" break="no"/>set: quid diligebat deus: nisi gratuitum 
       misericor<lb ed="#P" n="76" break="no"/>die sue donum: Et in esaum antequam natus fuisset nec 
@@ -552,7 +552,7 @@
       <lb ed="#P" n="79"/>enim scriptura pharaoni. glosa. Sicut iacob per 
       mi<lb ed="#P" n="80" break="no"/>sericordiam elegit. Ita esau per iusticiam 
       reproba<lb ed="#P" n="81" break="no"/>uit: et pharaonem per iudicium sicut esau 
-      reproba<lb ed="#P" n="82" break="no"/>uit. Item super illo verbo: <quote source="http://scta.info/resource/rom9_18@1-8">ergo cuius vult
+      reproba<lb ed="#P" n="82" break="no"/>uit. Item super illo verbo: <quote xml:id="D78nca-f21455-Qd1e1122" source="http://scta.info/resource/rom9_18@1-8">ergo cuius vult
       misere<lb ed="#P" n="83" break="no"/>tur: et quem vult indurat</quote>. Augu. Cuius vult 
       misere<lb ed="#P" n="84" break="no"/>tur gratuito: et quem vult indurat iusto iudicio 
       ob<lb ed="#P" n="85" break="no"/>durationis meritum inuenimus: misericordie vero 

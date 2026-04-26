@@ -85,7 +85,7 @@
     </p>
             <p xml:id="D78nca-e29536-d1e156">
       ¶ Contra 
-      <lb ed="#P" n="34"/>psalmus. <quote source="http://scta.info/resource/ps144_3@1-5">Magnus dominus et laudabilis nimis.</quote> etc. Et iterum: <quote source="http://scta.info/resource/ps85_10@2-11">
+      <lb ed="#P" n="34"/>psalmus. <quote xml:id="D78nca-e29536-Qd1e153" source="http://scta.info/resource/ps144_3@1-5">Magnus dominus et laudabilis nimis.</quote> etc. Et iterum: <quote xml:id="D78nca-e29536-Qd1e156" source="http://scta.info/resource/ps85_10@2-11">
       <lb ed="#P" n="35"/>Magnus es tu et faciens mirabilia: tu es deus solus</quote> 
       <lb ed="#P" n="36"/>Et iterum in alio. praeo. Quoniam quis deus preter dominum: aut quis 
       <lb ed="#P" n="37"/>deus preter deum nostrum.
@@ -104,7 +104,7 @@
       absolu<lb ed="#P" n="44" break="no"/>tam de vnitate dei. conclusio est certa quod est vnicus de 
       <lb ed="#P" n="45"/>et non plures Deutero. 6. Audi israel dominus deus tuus 
       <lb ed="#P" n="46"/>vnus est. et resumitur achristo. Math. 12. et Deuterono.
-      <lb ed="#P" n="47"/>32. <quote source="http://scta.info/resource/deut32_39@1-12">Uidete quod ego sum solus et non sit alius deus pre
+      <lb ed="#P" n="47"/>32. <quote xml:id="D78nca-e29536-Qd1e195" source="http://scta.info/resource/deut32_39@1-12">Uidete quod ego sum solus et non sit alius deus pre
       <lb ed="#P" n="48"/>ter me.</quote> Et in simbolo. deus pater deus filius / deus 
       <lb ed="#P" n="49"/>spuns sanctus. non tamen tres di sed vnus est deus. Et 
       <lb ed="#P" n="50"/>infra. tres deos dicere / aut dominos catholica religione 

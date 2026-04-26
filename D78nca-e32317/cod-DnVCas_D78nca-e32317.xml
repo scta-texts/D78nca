@@ -602,7 +602,7 @@
       <lb ed="#P" n="92"/>formans secundum exemplar formalis intelligentie et artis prime 
       <lb ed="#P" n="93"/>vnde aug. 2. de ci. dici vltra medium. Coficitur itaque vt 
       cor<lb ed="#P" n="94" break="no"/>pus et aimmus forma quaedam immutabili / et semper manente. 
-      <lb ed="#P" n="95"/>formantur: cui forme dictum est / <quote source="http://scta.info/resource/ps101_27@14-17 http://scta.info/resource/ps101_28@1-5">mutabis eos: et mutabum
+      <lb ed="#P" n="95"/>formantur: cui forme dictum est / <quote xml:id="D78nca-e32317-Qd1e1165" source="http://scta.info/resource/ps101_27@14-17 http://scta.info/resource/ps101_28@1-5">mutabis eos: et mutabum
       <lb ed="#P" n="96"/>tur: tu autem idem ipse es.</quote> 
       <lb ed="#P" n="97"/>rr an catholi¬ 
     </p>
@@ -1207,8 +1207,8 @@
       ci<lb ed="#P" n="19" break="no"/>ui. dei. cap. 10. est solum bonum simplex /
       <lb ed="#P" n="20"/>quod est deus et ob hoc solum incommutabile est ab hoc 
       <lb ed="#P" n="21"/>bono creata sunt alia bona: sed non simplicia. et ob 
-      <lb ed="#P" n="22"/>hoc mutabilia. Item. <ref>5. c. 5 de trini.</ref> creatura nullo 
-      <lb ed="#P" n="23"/>modo vere est simplex. Et <ref>infra.</ref> creatura spiritualis 
+      <lb ed="#P" n="22"/>hoc mutabilia. Item. <ref xml:id="D78nca-e32317-Rd1e2331">5. c. 5 de trini.</ref> creatura nullo 
+      <lb ed="#P" n="23"/>modo vere est simplex. Et <ref xml:id="D78nca-e32317-Rd1e2335">infra.</ref> creatura spiritualis 
       <lb ed="#P" n="24"/>sicut est anima quidam comparatione corporis simplicior 
       <lb ed="#P" n="25"/>sine autem comparatione corporis multipex est ipsa non 
       <lb ed="#P" n="26"/>simplex. <quote xml:id="D78nca-e32317-Qsj1adf" source="http://scta.info/resource/adt-l6-d1e811@127-135">nihil enim simplex mutabile est. omnis autem 
@@ -1240,7 +1240,7 @@
       <lb ed="#P" n="50"/>sed multiplex per hocquod aliud est in ea cupiditas aliud 
       <lb ed="#P" n="51"/>timor aliud tristicia aliud leticia. etc. et secundum ista 
       mu<lb ed="#P" n="52" break="no"/>tabilis est sicut subiectum secundum formas quibus afficitur 
-      <lb ed="#P" n="53"/>et cum quibus componitur in <ref>2. de ciui. dei. ca. 7.</ref> 
+      <lb ed="#P" n="53"/>et cum quibus componitur in <ref xml:id="D78nca-e32317-Rd1e2407">2. de ciui. dei. ca. 7.</ref> 
       pro<lb ed="#P" n="54" break="no"/>bat dei simplicitatem per hoc quod est quicquid habet. 
       cor<lb ed="#P" n="55" break="no"/>pus aut habet colorem et non est color. et aer lucem et non 
       <lb ed="#P" n="56"/>est lux. etc. igitur simplicitas est cum ens non habet 

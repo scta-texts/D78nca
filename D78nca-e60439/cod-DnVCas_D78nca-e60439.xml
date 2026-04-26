@@ -109,7 +109,7 @@
       pa<lb ed="#P" n="24" break="no"/>ri enim ratione concedendum vel negandum vtrunque. 
     </p>
             <p xml:id="D78nca-e60439-d1e223">
-               <lb ed="#P" n="25"/>¶ Preterea. psalmus. <quote source="http://scta.info/resource/ps5_5@6-11">Quoniam non deus volens iniquitatem
+               <lb ed="#P" n="25"/>¶ Preterea. psalmus. <quote xml:id="D78nca-e60439-Qd1e220" source="http://scta.info/resource/ps5_5@6-11">Quoniam non deus volens iniquitatem
       <lb ed="#P" n="26"/>tu es.</quote>
     </p>
             <p xml:id="D78nca-e60439-d1e230">
@@ -183,7 +183,7 @@
             <p xml:id="D78nca-e60439-d1e346">
                <lb ed="#P" n="67"/>¶ Item. de concordia prescientie. et li. ar. circa finem 
       <lb ed="#P" n="68"/>sic dicit malum incommodi vt cecitatem. aut dolorem 
-      <lb ed="#P" n="69"/>deum facere non negamus. quia scriptum est. <quote source="http://scta.info/resource/is45_7@6-10">Ipse
+      <lb ed="#P" n="69"/>deum facere non negamus. quia scriptum est. <quote xml:id="D78nca-e60439-Qd1e350" source="http://scta.info/resource/is45_7@6-10">Ipse
       fa<lb ed="#P" n="70" break="no"/>ciens pacem et creans malum</quote> sequitur. sicut autem deus 
       <lb ed="#P" n="71"/>non facit iniusticiam. ita nec facit iniustum aliquid 
       <lb ed="#P" n="72"/>esse. qui tamen facit omnes actiones et motus 
@@ -230,7 +230,7 @@
             <p xml:id="D78nca-e60439-d1e432">
                <lb ed="#P" n="101"/>¶ Preterea. concedendum esset quod deus facit pecca 
       <lb ed="#P" n="102"/>tum et facit homines peccare quod omnino negandum 
-      <lb ed="#P" n="103"/>est. quia Ioh. 8. <quote source="http://scta.info/resource/io8_34@9-15">Qui facit peccatum seruus est
+      <lb ed="#P" n="103"/>est. quia Ioh. 8. <quote xml:id="D78nca-e60439-Qd1e439" source="http://scta.info/resource/io8_34@9-15">Qui facit peccatum seruus est
       pecca<lb ed="#P" n="104" break="no"/>ti.</quote> Et Boetius. 3o. de consola. prosa vltima. probat quod 
       <lb ed="#P" n="105"/>malum nihil est. quia deus malum id est peccatum facere non 
       <lb ed="#P" n="106"/>potest.
@@ -262,7 +262,7 @@
       <lb ed="#P" n="120"/>merces in mari. sicut etiam medicus vult in medicinis 
       <lb ed="#P" n="121"/>venenum. huiusmodi enim actiones mixte sunt ex voluntario 
       <lb ed="#P" n="122"/>et inuoluntario. ideo quandoque fit denominatio ab vno / quandoque 
-      <lb ed="#P" n="123"/>ab alio. vnde prouer 3. <quote source="http://scta.info/resource/prov13_4@1-5">Uult et non vult piger.</quote>
+      <lb ed="#P" n="123"/>ab alio. vnde prouer 3. <quote xml:id="D78nca-e60439-Qd1e497" source="http://scta.info/resource/prov13_4@1-5">Uult et non vult piger.</quote>
     </p>
             <p xml:id="D78nca-e60439-d1e496">
       ¶ 
@@ -765,7 +765,7 @@
       <lb ed="#P" n="72"/>pro peccato: igitur peccat vel peccauit. Similiter sequitur 
       <lb ed="#P" n="73"/>christus passus est mortem illatam a iudeis: igitur iudei 
       intu<lb ed="#P" n="74" break="no"/>lerunt mortem christo. et deus voluit et acceptauit antecedens 
-      <lb ed="#P" n="75"/>quia voluit christum pati: et christus orans ait / <quote source="http://scta.info/resource/mt26_39@22-28">Non sicut ego
+      <lb ed="#P" n="75"/>quia voluit christum pati: et christus orans ait / <quote xml:id="D78nca-e60439-Qd1e1423" source="http://scta.info/resource/mt26_39@22-28">Non sicut ego
       <lb ed="#P" n="76"/>volo: sed sicut tu vis.</quote>
     </p>
             <p xml:id="D78nca-e60439-d1e1422">
@@ -786,7 +786,7 @@
                <lb ed="#P" n="85"/>¶ Octauo principaliter. deus vult illud et est causa illius 
       <lb ed="#P" n="86"/>quod est homini expediens et vtile ad salutem spiritualem: sed 
       <lb ed="#P" n="87"/>peccare est huiusmodi. probat Augu. de correctione et gratia 
-      <lb ed="#P" n="88"/>ca. 35. <quote source="http://scta.info/resource/rom8_28@1-9">Scimus quoniam diligentibus deum omnia cooperantur
+      <lb ed="#P" n="88"/>ca. 35. <quote xml:id="D78nca-e60439-Qd1e1462" source="http://scta.info/resource/rom8_28@1-9">Scimus quoniam diligentibus deum omnia cooperantur
       <lb ed="#P" n="89"/>in bonum.</quote> ad Roma. 8. talibus enim scilicet electis vsque 
       <lb ed="#P" n="90"/>adeo deus omnia cooperatur in bonum: vt si qui eorum 
       de<lb ed="#P" n="91" break="no"/>uiant et exorbitant etiam hoc ipse faciat eis proficere 
@@ -1050,13 +1050,13 @@
       <lb ed="#P" n="26"/>vnde Iob ait. Dains dedit dominus abstulit. non ait 
       domi<lb ed="#P" n="27" break="no"/>nus dedit et diabolus abstulit: sed dominus abstulit tanquam 
       <lb ed="#P" n="28"/>principaliter illud imputandum sit deo. Et. 3. Regum 
-      <lb ed="#P" n="29"/>vlti. <quote source="http://scta.info/resource/Ireg22_22@4-17">Egrediar et ero spiritus mendax in ore
+      <lb ed="#P" n="29"/>vlti. <quote xml:id="D78nca-e60439-Qd1e1975" source="http://scta.info/resource/Ireg22_22@4-17">Egrediar et ero spiritus mendax in ore
       propheta<lb ed="#P" n="30" break="no"/>rum. et ait dominus. Egredere et fac.</quote> Item. frequenter 
       re<lb ed="#P" n="31" break="no"/>ges infideles incitabat et eis inspirabat insurgere 
       <lb ed="#P" n="32"/>contra populum israel. quod tamen erat iniustum ex 
       par<lb ed="#P" n="33" break="no"/>te facientium. hec enim faciebant libidine dominationis vel 
       <lb ed="#P" n="34"/>Ielo vlciscendi. vnde Esaie. 10 de senacherib rege at 
-      <lb ed="#P" n="35"/>siriorum: ait dominus. <quote source="http://scta.info/resource/is10_5@2-8 http://scta.info/resource/is10_6@4-25">Assur virga furoris domini mei ad ger
+      <lb ed="#P" n="35"/>siriorum: ait dominus. <quote xml:id="D78nca-e60439-Qd1e1991" source="http://scta.info/resource/is10_5@2-8 http://scta.info/resource/is10_6@4-25">Assur virga furoris domini mei ad ger
       <lb ed="#P" n="36"/>tem fallacem mittam eum: et contra populum furoris
       mei<lb ed="#P" n="37" break="no"/>mandabo illi vt auferat spolia et diuidat predam: et po
       <lb ed="#P" n="38"/>nat illum in conculcationem quasi lutum platearum.</quote> Et 
@@ -1066,12 +1066,12 @@
       <lb ed="#P" n="42"/>potentie: et non deo. vt enim dicit Isidorus. 
       Senache<lb ed="#P" n="43" break="no"/>rib fuit quasi instrumentum: deus autem principale mouens 
       <lb ed="#P" n="44"/>Et de Nabugodonomor rege caldeorum contra 
-      po<lb ed="#P" n="45" break="no"/>pulum israel dicitur similiter ca. 13. <quote source="http://scta.info/resource/is13_3@1-11 http://scta.info/resource/is13_4@13-17 http://scta.info/resource/is13_5@1-7">Ego mandaui sanctifici
+      po<lb ed="#P" n="45" break="no"/>pulum israel dicitur similiter ca. 13. <quote xml:id="D78nca-e60439-Qd1e2015" source="http://scta.info/resource/is13_3@1-11 http://scta.info/resource/is13_4@13-17 http://scta.info/resource/is13_5@1-7">Ego mandaui sanctifici
       <lb ed="#P" n="46"/>tis meis: et vocaui fortes meos in ira mea: dominus
       ex<lb ed="#P" n="47" break="no"/>ercituum praecepit militie belli venientibus de terra
       pro<lb ed="#P" n="48" break="no"/>cul: vt disperdat omnem terram</quote>. Item. 2. Regum. 16 
       <lb ed="#P" n="49"/>cum Abisapu vellet prercutere semei maledicentem dicendum: ait 
-      <lb ed="#P" n="50"/>dauid. <quote source="http://scta.info/resource/IIsam16_10@10-19">Dimitte eum vt maledicat: dominus enim precepit ei
+      <lb ed="#P" n="50"/>dauid. <quote xml:id="D78nca-e60439-Qd1e2029" source="http://scta.info/resource/IIsam16_10@10-19">Dimitte eum vt maledicat: dominus enim precepit ei
       <lb ed="#P" n="51"/>vt malediceret.</quote> et infra. Dimitte eum vt maledicat iui 
       <lb ed="#P" n="52"/>ta preceptum dei. Item 2. Thessalonisenses. 2. 
       Im<lb ed="#P" n="53" break="no"/>mittit illis dominus errorem: vt credant mendacio. Item 
@@ -1083,11 +1083,11 @@
       <lb ed="#P" n="56"/>traderet bonos quam malos: quia etiam bonos permittit 
       <lb ed="#P" n="57"/>tradi et cadere. Item Isido. li. 2. de summo bono. c. 2. 
       <lb ed="#P" n="58"/>Pena precedentium peccatorum vocatur induratio 
-      ve<lb ed="#P" n="59" break="no"/>niens de diuina iusticia. Unte propheta ait. <quote source="http://scta.info/resource/is63_17@9-14">Indurasti
+      ve<lb ed="#P" n="59" break="no"/>niens de diuina iusticia. Unte propheta ait. <quote xml:id="D78nca-e60439-Qd1e2054" source="http://scta.info/resource/is63_17@9-14">Indurasti
       <lb ed="#P" n="60"/>cor nostrum ne timeremus te.</quote> neque enim dum quicunque 
       <lb ed="#P" n="61"/>iusti sunt a deo impelluntur vt mali fiant: sed dum mali iam 
       <lb ed="#P" n="62"/>sunt indurantur vt deteriores existant. vnde apostolus dicit. 
-      <lb ed="#P" n="63"/><quote source="http://scta.info/resource/IIth2_10@11-17">Quoa veritatem dei non receperunt vt salui fierent:</quote>
+      <lb ed="#P" n="63"/><quote xml:id="D78nca-e60439-Qd1e2065" source="http://scta.info/resource/IIth2_10@11-17">Quoa veritatem dei non receperunt vt salui fierent:</quote>
       im<lb ed="#P" n="64" break="no"/>misit illis deus spaitum erroris. Tacit ergo deus quosda 
       <lb ed="#P" n="65"/>peccare: sed in quibus iam alia peccata precesserunt 
       <lb ed="#P" n="66"/>Mec ille.
@@ -1615,7 +1615,7 @@
       gen<lb ed="#P" n="40" break="no"/>tilis / siue iustus siue peccator / dicit vel cognoscit vel 
       <lb ed="#P" n="41"/>iudicat verum a deo et ex dei dono est quod dicat et 
       co<lb ed="#P" n="42" break="no"/>gnoscat vel iudicet verum. deus enim illuminat omnem
-      <lb ed="#P" n="43"/>hominem: qui etiam <quote source="http://scta.info/resource/mt5_45@11-18">solem suum facit oriri super bonos
+      <lb ed="#P" n="43"/>hominem: qui etiam <quote xml:id="D78nca-e60439-Qd1e3050" source="http://scta.info/resource/mt5_45@11-18">solem suum facit oriri super bonos
       <lb ed="#P" n="44"/>et malos:</quote> et sic intelligitur dictum Ambrosii. 
     </p>
             <p xml:id="D78nca-e60439-d1e3024">
