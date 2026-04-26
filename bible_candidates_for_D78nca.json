@@ -1,0 +1,2238 @@
+{
+  "D78nca-d1e4XX": {
+    "D78nca-d1e4XX-d1e603": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'Iohins. primo.'; range 1-8"
+      }
+    ]
+  },
+  "D78nca-de4659": {
+    "D78nca-de4659-d1e4171": [
+      {
+        "candidate_id": "rom6_9",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "embedded without explicit chapter citation; range 3-14"
+      }
+    ]
+  },
+  "D78nca-e17573": {
+    "D78nca-e17573-d1e2015": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph discusses logical fallacies; no quotation of Is 41:24"
+      }
+    ]
+  },
+  "D78nca-e20883": {
+    "D78nca-e20883-d1e1934": [
+      {
+        "candidate_id": "ps108_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph discusses epistemology; no psalm quotation found"
+      }
+    ]
+  },
+  "D78nca-e23457": {
+    "D78nca-e23457-d1e1754": [
+      {
+        "candidate_id": "IImac7_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites Augustine on knowledge; no creation passage"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites Augustine on knowledge; no Acts passage"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites Augustine on knowledge; no Acts passage"
+      },
+      {
+        "candidate_id": "ex20_11",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites Augustine on knowledge; no Exodus passage"
+      },
+      {
+        "candidate_id": "ap10_6",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph on epistemology; no Apoc 10:6 text present"
+      }
+    ]
+  },
+  "D78nca-e27344": {
+    "D78nca-e27344-d1e127": [
+      {
+        "candidate_id": "mt11_27",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cited as 'Math. ii.'; range 9-24"
+      }
+    ],
+    "D78nca-e27344-d1e1956": [
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "the fool (insipiens) is a philosophical reference in Anselm's argument context; no direct biblical citation in MS"
+      },
+      {
+        "candidate_id": "ps52_1",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "same as ps13_1 \u2014 philosophical reference not direct biblical citation"
+      }
+    ]
+  },
+  "D78nca-e29536": {
+    "D78nca-e29536-d1e123": [
+      {
+        "candidate_id": "Icor8_5",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "D78nca-e29536-d1e156": [
+      {
+        "candidate_id": "Ichr16_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "encoded ps144_3 for same phrase; Ichr16_25 is a parallel"
+      },
+      {
+        "candidate_id": "ps144_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded ps144_3@1-5 for 'Magnus dominus et laudabilis nimis'"
+      },
+      {
+        "candidate_id": "ps47_2",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same opening phrase as ps144_3 already encoded; ambiguous attribution"
+      },
+      {
+        "candidate_id": "ps95_4",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same opening phrase as ps144_3 already encoded; ambiguous attribution"
+      },
+      {
+        "candidate_id": "ps85_10",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "cited as 'Et iterum' within psalm context; range 2-11"
+      }
+    ],
+    "D78nca-e29536-d1e177": [
+      {
+        "candidate_id": "deut32_39",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Deuterono. 32.'; range 1-12"
+      }
+    ]
+  },
+  "D78nca-e32317": {
+    "D78nca-e32317-d1e1133": [
+      {
+        "candidate_id": "ps101_28",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded ps101_27@14-17 and ps101_28@1-5 for 'mutabis eos et mutabuntur tu autem idem ipse es'"
+      }
+    ],
+    "D78nca-e32317-d1e2043": [
+      {
+        "candidate_id": "Ireg8_60",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph on hypostatic union; no 1Reg quote"
+      },
+      {
+        "candidate_id": "deut4_35",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph on hypostatic union; no Deut quote"
+      },
+      {
+        "candidate_id": "is45_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph on hypostatic union; no Is quote"
+      }
+    ]
+  },
+  "D78nca-e34971": {
+    "D78nca-e34971-d1e135": [
+      {
+        "candidate_id": "ion3_9",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'Ione. 2.' (MS error, should be Ione 3); 'Si quis scit se conuertere ignoscat deus et reuertatur a furore ire'; range 1-12"
+      },
+      {
+        "candidate_id": "ier18_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'Hiere. 18.'; partial quote \u2014 remainder paraphrase; range 1-8"
+      }
+    ],
+    "D78nca-e34971-d1e152": [
+      {
+        "candidate_id": "mal3_6",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'Malach. 3.'; 'Ego enim dominus et non mutor'; range 1-6"
+      }
+    ],
+    "D78nca-e34971-d1e212": [
+      {
+        "candidate_id": "hebr1_11",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'psalmus' (actually Heb 1:11 quoting Ps 101); encoded hebr1_11@1-5"
+      }
+    ]
+  },
+  "D78nca-e42019": {
+    "D78nca-e42019-d1e291": [
+      {
+        "candidate_id": "rom8_39",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "cited as 'super illud verbum' (Rom 8:39); range 5-13"
+      }
+    ],
+    "D78nca-e42019-d1e648": [
+      {
+        "candidate_id": "sap11_25",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Sapientie. 2.' (wrong chapter; should be 11); range 1-11"
+      }
+    ]
+  },
+  "D78nca-e47214": {
+    "D78nca-e47214-d1e203": [
+      {
+        "candidate_id": "rom8_35",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'super illud Roma. 8.'; range 1-6"
+      }
+    ],
+    "D78nca-e47214-d1e318": [
+      {
+        "candidate_id": "ps61_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded ps61_6@7-11 for 'Quoniam ab ipso patientia mea'"
+      },
+      {
+        "candidate_id": "ps70_5",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded ps70_5@1-6 for 'Quoniam tu es patientia mea domine'"
+      }
+    ],
+    "D78nca-e47214-d1e577": [
+      {
+        "candidate_id": "IIcor6_4",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "embedded in long Augustine paraphrase \u2014 no direct MS citation of 2 Cor 6:4"
+      }
+    ]
+  },
+  "D78nca-e55302": {
+    "D78nca-e55302-d1e166": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Ioh 1'; encoded io1_3@1-5"
+      }
+    ],
+    "D78nca-e55302-d1e173": [
+      {
+        "candidate_id": "io5_17",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'Ioh. 5o.'; range 5-12"
+      }
+    ],
+    "D78nca-e55302-d1e211": [
+      {
+        "candidate_id": "ier23_24",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "embedded in Augustine citation; encoded ier23_24@15-19 for 'celum et terram ego impleo'"
+      },
+      {
+        "candidate_id": "sap8_1",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "embedded in Augustine quote (12. ci. 25.); Augustine citing Wisdom 8:1; range 1-12"
+      }
+    ],
+    "D78nca-e55302-d1e375": [
+      {
+        "candidate_id": "ps144_17",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'psalmus. 1 44.'; range 1-6"
+      }
+    ]
+  },
+  "D78nca-e57713": {
+    "D78nca-e57713-d1e127": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded io1_3@7-11 for 'Sine ipso factum est nichil'"
+      }
+    ],
+    "D78nca-e57713-d1e134": [
+      {
+        "candidate_id": "is45_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded is45_7@6-10 for 'Ego dominus faciens pacem et creans malum'"
+      },
+      {
+        "candidate_id": "am3_6",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Amos. 3.'; range 10-18"
+      }
+    ],
+    "D78nca-e57713-d1e153": [
+      {
+        "candidate_id": "is45_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Esayi 45.'; encoded is45_7@6-10"
+      },
+      {
+        "candidate_id": "sir11_14",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cited as 'Eoclesia. 2.' (mis-cited; should be Sir 11:14); range 1-13"
+      }
+    ],
+    "D78nca-e57713-d1e731": [
+      {
+        "candidate_id": "is45_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Esape. 45.'; encoded is45_7@6-10"
+      }
+    ],
+    "D78nca-e57713-d1e1987": [
+      {
+        "candidate_id": "rom12_2",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded rom12_2@12-22 for 'quae sit voluntas dei bona bumnplacens et perfecta'"
+      }
+    ],
+    "D78nca-e57713-d1e2040": [
+      {
+        "candidate_id": "os8_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Oset 8'; encoded os8_4@1-11"
+      },
+      {
+        "candidate_id": "Isam8_7",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited '1. ro. 8.' (= 1 Regum 8); range 14-23"
+      },
+      {
+        "candidate_id": "is1_11",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Esaye. 1.'; range 1-14"
+      },
+      {
+        "candidate_id": "Isam8_22",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited '1. ro. 8.' (= 1 Regum 8); 'audi vocem eorum et constitue super eos regem'; range 6-13"
+      }
+    ],
+    "D78nca-e57713-d1e2188": [
+      {
+        "candidate_id": "ez33_11",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'cap. 33.' (Ez 33); encoded ez33_11@9-14 for 'Nolo mortem impii sed vt conuertatur'"
+      },
+      {
+        "candidate_id": "ez18_23",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Ezechie. 18.'; range 1-18"
+      }
+    ]
+  },
+  "D78nca-e60439": {
+    "D78nca-e60439-d1e223": [
+      {
+        "candidate_id": "ps5_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'psalmus'; range 6-11"
+      }
+    ],
+    "D78nca-e60439-d1e346": [
+      {
+        "candidate_id": "is45_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded is45_7@6-10 for 'Ipse faciens pacem et creans malum'"
+      }
+    ],
+    "D78nca-e60439-d1e392": [
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "thematic overlap \u2014 Ambrose paraphrasing rom11_36; MS cites Ambrose not Paul"
+      }
+    ],
+    "D78nca-e60439-d1e432": [
+      {
+        "candidate_id": "io8_34",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Ioh. 8.'; range 9-15"
+      }
+    ],
+    "D78nca-e60439-d1e472": [
+      {
+        "candidate_id": "prov13_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded prov13_4@1-5 for 'Uult et non vult piger'"
+      }
+    ],
+    "D78nca-e60439-d1e1375": [
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed to Christ in prayer; 'Non sicut ego volo: sed sicut tu vis'; range 22-28"
+      }
+    ],
+    "D78nca-e60439-d1e1444": [
+      {
+        "candidate_id": "rom8_28",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'ad Roma. 8.'; 'Scimus quoniam diligentibus deum omnia cooperantur in bonum'; range 1-9"
+      }
+    ],
+    "D78nca-e60439-d1e1687": [
+      {
+        "candidate_id": "rom1_26",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS mentions 'psalmus. Propterea tradidit illos deus' \u2014 citing psalm not Rom 1:26"
+      }
+    ],
+    "D78nca-e60439-d1e1945": [
+      {
+        "candidate_id": "is13_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "already encoded as part of multi-verse quote is13_3@1-11 is13_4@13-17 is13_5@1-7"
+      },
+      {
+        "candidate_id": "is13_5",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "already encoded as part of multi-verse quote is13_3@1-11 is13_4@13-17 is13_5@1-7"
+      },
+      {
+        "candidate_id": "IIchr18_21",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "parallel passage to Ireg22_22 which is already encoded"
+      },
+      {
+        "candidate_id": "IIsam16_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited '2. Regum. 16'; 'Dimitte eum vt maledicat: dominus enim precepit ei vt malediceret'; range 10-19"
+      },
+      {
+        "candidate_id": "Ireg22_22",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited '3. Regum vlti.'; 'Egrediar et ero spiritus mendax in ore prophetarum. et ait dominus. Egredere et fac'; range 4-17"
+      },
+      {
+        "candidate_id": "is13_3",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "multi-verse quote spanning is13_3+is13_4+is13_5; ranges 1-11, 13-17, 1-7"
+      },
+      {
+        "candidate_id": "is10_6",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "cited as 'Esaie. 10'; multi-verse quote of is10_5+is10_6; ranges 2-8 and 4-25"
+      }
+    ],
+    "D78nca-e60439-d1e2021": [
+      {
+        "candidate_id": "IIth2_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded IIth2_10@11-17 for 'Quoa veritatem dei non receperunt vt salui fierent'"
+      },
+      {
+        "candidate_id": "is63_17",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'propheta ait' within Isidore citation; range 9-14"
+      }
+    ],
+    "D78nca-e60439-d1e3011": [
+      {
+        "candidate_id": "mt5_45",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded mt5_45@11-18 for 'solem suum facit oriri super bonos et malos'"
+      }
+    ]
+  },
+  "D78nca-e73000": {
+    "D78nca-e73000-d1e173": [
+      {
+        "candidate_id": "io12_49",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Ioh. 12. Ex meipso non sum locutus: sed qui misit'; range 2-11"
+      },
+      {
+        "candidate_id": "io6_66",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 parallel to io6_44 already encoded; MS cites io6_44 text"
+      },
+      {
+        "candidate_id": "io6_44",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'Iob. 10.' (MS error for Ioh. 6); 'Nemo potest venire ad me: nisi pater meus traxerit eum'; range 1-12"
+      }
+    ],
+    "D78nca-e73000-d1e1467": [
+      {
+        "candidate_id": "rom9_20",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited by Augustine via reference to Romans 9; range 1-8"
+      }
+    ],
+    "D78nca-e73000-d1e1707": [
+      {
+        "candidate_id": "ex33_19",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Exodi trigesimotertio.'; range 15-24"
+      },
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'Et vigesimo primo' (possible MS error); 'Cuius vult miseretur: et quem vult indurat'; range 2-8"
+      }
+    ],
+    "D78nca-e73000-d1e1768": [
+      {
+        "candidate_id": "rom12_3",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited within Augustine paraphrase; 'non plus sapere quam oportet sapere'; range 14-19"
+      }
+    ],
+    "D78nca-e73000-d1e1810": [
+      {
+        "candidate_id": "io6_45",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'illud Iohannis sexto'; 'Omnis qui audiuit a patre meo et didicit venit ad me'; range 10-19"
+      },
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited via Augustine 'quia cuius vult miseretur: et quem vult indurat'; range 2-8"
+      }
+    ],
+    "D78nca-e73000-d1e1847": [
+      {
+        "candidate_id": "io12_38",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quotation with attribution marker"
+      },
+      {
+        "candidate_id": "io12_40",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "MS attributes to 'Isayas' again; John 12:40 quotes Is 6:10 which is already encoded in this paragraph"
+      },
+      {
+        "candidate_id": "io12_37",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cited as 'Iohannis. .12.'; close quote; range 1-11"
+      },
+      {
+        "candidate_id": "is6_10",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cited as 'Isapre sexto'; range 1-30"
+      }
+    ],
+    "D78nca-e73000-d1e2106": [
+      {
+        "candidate_id": "ap3_20",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quotation"
+      },
+      {
+        "candidate_id": "prov1_24",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "no explicit attribution; 'Uocaui et renuistis. Extendi manum meam et non fuit qui aspiceret'; range 2-12"
+      }
+    ]
+  },
+  "D78nca-e76497": {
+    "D78nca-e76497-d1e1333": [
+      {
+        "candidate_id": "mt23_34",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS misattributes to 'Mar. 23.' but genuine Mt quotation"
+      },
+      {
+        "candidate_id": "ps124_5",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cited as 'Et iterum'; within Chrysostom citation on Proverbs; range 1-9"
+      }
+    ],
+    "D78nca-e76497-d1e1374": [
+      {
+        "candidate_id": "is10_6",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "cited as 'ysa. 30.' (should be Is 10); multi-verse quote of is10_5 and is10_6; ranges 2-8 and 4-25"
+      },
+      {
+        "candidate_id": "IIsam16_10",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "cited as 'illud secundi regum. 10.'; quote starts after attribution 'dixit dauid'; range 10-28"
+      },
+      {
+        "candidate_id": "Ichr5_26",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quotation"
+      },
+      {
+        "candidate_id": "IIchr21_17",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited '2. Paralipo. 21.'; partial verse match 'ascenderunt in terram iuda et dissipauerunt eam'; range 1-8"
+      },
+      {
+        "candidate_id": "is10_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'ysa. 30.'; encoded as multi-verse is10_5+is10_6 (already encoded from previous session)"
+      },
+      {
+        "candidate_id": "prov21_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'illud Prouerbiorum. 21.'; 'Coregis in manu domini quocumque voluerit inclinabit illud'; range 5-13"
+      },
+      {
+        "candidate_id": "is10_15",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'super illud ysar. 10.'; range 1-9"
+      },
+      {
+        "candidate_id": "ps104_25",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "cited as 'psal. 10.' (should be Ps 104:25); close quote with interposed gloss 'scilicet egiptiorum'; range 1-13"
+      }
+    ],
+    "D78nca-e76497-d1e1536": [
+      {
+        "candidate_id": "io11_50",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'Io. 11. Tayphas'; 'expedit vt vnus homo moriatur pro populo et non tota gens pereat'; range 4-16"
+      }
+    ],
+    "D78nca-e76497-d1e1844": [
+      {
+        "candidate_id": "deut32_21",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "cited as 'iuxta illud Deute 32.'; MS omits middle words 'et inritaverunt in vanitatibus suis'; encoded without word range"
+      },
+      {
+        "candidate_id": "rom1_26",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "cited as gloss lemma for Glosa Augustini, not a direct quotation"
+      }
+    ],
+    "D78nca-e76497-d1e2391": [
+      {
+        "candidate_id": "gen3_5",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS quotes gen2_17 not gen3_5 \u2014 false positive; gen2_17 already encoded"
+      }
+    ],
+    "D78nca-e76497-d1e2470": [
+      {
+        "candidate_id": "ps142_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS actually quotes ps29_8 not ps142_7 \u2014 false positive"
+      },
+      {
+        "candidate_id": "ps29_8",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cited as 'Et iterum psaes.'; range 9-17"
+      }
+    ],
+    "D78nca-e76497-d1e2800": [
+      {
+        "candidate_id": "ps78_9",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "already has ps84_5/ps84_7 encoded; ps78_9 is false positive \u2014 thematic overlap"
+      },
+      {
+        "candidate_id": "ps84_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited alongside ps84_5 in Augustine quotation; range 1-5"
+      },
+      {
+        "candidate_id": "ps84_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited in Augustine quotation alongside ps84_7; range 1-5"
+      }
+    ],
+    "D78nca-e76497-d1e2974": [
+      {
+        "candidate_id": "rom9_16",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "paraphrase without explicit attribution; range 2-8"
+      }
+    ]
+  },
+  "D78nca-e82730": {
+    "D78nca-e82730-d1e154": [
+      {
+        "candidate_id": "Iio5_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quotation with explicit attribution '1. Io. 5.'"
+      }
+    ]
+  },
+  "D78nca-e95276": {
+    "D78nca-e95276-d1e991": [
+      {
+        "candidate_id": "Isam2_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quotation 'Deus scientiarum dominus est' with attribution 'primi Regum 2o'"
+      },
+      {
+        "candidate_id": "sir1_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'ecclesiastici 1.'; range 1-15"
+      }
+    ]
+  },
+  "D78nca-e97721": {
+    "D78nca-e97721-d1e173": [
+      {
+        "candidate_id": "hebr4_13",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quotation with attribution 'hebre. 4.'"
+      }
+    ],
+    "D78nca-e97721-d1e195": [
+      {
+        "candidate_id": "ps32_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "direct quotation 'qui intelligit omnia opera eorum' with attribution 'psalmus'"
+      }
+    ]
+  },
+  "D78nca-e99670": {
+    "D78nca-e99670-d1e1952": [
+      {
+        "candidate_id": "is55_9",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "explicit attribution 'ysale. 55.'; multi-verse quote of is55_8+is55_9, encoded with both sources, no word range due to paraphrase"
+      },
+      {
+        "candidate_id": "ps110_2",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'psalmus'; range 1-8"
+      }
+    ],
+    "D78nca-e99670-d1e2046": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'illud romanorum primo'; 'inuisibilia dei per ea quae facta sunt intellecta conspiciuntur'; range 1-13"
+      }
+    ]
+  },
+  "D78nca-f05738": {
+    "D78nca-f05738-d1e465": [
+      {
+        "candidate_id": "ps144_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "partial quotation 'Magnitudinis eius non est finis' with attribution 'psalmista'"
+      }
+    ],
+    "D78nca-f05738-d1e504": [
+      {
+        "candidate_id": "iob11_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "already encoded as iob11_8@1-11 spanning both iob11_8 and iob11_9; MS cites 'Iob. 2o.' wrong chapter"
+      },
+      {
+        "candidate_id": "Ireg8_27",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as '3. Regum. 8.'; range 12-19"
+      },
+      {
+        "candidate_id": "bar3_24",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "cited as 'Baruch. 3o. ca.'; range 1-12"
+      },
+      {
+        "candidate_id": "iob11_8",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "cited as 'Iob. 2o.' (= Job 11:8); range 1-11; also includes additional words beyond iob11_8"
+      }
+    ]
+  },
+  "D78nca-f07235": {
+    "D78nca-f07235-d1e820": [
+      {
+        "candidate_id": "ps144_17",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'super illud psal.'; range 1-6"
+      }
+    ]
+  },
+  "D78nca-f09719": {
+    "D78nca-f09719-d1e308": [
+      {
+        "candidate_id": "mt20_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Mathei. 2.' (wrong ch, should be 20); encoded mt20_6@12-17"
+      },
+      {
+        "candidate_id": "mt25_42",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded mt25_42@1-5 for 'esuriui enim et non dedistis'"
+      }
+    ]
+  },
+  "D78nca-f12127": {
+    "D78nca-f12127-d1e340": [
+      {
+        "candidate_id": "io8_47",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "cited as 'iohannis. 8.'; close quote; range 1-16"
+      }
+    ]
+  },
+  "D78nca-f17663": {
+    "D78nca-f17663-d1e346": [
+      {
+        "candidate_id": "rom11_33",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Roma. vndecimo'; range 1-9"
+      }
+    ],
+    "D78nca-f17663-d1e514": [
+      {
+        "candidate_id": "mt11_26",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'illud Matthei vndecimo'; range 1-8"
+      },
+      {
+        "candidate_id": "rom9_21",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cited as 'ad Romanos nono'; range 1-9"
+      }
+    ],
+    "D78nca-f17663-d1e530": [
+      {
+        "candidate_id": "act10_34",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded act10_34@6-14 for 'in veritate comperi quia non est personarum acceptor deus'"
+      },
+      {
+        "candidate_id": "sap8_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Sapientie octauo'; encoded sap8_1@1-12"
+      },
+      {
+        "candidate_id": "mt22_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'Matthei vigesimosecundo'; 'Non est tibi cura... Non enim respicis personam hominum'; range 21-31"
+      }
+    ],
+    "D78nca-f17663-d1e591": [
+      {
+        "candidate_id": "eph1_11",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'illud Ephesiorum primo'; 'Deus omnia operatur secundum consilium voluntatis sue'; range 12-17"
+      }
+    ],
+    "D78nca-f17663-d1e648": [
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'super illud Romanorum. nonco Confirmatur'; 'cuius vult miseretur et quem vult indurat'; range 2-8"
+      },
+      {
+        "candidate_id": "rom9_20",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'O homo tu quis es'; range 1-8"
+      }
+    ],
+    "D78nca-f17663-d1e928": [
+      {
+        "candidate_id": "ps49_21",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'in psalmista'; 'Existimasti inique quod ero tui similis'; range 5-10"
+      }
+    ],
+    "D78nca-f17663-d1e1277": [
+      {
+        "candidate_id": "lc10_13",
+        "intersectionCount": 10,
+        "status": "not_found",
+        "note": "parallel passage but MS explicitly cites 'Matth. 1i.' (Mt 11:21); encoded as mt11_21 instead"
+      },
+      {
+        "candidate_id": "mt11_21",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "cited as 'Matth. 1i.' (= Matthew 11:21); close quote; range 1-27"
+      }
+    ],
+    "D78nca-f17663-d1e1413": [
+      {
+        "candidate_id": "gen18_19",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'Genest decimooctauo.'; range 1-16"
+      }
+    ],
+    "D78nca-f17663-d1e1664": [
+      {
+        "candidate_id": "lam3_22",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Trenorum tertio'; range 2-7"
+      }
+    ],
+    "D78nca-f17663-d1e1778": [
+      {
+        "candidate_id": "rom11_29",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'Roma. 1.' (wrong chapter); range 1-8"
+      }
+    ],
+    "D78nca-f17663-d1e1785": [
+      {
+        "candidate_id": "tit3_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'ad Titum 2.' (wrong chapter, should be 3); range 1-17"
+      }
+    ],
+    "D78nca-f17663-d1e1866": [
+      {
+        "candidate_id": "rom9_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited in gloss 'super illud Roma. 9.'; range 1-6"
+      }
+    ],
+    "D78nca-f17663-d1e1953": [
+      {
+        "candidate_id": "rom11_6",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited within Augustine quotation; range 7-12"
+      }
+    ],
+    "D78nca-f17663-d1e1971": [
+      {
+        "candidate_id": "eph1_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'super illud Ephe. 1.'; 'elegit nos ante mundi constitutionem: vt essemus sancti et immaculati'; range 2-11"
+      }
+    ],
+    "D78nca-f17663-d1e2324": [
+      {
+        "candidate_id": "rom9_23",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'super illud Roma. 9.'; 'In vasa misericordie que preparauit in gloriam'; range 6-12"
+      }
+    ],
+    "D78nca-f17663-d1e2400": [
+      {
+        "candidate_id": "ps144_17",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "no explicit attribution; range 1-6"
+      }
+    ],
+    "D78nca-f17663-d1e2570": [
+      {
+        "candidate_id": "mt25_23",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "cited as 'Mathei. 25.'; quote starts at 'quia super pauca'; range 10-23"
+      },
+      {
+        "candidate_id": "mt25_21",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "nearly identical to mt25_23 (already encoded); paragraph cites 'et ibidem' suggesting same location as mt25_23"
+      }
+    ],
+    "D78nca-f17663-d1e2889": [
+      {
+        "candidate_id": "rom8_30",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "cited as 'Roma. 8'; close quote; range 1-18"
+      }
+    ],
+    "D78nca-f17663-d1e2980": [
+      {
+        "candidate_id": "rom8_28",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'super illud Romanorum octauo capitulo'; range 6-16"
+      }
+    ],
+    "D78nca-f17663-d1e3705": [
+      {
+        "candidate_id": "Itim2_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded Itim2_4@2-6 for 'omnes homines vult saluos fieri'"
+      }
+    ]
+  },
+  "D78nca-f21455": {
+    "D78nca-f21455-d1e571": [
+      {
+        "candidate_id": "rom9_13",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'iuxtra illud'; 'Iacob dilexi: esau autem odio habui'; range 4-9"
+      }
+    ],
+    "D78nca-f21455-d1e626": [
+      {
+        "candidate_id": "ex9_16",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "cited as 'illud Exodi. 9.'; close quote; range 3-17"
+      },
+      {
+        "candidate_id": "ex33_19",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'illud Exodi. 33.'; 'Miserebor cuius voluero: et clemens ero in quem michi placuerit'; range 15-24"
+      },
+      {
+        "candidate_id": "rom9_17",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites 'illud Exodi. 9.' explicitly \u2014 Exodus verse, not Romans citation"
+      },
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as apostolic corollary via 'dicens'; range 1-8"
+      }
+    ],
+    "D78nca-f21455-d1e818": [
+      {
+        "candidate_id": "rom9_22",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "multi-verse quote with rom9_23; range 3-20"
+      },
+      {
+        "candidate_id": "rom9_23",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "multi-verse quote with rom9_22; range 1-8"
+      }
+    ],
+    "D78nca-f21455-d1e842": [
+      {
+        "candidate_id": "lc10_13",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cited as 'Luce. 10.'; range 1-15"
+      },
+      {
+        "candidate_id": "mt11_21",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "MS explicitly cites 'Luce. 10.' (not Matthew); encoded as lc10_13 instead"
+      }
+    ],
+    "D78nca-f21455-d1e1040": [
+      {
+        "candidate_id": "rom9_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites rom9_21 as gloss lemma, not a direct quotation"
+      },
+      {
+        "candidate_id": "rom9_13",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'super illo verbo' as gloss lemma; 'Iacob dilexi: Esau autem odio habui'; range 4-9"
+      },
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'super illo verbo'; range 1-8"
+      }
+    ]
+  },
+  "D78nca-f22857": {
+    "D78nca-f22857-d1e172": [
+      {
+        "candidate_id": "lc10_20",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Luce. 10.'; encoded lc10_20@13-18"
+      },
+      {
+        "candidate_id": "rom9_23",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS references Rom 9 as lemma for Ambrose gloss, not a direct quote"
+      }
+    ],
+    "D78nca-f22857-d1e980": [
+      {
+        "candidate_id": "io16_23",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "no explicit chapter; 'si quid petieritis patrem in nomine pneo dabit vobis'; range 13-21"
+      }
+    ],
+    "D78nca-f22857-d1e1179": [
+      {
+        "candidate_id": "rom9_23",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS references as gloss lemma, not a direct quotation"
+      }
+    ]
+  },
+  "D78nca-f24380": {
+    "D78nca-f24380-d1e175": [
+      {
+        "candidate_id": "ps144_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded ps144_3@7-11 for 'Magnitudinis eius non est finis'"
+      }
+    ],
+    "D78nca-f24380-d1e821": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no direct quotation of Is 41:24 in paragraph"
+      }
+    ]
+  },
+  "D78nca-f26969": {
+    "D78nca-f26969-d1e594": [
+      {
+        "candidate_id": "gen1_9",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "cited as 'illud Genesis primo.'; close quote; range 1-15"
+      },
+      {
+        "candidate_id": "iob38_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'Iob. xxx viii.'; 'circundedi illud terminis meis et posui vectem et hostia'; range 1-9"
+      },
+      {
+        "candidate_id": "prov8_27",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'Prouerbiorum viii.'; 'quando certa lege et gyro vallabat abyssos'; range 5-11"
+      },
+      {
+        "candidate_id": "iob38_11",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "cited as 'Iob. xxx viii.'; encoded iob38_11 portion starting at 'dixi'; range 1-15"
+      },
+      {
+        "candidate_id": "prov8_29",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "cited as 'Prouerbiorum viii.'; quote starts after 'Sequitur'; range 1-13"
+      }
+    ],
+    "D78nca-f26969-d1e2848": [
+      {
+        "candidate_id": "Imac6_45",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "thematic overlap only; no direct citation of 1Mac 6:45"
+      },
+      {
+        "candidate_id": "Ireg22_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "thematic overlap only; no direct citation of 1Reg 22:19"
+      },
+      {
+        "candidate_id": "ex14_29",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel phrasing 'a dextris et a sinistris' but not a biblical quotation"
+      }
+    ],
+    "D78nca-f26969-d1e3337": [
+      {
+        "candidate_id": "ps103_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'iuxta illud psal.'; 'Qui fundasti terram super stabilitatem suam non inclinatur in seculum seculi'; range 1-11"
+      }
+    ]
+  },
+  "D78nca-f32495": {
+    "D78nca-f32495-d1e1529": [
+      {
+        "candidate_id": "iob14_2",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Iob. 13.' (wrong ch); encoded iob14_2@11-15 for 'numquam in eodem statu permanet'"
+      }
+    ]
+  },
+  "D78nca-f41793": {
+    "D78nca-f41793-d1e825": [
+      {
+        "candidate_id": "Icor15_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'prime Corin. 15.'; 'si mortui non resurgunt: neque christus resurrexit'; range 2-8"
+      }
+    ]
+  },
+  "D78nca-f43810": {
+    "D78nca-f43810-d1e2559": [
+      {
+        "candidate_id": "ap17_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph discusses abstract philosophical topics; no direct quote of Apoc 17:8"
+      }
+    ]
+  },
+  "D78nca-f47571": {
+    "D78nca-f47571-d1e203": [
+      {
+        "candidate_id": "act1_11",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded act1_11@20-24 for 'sic veniet quemadmodum vidistis eum'"
+      },
+      {
+        "candidate_id": "ap21_5",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'apo. l3.'; range 13-20"
+      }
+    ],
+    "D78nca-f47571-d1e285": [
+      {
+        "candidate_id": "io13_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites Matthew verses, no John quotation"
+      },
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites Matthew verses, no John quotation"
+      },
+      {
+        "candidate_id": "io6_32",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites Matthew verses, no John quotation"
+      }
+    ],
+    "D78nca-f47571-d1e344": [
+      {
+        "candidate_id": "sir23_29",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'eccle. 23.'; encoded sir23_29@4-8"
+      }
+    ],
+    "D78nca-f47571-d1e366": [
+      {
+        "candidate_id": "io2_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'ipse enim sciebat quid esset facturus' is io6_6 (already encoded); io2_25 has different wording"
+      },
+      {
+        "candidate_id": "iob14_5",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Iob. 14.'; encoded iob14_5@1-10"
+      },
+      {
+        "candidate_id": "io6_6",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Io. 5.' (wrong chapter, should be 6); range 1-11"
+      },
+      {
+        "candidate_id": "io18_4",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'c 18.'; range 1-9"
+      }
+    ],
+    "D78nca-f47571-d1e400": [
+      {
+        "candidate_id": "io7_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS quotes io7_8 ('ego non ascendo'); io7_10 is a different verse"
+      }
+    ],
+    "D78nca-f47571-d1e644": [
+      {
+        "candidate_id": "ion4_2",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "explicit attribution: 'ait Ionas' with citation 'c. 4'; range 9-35"
+      },
+      {
+        "candidate_id": "ioel2_14",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "same text as ion3_9 already encoded; Joel 2:14 and Jon 3:9 share 'quis scit si convertatur' \u2014 overlap already covered"
+      },
+      {
+        "candidate_id": "ion3_9",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited 'Ione. 3.'; 'conuertatur vira via sua mala quis scit si conuertatur et ignoscat deus'; range 1-7"
+      }
+    ],
+    "D78nca-f47571-d1e673": [
+      {
+        "candidate_id": "rom6_6",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'ad Rom. 5' (MS error for Rom. 6); 'vetus homo noster crucifixus est vt destruatur corpus peccati'; range 4-13"
+      }
+    ],
+    "D78nca-f47571-d1e715": [
+      {
+        "candidate_id": "io7_14",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded io7_14@3-9 for 'festo iam mediante ascendit iesus in templum'"
+      }
+    ]
+  },
+  "D78nca-f48495": {
+    "D78nca-f48495-d1e305": [
+      {
+        "candidate_id": "mt26_53",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "cited as 'Matthe 26.'; close quote; range 1-17"
+      }
+    ],
+    "D78nca-f48495-d1e1343": [
+      {
+        "candidate_id": "IIchr34_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "not present in paragraph text"
+      },
+      {
+        "candidate_id": "bar2_2",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "not present in paragraph text"
+      },
+      {
+        "candidate_id": "ios1_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "not present in paragraph text"
+      },
+      {
+        "candidate_id": "lc22_32",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded lc22_32@3-10 for 'rogaui pro te petre vt non deficiat fides tua'"
+      },
+      {
+        "candidate_id": "Ichr16_40",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "thematic overlap ('quae scripta sunt in lege') but MS cites Luke 24:44 which is already encoded; no Chronicles quotation"
+      },
+      {
+        "candidate_id": "lc24_44",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cited as 'Luce. 2 4'; close quote; range 18-33"
+      }
+    ],
+    "D78nca-f48495-d1e1378": [
+      {
+        "candidate_id": "rom3_21",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'glo. Ad Ro. 3.'; 'nunc autem sine lege iustitia dei manifesta est'; range 1-8"
+      }
+    ]
+  },
+  "D78nca-f50693": {
+    "D78nca-f50693-d1e545": [
+      {
+        "candidate_id": "ier18_8",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "cited as 'Hieremie. 18.'; MS omits 'quod locutus sum adversum eam'; encoded without word range"
+      }
+    ]
+  },
+  "D78nca-f52247": {
+    "D78nca-f52247-d1e163": [
+      {
+        "candidate_id": "hebr4_13",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "D78nca-f52247-d1e320": [
+      {
+        "candidate_id": "ps144_13",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded ps144_13@14-19 for 'fidelis deus in omnibus verbis suis'"
+      }
+    ],
+    "D78nca-f52247-d1e558": [
+      {
+        "candidate_id": "io8_55",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Iohannis. 7.' (wrong ch); encoded io8_55@10-19"
+      },
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "parallel psalm to ps52_1 which was encoded for this location"
+      },
+      {
+        "candidate_id": "ps52_1",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'psalmista'; range 7-14"
+      }
+    ]
+  },
+  "D78nca-f53937": {
+    "D78nca-f53937-d1e194": [
+      {
+        "candidate_id": "gal1_8",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'contra apostolum galid'; 'licet nos aut angelus de celo euangelisasset vobis preter quam quod euangelisamus anathema sit'; range 2-12"
+      }
+    ],
+    "D78nca-f53937-d1e242": [
+      {
+        "candidate_id": "tit1_2",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'ad timo' (=Titus) 'vite eterne quam promisit qui non mentitur deus'; range 5-10"
+      }
+    ],
+    "D78nca-f53937-d1e511": [
+      {
+        "candidate_id": "IIchr18_27",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "parallel passage to Ireg22_28 which is encoded; MS cites '3. Regum' (1 Kings)"
+      },
+      {
+        "candidate_id": "Ireg22_28",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as 'tertii Regum vltimo'; range 3-13"
+      }
+    ],
+    "D78nca-f53937-d1e1079": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded io1_3@1-5 for 'omnia per ipsum facta sunt'"
+      }
+    ],
+    "D78nca-f53937-d1e1119": [
+      {
+        "candidate_id": "ez14_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Eze. 14.'; encoded ez14_9@1-13"
+      },
+      {
+        "candidate_id": "IIth2_11",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "pre-encoded from previous session as multi-verse IIth2_10+IIth2_11@1-9"
+      },
+      {
+        "candidate_id": "IIth2_10",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cited as 'secunde thessa. 2.'; multi-verse IIth2_10+IIth2_11; IIth2_11 range 1-9"
+      }
+    ],
+    "D78nca-f53937-d1e1172": [
+      {
+        "candidate_id": "ios8_2",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Iosue. 8.'; encoded ios8_2@20-24 for 'pone insidias vrbi post eam'"
+      },
+      {
+        "candidate_id": "tob12_19",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as 'Thobie. 12.'; range 1-10"
+      }
+    ],
+    "D78nca-f53937-d1e1224": [
+      {
+        "candidate_id": "ier20_7",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'hiere. 20.'; two partial quotes: 'seduxisti me domine et seductus sum' (1-7) and 'fortior fuisti et inualuisti' (8-11)"
+      },
+      {
+        "candidate_id": "mt27_63",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited in Bernard quotation; 'seductor ille dixerat adhuc viuens post tres dies resurgam'; range 6-14"
+      }
+    ],
+    "D78nca-f53937-d1e2091": [
+      {
+        "candidate_id": "IIreg6_19",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "cited as '4. Regum. 5.' (=2 Kings 6); explicit attribution 'quibus et dixit'; range 6-21"
+      }
+    ],
+    "D78nca-f53937-d1e2104": [
+      {
+        "candidate_id": "gen19_2",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Gen. 10.' (wrong, should be 19); encoded gen19_2@24-28"
+      }
+    ],
+    "D78nca-f53937-d1e2196": [
+      {
+        "candidate_id": "Icor15_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded Icor15_15@1-5 for 'inuenimur autem et falsi testes'"
+      },
+      {
+        "candidate_id": "Icor15_14",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited '1 ad Corin. 15.'; 'christus non resurrexit inanis putatio nostra'; range 3-10"
+      },
+      {
+        "candidate_id": "Icor15_17",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as '1 ad Corin. 15.'; range 1-9"
+      }
+    ],
+    "D78nca-f53937-d1e2489": [
+      {
+        "candidate_id": "prov13_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded prov13_4@1-5 for 'vult et non vult piger'"
+      }
+    ],
+    "D78nca-f53937-d1e3008": [
+      {
+        "candidate_id": "ier1_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS paraphrases ier1_5 and ier1_10 together via gloss; not a direct quote of ier1_10"
+      }
+    ]
+  },
+  "D78nca-f57157": {
+    "D78nca-f57157-d1e269": [
+      {
+        "candidate_id": "lc22_61",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS paraphrases the story, no direct quotation"
+      },
+      {
+        "candidate_id": "mt26_34",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS paraphrases the story, no direct quotation"
+      },
+      {
+        "candidate_id": "mt26_75",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS paraphrases the story, no direct quotation"
+      }
+    ],
+    "D78nca-f57157-d1e852": [
+      {
+        "candidate_id": "mt26_35",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Peter's response cited by author; range 4-12"
+      }
+    ],
+    "D78nca-f57157-d1e913": [
+      {
+        "candidate_id": "lc22_61",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS alludes to Peter's denial but does not directly quote"
+      }
+    ]
+  },
+  "D78nca-f58199": {
+    "D78nca-f58199-d1e1055": [
+      {
+        "candidate_id": "lc11_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Lord's Prayer fragment; encoded lc11_4@13-18"
+      }
+    ],
+    "D78nca-f58199-d1e1226": [
+      {
+        "candidate_id": "lc17_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Luce. 17.'; encoded lc17_1@6-11"
+      },
+      {
+        "candidate_id": "qoh6_2",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "cited as 'Ecclesiastici. 5. capit.'; MS skips middle words 'et nihil deest animae eius ex omnibus quae desiderat'; encoded without word range"
+      }
+    ],
+    "D78nca-f58199-d1e1252": [
+      {
+        "candidate_id": "ier10_23",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "cited as 'Hiere. 10.'; close quote; range 1-17"
+      },
+      {
+        "candidate_id": "rom9_16",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Roma. 9.'; 'Non est volentis neque currentis: sed miserentis dei'; range 2-8"
+      }
+    ],
+    "D78nca-f58199-d1e1263": [
+      {
+        "candidate_id": "qoh7_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as 'Eccle. 7.'; range 1-10"
+      }
+    ],
+    "D78nca-f58199-d1e1934": [
+      {
+        "candidate_id": "ps140_4",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited within Augustine quote on Ps 31; range 1-12"
+      }
+    ],
+    "D78nca-f58199-d1e2087": [
+      {
+        "candidate_id": "lc11_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Lord's Prayer fragment; encoded lc11_4@13-18"
+      }
+    ],
+    "D78nca-f58199-d1e2238": [
+      {
+        "candidate_id": "sir31_10",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cited as 'eccle. 31.'; range 15-27"
+      }
+    ],
+    "D78nca-f58199-d1e2532": [
+      {
+        "candidate_id": "is40_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "partial quote 'quasi momentum statere reputate sunt'; encoded is40_15@7-11"
+      }
+    ],
+    "D78nca-f58199-d1e2856": [
+      {
+        "candidate_id": "iob5_12",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "cited as 'Iob. 5.'; range 1-11"
+      }
+    ],
+    "D78nca-f58199-d1e2995": [
+      {
+        "candidate_id": "prov21_30",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "cited as 'Salomon ait'; range 1-11"
+      }
+    ],
+    "D78nca-f58199-d1e3037": [
+      {
+        "candidate_id": "mt24_35",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "quote already encoded as mc13_31 (parallel passage)"
+      },
+      {
+        "candidate_id": "lc21_33",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "parallel to mc13_31 which is already encoded for this passage"
+      },
+      {
+        "candidate_id": "mc13_31",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cited as 'et iterum' (Gregory gloss context); range 1-9"
+      }
+    ],
+    "D78nca-f58199-d1e3066": [
+      {
+        "candidate_id": "is14_27",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Isaie. xiui.'; encoded is14_27@1-8"
+      },
+      {
+        "candidate_id": "tob3_20",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'Tho. 3.'; encoded tob3_20@1-8"
+      }
+    ],
+    "D78nca-f58199-d1e3106": [
+      {
+        "candidate_id": "lc22_32",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited 'Luce. 22.'; range 1-10"
+      }
+    ],
+    "D78nca-f58199-d1e3209": [
+      {
+        "candidate_id": "mt24_24",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Matth. xxitii.'; paraphrase of verse \u2014 encoded without @range"
+      }
+    ],
+    "D78nca-f58199-d1e3253": [
+      {
+        "candidate_id": "iob14_5",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'Iob. 14.'; range 5-17"
+      }
+    ],
+    "D78nca-f58199-d1e3267": [
+      {
+        "candidate_id": "iob22_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited 'Iohins. 12.' (garbled; Gregory 16 Moralia on Job 22:16); range 1-6"
+      }
+    ],
+    "D78nca-f58199-d1e3300": [
+      {
+        "candidate_id": "io5_30",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited 'Ioh. 7.' (wrong chapter, should be 5); range 1-11"
+      }
+    ],
+    "D78nca-f58199-d1e3351": [
+      {
+        "candidate_id": "lc24_44",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as 'Luce. xxiiii.'; range 18-33"
+      }
+    ],
+    "D78nca-f58199-d1e4507": [
+      {
+        "candidate_id": "gal4_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited 'gali. 4.'; range 6-19"
+      }
+    ]
+  },
+  "D78nca-f65353": {
+    "D78nca-f65353-d1e2303": [
+      {
+        "candidate_id": "mt20_15",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Math. 39.' (MS error for Math. 20); 'an non licet mihi quod volo facere'; range 1-7"
+      },
+      {
+        "candidate_id": "mt11_26",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'Math. 11.'; range 1-8"
+      }
+    ],
+    "D78nca-f65353-d1e2543": [
+      {
+        "candidate_id": "sap8_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited 'sapientie. 7.' (wrong chapter, should be 8); range 1-12"
+      }
+    ],
+    "D78nca-f65353-d1e2616": [
+      {
+        "candidate_id": "prov16_4",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "no explicit attribution; 'vniuersa propter semet ipsum operatus est'; range 1-7"
+      }
+    ],
+    "D78nca-f65353-d1e3538": [
+      {
+        "candidate_id": "lc18_20",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "commandments listed as common knowledge without scriptural citation; thematic overlap only"
+      }
+    ],
+    "D78nca-f65353-d1e3971": [
+      {
+        "candidate_id": "Icor4_4",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "apostle cited as authority; range 1-11"
+      }
+    ],
+    "D78nca-f65353-d1e4010": [
+      {
+        "candidate_id": "ps10_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited 'Psal.'; range 8-12"
+      },
+      {
+        "candidate_id": "io12_25",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as 'super illud. Ioh. 12.' by Augustine; range 18-24"
+      },
+      {
+        "candidate_id": "tob12_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'Tobie. 12.'; range 1-10"
+      },
+      {
+        "candidate_id": "prov1_18",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "cited as 'prouerb i.'; range 1-11"
+      }
+    ]
+  },
+  "D78nca-f69706": {
+    "D78nca-f69706-d1e433": [
+      {
+        "candidate_id": "ps72_1",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 MS cites 'Psalmiste. 35.' (ps35_11 already encoded); thematic overlap with ps72_1"
+      },
+      {
+        "candidate_id": "ps35_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited as 'Psalmiste. 35.'; range 7-13"
+      }
+    ],
+    "D78nca-f69706-d1e512": [
+      {
+        "candidate_id": "lev19_11",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited 'super illud Leuiti. 19.'; range 1-5"
+      }
+    ]
+  },
+  "D78nca-f72744": {
+    "D78nca-f72744-d1e445": [
+      {
+        "candidate_id": "ps93_15",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "partial citation, text truncated; range 7-14"
+      }
+    ],
+    "D78nca-f72744-d1e639": [
+      {
+        "candidate_id": "ps93_15",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "cited via Augustine; range 7-14"
+      }
+    ],
+    "D78nca-f72744-d1e672": [
+      {
+        "candidate_id": "io18_11",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited 'Iohannis. 18.'; 'Calicem quem dedit mihi pater: non vis vt bibam illum'; range 9-16"
+      }
+    ],
+    "D78nca-f72744-d1e1171": [
+      {
+        "candidate_id": "gen22_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as 'Gen. 22.'; range 1-13"
+      }
+    ],
+    "D78nca-f72744-d1e2107": [
+      {
+        "candidate_id": "mc14_34",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "parallel to mt26_38 which is encoded; MS cites 'Matthei 26' for tristis est"
+      },
+      {
+        "candidate_id": "mt26_38",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as 'Matthei 26'; range 4-10"
+      }
+    ],
+    "D78nca-f72744-d1e2162": [
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited without chapter attribution 'christus orauit'; range 16-20"
+      }
+    ],
+    "D78nca-f72744-d1e2180": [
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as 'christus ait'; range 21-28"
+      }
+    ],
+    "D78nca-f72744-d1e2221": [
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "brief quote 'ait enim. si possibile est transeat a me. etc.'; range 13-19"
+      }
+    ],
+    "D78nca-f72744-d1e2528": [
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites ps134_6 'quaecumque voluit deus fecit in celo et in terra'; thematic overlap only"
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 thematic overlap with ps134_6 citation"
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 thematic overlap only"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 thematic overlap only"
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 thematic overlap with 'in celo et in terra'"
+      }
+    ],
+    "D78nca-f72744-d1e2585": [
+      {
+        "candidate_id": "is53_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited without explicit attribution; 'oblatus enim est quia ipse voluit'; range 1-5"
+      }
+    ],
+    "D78nca-f72744-d1e2769": [
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paragraph analyzes verse rather than quoting it directly"
+      }
+    ],
+    "D78nca-f72744-d1e2806": [
+      {
+        "candidate_id": "io4_34",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 MS cites John 5 (io5_30 and io6_38 already encoded); io4_34 thematic overlap"
+      },
+      {
+        "candidate_id": "io5_30",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "cited as 'Io. 5.'; close quote; range 18-27"
+      },
+      {
+        "candidate_id": "io6_38",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "cited as 'Io. 5.' (should be Io. 6); close quote; range 1-15"
+      }
+    ],
+    "D78nca-f72744-d1e2824": [
+      {
+        "candidate_id": "IItim4_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited within Augustine gloss on ps100; range 1-5"
+      }
+    ],
+    "D78nca-f72744-d1e3171": [
+      {
+        "candidate_id": "rom8_32",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited in 'glosa Roma. 8.'; range 8-12"
+      }
+    ],
+    "D78nca-f72744-d1e3247": [
+      {
+        "candidate_id": "ps93_15",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited via 'super illud'; range 7-14"
+      }
+    ],
+    "D78nca-f72744-d1e3801": [
+      {
+        "candidate_id": "ps118_91",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited 'Psal.'; range 1-8"
+      }
+    ]
+  },
+  "D78nca-f77311": {
+    "D78nca-f77311-d1e248": [
+      {
+        "candidate_id": "lc19_42",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited 'Luce. 19.'; range 1-5"
+      }
+    ],
+    "D78nca-f77311-d1e290": [
+      {
+        "candidate_id": "phil1_25",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited 'Philip pen i1' (= Phil 1); range 6-13"
+      }
+    ],
+    "D78nca-f77311-d1e561": [
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as Christ's example; paraphrase; range 21-28"
+      }
+    ],
+    "D78nca-f77311-d1e966": [
+      {
+        "candidate_id": "ps31_11",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited 'super illud Psal. xxxi.' within Augustine citation; range 8-11"
+      },
+      {
+        "candidate_id": "mc14_36",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "parallel to mt26_39 which is encoded; the specific citation is 'Matthei xxvi'"
+      },
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as 'Matthei xxvi'; range 21-28"
+      }
+    ],
+    "D78nca-f77311-d1e1049": [
+      {
+        "candidate_id": "phil1_23",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited as Paul's words; 'coartor enim e duobus desiderium habens dissolui et esse cum christo multo magis melius'; range 1-14"
+      }
+    ]
+  }
+}
