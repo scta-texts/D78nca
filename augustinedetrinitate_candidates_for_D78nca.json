@@ -1,0 +1,436 @@
+{
+  "D78nca-d1e4XX": {
+    "D78nca-d1e4XX-d1e603": [
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "D78nca-de1712": {
+    "D78nca-de1712-d1e1554": [
+      {
+        "candidate_id": "adt-l6-d1e801",
+        "intersectionCount": 12,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l6-d1e814",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "D78nca-de1712-d1e1571": [
+      {
+        "candidate_id": "adt-l7-d1e905",
+        "intersectionCount": 17,
+        "status": "encoded",
+        "note": "explicit citation 7. de tri. c. 9; two non-contiguous clauses, no range"
+      }
+    ]
+  },
+  "D78nca-e14615": {
+    "D78nca-e14615-d1e2174": [
+      {
+        "candidate_id": "adt-l11-d1e1251",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation Aug. de trinitate cap. 6; MS misattributes as book 2, actual match is book 11; paraphrase @209-233"
+      }
+    ]
+  },
+  "D78nca-e17573": {
+    "D78nca-e17573-d1e1404": [
+      {
+        "candidate_id": "adt-l6-d1e801",
+        "intersectionCount": 11,
+        "status": "encoded"
+      }
+    ]
+  },
+  "D78nca-e20883": {
+    "D78nca-e20883-d1e1491": [
+      {
+        "candidate_id": "adt-l13-d1e1406",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation Aug. 13. de trini. ca. 2; quote @105-154 covering aliud sunt ea...non enim numero"
+      }
+    ]
+  },
+  "D78nca-e23457": {
+    "D78nca-e23457-d1e1754": [
+      {
+        "candidate_id": "adt-l15-d1e1832",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "D78nca-e27344": {
+    "D78nca-e27344-d1e127": [
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "D78nca-e29536": {
+    "D78nca-e29536-d1e134": [
+      {
+        "candidate_id": "adt-l15-d1e1760",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "paragraph too short to confirm quote; no attribution to Augustine; thematic overlap only"
+      }
+    ]
+  },
+  "D78nca-e32317": {
+    "D78nca-e32317-d1e291": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites 'augu. 9. de ciui. cap. 5.' (de Civitate Dei), not de Trinitate; false positive"
+      }
+    ],
+    "D78nca-e32317-d1e2004": [
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation Aug 1 de tri cap. 16; quote @110-152"
+      }
+    ],
+    "D78nca-e32317-d1e2341": [
+      {
+        "candidate_id": "adt-l6-d1e811",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "D78nca-e34971": {
+    "D78nca-e34971-d1e687": [
+      {
+        "candidate_id": "adt-l5-d1e677",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ]
+  },
+  "D78nca-e38348": {
+    "D78nca-e38348-d1e289": [
+      {
+        "candidate_id": "adt-l6-d1e814",
+        "intersectionCount": 30,
+        "status": "encoded"
+      }
+    ]
+  },
+  "D78nca-e42019": {
+    "D78nca-e42019-d1e171": [
+      {
+        "candidate_id": "adt-l15-d1e1896",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation Aug. 15. de tri. c. 8; quote @1-18"
+      }
+    ],
+    "D78nca-e42019-d1e187": [
+      {
+        "candidate_id": "adt-l15-d1e1896",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation Aug. 15. de tri c. 18; quote @19-123 (MS abbreviates middle with etc.)"
+      }
+    ]
+  },
+  "D78nca-e47214": {
+    "D78nca-e47214-d1e237": [
+      {
+        "candidate_id": "adt-l14-d1e1621",
+        "intersectionCount": 17,
+        "status": "encoded",
+        "note": "explicit citation 14 de tri. 12; quote @88-167"
+      }
+    ],
+    "D78nca-e47214-d1e270": [
+      {
+        "candidate_id": "adt-l8-d1e1003",
+        "intersectionCount": 20,
+        "status": "encoded",
+        "note": "explicit citation Aug. 8. de tri. c. 8-9; direct quote @1-40"
+      }
+    ],
+    "D78nca-e47214-d1e318": [
+      {
+        "candidate_id": "adt-l15-d1e1912",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "D78nca-e47214-d1e577": [
+      {
+        "candidate_id": "adt-l8-d1e1012",
+        "intersectionCount": 21,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "D78nca-e55302": {
+    "D78nca-e55302-d1e211": [
+      {
+        "candidate_id": "adt-l15-d1e1734",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e334",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e378",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e400",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "D78nca-e60439": {
+    "D78nca-e60439-d1e1444": [
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "D78nca-e68319": {
+    "D78nca-e68319-d1e1297": [
+      {
+        "candidate_id": "adt-l3-d1e400",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation Aug. de trini. cap. 4; quote @69-80"
+      }
+    ]
+  },
+  "D78nca-e79772": {
+    "D78nca-e79772-d1e948": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no attribution to Augustine in paragraph; shared Trinity vocabulary only"
+      },
+      {
+        "candidate_id": "adt-l4-d1e662",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no attribution to Augustine in paragraph; shared Trinity vocabulary only"
+      },
+      {
+        "candidate_id": "adt-l5-d1e718",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no attribution to Augustine in paragraph; shared Trinity vocabulary only"
+      }
+    ]
+  },
+  "D78nca-e82730": {
+    "D78nca-e82730-d1e563": [
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "D78nca-e82730-d1e1233": [
+      {
+        "candidate_id": "adt-l7-d1e855",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "D78nca-e84621": {
+    "D78nca-e84621-d1e140": [
+      {
+        "candidate_id": "adt-l6-d1e814",
+        "intersectionCount": 12,
+        "status": "encoded"
+      }
+    ],
+    "D78nca-e84621-d1e335": [
+      {
+        "candidate_id": "adt-l7-d1e864",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation Aug. 7. de tri ca. 2; condensed paraphrase @55-115"
+      }
+    ]
+  },
+  "D78nca-e89376": {
+    "D78nca-e89376-d1e2134": [
+      {
+        "candidate_id": "adt-l15-d1e1788",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation Aug. 15. de trinitate cap. [1]0; quote @85-118"
+      }
+    ]
+  },
+  "D78nca-e99670": {
+    "D78nca-e99670-d1e145": [
+      {
+        "candidate_id": "adt-l6-d1e826",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "D78nca-e99670-d1e2046": [
+      {
+        "candidate_id": "adt-l15-d1e1696",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1747",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "D78nca-f07235": {
+    "D78nca-f07235-d1e202": [
+      {
+        "candidate_id": "adt-l6-d1e826",
+        "intersectionCount": 14,
+        "status": "encoded"
+      }
+    ],
+    "D78nca-f07235-d1e220": [
+      {
+        "candidate_id": "adt-l15-d1e1842",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "explicit citation 15. tri. ca. 13; quote @66-104"
+      }
+    ],
+    "D78nca-f07235-d1e857": [
+      {
+        "candidate_id": "adt-l3-d1e400",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation Augustinum. 3. trin. 4. ca.; quote @69-80"
+      }
+    ]
+  },
+  "D78nca-f13718": {
+    "D78nca-f13718-d1e651": [
+      {
+        "candidate_id": "adt-l15-d1e1842",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation august. 15. trini. ca. 13; quote @84-104"
+      }
+    ]
+  },
+  "D78nca-f17663": {
+    "D78nca-f17663-d1e2889": [
+      {
+        "candidate_id": "adt-l1-d1e135",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1492",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "D78nca-f22857": {
+    "D78nca-f22857-d1e311": [
+      {
+        "candidate_id": "adt-l15-d1e1896",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation Aug. 15. trini. capi. 18; quote @1-18"
+      }
+    ],
+    "D78nca-f22857-d1e1179": [
+      {
+        "candidate_id": "adt-l8-d1e993",
+        "intersectionCount": 13,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "D78nca-f47571": {
+    "D78nca-f47571-d1e344": [
+      {
+        "candidate_id": "adt-l15-d1e1842",
+        "intersectionCount": 29,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "D78nca-f48495": {
+    "D78nca-f48495-d1e1343": [
+      {
+        "candidate_id": "adt-l15-d1e1889",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "D78nca-f53937": {
+    "D78nca-f53937-d1e1472": [
+      {
+        "candidate_id": "adt-l8-d1e974",
+        "intersectionCount": 17,
+        "status": "encoded",
+        "note": "explicit citation Augu. 8. tri. c. 5; quote @282-300"
+      }
+    ]
+  }
+}
