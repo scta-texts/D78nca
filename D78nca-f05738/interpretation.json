@@ -1,0 +1,880 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-09-20T00:00:00Z",
+    "model": "claude-sonnet-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "c82514e0f48ade0629aec87ea3d679b7d520e931",
+    "generation_method": "hierarchical"
+  },
+
+  "D78nca-f05738-d1e114": {
+    "summary": "States the formal terms of the quaestio, situating it under Lombard's Sentences I, d.37 (on how God is everywhere through immensity) and framing it as an inquiry into where God was before the world's creation: whether God is actually present, outside the heavens, to an infinite imaginary space.",
+    "claims": [],
+    "concepts": ["divine immensity", "imaginary space", "distinction 37"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-Hd1e111"]
+    }
+  },
+  "D78nca-f05738-d1e134": {
+    "summary": "Opens the case for the affirmative (quod sic) with the paragraph's sole argument: God intuitively and distinctly understands the infinite space beyond the heavens (more distinctly than humans, who understand it only confusedly), and every object actually understood by God is actually present to God unless it is a mere figment or exists only potentially; since this space is neither a figment (the world actually occupies a determinate, intellectually acceptable portion of it) nor merely potential (a vacuum beyond the heavens is not just possible but actual, correlated to the privative intelligible the way actual blindness corresponds to a blind man), God must be actually present to it.",
+    "claims": [
+      "Whatever God actually understands is actually present to God, unless the object is a figment or merely potential.",
+      "The infinite space beyond the heavens is neither a figment nor merely potential, but has a kind of privative actuality.",
+      "Therefore God is actually present to the infinite space beyond the heavens."
+    ],
+    "concepts": ["divine intuitive cognition", "presence as correlate of cognition", "figment vs. potential being", "privative actuality (vacuum)"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e114"]
+    }
+  },
+  "D78nca-f05738-d1e169": {
+    "summary": "Raises a brief objection (sed contra) against the affirmative position: it is pointless to posit something as actually present where it neither acts, has acted, nor will ever act, since it would exist there uselessly (ociose); announces the procedure of first laying out the arguments on both sides of the question and then responding.",
+    "claims": [
+      "It is futile to posit actual presence where there is no actual, past, or future action."
+    ],
+    "concepts": ["futility argument (frustra)", "presence tied to operation"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e134"]
+    }
+  },
+  "D78nca-f05738-d1e181": {
+    "summary": "Marks the transition into the formal array of arguments for the affirmative side, restating the question and giving the first main argument: God was actually in the infinite imaginary space before creating the world, so he is now too, since there is no more reason to deny it now than then, and since creating the world did not entail God's abandoning those spaces (which would imply change); the antecedent is supported by the claim that God's actual existence before creation must have been located in some intellectually acceptable portion of that space, and since no portion has more claim than another, God must have been in the whole of it.",
+    "claims": [
+      "God was actually present in the infinite imaginary space before the world's creation.",
+      "There is no reason to deny God's presence there now that did not apply before creation.",
+      "Any actually existing thing must occupy some determinate (finite or infinite) situs, actual or potential.",
+      "Since no finite portion of the space has priority, God's presence there must extend to the whole."
+    ],
+    "concepts": ["divine immutability", "situs (positional location)", "principle of sufficient reason applied to spatial portions"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e169", "D78nca-f05738-d1e114"]
+    }
+  },
+  "D78nca-f05738-d1e218": {
+    "summary": "Gives a second argument for the affirmative: God, before the world's creation, existed in the very space now imagined as occupied by the world; since he is not thought to have been there merely because a creature was there (there was none) but because he was able to create there, and since he can equally create there or elsewhere now and from eternity, he is no less present now to that space than he would have been from eternity; supports this by arguing that if God only became present to this space upon creation, God himself would thereby be changed.",
+    "claims": [
+      "God's pre-creation presence to a place was grounded in his creative power there, not in any creature's presence.",
+      "Since that creative power persists identically now and from eternity, God's presence to the space cannot differ before and after creation.",
+      "If God only became present to this space at creation, God would have undergone change."
+    ],
+    "concepts": ["presence grounded in potentia rather than creature", "divine immutability", "eternity of divine power"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e181"]
+    }
+  },
+  "D78nca-f05738-d1e247": {
+    "summary": "Adds a further consideration reinforcing the second argument: for God to act in creating the world in this space presupposes that God already is in this space, since being here is naturally prior to acting here in general (just as being is prior to acting simpliciter), so God's acting in a given space presupposes his being in that space.",
+    "claims": [
+      "Acting in a place presupposes being in that place, on analogy with the principle that acting presupposes being.",
+      "Therefore God's creative act in this space presupposes his prior presence in it."
+    ],
+    "concepts": ["priority of being to acting", "presupposition (praesuppositio)"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e218"]
+    }
+  },
+  "D78nca-f05738-d1e263": {
+    "summary": "Presents a third argument for the affirmative: God could now create a body outside the heavens, which shows he must already actually pre-exist there, since a thing's being present there is presupposed by and required for acting there; if God were not already there and only came to be there upon acting, God would undergo local change, which is false and contrary to the Master (Lombard) and to Augustine's teaching (cited from De Genesi ad litteram 8, ult.) that God's substance is not mutable by times or places. Local change is then defined as being now somewhere one was not before, beginning to be somewhere new, ceasing to be where one was, and passing from situs to situs — which is exactly what would happen to God if he created another world elsewhere and annihilated this one.",
+    "claims": [
+      "God could now create a body outside the heavens.",
+      "Being present somewhere is presupposed by, and prior to, acting there.",
+      "If God were not already present outside the heavens and only came to be there by acting, he would undergo local change, which is impossible for God.",
+      "Local change is defined as beginning to be where one was not and ceasing to be where one was."
+    ],
+    "concepts": ["divine immutability of place", "local motion/change (definition)", "presupposition of presence to action"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e247"]
+    }
+  },
+  "D78nca-f05738-d1e309": {
+    "summary": "States an anticipated reply (Dices) to the third argument: God is not changed, but rather comes to be newly present there through a real change and newness in the body created there and its new positioning — i.e., the novelty belongs to the body, not to God.",
+    "claims": [
+      "God's new presence at a place can be explained by the real change/newness of a created body there, without any change in God."
+    ],
+    "concepts": ["locating divine presence via creaturely change", "distinguishing subject of change"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e263"]
+    }
+  },
+  "D78nca-f05738-d1e316": {
+    "summary": "Objects to the preceding reply: if God only becomes newly present there by reason of the body's change and new position, it follows that the body would naturally be there prior to God, which is false, since (per Metaphysics 5) what is naturally prior can exist without what is posterior but not vice versa — implying the body could exist there without God, which is absurd; further, a body's existing there presupposes God's creating or having created it there, and that in turn presupposes God's already being there, so the body's presence cannot be prior to God's.",
+    "claims": [
+      "If God's presence depended on the body's presence, the body would be naturally prior to God there, which is impossible.",
+      "The body's existing there presupposes God's creative act there, which presupposes God's own prior presence there."
+    ],
+    "concepts": ["priority (per Metaphysics V)", "dependence of creature-presence on divine presence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e309"]
+    }
+  },
+  "D78nca-f05738-d1e343": {
+    "summary": "Continues the objection, arguing it should rather be said that God, no less — indeed more — than the body, undergoes local change: local change consists in relating differently to a place at different times, i.e., being now here and formerly elsewhere; this does not fit the body (which, having previously been nothing, was nowhere and so did not \"newly arrive\" at a place), but does fit God, who, existing previously elsewhere, newly comes to and approaches the space where he was not, and departs the place where he previously was.",
+    "claims": [
+      "Local change properly defined (being differently related to place at different times) applies to God rather than to the newly created body.",
+      "The body cannot undergo local change because, having not existed before, it was nowhere to begin with."
+    ],
+    "concepts": ["definition of local motion", "ex nihilo creation and absence of prior locatedness"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e316"]
+    }
+  },
+  "D78nca-f05738-d1e363": {
+    "summary": "Gives a fourth argument for the affirmative: God can be outside the heavens without any creature being posited there, so he already actually exists there; the antecedent is proved via the case of an angel, who could exist outside the heavens without a body — as shown by the scenario of an angel in a room whose air is annihilated by God while the walls and angel remain unmoved, leaving the angel in an empty space without body — and by parity of reasoning God could likewise be present there with a body and, after the body is annihilated, not cease to be there, just as the angel need not cease to exist; hence God could exist repeatedly in the same potential imaginary place through interruptions and successions.",
+    "claims": [
+      "God can exist outside the heavens without any creature being posited there.",
+      "An angel can exist in a vacuum without a body, as shown by the annihilated-air thought experiment.",
+      "By parity, God's presence at a place need not depend on, or cease with, the presence of a body there."
+    ],
+    "concepts": ["angelic location in a vacuum", "argument by parity/analogy", "divine presence independent of created content"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e343"]
+    }
+  },
+  "D78nca-f05738-d1e409": {
+    "summary": "Gives a fifth argument: God is outside the heavens through power (potentiam), since he can act there; therefore he is there through essence and presence too, because his power's infinity and immensity are no less than his essence's, so if immensity of power suffices for presence-through-potency there, the equal immensity of essence must be the ground for presence-through-essence there as well.",
+    "claims": [
+      "God's power extends, in immensity, outside the heavens (he can act there).",
+      "God's essence is no less immense than his power.",
+      "Therefore God's essential immensity likewise grounds his actual presence there."
+    ],
+    "concepts": ["potentia vs. essentia vs. praesentia", "parity of immensity across divine attributes"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e363"]
+    }
+  },
+  "D78nca-f05738-d1e425": {
+    "summary": "Gives a sixth argument, by analogy between eternity and immensity: just as eternity relates to always existing, immensity relates to being everywhere; since God, by reason of eternity, always existed throughout infinite imaginary time, so too, by reason of immensity, he must always have existed everywhere in infinite imaginary space.",
+    "claims": [
+      "Eternity is to \"always being\" as immensity is to \"being everywhere.\"",
+      "Since God, by eternity, always existed through infinite imaginary time, by immensity he was always present everywhere in infinite imaginary space."
+    ],
+    "concepts": ["eternity/immensity analogy", "argument from parallel divine attributes"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e409"]
+    }
+  },
+  "D78nca-f05738-d1e443": {
+    "summary": "Gives a seventh argument from divine perfection: since God's infinite perfection means nothing greater can be conceived, and his infinite goodness means nothing better can be conceived without contradiction, and his eternity means no greater duration can be conceived, so too his infinite immensity requires that he be present to as great a space as can be conceived, such that a greater space could not be conceived; but if he were present only to the space in which the world is understood to exist, a greater space could easily be conceived without contradiction — therefore he must be present to the maximal, i.e. infinite, space.",
+    "claims": [
+      "God's perfection entails that no greater perfection, goodness, or duration can be conceived of him.",
+      "By parity, God's immensity entails he is present to a space than which none greater can be conceived.",
+      "If God were present only to the space occupied by the world, a greater space could easily be conceived, contradicting his immensity."
+    ],
+    "concepts": ["that-than-which-nothing-greater argument", "immensity as maximal presence", "argument by analogy across divine perfections"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e425"]
+    }
+  },
+  "D78nca-f05738-d1e465": {
+    "summary": "Gives an eighth argument: what is not an imperfection, and indeed better accords with divine perfection and immensity, ought not be denied of God; and being present in infinite imaginary space beyond the world is such — it better accords with the infinite magnitude praised by the Psalmist (\"of his greatness there is no end\"), whereas the opposite view seems to derogate from his immensity, since being confined to the small space occupied by the world would mean God is defined, determined, and enclosed by place, contrary to the Master's position in this distinction; this is confirmed by the very meaning of \"immense\" (not measured, not measurable), whereas confinement to the world's finite magnitude would make God's existence and presence commensurate with and measured by that finite magnitude.",
+    "claims": [
+      "It better accords with divine perfection/immensity for God to be present in infinite imaginary space than to be confined to the world's space.",
+      "Confinement to the world's finite space would mean God is defined, determined, and \"concluded\" by place, contrary to his immensity.",
+      "The very meaning of \"immense\" (unmeasured) requires that God not be commensurate with or measured by the world's finite magnitude."
+    ],
+    "concepts": ["divine immensity (etymological argument: immensus = non mensus)", "definition/enclosure by place as imperfection"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e443"]
+    }
+  },
+  "D78nca-f05738-d1e497": {
+    "summary": "Offers a confirmation of the affirmative case: it would be possible for a creature to be everywhere no less than God, since a creature (an angel or a body) could be present to the whole existing world at once by being posited in multiple places — implicitly used to press the point that denying God's presence to infinite space while granting such ubiquity to creatures would be an unacceptable asymmetry.",
+    "claims": [
+      "It is possible for a creature (angel or body) to be present in multiple places simultaneously, hence present to the whole world."
+    ],
+    "concepts": ["multilocation of creatures", "confirmatio as rhetorical support"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e465"]
+    }
+  },
+  "D78nca-f05738-d1e504": {
+    "summary": "Marshals scriptural authorities in support of the affirmative position: Baruch 3 (\"O Israel, how great is the house of God, and how vast the place of his possession! It is great and has no end, exalted and immense\"), 3 Kings 8 (\"heaven and the heaven of heavens cannot contain thee\"), Job 11 (\"higher than heaven... deeper than hell... longer than the earth... broader than the sea\"), and a liturgical antiphon (\"Virgin who is called mother, whom the whole world does not contain\") — all cited as attesting God's magnitude exceeding the confines of the created world.",
+    "claims": [],
+    "concepts": ["scriptural authority", "divine incomprehensibility/magnitude"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e497"]
+    }
+  },
+  "D78nca-f05738-d1e533": {
+    "summary": "Adds an Augustinian authority (De Genesi ad litteram 8, final chapter): by his excellent and unchangeable power God is interior to every thing (since all things are in him) and exterior to every thing; the paragraph infers from this that, per Augustine, God is both in all things and outside all things — supporting the claim that God's presence extends beyond the created world.",
+    "claims": [
+      "According to Augustine, God is interior to every thing and exterior to every thing.",
+      "This is taken to imply God is in all things and outside all things."
+    ],
+    "concepts": ["Augustinian doctrine of divine interiority/exteriority", "immanence and transcendence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e504"]
+    }
+  },
+  "D78nca-f05738-d1e545": {
+    "summary": "Cites the Hermetic dictum that God is a sphere whose center is everywhere and whose circumference is nowhere, and a variant that God is a sphere having as many circumferences as points — invoked as further authority for God's presence extending everywhere.",
+    "claims": [],
+    "concepts": ["Hermetic sphere metaphor for divine omnipresence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e533"]
+    }
+  },
+  "D78nca-f05738-d1e554": {
+    "summary": "Presents a tenth authority from Augustine (City of God 2.5, on those who asked why the world was made when it was rather than earlier): Augustine argues that if such questioners imagine infinite times before the world in which God's ceasing from work would seem inappropriate, they must likewise imagine infinite spaces of places outside the world; and if they say it would not be unfitting for God not to have worked throughout all those infinite spaces, they will be forced either to dream up innumerable worlds, or else to say God's substance is absent from those vast spaces outside the world and confined to the one small place where the world exists — a conclusion Augustine does not think they would actually embrace.",
+    "claims": [
+      "Augustine argues, ad hominem against those positing infinite pre-creation time, that consistency would require positing infinite space outside the world as well.",
+      "The alternative — that God's substance is absent from the vast spaces outside the one small place occupied by the world — is presented by Augustine as an unacceptable conclusion his opponents would not accept."
+    ],
+    "concepts": ["Augustine's argument from parity between infinite time and infinite space", "reductio ad absurdum"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e545"]
+    }
+  },
+  "D78nca-f05738-d1e586": {
+    "summary": "Opens the arguments against the affirmative position (in oppositum) with the claim that it is futile and inappropriate to posit God as actually present to something that is absolutely nothing — no more real than a chimera — and that the infinite space beyond the heavens is exactly such a nothing, since it is neither actually produced (which would entail an actually produced infinite, impossible since only God is properly infinite and eternally actual) nor merely potential/producible (since then God, by the same reasoning applied to the not-yet-created antichrist, would not be actually present to it); a second argument in the same vein notes that God was not actually present to future creatures before the world's creation, and this space is even more truly nothing than a creature yet to be created, since it cannot even in principle be caused effectively by God as creatures can.",
+    "claims": [
+      "It is futile to posit actual presence to something that is absolutely nothing.",
+      "The infinite space beyond the heavens is neither actually produced nor merely potential/producible, and hence counts as nothing.",
+      "God's non-presence to not-yet-created creatures (e.g., the future antichrist) parallels, and even falls short of, his non-presence to this space, since this space could never even be a genuine created effect."
+    ],
+    "concepts": ["figment/chimera as paradigm of nothing", "actual vs. potential production", "the not-yet-existing creature as analogy"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e554"]
+    }
+  },
+  "D78nca-f05738-d1e631": {
+    "summary": "Gives a third contrary argument by dilemma: this infinite space either is something positively intelligible or is a privation; not the first, since it would then be an actually infinite, eternal positive quantum (impossible); if the second, it can only be the privation of an infinite quantum body, but God is not present in the privations of causable things; furthermore, since a privation is removed by the positing of the positive thing whose privation it is, the positing of this world removes (is the negation of) this imaginary space, so the world is not now present to that space (not being present to its own privation), and therefore neither is God present to that space.",
+    "claims": [
+      "The infinite space is either something positive or a privation; it cannot coherently be either.",
+      "If a privation, God cannot be present to it, since God is not present in privations of causable things.",
+      "The positing of the actual world removes/negates the imaginary space that is its privation, so neither the world nor God can be said to be present to it now."
+    ],
+    "concepts": ["positive being vs. privation", "privation removed by position of its correlative positive", "God's non-relation to privations"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e586"]
+    }
+  },
+  "D78nca-f05738-d1e655": {
+    "summary": "Gives a fourth contrary argument by dilemma: either this infinite space actually, formally, and truly has distinct differences, as if parts or portions of itself, or it does not; if it does, it is fictitious and false to say the world occupies only a certain part or portion of it (as if air occupied another portion and fire another); if it does not have such real distinct differences, then (citing Aristotle, Physics 4) it is simply nothing — neither substance nor accident — for it would otherwise be an actually infinite quantum, and would more properly and fittingly be called \"place\" than the containing surface is, since differences of position (by which a locatable body is naturally suited to be here or there, and whose immobility grounds the immobility and formal identity/diversity of places) would belong to it primarily, essentially, immovably, and invariably; whereas the containing surface is only formally and immovably \"this place\" insofar as it is referred to a determinate difference of such a space.",
+    "claims": [
+      "If the imaginary space has real distinct parts, it is false to say the world occupies only one determinate portion of it, since the parts would be indistinguishable in status.",
+      "If it lacks real distinct parts, then by Aristotelian physics it is simply nothing.",
+      "If it did have real parts, it would more properly be \"place\" (in the strict Aristotelian sense) than the containing surface is, since the differences of position that ground the identity of place would belong to it essentially and immovably."
+    ],
+    "concepts": ["Aristotelian definition of place (containing surface)", "differences of position (differentiae positionis)", "dilemma argument"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e631"]
+    }
+  },
+  "D78nca-f05738-d1e689": {
+    "summary": "Gives a fifth contrary argument, again by the eternity/immensity analogy but reversed: just as eternity relates to always-existing, immensity relates to being-everywhere; but God, by reason of eternity, was not actually present to the infinite imaginary time preceding the world (since that time was simply nothing), nor is he now actually present in infinite future imaginary time, nor actually in the future antichrist — these are present to him only as cognized objects to a cognitive power, not as actually existing; therefore, by parity, God was not, by reason of immensity, actually present to infinite imaginary space either.",
+    "claims": [
+      "God, by eternity, was not actually present to the (nonexistent) infinite time before the world, nor is he actually present now in infinite future time or in the not-yet-existing antichrist, except as cognized objects.",
+      "By the eternity/immensity analogy, God likewise is not actually present, by immensity, to infinite imaginary space."
+    ],
+    "concepts": ["objective presence to a cognitive power vs. actual/real presence", "eternity/immensity analogy (used against the affirmative)"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e655", "D78nca-f05738-d1e425"]
+    }
+  },
+  "D78nca-f05738-d1e707": {
+    "summary": "Restates, as a sixth contrary argument, the earlier futility objection: it is futile and inappropriate to posit God as actually present where nothing is being acted, has ever been acted, or will ever be acted.",
+    "claims": [
+      "It is futile to posit actual divine presence where nothing is, has been, or will be acted."
+    ],
+    "concepts": ["futility argument (frustra)", "presence tied to operation"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e169", "D78nca-f05738-d1e689"]
+    }
+  },
+  "D78nca-f05738-d1e714": {
+    "summary": "Gives a seventh contrary argument: if it were possible for God to now actually act throughout the whole infinite space, it would be possible for there to now actually exist an infinite body comprising every difference of position — since the infinity of God's power to act is no less than the immensity by which his essence can be everywhere — but an actually infinite body is, for present purposes, assumed to be impossible; therefore God's presence throughout the whole infinite space is not to be posited.",
+    "claims": [
+      "God's power to act extends everywhere no less than his essence's capacity to be everywhere.",
+      "If God were actually present throughout infinite space, he could actually act through the whole of it, entailing the possibility of an actually infinite body.",
+      "An actually infinite body is impossible.",
+      "Therefore God is not actually present throughout the whole infinite space."
+    ],
+    "concepts": ["parallel between power-to-act and essential presence", "impossibility of an actual infinite body"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e707"]
+    }
+  },
+  "D78nca-f05738-d1e732": {
+    "summary": "Gives an eighth contrary argument from parsimony: plurality — and especially infinity — should not be posited without necessity, so infinite spaces and infinitely many divine presences to them should not be posited; then raises, as a further possible position to be addressed, the suggestion that this infinite imaginary space simply is God himself.",
+    "claims": [
+      "Plurality, and especially infinite plurality, should not be posited without necessity.",
+      "Therefore infinite spaces and God's infinitely many presences to them should not be posited."
+    ],
+    "concepts": ["principle of parsimony (\"non est ponenda pluralitas sine necessitate\")", "proposal that imaginary space is identical with God"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e714"]
+    }
+  },
+  "D78nca-f05738-d1e744": {
+    "summary": "Rebuts the suggestion (just raised) that the infinite imaginary space is identical with God, with several objections: differences of position are understood within this space, according to which one body is here in one portion and another part of the world elsewhere, and by whose immobility \"this place\" is called immobile — none of which can coherently be attributed to God; if God caused another world besides this one, it would (on the space-is-God view) have to occupy the very same space and hence be identical with this world, which is false and contradicts the affirmative side's own reasoning; saying God is in this space would, on this view, be nothing other than saying God is in himself — but even granting this does not avoid the conclusion that God would be mutable secundum situm (if not outside the heavens, and then somehow \"there\"); besides, this view would make God himself an infinite place and void; and even after the air of a room is destroyed, God is not formally identical with the resulting empty space between the walls.",
+    "claims": [
+      "The suggestion that the imaginary space is identical with God cannot account for the real differences of position within that space.",
+      "On this view, if God created another world, it would have to be identical with this world, which is absurd.",
+      "This view would still not avoid attributing local mutability to God.",
+      "This view would make God formally identical with an infinite void/place, which is unacceptable, as shown by the case of an emptied room."
+    ],
+    "concepts": ["differences of position", "identity of God with space (refuted)", "God as place/void (refuted)"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e732"]
+    }
+  },
+  "D78nca-f05738-d1e775": {
+    "summary": "Begins the determination (Respondeo) with the first proposition: God is not actually present in the space outside the heavens. This is defended methodologically: whatever more probable view better accords with the position of the philosophers, and whatever a person relying purely on natural reason (unopposed by faith, Scripture, Church determination, or the teaching of the saints) would hold, should be adopted — just as unresolved legal questions are settled by recourse to natural law, so theological questions not settled by canonical Scripture should be settled in conformity with natural reason. The philosophers, and reason used purely naturally, hold that God is not outside the heavens, and this does not conflict with faith or the saints' teaching: as the Master (Lombard, same distinction, ch.3) reports, when some asked the holy doctors where God was and dwelt before the world's creation, Augustine's recorded answer (Contra Maximinum 2.21) was that God was in himself, dwelt in and with himself — no saint is found answering that God was in an infinite space; nor does the Master, in this very distinction, answer that God was in such a space rather than in himself. Had it truly been necessary according to the faith to say God is in such a space, the saints would very likely have given that answer, since it would have readily occurred to any mind confronted with the question.",
+    "claims": [
+      "God is not actually present in the space outside the heavens (Prima propositio).",
+      "The methodological principle: where Scripture and Church determination are silent, one should hold whatever is most consonant with sound natural reason (by analogy to recourse to natural law where positive law is silent).",
+      "Natural reason and the philosophers' position deny that God is outside the heavens.",
+      "No saint, when asked where God was before creation, answered that God was in an infinite space; Augustine's recorded answer was that God was in himself.",
+      "The Master (Lombard), in this very distinction, likewise answers that God was in himself, not in an infinite space.",
+      "Had positing God in such a space been true and doctrinally necessary, the saints would very likely have said so, since the answer would readily have occurred to them."
+    ],
+    "concepts": ["natural reason as tiebreaker absent higher authority", "analogy to natural law in jurisprudence", "argument from the silence of the saints", "Augustine's 'God is in himself' answer"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e744"]
+    }
+  },
+  "D78nca-f05738-d1e845": {
+    "summary": "Adds a supporting authority (Preterea): Alexander of Hales, in the first part of his Summa, q.47, asking whether God is outside the heavens, holds that God is not everywhere from eternity according to act, but according to power.",
+    "claims": [
+      "Alexander of Hales holds that God is everywhere from eternity according to power, not according to act."
+    ],
+    "concepts": ["actus vs. potentia distinction applied to omnipresence", "citation of Alexander of Hales"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e775"]
+    }
+  },
+  "D78nca-f05738-d1e862": {
+    "summary": "Adds a further authority: Bonaventure, commenting on this same distinction of Sentences I, holds that God is not actually outside the heavens, since outside the heavens there is nothing.",
+    "claims": [
+      "Bonaventure holds God is not actually outside the heavens, because there is nothing outside the heavens."
+    ],
+    "concepts": ["citation of Bonaventure", "nihil extra caelum"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e845"]
+    }
+  },
+  "D78nca-f05738-d1e875": {
+    "summary": "Adds a further authority: John Duns Scotus, on this same distinction, says one should not imagine an infinite space before the world's creation as if God were then present to it by essence; rather, without being present to anything by essence, God was able (potens) to make the world.",
+    "claims": [
+      "Scotus holds one should not imagine God as present by essence to an infinite space before creation.",
+      "Prior to creation God was potent to make the world without being essentially present to anything."
+    ],
+    "concepts": ["citation of Scotus", "presence by essence vs. mere potency"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e862"]
+    }
+  },
+  "D78nca-f05738-d1e892": {
+    "summary": "Adds a final authority: William of Auxerre, near the end of Book 1, says that God is outside the world, but explains this in two ways — God is outside the world potentially (because if infinite worlds existed, God would fill them all) and also, in a certain manner, actually outside the world, because he is in himself, and he himself is greater than the world; God is his own place.",
+    "claims": [
+      "William of Auxerre distinguishes God's being outside the world potentially (he could fill infinite worlds) from a qualified actual sense (he is in himself, who is greater than the world).",
+      "According to William, God is his own place."
+    ],
+    "concepts": ["citation of William of Auxerre", "God as his own place (locus sibi ipsi)", "potentia vs. qualified actus"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e875"]
+    }
+  },
+  "D78nca-f05738-d1e912": {
+    "summary": "States the second proposition: it is not possible for God to be actually present in the infinite space outside the heavens (a modal strengthening of the first proposition). Proof: if it were possible, it would be possible for God to actually act through the whole of that infinite space, and hence possible for there now actually to exist an infinite body comprising every difference of position — which is, for the present, supposed to be false/impossible.",
+    "claims": [
+      "It is not merely actually false but impossible for God to be actually present in the infinite space outside the heavens.",
+      "The impossibility follows because such presence would entail the possibility of an actually infinite body, which is impossible."
+    ],
+    "concepts": ["modal strengthening (actuality to possibility)", "impossibility of an actual infinite body"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e714", "D78nca-f05738-d1e775"]
+    }
+  },
+  "D78nca-f05738-d1e930": {
+    "summary": "States the third proposition: it is possible for God to be outside the heavens with no creature then existing or actually present there. Proof: God could create some creature (e.g., an angelic spirit) outside the heavens and then destroy it, without thereby necessarily ceasing to be there — just as, if an angel with a body existed there, God could annihilate the body while leaving the angel unmoved, so too the divine spirit could remain there after any accompanying creature is destroyed, on the model of an angel remaining in the vacuum left by the annihilated air of a room.",
+    "claims": [
+      "It is possible for God to be present outside the heavens without any creature being present there.",
+      "God could create and then annihilate a creature there without his own presence there necessarily ceasing.",
+      "This is modeled on the case of an angel surviving in a vacuum after an accompanying body is annihilated."
+    ],
+    "concepts": ["divine presence independent of accompanying creature", "angel-in-vacuum thought experiment reused"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e912"]
+    }
+  },
+  "D78nca-f05738-d1e961": {
+    "summary": "States the fourth proposition: it is not possible for God now to come to be, or to be, outside the heavens unless some creature is or has newly been placed there. Proof: otherwise there would be a transition across a contradiction (from not-being-outside-the-heavens to being-outside-the-heavens) without any change occurring in a creature, and therefore the change would have to occur in God, which is unacceptable.",
+    "claims": [
+      "God cannot newly come to be outside the heavens without some creature's new positioning there.",
+      "Otherwise a contradictory transition would occur with no locus for the required change except God himself, which is impossible."
+    ],
+    "concepts": ["transitus contradictionis (transition across contradictories requires a real change somewhere)", "change must be located in a subject"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e930"]
+    }
+  },
+  "D78nca-f05738-d1e974": {
+    "summary": "States the fifth proposition: given God existing outside the heavens without a creature then actually present to him, it is not possible for him to cease being outside the heavens unless a new creature is positioned there and then that same creature is removed again. Proof: parallel to the fourth proposition, the transition across the contradiction (from being to not-being outside the heavens) without change in a creature would require change in God, which is unacceptable.",
+    "claims": [
+      "God's ceasing to be present outside the heavens (in the scenario of proposition three) requires the mediating positioning and subsequent removal of a creature.",
+      "Otherwise the required change, with no creature to bear it, would have to occur in God."
+    ],
+    "concepts": ["transitus contradictionis", "symmetry with the fourth proposition"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e961"]
+    }
+  },
+  "D78nca-f05738-d1e994": {
+    "summary": "Begins the replies to the initial pro-affirmative arguments. Ad primum (replying to the argument of d1e181/second-numbered \"first\" argument): denies the antecedent, since the saints, when questioned about where God was, are not recorded as having given the answer that he was in an infinite space — an answer that, were it true and fitting, could easily have occurred to them. To the proof (the argument from imagination/situs), the consequence is denied: our imagination is sometimes false and fictional, and indeed we do not imagine this infinite space except in the manner of a quantum, extended, having differences of position, yet without any quality — just as we imagine the space between the sides of a container as divisible in three dimensions, a receptacle of bodies with differences of position, even though nothing whatsoever really underlies this imagining.",
+    "claims": [
+      "The saints are not recorded as answering that God was in an infinite space, contrary to what the affirmative argument assumed.",
+      "Our imagination of this infinite space as an extended quantum with differences of position is fictional and does not correspond to any real underlying thing."
+    ],
+    "concepts": ["denial via silence of the saints (reused from d1e775)", "fictional/false imagination (ymaginatio ficta)", "imagined quantum vs. real underlying being"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e181", "D78nca-f05738-d1e775"]
+    }
+  },
+  "D78nca-f05738-d1e1025": {
+    "summary": "Ad secundum (replying to the argument of d1e218): denies the antecedent; indeed, if it is true that God now has actual presence to some space in which the world is understood to exist, then it should be said that God simultaneously begins to be present to that space and to the world — whence the Master (Lombard, near-final chapter) says that God, without any change in himself, begins to be in the world when he creates it. The first proof is answered by denying the consequence, as will be discussed further (\"ia\" = iam/as will be said).",
+    "claims": [
+      "God's presence to the space occupied by the world begins simultaneously with the world's creation, without any change in God.",
+      "This is consistent with Lombard's statement that God begins to be in the world without his own mutation."
+    ],
+    "concepts": ["simultaneous inception of presence and world (no divine change)", "citation of Lombard"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e218"]
+    }
+  },
+  "D78nca-f05738-d1e1042": {
+    "summary": "Continues the reply to the second argument (Ad secundam, addressing its further proof from d1e247 about acting presupposing being-here): denies the assumption; as Scotus says (on this same distinction), since a created agent can act where it is not present by essence, it follows that, for God, \"acting here through omnipotence\" and \"being here through the immensity of essence\" would be distinct and separable; hence God's acting here does not per se entail that God is here by essence, and God's acting here through omnipotence does not presuppose God's being here through essence.",
+    "claims": [
+      "A created agent can act where it is not essentially present (e.g., action at a distance).",
+      "By analogy, God's acting somewhere through omnipotence is distinct from, and does not entail, his being there through essential immensity."
+    ],
+    "concepts": ["action at a distance (created agents)", "separability of divine operative presence from essential presence", "citation of Scotus"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e247", "D78nca-f05738-d1e1025"]
+    }
+  },
+  "D78nca-f05738-d1e1062": {
+    "summary": "A clarificatory scholion (Circa quod sciendum) on the maxim that \"acting here presupposes being here, and being here is prior to acting here\": distinguishes two senses of \"here\" (ly hic) — if it denotes something positive (a place or creature), the maxim, taken universally, is denied, since \"acting here\" can mean acting transitively in this place or acting intransitively, i.e., the place itself being acted upon; if instead \"here\" denotes an empty space, one must distinguish priority secundum quid (a non-convertible priority from which the consequence does not follow, granted) from priority by causal presupposition or prerequirement terminating a dependency or need (denied).",
+    "claims": [
+      "The maxim \"acting here presupposes being here\" fails when \"here\" denotes a positive place or creature acted upon intransitively.",
+      "When \"here\" denotes empty space, priority in the sense of non-convertible natural priority is granted, but priority in the sense of causal presupposition/dependency is denied."
+    ],
+    "concepts": ["transitive vs. intransitive sense of 'agere hic'", "priority secundum quid vs. priority by causal dependency"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e1042"]
+    }
+  },
+  "D78nca-f05738-d1e1093": {
+    "summary": "Offers an alternative response (Sed aliter) to the first and second arguments: proposes that just as God, from eternity, had objectively in his prospect infinite time and an extensively infinite quantity in every direction, and through this could from eternity determine, contingently and freely, a certain \"when\" and \"where\" for the world's production, so likewise — from among the possible portions of that infinite quantum present to his prospect — he freely and contingently chose a certain portion to which the world would, as it were, become present; just as he could have created a world of double or triple size but freely determined a certain quantity, so he freely chose, from eternity, to be as-if-present to just so much space as corresponds to the world to be created, on the model of the angel remaining in the vacuum of an annihilated room's air.",
+    "claims": [
+      "God from eternity had, objectively present to his intellect, infinite time and infinite extended quantity.",
+      "By free and contingent determination, God fixed both the 'when' and 'where' of the world's creation from among these infinite possibilities.",
+      "God freely chose, from eternity, to be as-if-present to just the portion of space corresponding to the world he would create, rather than to the whole infinite space."
+    ],
+    "concepts": ["objective presence to the divine intellect vs. real presence", "contingent free divine determination", "reuse of the angel/vacuum analogy"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e1062"]
+    }
+  },
+  "D78nca-f05738-d1e1130": {
+    "summary": "Ad tertium (replying to the third pro argument, d1e263): denies the first consequence; and, replying to its first proof, denies it specifically insofar as it concerns \"acting\" taken in the sense according to which the very place or the \"where\" (ipse locus, ipsum ubi) itself is acted upon.",
+    "claims": [
+      "The consequence of the third argument is denied.",
+      "The proof is denied specifically for the sense in which 'acting' means the place itself being acted upon."
+    ],
+    "concepts": ["reuse of transitive/intransitive distinction for 'agere'"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e263", "D78nca-f05738-d1e1062"]
+    }
+  },
+  "D78nca-f05738-d1e1139": {
+    "summary": "Continues the reply to the third argument (Ad secundam, its second proof): denies the consequence; distinguishes two ways something can now be somewhere without having been there before — (1) by a new approach and arrival at a preexisting place, together with a corresponding departure/recession from the place where it remained (which does not apply to God: God did not newly arrive at a place, nor does he recede from a place); (2) by the new positing or the removal of the place itself, in which case the thing so located need not be said to undergo local change properly speaking.",
+    "claims": [
+      "There are two distinct ways of newly being somewhere: by arrival/departure relative to preexisting places, or by the positing/removal of the place itself.",
+      "God's case falls under the second way, so he does not undergo local change properly speaking."
+    ],
+    "concepts": ["two modes of 'newly being somewhere'", "positing/removal of place vs. motion between preexisting places"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e1130"]
+    }
+  },
+  "D78nca-f05738-d1e1165": {
+    "summary": "Addresses the earlier proposed reply (\"Dices,\" d1e309), regarding whether God's newly being present there \"by reason of the body\" and its new position denotes some causality exercised by the creature with respect to divine power: if so, this is denied; if instead it denotes merely the necessary consequence of divine power upon the positing of the body, then the consequence that God would thereby be posterior to the body there is denied — just as God is not naturally posterior, as final or newly-effective cause, to the creature he causes.",
+    "claims": [
+      "The creature cannot exercise real causality over divine power in a way that would make God's presence dependent on it.",
+      "Even granting a necessary consequence from the body's positing to God's presence, this does not make God posterior to the body, just as a final or efficient cause is not posterior to its effect."
+    ],
+    "concepts": ["denial of creaturely causality over God", "cause is not posterior to its effect"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e309", "D78nca-f05738-d1e1139"]
+    }
+  },
+  "D78nca-f05738-d1e1188": {
+    "summary": "A further note (Notandum tamen) clarifying the sense of priority at stake: speaking of priority by nature in the sense that does not convert (i.e., what can exist without the other, but not vice versa, per the Metaphysics), God is prior there to the body; but speaking of priority by causality, presupposition, or preexistence terminating a dependency or need, God's being here is still naturally prior; nonetheless, improperly, and by a certain likeness, one could say the body is \"there\" first, since God would not be there at all unless he created some body — whether or not he could, absolutely, be there without a body.",
+    "claims": [
+      "Under non-convertible natural priority, God is prior to the body at that place.",
+      "Under causal/presuppositional priority, God's presence is still prior.",
+      "Improperly, by way of a loose similitude, the body could be said to be 'first' there, insofar as God's actual presence there is occasioned by his creating a body."
+    ],
+    "concepts": ["distinguishing senses of 'prior' (Metaphysics V)", "improper/similitudinary priority"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e1165"]
+    }
+  },
+  "D78nca-f05738-d1e1210": {
+    "summary": "Ad aliud contra responsionem (replying to the objection at d1e343 against the \"Dices\" response): neither God nor the body is, properly speaking, locally changed; nonetheless the body is more fittingly (or less unfittingly) said to undergo change than God, because the body passes from absolute non-being to being, simply speaking.",
+    "claims": [
+      "Strictly speaking, neither God nor the newly created body undergoes proper local change.",
+      "It is more fitting to attribute change-language to the body than to God, since the body passes from non-being to being."
+    ],
+    "concepts": ["denial of proper local change to both God and the created body", "fittingness of change-language (non-being to being)"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e343", "D78nca-f05738-d1e1188"]
+    }
+  },
+  "D78nca-f05738-d1e1219": {
+    "summary": "Ad quartum (replying to the fourth pro argument, d1e363): distinguishes — if the claim is understood as \"without a creature presently or previously positioned there,\" the antecedent is denied; if understood as \"without a creature's positing necessarily always accompanying God's existence outside the heavens,\" the consequence is denied — as is clear from the fourth and fifth propositions.",
+    "claims": [
+      "The fourth argument's antecedent or consequence is denied depending on how 'without any creature' is construed, per the fourth and fifth propositions."
+    ],
+    "concepts": ["disambiguation of 'sine creatura'", "cross-reference to propositions four and five"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e363", "D78nca-f05738-d1e961", "D78nca-f05738-d1e974"]
+    }
+  },
+  "D78nca-f05738-d1e1230": {
+    "summary": "Ad quintum (replying to the fifth pro argument, d1e409): distinguishes senses of \"God is outside the heavens through power\" — (1) meaning he can act there, in which case the consequence (that he is there through essence and presence) is denied; (2) meaning he is there through actual effective causality and the actual exercise of active power (actually causing or conserving), in which case the antecedent is denied. Replying to the proof of the consequence: it would be repugnant to any power that it could not act there at all, and repugnant to immensity of essence that it could not be there at all; but it is not repugnant to God's immensity that he not actually be there, nor to his omnipotence that he not actually act there. On this occasion, notes that, according to the Master (Lombard, this distinction), God is said to be everywhere through essence, presence, and power — which can be understood two ways: (a) essence, insofar as every other essence is a participation, derivation, vestige, and rivulet of the divine essence, whose source it is; presence, meaning indistance and simultaneity; power, meaning virtual and effective causality; or (b) essence, meaning that by the essence's indistance God not only acts here but is essentially here (like a soul informing a circumscribed body); presence, meaning intuitive vision; power, meaning dominion, operation, and actual effective, conservative, and final causality.",
+    "claims": [
+      "\"God is outside the heavens through power\" is ambiguous between mere capacity-to-act and actual exercise of effective power; each sense yields a different denial (of consequence or antecedent, respectively).",
+      "It is repugnant to any power to be wholly unable to act somewhere, and repugnant to immensity to be wholly unable to be somewhere; but it is not repugnant to either to simply not be actually exercised or present there.",
+      "Lombard's threefold formula (per essentiam, praesentiam, potentiam) for divine omnipresence admits of two distinct interpretive schemes."
+    ],
+    "concepts": ["ambiguity of potentia (capacity vs. exercise)", "Lombard's essentia/praesentia/potentia formula (two readings)", "vestige/participation doctrine of created essence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e409"]
+    }
+  },
+  "D78nca-f05738-d1e1280": {
+    "summary": "Ad sextum (replying to the sixth pro argument, d1e425, from the eternity/immensity analogy): denies the minor premise; God was not actually present to that imaginary time nor actually in it (there being no such time), but is of such immensity and eternity that if infinite time and infinite place did exist from eternity, God would coexist with them.",
+    "claims": [
+      "God was not actually present to or in the (nonexistent) infinite imaginary pre-creation time.",
+      "God's immensity/eternity is such that, hypothetically, were infinite time and place actually to exist from eternity, he would coexist with them."
+    ],
+    "concepts": ["counterfactual coexistence", "distinguishing hypothetical from actual presence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e425"]
+    }
+  },
+  "D78nca-f05738-d1e1293": {
+    "summary": "Ad septimum (replying to the seventh pro argument, d1e443, from perfection/nothing-greater-conceivable): denies the consequence; if it followed that whenever something greater/better could be conceived without contradiction God would be a diminished being, it would parallel the false inference from \"if God does not act as much as could be conceived, he is not omnipotent\" — which is false, since omnipotence is only impugned if God cannot produce a demonstrably greater and further-conceivable amount when required; likewise, God's not being present to as great a space as could be conceived does not entail he is not immense, unless he could be present only to a determinate finite space while a greater could always be conceived (in which case immensity would indeed be denied).",
+    "claims": [
+      "The inference from 'a greater could always be conceived' to 'God is imperfect/diminished' is fallacious, on analogy with omnipotence.",
+      "Immensity is compromised only if God's presence were limited to a fixed finite space beyond which a greater could always be conceived; it is not compromised merely by not being present to an unlimited infinite space."
+    ],
+    "concepts": ["disanalogy between 'can always conceive more' and 'is imperfect'", "conditions for genuinely compromising omnipotence/immensity"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e443"]
+    }
+  },
+  "D78nca-f05738-d1e1325": {
+    "summary": "Ad octauum (replying to the eighth pro argument, d1e465): what is not an imperfection is to be attributed to God, but according to act or potency as appropriate (e.g., producing several worlds is attributed to God according to potency, not necessarily act); since being outside the heavens is not an imperfection, it too is attributable to God according to act or potency, but not necessarily according to act (just as creating another world need not be actual). Being outside the heavens in infinite space specifically is not a matter of perfection but of repugnance and impossibility, and indeed would entail imperfection in God, since it would mean God is actually present to a space through which it is impossible for him to act in its entirety. Regarding the claim that finite presence would mean God is \"defined and concluded by place\": this is denied as properly applying, according to the intention of the saints, since being defined/concluded by place means being confined to one place such that one is not, and cannot from oneself be, in every place, and such that the place could exist without the one confined to it — whereas God is called immense and unmeasured/uncommensurable by place because there is no possible place such that God could not, from himself, coexist with something twice as large, and indeed no place can exist without him.",
+    "claims": [
+      "Attribution to God 'according to act or potency, as appropriate' explains why non-imperfections need not be actualized.",
+      "Actual presence in infinite space is not a perfection but an impossibility, and would itself entail imperfection (presence to a space God cannot wholly act through).",
+      "'Being defined/concluded by place' properly means confinement such that a greater place is impossible and the place could exist without the confined being — conditions that do not apply to God even on a finite-presence view, since no place could exist without God and no place limits what God could coexist with."
+    ],
+    "concepts": ["attribution secundum actum vel potentiam", "proper sense of 'definiri/concludi loco'", "immensity as unlimited co-possibility rather than unlimited actual occupation"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e465"]
+    }
+  },
+  "D78nca-f05738-d1e1367": {
+    "summary": "Ad confirmationem (replying to the confirmation at d1e497 about a creature being everywhere no less than God): if the consequent is understood of what is possible per accidens, it is conceded — it is possible that there be only a single angel or a single continuous body, to which alone God would be present; nonetheless immensity and being-everywhere belong to God in a manner that does not, and cannot, belong to a creature.",
+    "claims": [
+      "It is conceded, in the merely possible/accidental sense, that a creature could be the sole thing to which God is present.",
+      "Even so, immensity/omnipresence belongs to God in a mode categorically unlike anything belonging to a creature."
+    ],
+    "concepts": ["possible per accidens vs. proper mode of possession", "categorical difference between divine and creaturely omnipresence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e497"]
+    }
+  },
+  "D78nca-f05738-d1e1380": {
+    "summary": "Ad nonum (replying to the scriptural authorities at d1e504, beginning with Baruch): the \"house of God\" in Baruch is understood as God himself, insofar as he formally contains infinite perfection and eminently and virtually contains infinite creatures, and so this \"house\" is said to have no end because it is not of finite perfection or containment; alternatively, the text is read as referring to the celestial house, the empyrean heaven, the dwelling of all the blessed, which has no end of duration, nor a finite degree of perfection, on account of the infinite objective goodness and joy of beatitude.",
+    "claims": [
+      "Baruch's \"house of God\" is read either as God himself (containing infinite perfection and creatures eminently) or as the empyrean heaven (unending in duration and in the perfection had through infinite objective beatitude)."
+    ],
+    "concepts": ["reinterpretation of scriptural 'house of God'", "empyrean heaven", "eminent/virtual containment"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e504"]
+    }
+  },
+  "D78nca-f05738-d1e1404": {
+    "summary": "Ad aliud (replying to the further authorities of d1e504, e.g. \"the heavens cannot contain thee\"): the heavens cannot contain God not because they would be a place sufficiently adequate and commensurate to divine immensity such that God could not, from himself, be in a greater place — rather, however many worlds there might be, they still could not contain God. The same reasoning is applied to the remaining authorities cited there.",
+    "claims": [
+      "The heavens' incapacity to 'contain' God does not imply they are a maximal adequate place, but rather that no multiplication of worlds could ever contain God."
+    ],
+    "concepts": ["reinterpreting 'incapacity to contain' as non-comparative", "extension of the reply to parallel authorities"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e1380", "D78nca-f05738-d1e504"]
+    }
+  },
+  "D78nca-f05738-d1e1417": {
+    "summary": "Ad augustinum (replying to the Augustine authority at d1e533, on God being interior/exterior to all things): God is said to be more excellent than every creature because he is independent of, and does not need, any creature for his own perfect existence.",
+    "claims": [
+      "Augustine's language of God's excellence over creatures is explained by God's independence from, and non-need of, any creature for his own perfect being — not by spatial exteriority to the world."
+    ],
+    "concepts": ["divine aseity/independence reinterpreting Augustine's 'exterior' language"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e533"]
+    }
+  },
+  "D78nca-f05738-d1e1426": {
+    "summary": "Ad dictum Hermetis (beginning the reply to the Hermetic sphere metaphor at d1e545): argues that, taken literally, the saying involves contradiction — if the circumference is nowhere, then there is no circumference at all, and so it would not be a sphere; and if the center is everywhere, it follows there is no (single, determinate) center.",
+    "claims": [
+      "Taken literally, the Hermetic dictum is self-contradictory: 'circumference nowhere' entails no circumference (hence not a sphere), and 'center everywhere' entails no determinate center."
+    ],
+    "concepts": ["literal reading exposes contradiction", "critique of the Hermetic sphere metaphor"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e545"]
+    }
+  },
+  "D78nca-f05738-d1e1447": {
+    "summary": "Concludes the reply to Hermes (Dicendum): the saying should be read metaphorically and hyperbolically, meant to convey that the magnitude of divine perfection is so great that it cannot be adequately explained or understood by a human being; since a sphere's center is infinitely smaller than its circumference, saying God is a sphere whose center is everywhere implies that the remaining magnitude (the 'circumference,' i.e., the fullness of divine greatness beyond even that vast 'center') cannot be explained or understood at all.",
+    "claims": [
+      "Hermes' dictum is to be understood metaphorically/hyperbolically, not literally.",
+      "The point of the image is that divine magnitude so exceeds even an already-vast conceivable center that it cannot be humanly explained or grasped."
+    ],
+    "concepts": ["metaphorical/hyperbolic reading", "ineffability of divine magnitude"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e1426"]
+    }
+  },
+  "D78nca-f05738-d1e1465": {
+    "summary": "Ad decimum (beginning an extended reply to the Augustine, City of God authority at d1e554): Augustine did not intend to actually posit infinite spaces outside the heavens to which God is present; rather, he was addressing those who, asking why God began the world when he did rather than earlier, posited infinite times having flowed from eternity, and thereby found it seemingly inappropriate for God to have been idle throughout them. Augustine's move is to infer, by parity of reasoning, that his opponents would then also have to posit infinite places outside the world before creation; and if they say it would not be inappropriate for God not to have acted throughout those infinite places (rather than positing innumerable worlds), the same could be said back to them about the infinite times. If instead they deny that such spaces/places exist outside the world, an analogous reply is given about the times: that no time in fact flowed \"from eternity\" to the world's creation in which God was idly vacant. The paragraph then quotes Augustine directly reasoning that anyone who grants a single finite world made by God in its determinate place must answer, regarding the infinite places outside the world in which God allegedly ceased from work, the same way they should answer regarding infinite pre-creation times: that if they call these imagined infinite spaces the empty cogitations of men (since there is no place except the world), the same verdict follows for the infinite pre-creation times.",
+    "claims": [
+      "Augustine's argument is a dialectical/ad hominem device against those positing infinite pre-creation time, not a positive assertion of infinite space outside the world.",
+      "Augustine draws a structural parity between the (rejected) idea of infinite times before the world and the (equally rejectable) idea of infinite spaces outside the world.",
+      "Since there is no place except the world, the imagined infinite spaces outside it are empty human cogitations — and so, by parity, are the imagined infinite pre-creation times."
+    ],
+    "concepts": ["ad hominem/dialectical use of an authority", "parity argument between infinite time and infinite space", "reductio: 'no place except the world'"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e554"]
+    }
+  },
+  "D78nca-f05738-d1e1520": {
+    "summary": "Continues and concludes the direct Augustine quotation and its explanation: Augustine says it would likewise be answered to such people that it is vain to imagine past times of God's idleness, since no time existed before the world. The paragraph then draws the overall conclusion: Augustine speaks throughout only on a supposition — that if infinite places existed outside the heavens, God would be present to them — without asserting that such places actually exist.",
+    "claims": [
+      "Augustine's whole discussion is conditional: 'if infinite places existed outside the world, God would be present to them,' not an assertion that such places exist."
+    ],
+    "concepts": ["conditional (suppositional) reading of an authority", "closing the reply to the tenth authority"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e1465"]
+    }
+  },
+  "D78nca-f05738-d1e1533": {
+    "summary": "Raises a further doubt (Dubium): whether, standing purely in the light of natural reason, one should posit that God is everywhere through the actual indistance of his formal essence. Answer: no, because even other intelligences (e.g., separate substances/angels) are not said to be \"here,\" although their causality extends this far; it is not necessary for an active cause to be present to every patient and effect through total indistance.",
+    "claims": [
+      "Natural reason alone does not require positing that God is everywhere through actual indistance of formal essence.",
+      "An agent's causality can extend to effects without the agent being locally present to them by total indistance, as shown by the case of separate intelligences."
+    ],
+    "concepts": ["indistance of essence", "action without local presence (causality vs. locality)", "separate intelligences as parallel case"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e1520"]
+    }
+  },
+  "D78nca-f05738-d1e1549": {
+    "summary": "Adds a further point continuing the discussion of how a separate substance (e.g., the intelligence moving the heavens) relates to place: it is not fittingly said to be located in one certain part of the first, greatest celestial body, but rather through the whole of it, since it would be more fitting than that, existing in one certain part, it would have to be moved continuously along with the motion of that part, or that different parts of the heavens would successively come to be present to it.",
+    "claims": [
+      "It is more fitting for the mover of the heavens to be present to the whole celestial body than to a single part of it, avoiding the awkward alternatives of continuous motion with a part or successive presence of different parts."
+    ],
+    "concepts": ["celestial intelligence's mode of presence to its sphere", "avoidance of awkward alternatives (motion or succession)"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e1533"]
+    }
+  },
+  "D78nca-f05738-d1e1560": {
+    "summary": "Adds one more supporting point: there would be no reason why such a substance should be present to precisely that much of the heavens (and no more or less), reinforcing the preceding conclusion that it must be present to the whole rather than an arbitrarily delimited part.",
+    "claims": [
+      "There is no non-arbitrary reason to delimit such a substance's presence to a determinate proper part of the heavens rather than the whole."
+    ],
+    "concepts": ["argument from absence of a non-arbitrary boundary"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e1549"]
+    }
+  },
+  "D78nca-f05738-d1e1568": {
+    "summary": "Closes the quaestio with the reply to the very first argument stated at the outset (d1e134, on God's intuitive cognition of the infinite space): concedes that God understands that space in whatever way it is intelligible, without imperfection; but truly understanding this infinite space is nothing other than abstractly understanding infinite quantity apart from qualities — just as understanding an infinite duration with a before and after is nothing but understanding time and succession (actual or potential), or understanding something in relation to such time; and understanding this space to exist as neither an actual nor a potential quantum is to understand a figment implying contradiction. The consequence is therefore denied. To the proof: this infinite space partly denotes something potentially intelligible and partly denotes a figment — with respect to finite, imaginatively acceptable parts, it denotes a finite potential quantum (from which a greater could always be caused), but for it to be an actually infinite dimensive quantum, comprising every difference and having differences of position, is impossible.",
+    "claims": [
+      "God's intuitive understanding of the infinite space does not entail its actuality; understanding it is really just understanding infinite quantity abstractly, on analogy with understanding infinite time as succession.",
+      "Positing this space as neither actual nor potential quantum is to posit a self-contradictory figment.",
+      "The infinite space is partly a genuine (finite) potential intelligible and partly a figment; it can never be an actually infinite dimensive quantum with real differences of position."
+    ],
+    "concepts": ["cognition without entailing extramental actuality", "figment implying contradiction", "finite potential quantum vs. actual infinite quantum"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["D78nca-f05738-d1e134", "D78nca-f05738-d1e912"]
+    }
+  },
+
+  "D78nca-f05738": {
+    "summary": "A scholastic quaestio (Andreas de Novo Castro, Sentences I, d.37, q.1) on divine immensity, asking whether God is actually present, outside the heavens, in an infinite imaginary space. The question opens with a single argument for the affirmative (from God's intuitive cognition of that space) and a brief futility-based sed contra, then unfolds in the classic scholastic form: a long series of ten-plus arguments for the affirmative (from divine immutability, the parity of potentia and essentia, the eternity/immensity analogy, arguments from perfection and 'nothing greater conceivable,' and a battery of scriptural, patristic, and Hermetic authorities including Augustine, Baruch, 3 Kings, Job, and the sphere metaphor), followed by a comparably extensive series of arguments in oppositum (that the space is a mere figment or nothing, that it cannot coherently be positive or privative, that infinite actual presence would entail an impossible actual infinite body, and that the space cannot simply be identified with God). The magistral determination (Respondeo) establishes five propositions: God is not actually present outside the heavens (supported by natural reason, the silence of the saints, and citations of Alexander of Hales, Bonaventure, Scotus, and William of Auxerre); it is not even possible for him to be so present (since that would entail an actual infinite body); yet it is possible for God to be outside the heavens with no creature there, though he cannot begin or cease being so present except via the new positing or removal of some creature. The text then works through each of the initial arguments in turn, systematically denying antecedents or consequences by distinguishing senses of presence (essence/presence/power), of priority, of 'here,' and of local change, and by reinterpreting the cited authorities (especially Augustine) as speaking hypothetically or dialectically rather than asserting the real existence of infinite extramundane space. It closes with a doubt about whether God's omnipresence should be affirmed on the strength of natural reason alone (answered negatively, by analogy with causally-extended-but-not-locally-present created intelligences) and a final resolution of the opening argument, concluding that human and even divine 'understanding' of the infinite space does not entail its actual or potential extramental existence.",
+    "claims": [
+      "God is not actually present in an infinite imaginary space outside the heavens (and it is not even possible for him to be, given the impossibility of an actual infinite body).",
+      "It is possible for God to be outside the heavens without any creature there, but he cannot come to be or cease being so present except through the new positing or removal of a creature.",
+      "The scriptural and patristic authorities invoked for unlimited divine presence in extramundane space are to be reinterpreted (as referring to God's self-containment, to eminent/virtual containment of creatures, to metaphorical/hyperbolic language, or to merely hypothetical/dialectical reasoning) rather than as asserting the real existence of such space."
+    ],
+    "concepts": ["divine immensity", "imaginary infinite space", "actus vs. potentia", "presence per essentiam/praesentiam/potentiam", "local change and divine immutability", "actual vs. potential infinite"],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "D78nca-f05738-d1e114", "D78nca-f05738-d1e134", "D78nca-f05738-d1e169", "D78nca-f05738-d1e181",
+        "D78nca-f05738-d1e218", "D78nca-f05738-d1e247", "D78nca-f05738-d1e263", "D78nca-f05738-d1e309",
+        "D78nca-f05738-d1e316", "D78nca-f05738-d1e343", "D78nca-f05738-d1e363", "D78nca-f05738-d1e409",
+        "D78nca-f05738-d1e425", "D78nca-f05738-d1e443", "D78nca-f05738-d1e465", "D78nca-f05738-d1e497",
+        "D78nca-f05738-d1e504", "D78nca-f05738-d1e533", "D78nca-f05738-d1e545", "D78nca-f05738-d1e554",
+        "D78nca-f05738-d1e586", "D78nca-f05738-d1e631", "D78nca-f05738-d1e655", "D78nca-f05738-d1e689",
+        "D78nca-f05738-d1e707", "D78nca-f05738-d1e714", "D78nca-f05738-d1e732", "D78nca-f05738-d1e744",
+        "D78nca-f05738-d1e775", "D78nca-f05738-d1e845", "D78nca-f05738-d1e862", "D78nca-f05738-d1e875",
+        "D78nca-f05738-d1e892", "D78nca-f05738-d1e912", "D78nca-f05738-d1e930", "D78nca-f05738-d1e961",
+        "D78nca-f05738-d1e974", "D78nca-f05738-d1e994", "D78nca-f05738-d1e1025", "D78nca-f05738-d1e1042",
+        "D78nca-f05738-d1e1062", "D78nca-f05738-d1e1093", "D78nca-f05738-d1e1130", "D78nca-f05738-d1e1139",
+        "D78nca-f05738-d1e1165", "D78nca-f05738-d1e1188", "D78nca-f05738-d1e1210", "D78nca-f05738-d1e1219",
+        "D78nca-f05738-d1e1230", "D78nca-f05738-d1e1280", "D78nca-f05738-d1e1293", "D78nca-f05738-d1e1325",
+        "D78nca-f05738-d1e1367", "D78nca-f05738-d1e1380", "D78nca-f05738-d1e1404", "D78nca-f05738-d1e1417",
+        "D78nca-f05738-d1e1426", "D78nca-f05738-d1e1447", "D78nca-f05738-d1e1465", "D78nca-f05738-d1e1520",
+        "D78nca-f05738-d1e1533", "D78nca-f05738-d1e1549", "D78nca-f05738-d1e1560", "D78nca-f05738-d1e1568"
+      ]
+    }
+  }
+}
