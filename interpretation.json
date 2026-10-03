@@ -1,0 +1,110 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-03T14:12:10Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-ancestors-v1",
+    "source_commit": "63a5161",
+    "generation_method": "hierarchical",
+    "scope": "Ancestor (above-item) nodes from the D78nca EDF. Currently covers the Prologus div, the Distinctio 37 div, and a partial whole-work entry."
+  },
+  "D78nca-d1e85": {
+    "summary": "The Prologus to Andreas de Novo Castro's commentary on Book I of the Sentences is not an introduction to theology as a science but a sustained three-question treatise on the ontology of complexe significabilia: what true or false propositions signify, the objects of knowledge, assent, and doubt expressed by dicta such as 'deum esse'. The theological themes the questions name (God as most noble being, God as special helper of the student of theology, the merit of studying theology) serve as test cases. The argument runs in stages. Question 1 argues against the view that complexe significabilia are 'nothing' (not any entity): some of them are real entities, as their perfection, causability, role as termini of change, goodness, and intuitive perceptibility show, and a revoked article condemns the contrary. 'God's being the most noble being' is such an entity, identical with 'God's being'. Question 2 rejects the alternative that such significabilia are a sui generis kind of being, neither God nor creature: 'God's being' is God by identity, as divine simplicity, worship, and parsimony require, and even contingent relational dicta ('God's being the helper', 'God's creating') are God himself under a contingent denomination, not aggregates and not novelties in God. Question 3 generalizes to every kind of proposition (necessary, impossible, past, future, contingent, modal) and argues that none signifies an intelligible distinct from all actual or possible things. Modal necessity is a necessity of the copula or of term-connection; tensed dicta are the thing as past or future; impossible propositions and figment-names lack objects; and God's contingent, tensed knowledge requires no new objects. Across the three questions Andreas uses the same tools: the composite/divided-sense distinction, which turns many objections into merely modal conclusions; the identification of a dictum with the thing in a certain condition; the exposition of indirect predications such as 'being known' as statements about acts; equivalence as distinct from identity; the claim that differences in formal signification are distinctions of signs rather than things; and a notion of non-identity without distinction (Peter sitting and Peter not sitting). The prologue ends by diagnosing the theory of complexe significabilia as a projection of the diversity of our apprehensions onto reality, parallel to realism about universals, and defers further treatment to distinctions 2, 3, 30, 36, and 38.",
+    "claims": [
+      "Complexe significabilia are not nothing: those that are true are the very things signified, existing in a certain condition.",
+      "'God's being', and every true dictum about God, including contingent relational ones, is God himself by identity.",
+      "There is no third kind of object, beyond actual and possible things, that propositions signify, whether they are necessary, impossible, tensed, contingent, or modal.",
+      "Modal and temporal necessity attaches to the copula or the connection of terms, not to special objects.",
+      "Differences between propositions in formal signification, question-form, or object of assent are distinctions of signs, not of things.",
+      "The theory of complexe significabilia projects our modes of apprehension onto reality, as realism about universals does."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "identity of dictum and thing",
+      "divine simplicity",
+      "composite and divided sense",
+      "distinction of signs",
+      "necessity of the past",
+      "future contingents",
+      "impossible objects",
+      "non-identity without distinction",
+      "condemned articles"
+    ],
+    "_metadata": {
+      "level": "prologus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "D78nca-d1e4XX",
+        "D78nca-de1712",
+        "D78nca-de4659"
+      ],
+      "partial": false,
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-03T14:12:10Z",
+      "source_commit": "63a5161",
+      "source_structure": "scta-projectfiles/D78nca.xml"
+    }
+  },
+  "D78nca-d1e1994": {
+    "summary": "Distinction 37 of Book I, which follows Lombard's treatment of how God is everywhere through his immensity, contains a single question in Andreas de Novo Castro's commentary: whether God is actually present, outside the heavens, in an infinite imaginary space. After extensive arguments on both sides (for presence: divine immutability, eternity and immensity as parallels, perfection, and scriptural, patristic, and Hermetic authorities; against: that the space is a figment or nothing and that infinite actual presence would require an actual infinite body), Andreas determines that God is not actually present in such a space, and could not be, since that would entail an actual infinite body. Yet God can exist outside the heavens with no creature there, although he cannot begin or cease to be so present except by the positing or removal of some creature. The determination relies on distinguishing God's presence by essence, presence, and power, and on rereading the authorities, especially Augustine, as speaking hypothetically, dialectically, or metaphorically rather than asserting a real extramundane space. A closing doubt denies that divine omnipresence can be established by natural reason alone, and the final reply holds that understanding an infinite space does not entail its actual or potential extramental existence. As the only question in the distinction, its interpretation is the whole of this summary.",
+    "claims": [
+      "God is not, and cannot be, actually present in an infinite imaginary space outside the heavens.",
+      "God can be outside the heavens with no creature there, but cannot begin or cease to be so except through the positing or removal of a creature.",
+      "Authorities invoked for extramundane divine presence speak hypothetically or metaphorically.",
+      "Divine omnipresence is not demonstrable by natural reason alone."
+    ],
+    "concepts": [
+      "divine immensity",
+      "imaginary infinite space",
+      "presence per essentiam/praesentiam/potentiam",
+      "actual vs. potential infinite",
+      "divine immutability"
+    ],
+    "_metadata": {
+      "level": "distinctio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "D78nca-f05738"
+      ],
+      "partial": false,
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-03T14:12:10Z",
+      "source_commit": "63a5161",
+      "source_structure": "scta-projectfiles/D78nca.xml"
+    }
+  },
+  "D78nca": {
+    "summary": "Andreas de Novo Castro's Commentarius in Libros Sententiarum, as encoded in this edition, covers Book I of Peter Lombard's Sentences: a Prologus and 23 groups of distinctions (d.1 through d.48). This summary rests on only 2 of those 24 divisions: the Prologus (three questions) and Distinction 37 (one question). It must not be read as a summary of the whole commentary, since the treatment of the Trinity, divine knowledge, will, and power in the other distinctions is not represented. In what is covered, the Prologus is a three-question treatise on the ontology of complexe significabilia. Andreas argues against both the view that what propositions signify is 'nothing' and the view that it is a sui generis kind of being. True dicta are the things signified existing in a certain condition, so that 'God's being', and every true dictum about God, is God himself. No proposition, whether necessary, impossible, tensed, or modal, signifies an object beyond actual and possible things, and the contrary theory is diagnosed as a projection of our modes of apprehension, like realism about universals. Distinction 37 takes up divine immensity and argues that God is not, and cannot be, actually present in an infinite imaginary space beyond the heavens, though he can be outside the heavens without creatures, and that such presence cannot begin or cease except through the positing or removal of creatures. The two covered portions share a parsimonious ontology that refuses to reify objects of thought (complexe significabilia; imaginary space) and a reliance on sense distinctions (composite/divided; essence/presence/power) to defuse arguments that would posit such objects or introduce change into God. The Prologus also points forward to fuller treatment in distinctions 2, 3, 30, 36, and 38, which are not yet interpreted.",
+    "claims": [
+      "(Partial: Prologus and d.37 only) Complexe significabilia are not distinct objects: true dicta are the things themselves in a certain condition, and 'God's being' is God.",
+      "(Partial) No proposition signifies an object beyond actual and possible things.",
+      "(Partial) God is not and cannot be actually present in an infinite imaginary space beyond the heavens.",
+      "(Partial) Contingent divine denominations, such as creating, helping, or being present to creatures, involve no change in God."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "divine simplicity",
+      "divine immensity",
+      "imaginary space",
+      "composite and divided sense",
+      "ontological parsimony"
+    ],
+    "_metadata": {
+      "level": "work",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "D78nca-d1e85",
+        "D78nca-d1e1994"
+      ],
+      "partial": true,
+      "coverage": "2 of 24 direct children have interpretations",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-03T14:12:10Z",
+      "source_commit": "63a5161",
+      "source_structure": "scta-projectfiles/D78nca.xml"
+    }
+  }
+}

@@ -1,0 +1,1062 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-03T14:12:10Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "63a5161b9a0ca53cffbfd53aab18c5fadc32871c",
+    "generation_method": "hierarchical"
+  },
+  "D78nca-d1e4XX-d1e114": {
+    "summary": "Incipit of the whole prologue, identifying the work as Andreas de Novo Castro's commentary on Book I of the Sentences and opening, in the manner of Lombard's own prologue, with the humble motif of casting a small offering from poverty into the Lord's treasury.",
+    "claims": [],
+    "concepts": [
+      "prologue",
+      "Sentences commentary",
+      "humility topos"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e138": {
+    "summary": "Formally poses the opening question of the prologue: whether God's being the most noble of all beings is some essence that is per se one.",
+    "claims": [],
+    "concepts": [
+      "complexe significabile",
+      "per se unity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e149": {
+    "summary": "Opening argument for the negative: the complexly signifiable corresponding to a true proposition includes the significates of both subject and predicate; since 'God's being most noble of all beings' signifies creatures as much as God, what it signifies formally includes creatures and so cannot be a single essence.",
+    "claims": [
+      "What corresponds to a true complex includes the significates of the predicate no less than of the subject."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "adequate significate",
+      "composition of significates"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e174": {
+    "summary": "Gives the sed contra (being most noble belongs to one essence only, God) and then lays out the target opinion of the whole prologue: that no per se complexly signifiable intelligible is any thing or entity, but is 'nothing' in Augustine's sense of 'not any thing'. It defines the complexe significabile as the adequate per se significate of a whole proposition, expressed by a dictum (e.g. 'deum esse creatorem'), which is held to be the object of knowledge, judgment, and doubt. Andreas announces that this and the following questions argue against that opinion.",
+    "claims": [
+      "Being most noble of all beings belongs to one essence only, namely God.",
+      "The opinion to be refuted holds that complexe significabilia are nothing, i.e. not any entity."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "object of knowledge",
+      "dictum",
+      "res",
+      "nihil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e237": {
+    "summary": "First conclusion: some per se complexly signifiable intelligible is an entity (or entities) demonstrably existing somewhere, and it is false that it is nothing. Proof: whatever is a formally infinite power and perfection lacking no perfection is something; but the significabile 'God's being God' or 'God's being infinite' is such.",
+    "claims": [
+      "Some complexe significabile is an entity or entities actually existing, not nothing.",
+      "God's being infinite and supremely perfect is formally an infinite perfection and hence something."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "infinite perfection",
+      "entitas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e276": {
+    "summary": "Confirms the first conclusion: some complexe significabilia have determinate degrees of perfection and stand in proportion to one another (e.g. having double power versus half power), which only real entities can have.",
+    "claims": [
+      "Complexe significabilia admit of determinate latitude and proportion of perfection."
+    ],
+    "concepts": [
+      "latitude of perfection",
+      "proportion",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e289": {
+    "summary": "Further proofs of the first conclusion: every positive intelligible actually posited in the universe is an entity or a composite of being and non-being; 'God's being' is positive (not a privation, and opposed to privations), actual (eternal and necessary, while 'Peter's being' passes from potency to act) and not composed of being and non-being. A further argument: what the blessed see intuitively as present in a place (God's being in heaven, Christ's being in a certain place) is something.",
+    "claims": [
+      "Some complexe significabilia are positive, actual intelligibles in the universe.",
+      "What the blessed intuitively see present in a place is a real entity."
+    ],
+    "concepts": [
+      "positive vs. privative",
+      "act and potency",
+      "intuitive cognition",
+      "beatific vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e341": {
+    "summary": "Confirmation from natural intuitive experience: the soul perceives without error that this is white and that it itself rejoices or suffers, and one angel intuitively perceives another's being in a place; what is so perceived is a real entity.",
+    "claims": [
+      "What the soul perceives intuitively and experientially without falsity is a real entity."
+    ],
+    "concepts": [
+      "intuitive cognition",
+      "experience",
+      "angelic cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e359": {
+    "summary": "Argument from efficient causality: what is positively caused is an entity, and God effectively causes the angel to be and to be blessed; so such a complexe significabile is something, since what is really produced passes into some entity.",
+    "claims": [
+      "What is efficiently caused is something, not nothing.",
+      "God causes an angel's being and being blessed."
+    ],
+    "concepts": [
+      "efficient causality",
+      "creation",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e380": {
+    "summary": "Confirmation from change: the terminus ad quem of positive change is an entity, and the termini of generation, alteration, and local motion are states of affairs like 'this fire's being', 'this thing's being white', 'this thing's being there'.",
+    "claims": [
+      "The termini of generation, alteration, and local motion are complexe significabilia and are entities."
+    ],
+    "concepts": [
+      "terminus ad quem",
+      "change",
+      "generation",
+      "alteration",
+      "local motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e398": {
+    "summary": "Argument from goodness: whatever is good, just, virtuous, or meritorious is something positive; but complexe significabilia such as 'loving God above all from charity' or 'having charity' are good (as 'sinning' is evil), and having a given charity is no less good than the charity itself; likewise with natural goodness.",
+    "claims": [
+      "Goodness, unlike evil, is something positive.",
+      "Acts like loving God from charity, being complexe significabilia, are good and therefore something."
+    ],
+    "concepts": [
+      "goodness",
+      "merit",
+      "charity",
+      "privation theory of evil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e437": {
+    "summary": "Confirmation: that by which the soul is formally well-off and beatifically perfected is something; but the soul is well-off by 'acting well' and beatified by 'seeing God', 'enjoying God', 'being united to God'.",
+    "claims": [
+      "The soul is beatified formally by complexe significabilia such as seeing and enjoying God."
+    ],
+    "concepts": [
+      "beatitude",
+      "fruitio",
+      "perfection of the soul"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e453": {
+    "summary": "Argument from an ecclesiastical censure: the twenty-third article revoked before the lord cardinal as false and scandalous asserted that what is signified by 'God and creature are distinguished' is nothing. Andreas asks how 'nothing' is to be taken there: if as opposed to 'some entity or entities', his position follows.",
+    "claims": [
+      "The revoked article condemns saying that the significabile of 'God and creature are distinguished' is nothing."
+    ],
+    "concepts": [
+      "condemned articles",
+      "ecclesiastical authority",
+      "nihil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e477": {
+    "summary": "Rebuts an alternative reading of the article ('nothing' as opposed to the significate of a true complex): then the article would have been framed in vain, since nobody holds that the proposition 'God and creature are distinguished' is false, while the article was framed to exclude someone's false opinion.",
+    "claims": [
+      "The revoked article must target the view that complexe significabilia are not entities, else it targets no one."
+    ],
+    "concepts": [
+      "condemned articles",
+      "interpretation of censures"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e453"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e488": {
+    "summary": "Confirms the argument from the article: if it is false and scandalous to call God's being distinct from creatures nothing, it is all the more so to call 'God's being' or 'God's being infinitely good' nothing, since the opponents' gloss would fit the antecedent better than the consequent. Then states the second conclusion: the intelligible 'God's being the most noble being' is an entity (or entities), because it is identical with God's really and actually existing as most noble, which is 'God's being'.",
+    "claims": [
+      "It is scandalous to say that God's being is nothing.",
+      "Second conclusion: 'God's being the most noble of all beings' is an entity, since it just is God's being."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "divine being",
+      "identity of significabile with thing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e453",
+        "D78nca-d1e4XX-d1e477"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e541": {
+    "summary": "First objection against the conclusions: 'Peter's being father of Plato' or 'B's being caused by a secondary cause' is nothing, else there would be a positive entity God could not cause by himself alone, contradicting divine omnipotence and the Parisian article that God can produce the effect of a secondary cause immediately; it would be contradictory for God alone to make Peter father of Plato. So by parity 'God's being most noble' is nothing.",
+    "claims": [
+      "(Objection) Complexe significabilia involving secondary causality cannot be produced by God alone and so are not entities."
+    ],
+    "concepts": [
+      "omnipotence",
+      "secondary causality",
+      "Parisian articles",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e603": {
+    "summary": "Confirmation of the first objection: 'the will's freely causing act B', if it were something, would be the will, the act, or their composite; but each of these God can cause totally, while he cannot cause 'the will's freely causing'. Using Boethius' argument that sin is nothing because the omnipotent God cannot do it, the objector concludes that such significabilia are nothing, since all things were made through God (John 1).",
+    "claims": [
+      "(Objection) Whatever God cannot make by himself alone is nothing, and 'the will's freely causing' is such."
+    ],
+    "concepts": [
+      "free will",
+      "omnipotence",
+      "Boethius' argument on evil",
+      "total cause"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e541"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e651": {
+    "summary": "Second principal objection: 'the will's sinning' is nothing (by Boethius' argument, since God cannot make it), so 'the will's acting well', and consequently 'God's being most noble', is also nothing, since such dicta imply the will and the act equally, and Anselm says an evil will is no less something than a good one.",
+    "claims": [
+      "(Objection) If 'the will's sinning' is nothing, so is 'the will's acting' and 'God's being'."
+    ],
+    "concepts": [
+      "sin",
+      "privation",
+      "Anselm",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e680": {
+    "summary": "Third and fourth objections. Third: 'God's being able to produce A' is nothing because it is the same in signification as 'A's being able to be', and A in pure potential being is nothing (else something other than God would be necessary and uncaused). Fourth: 'God's willing A to be' is nothing because it is equivalent to 'A's being future', which is nothing; and it cannot be God since it includes A no less than God, would be as necessary as God's being, and God sometimes ceases to will A's future being without ceasing to be God.",
+    "claims": [
+      "(Objection) Modal and future-tensed significabilia ('A can be', 'A will be') are nothing, and their divine correlates are equivalent to them."
+    ],
+    "concepts": [
+      "possibility",
+      "futurity",
+      "divine will",
+      "necessity",
+      "contingency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e772": {
+    "summary": "Fifth objection: 'God's understanding A' (where A does not actually exist) is nothing, because it is equivalent to 'A's being known by God', and being-known is not being simply; it cannot be A (which is nothing) nor God (else A's being known and B's being known would be identical, and so A's being future and B's having been).",
+    "claims": [
+      "(Objection) 'God's knowing A' is equivalent to 'A's being known', which is not something."
+    ],
+    "concepts": [
+      "esse cognitum",
+      "divine knowledge",
+      "being secundum quid"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e807": {
+    "summary": "Sixth objection: if 'God's being lord of creatures' is something because it includes God and creatures, then 'God's being subject to creatures' or 'a man's being an ass' would also be something, since they include the same; but these are impossible and nothing.",
+    "claims": [
+      "(Objection) Inclusion of real terms cannot make a significabile something, else impossibilia would be something."
+    ],
+    "concepts": [
+      "impossible significabilia",
+      "inclusion",
+      "divine lordship"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e830": {
+    "summary": "Report of others' argument against the conclusions: every entity falls under one of the categories, but nothing that is only complexly signifiable is a substance, quantity, quality, etc., since categorial items are incomplexly signifiable (citing Gregory and Aristotle's Categories). They add that if 'Peter begot Plato', taken personally and significatively, were an entity it would be wholly unintelligible. The paragraph breaks off as the response begins.",
+    "claims": [
+      "(Objection) Every entity belongs to a category, and what is only complexly signifiable belongs to none."
+    ],
+    "concepts": [
+      "categories",
+      "complexe significabile",
+      "incomplex signification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e876": {
+    "summary": "Reply to the first objection: Peter's being father of Plato just is Peter existing as father of Plato. The argument actually tells against the opponents, since they would admit an actual positive intelligible distinct from God that God could not produce. The key proposition ('Plato's being son of Peter cannot be from God alone') must be distinguished: in the divided sense it is false (what is in fact Plato's being son of Peter can be from God alone, though then it would not be such); in the composite sense it is true but yields only a modal conclusion, and the inference otherwise commits the fallacy of figure of speech.",
+    "claims": [
+      "'Peter's being father of Plato' is Peter existing as father of Plato.",
+      "Composite/divided sense distinction defuses the omnipotence objection."
+    ],
+    "concepts": [
+      "composite and divided sense",
+      "fallacy of figure of speech",
+      "omnipotence",
+      "secondary causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e541"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e939": {
+    "summary": "Reply to the confirmation: 'the will's freely causing' is the will freely producing. 'The will's freely causing is totally from God' must be distinguished; in the first sense (that which is the will causing can be from God alone) it is granted, and this does not remove the will's free causality of its own act but rather implies it.",
+    "claims": [
+      "'The will's freely causing' is the will as freely producing.",
+      "God can be total cause of that which is the will causing without negating the will's causality of its act."
+    ],
+    "concepts": [
+      "free will",
+      "total causality",
+      "sense distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e603"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e978": {
+    "summary": "Second sense: that, given the pre-existing will, 'the will's causing' is a new effect produced wholly by God. This is false, because the will's causing is not a new thing but only by a certain likeness, just as God's causing is not a new thing but an eternal thing newly causing.",
+    "claims": [
+      "'The will's causing' is not a new res, but the will newly causing.",
+      "Likewise God's causing is the eternal God newly causing a new thing."
+    ],
+    "concepts": [
+      "novelty",
+      "causation",
+      "divine immutability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e939"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1000": {
+    "summary": "Third sense: that God makes the will cause in such a way that God alone, and not the will, produces any effect. This is denied as contradictory, as it is contradictory for the effect of a secondary cause to be from God alone.",
+    "claims": [
+      "It is contradictory that the effect of a secondary cause qua such be from God alone."
+    ],
+    "concepts": [
+      "secondary causality",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e939",
+        "D78nca-d1e4XX-d1e978"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1013": {
+    "summary": "Applies the preceding distinctions to a further form of the argument: if 'the will's causing' is the will causing, then 'the will's freely causing' is the will, which seems false for two reasons, the first being that this will is wholly from God while its freely causing is not.",
+    "claims": [
+      "(Objection) 'The will's freely causing' is not the will, because it is not wholly from God."
+    ],
+    "concepts": [
+      "identity",
+      "free will",
+      "total causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e939"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1034": {
+    "summary": "Second reason for the objection: the will is not in the will's power, but the will's acting is; therefore they differ.",
+    "claims": [
+      "(Objection) The will is not in its own power, but its acting is."
+    ],
+    "concepts": [
+      "power of the will",
+      "identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1013"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1043": {
+    "summary": "Grants the consequent: just as the will is commonly conceded to be the will causing, so 'the will's causing' is the will. The objection's minor is false or, in the sense it is true, the syllogism commits the fallacies of accident and figure of speech, like 'this stone is from nature, this image of the king is not from nature, so this image is not this stone' or the parallel about act and sin.",
+    "claims": [
+      "'The will's causing' is the will.",
+      "Arguments from differing causal predicates to non-identity commit the fallacy of accident."
+    ],
+    "concepts": [
+      "fallacy of accident",
+      "fallacy of figure of speech",
+      "identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1013"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1074": {
+    "summary": "Reply to the second reason: 'the will freely acting is not in the will's power' must be distinguished. In the composite sense it is false, since it is in the will's power not to cause; in the divided sense it is true (the thing that is causing is not in its power), but then the argument concludes only that the will can fail to be the will causing.",
+    "claims": [
+      "It is in the will's power not to be freely causing.",
+      "The argument yields only a modal conclusion."
+    ],
+    "concepts": [
+      "composite and divided sense",
+      "freedom",
+      "modal inference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1034"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1107": {
+    "summary": "Reply to the Boethian argument: in form it fails (the same reasoning would prove a meritorious act nothing), since the minor is either false or yields an invalid inference. But materially Boethius rightly shows that no being is formally a sin by that by which it is a being, that being a sin is not a positive absolute form, and that sin as such is not per se causable, since God cannot be cause of sin.",
+    "claims": [
+      "Boethius' argument shows that sin as such is not a positive form or per se causable.",
+      "God is neither total nor partial cause of sin as sin."
+    ],
+    "concepts": [
+      "Boethius",
+      "sin as privation",
+      "divine causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e603"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1142": {
+    "summary": "Reply to the second principal objection: the antecedent is denied, since 'the will's sinning' is the will sinning and acting badly. The consequence that God's inability to produce it makes it nothing is denied: it does not follow that something exists which God cannot do, any more than from 'God cannot make a sinning will'.",
+    "claims": [
+      "'The will's sinning' is the will as sinning, and so something."
+    ],
+    "concepts": [
+      "sin",
+      "omnipotence",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e651"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1160": {
+    "summary": "Reply to the third objection: God's being able to produce A is God able to produce A. 'A's being possible' is not anything actual, but God's power is; and the two are not personally identical, for (with Anselm, De casu diaboli) the world could be because God could produce it, not conversely. They are called the same only by equivalence, since they mutually entail each other and the same states of affairs suffice for the truth of each.",
+    "claims": [
+      "'God's being able to produce A' is God as potent, and actual.",
+      "'A's being possible' and 'God's being able to produce A' are equivalent but not identical."
+    ],
+    "concepts": [
+      "possibility",
+      "divine power",
+      "equivalence vs. identity",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e680"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1196": {
+    "summary": "Reply to the fourth objection: God's willing A to be is God himself, nothing other. It does not formally include A, although the dictum signifies A, just as 'God willing A to be' signifies A without including it. Its necessity is granted only in the divided sense (as 'God creating' is necessary and eternal); and when God ceases to will A's being, it follows only that God will not always be 'willing A to be', not that he ceases to be God.",
+    "claims": [
+      "'God's willing A to be' is precisely God.",
+      "Signifying something is not formally including it."
+    ],
+    "concepts": [
+      "divine will",
+      "necessity",
+      "composite and divided sense",
+      "signification vs. inclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e680"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1238": {
+    "summary": "Reply to the fifth objection: 'A's being known' is not a direct and proper predication but must be reduced to 'there is a cognition of A', since (Aristotle, Metaphysics V) being intelligible signifies a relation founded in the intellect. Taken in its apparent form the consequence is denied (as God knowing A is not A known); taken as resolved, the antecedent is denied.",
+    "claims": [
+      "'A's being known' must be expounded as 'a cognition of A exists'.",
+      "God's knowing A is not A's being known."
+    ],
+    "concepts": [
+      "esse cognitum",
+      "exposition of propositions",
+      "relation of reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e772"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1284": {
+    "summary": "Reply to the sixth objection: 'God's being lord of creatures' does not include God and creatures; it is God existing as lord of creatures, and is something because being lord truly belongs to an entity that is God. But 'God's being subject to creatures' is nothing because nothing is God-subject-to-creatures; such impossibilia are figments that include nothing.",
+    "claims": [
+      "'God's being lord' is God existing as lord, not a composite including creatures.",
+      "Impossible significabilia such as 'God's being subject to creatures' are nothing and figments."
+    ],
+    "concepts": [
+      "divine lordship",
+      "impossibilia",
+      "figmentum",
+      "inclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e807"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1315": {
+    "summary": "Reply to the categorial argument: it is evident that nothing can be an entity and yet only complexly signifiable, since being an entity makes it nameable by 'entity'. But this does not yield the opponents' conclusion, because the complexe significabile is not only complexly signifiable: it is signified by 'intelligible' and 'significable', which are incomplex terms.",
+    "claims": [
+      "Nothing is an entity and only complexly signifiable.",
+      "Complexe significabilia are also incomplexly signifiable, so the categorial argument fails."
+    ],
+    "concepts": [
+      "complex vs. incomplex signification",
+      "categories",
+      "entitas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e830"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1344": {
+    "summary": "Reply to the added argument: 'Plato's being son of Peter' is no more an unintelligible entity than 'Peter begetting Plato'; rather it is unintelligible to posit an actual positive intelligible that is no entity. A proposition taken personally and significatively cannot be subject or predicate (only its corresponding dictum or a term standing for it can), so saying 'Peter begot Plato is an entity' is incongruous; if accepted anyway, it is an entity, given that Peter as begetter of Plato exists.",
+    "claims": [
+      "A proposition as such, taken personally, is not subjicible or predicable; its dictum is.",
+      "Positing a positive intelligible that is no entity is itself unintelligible."
+    ],
+    "concepts": [
+      "supposition",
+      "dictum",
+      "propositional structure",
+      "entitas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e830"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1392": {
+    "summary": "Third conclusion: 'God's being the most noble being' is a thing or entity, incomplexly demonstrable and per se one, because it is 'God's being' and 'God's being' is God, as the next question will prove.",
+    "claims": [
+      "Third conclusion: 'God's being most noble' is a per se one entity, identical with God."
+    ],
+    "concepts": [
+      "per se unity",
+      "identity of God and his being",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e488"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1409": {
+    "summary": "Defends the third conclusion against the inclusion objection (it includes creature no less than God), retorting that the same would make 'God the most noble being' or 'an ass in the king's stable' not per se one. Then raises a new objection: God is not the total and complete significate of 'God is lord of creatures', but 'God's being lord of creatures' is (since that is all the proposition signifies); so it is not God.",
+    "claims": [
+      "Signifying several things does not prevent a significabile from being per se one.",
+      "(Objection) The total significate of a proposition is not God, so 'God's being lord' is not God."
+    ],
+    "concepts": [
+      "total significate",
+      "per se unity",
+      "inclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1392",
+        "D78nca-d1e4XX-d1e149"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1455": {
+    "summary": "Confirmation of the objection: God does not formally include creatures, but 'God's being lord of creatures' does, since the total significate includes what the predicate signifies, and this intelligible can no more be posited or understood without creatures than without God.",
+    "claims": [
+      "(Objection) 'God's being lord' formally includes creatures and cannot be understood without them."
+    ],
+    "concepts": [
+      "formal inclusion",
+      "total significate",
+      "relation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1409"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1477": {
+    "summary": "Further objections against identity with God: (2) God is not a fitting object of a question (an est, quia, propter quid), but 'God's being lord of creatures' is; (3) God is not the complete object of science, assent, or doubt, but the significabile is; (4) contradictory propositions (or opposed volitions) share God as significate but do not share 'God's being lord of Peter'. The paragraph breaks off mid-argument.",
+    "claims": [
+      "(Objection) Complexe significabilia are objects of questions, science, and assent in a way God is not.",
+      "(Objection) Contradictories share God but not the complexe significabile."
+    ],
+    "concepts": [
+      "object of science",
+      "object of assent",
+      "quaestio",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1409"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1540": {
+    "summary": "Fragmentary reply to the first objection, retorting by parity: by the same reasoning 'God being lord of creatures' would not be God, and 'Plato's being son of the man Peter, who is white' would not be 'Plato's being son of a man'.",
+    "claims": [
+      "The objection proves too much by parity."
+    ],
+    "concepts": [
+      "argument by parity",
+      "total significate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1409"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1553": {
+    "summary": "Main reply on 'total significate': the minor is false of the words' force. Taking proposition B 'God is lord of creatures', 'total significate' has two senses. As the collective aggregate of everything B signifies, the minor is denied, since on that reading not even 'Socrates' being a man' is the total significate of 'Socrates is a man' (Plato is signified by the term 'man' yet is not included in Socrates' being a man). As the formal signification by which B enunciates this-of-this with a present copula, expounded by its conforming dictum, the minor is granted; but then the argument shows only a distinction of signs, since the minor is implicitly in actu signato.",
+    "claims": [
+      "'Total significate' is ambiguous between the aggregate of things signified and the formal mode of enunciation.",
+      "The argument from total significate shows only a distinction of signs, not of things."
+    ],
+    "concepts": [
+      "total significate",
+      "formal signification",
+      "actus signatus vs. exercitus",
+      "dictum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1409"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1638": {
+    "summary": "Reply to the confirmation: the minor is denied, and the first proof is answered by distinguishing 'total significate' as before.",
+    "claims": [],
+    "concepts": [
+      "total significate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1455",
+        "D78nca-d1e4XX-d1e1553"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1646": {
+    "summary": "Reply to the second proof of the confirmation: by parity, 'God lord of creatures' would include creatures and 'Plato son of Peter' would include Peter. 'God's being lord cannot be posited or understood without creatures' is distinguished: in the divided sense (that very intelligible cannot be or be understood unless creatures are) false; in the composite sense (it is impossible that God be lord and creatures not exist, or be understood as lord without creatures being understood) true, but then it proves only that God can fail to be 'God's being lord'.",
+    "claims": [
+      "Relational significabilia do not formally include their correlates.",
+      "In the composite sense, God's lordship cannot be understood without creatures."
+    ],
+    "concepts": [
+      "composite and divided sense",
+      "relation",
+      "divine lordship"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1455"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1683": {
+    "summary": "Reply to the second objection (object of a question): by parity, 'God's being infinitely good' would not be 'God's being good'. If 'total object of a question' means the aggregate of what the proposition signifies, the minor is denied; if it means that whose being-such is asked and formally signified, the major is denied. The argument shows only that 'God' is not a fitting form for a question, a distinction of signs; for many signs signify the same thing, and (Aristotle, Metaphysics VII) asking why a thing is itself is no question.",
+    "claims": [
+      "Fitness as the form of a question concerns signs, not the identity of what is signified.",
+      "Many signs can signify the same thing while only one fits the form of a question."
+    ],
+    "concepts": [
+      "quaestio",
+      "signs vs. things",
+      "Aristotle on why-questions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1477"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1744": {
+    "summary": "Brief reply to the third objection (object of science and assent): the same answer applies, with further treatment deferred to later questions.",
+    "claims": [],
+    "concepts": [
+      "object of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1477"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1749": {
+    "summary": "Reply to the fourth objection by parity: the same reasoning would show God is not 'God being lord of creatures', since 'God being lord' and 'God not being lord' share God but not that; and that 'God's being of infinite power' is not 'God's being of some power', since one may question one while presupposing the other.",
+    "claims": [
+      "The argument from shared significates proves too much."
+    ],
+    "concepts": [
+      "argument by parity",
+      "contradiction",
+      "signification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1477"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1769": {
+    "summary": "Distinguishes the claim that contradictories do not share 'God's being lord': if it means that this intelligible is not signified by both, it is denied (given the affirmation is true); if it means that only the affirmation formally signifies it, it is granted. But formal signification involves more than reference to a thing: it involves enunciating affirmatively this-of-this and being verifiable for that intelligible. So the two propositions do not 'signify the same' in that sense, yet God is still 'God's being lord'.",
+    "claims": [
+      "Formal signification includes the mode of enunciation and truth-conditions, not only what is signified materially.",
+      "'God's being lord of creatures' is God."
+    ],
+    "concepts": [
+      "formal vs. material signification",
+      "truth conditions",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e1477",
+        "D78nca-d1e4XX-d1e1749"
+      ]
+    }
+  },
+  "D78nca-d1e4XX-d1e1808": {
+    "summary": "Notes that the opening arguments are answered by what has been said, and begins (but does not complete) a reply to the first objection against the second conclusion.",
+    "claims": [],
+    "concepts": [
+      "replies to initial arguments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-d1e4XX-Hd1e111",
+        "D78nca-d1e4XX-d1e149"
+      ]
+    }
+  },
+  "D78nca-d1e4XX": {
+    "summary": "Opening question of Andreas de Novo Castro's prologue, and the first in a three-question attack on the theory that complexe significabilia (the adequate significates of propositions, the objects of knowledge and assent expressed by dicta like 'deum esse') are 'nothing', i.e. not any entity. Using 'God's being the most noble of all beings' as test case, Andreas argues in three conclusions that (1) some complexe significabilia are real entities, not nothing: they have degrees of perfection, are positive and actual, are seen intuitively by the blessed and perceived by us, are caused, are termini of change, and are good and beatifying, and a revoked article ('what is signified by \"God and creature are distinguished\" is nothing') condemns the contrary; (2) 'God's being most noble' is an entity, since it is 'God's being'; (3) it is per se one, since 'God's being' is God (to be proved in the next question). The objections draw on omnipotence and secondary causality (God cannot alone make 'Plato's being Peter's son' or 'the will's freely causing'), Boethius' argument that sin is nothing, modal and future-tense dicta, esse cognitum, impossible dicta, the categories, and the notion of a proposition's 'total significate'. Andreas answers them with a consistent set of tools: the composite/divided-sense distinction, which reduces many arguments to modal conclusions; identification of each dictum with the thing in a given condition ('the will's causing' is the will causing, 'God's being lord' is God existing as lord); exposition of indirect predications such as 'being known'; distinguishing equivalence from identity; and the claim that differences in formal signification, question-form, or object of assent are only a distinction of signs, not of things.",
+    "claims": [
+      "Some complexe significabilia are real entities and not nothing; the opposite view is contrary to a revoked article.",
+      "'God's being the most noble of all beings' is an entity, per se one, because it is 'God's being', which is God.",
+      "A complexe significabile is the thing signified existing in a certain condition ('the will's causing' is the will causing).",
+      "Arguments from omnipotence, from the Boethian argument on sin, and from differing 'total significates' yield only modal conclusions or distinctions of signs, not distinctions of things.",
+      "Impossible dicta ('God's being subject to creatures') are nothing and figments."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "identity of dictum and thing",
+      "composite and divided sense",
+      "distinction of signs",
+      "omnipotence and secondary causality",
+      "condemned articles",
+      "esse cognitum"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "D78nca-d1e4XX-d1e114",
+        "D78nca-d1e4XX-d1e138",
+        "D78nca-d1e4XX-d1e149",
+        "D78nca-d1e4XX-d1e174",
+        "D78nca-d1e4XX-d1e237",
+        "D78nca-d1e4XX-d1e276",
+        "D78nca-d1e4XX-d1e289",
+        "D78nca-d1e4XX-d1e341",
+        "D78nca-d1e4XX-d1e359",
+        "D78nca-d1e4XX-d1e380",
+        "D78nca-d1e4XX-d1e398",
+        "D78nca-d1e4XX-d1e437",
+        "D78nca-d1e4XX-d1e453",
+        "D78nca-d1e4XX-d1e477",
+        "D78nca-d1e4XX-d1e488",
+        "D78nca-d1e4XX-d1e541",
+        "D78nca-d1e4XX-d1e603",
+        "D78nca-d1e4XX-d1e651",
+        "D78nca-d1e4XX-d1e680",
+        "D78nca-d1e4XX-d1e772",
+        "D78nca-d1e4XX-d1e807",
+        "D78nca-d1e4XX-d1e830",
+        "D78nca-d1e4XX-d1e876",
+        "D78nca-d1e4XX-d1e939",
+        "D78nca-d1e4XX-d1e978",
+        "D78nca-d1e4XX-d1e1000",
+        "D78nca-d1e4XX-d1e1013",
+        "D78nca-d1e4XX-d1e1034",
+        "D78nca-d1e4XX-d1e1043",
+        "D78nca-d1e4XX-d1e1074",
+        "D78nca-d1e4XX-d1e1107",
+        "D78nca-d1e4XX-d1e1142",
+        "D78nca-d1e4XX-d1e1160",
+        "D78nca-d1e4XX-d1e1196",
+        "D78nca-d1e4XX-d1e1238",
+        "D78nca-d1e4XX-d1e1284",
+        "D78nca-d1e4XX-d1e1315",
+        "D78nca-d1e4XX-d1e1344",
+        "D78nca-d1e4XX-d1e1392",
+        "D78nca-d1e4XX-d1e1409",
+        "D78nca-d1e4XX-d1e1455",
+        "D78nca-d1e4XX-d1e1477",
+        "D78nca-d1e4XX-d1e1540",
+        "D78nca-d1e4XX-d1e1553",
+        "D78nca-d1e4XX-d1e1638",
+        "D78nca-d1e4XX-d1e1646",
+        "D78nca-d1e4XX-d1e1683",
+        "D78nca-d1e4XX-d1e1744",
+        "D78nca-d1e4XX-d1e1749",
+        "D78nca-d1e4XX-d1e1769",
+        "D78nca-d1e4XX-d1e1808"
+      ]
+    }
+  }
+}

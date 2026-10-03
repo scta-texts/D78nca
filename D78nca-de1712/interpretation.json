@@ -1,0 +1,2543 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-03T14:12:10Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "63a5161b9a0ca53cffbfd53aab18c5fadc32871c",
+    "generation_method": "hierarchical"
+  },
+  "D78nca-de1712-d1e114": {
+    "summary": "Restates the second question of the prologue: whether God's being the special helper of the faithful student of theology is something per se one wholly distinct from every creature.",
+    "claims": [],
+    "concepts": [
+      "complexe significabile",
+      "divine assistance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e130": {
+    "summary": "Opening argument for the negative: if it were per se one it would be identical with God, but God is an eternal and necessary intelligible, whereas God's being the special helper of a student is contingent and temporal.",
+    "claims": [
+      "(Objection) A contingent and temporal significabile cannot be identical with the eternal, necessary God."
+    ],
+    "concepts": [
+      "contingency",
+      "eternity",
+      "identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e139": {
+    "summary": "Sed contra: the significabile is neither precisely a creature nor an aggregate of God and creature, so it is God alone and hence per se one. That it is not an aggregate is proved by the convertibility of being and one (Metaphysics IV): what is not one being is not a being and so nothing.",
+    "claims": [
+      "What is neither a creature nor an aggregate of God and creature is God alone.",
+      "Being and one are convertible."
+    ],
+    "concepts": [
+      "convertibility of ens and unum",
+      "aggregate",
+      "per se unity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e160": {
+    "summary": "Preliminary note on 'aliquid'. Broadly and improperly it covers things said to be something only by a figure of speech (as one who understands the future Antichrist understands 'something', or Anselm's figurative 'something'); this sense is excluded. Properly it means a positive actually existing essence, either strictly as a per se one being (simple or composite) or less strictly as a positive whole aggregated from many entities with some unity (an individual with its accidents, a city, the world). That God and creature together are truly 'something' is supported by two articles revoked before the cardinal (22 and 36).",
+    "claims": [
+      "'Aliquid' in the question is taken properly for a positive actually existing essence, either per se one or an aggregate with some unity.",
+      "God and creature together are truly something."
+    ],
+    "concepts": [
+      "aliquid",
+      "figurative predication",
+      "aggregate unity",
+      "condemned articles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e221": {
+    "summary": "Preliminary note on 'nihil': being indeclinable, it can be expounded as 'not something', 'not some things', or both. So it is false that four men or a people are nothing, but true (in the combined sense) that a chimera or a white angel is nothing. In the question 'aliquid' is taken in the second, proper sense.",
+    "claims": [
+      "'Nihil' may negate singular or plural 'aliquid'; aggregates like a people are not nothing."
+    ],
+    "concepts": [
+      "nihil",
+      "semantics of negation",
+      "chimera"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e160"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e241": {
+    "summary": "First conclusion: the intelligible 'God's being' is a thing and per se one essence. Proof by exhaustive division: it is a being, or beings, or a composite of being and non-being, or none of these; if beings, it is a composite of God and creature (false, since it is eternal and necessary); not a composite with non-being (possible or impossible); and if none, it is either a pure figment or merely potential (a possible creature). Anticipates the reply that it is neither properly being nor nothing but simply 'first substance's being'.",
+    "claims": [
+      "First conclusion: 'God's being' is a res and a per se one essence."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "divine being",
+      "exhaustive division",
+      "figmentum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e276": {
+    "summary": "Presents the opponents' reply in full: 'being' and 'something' have three senses: (1) strictly, an existing essence incomplexly signifiable, divided into substance and accident; (2) broadly, what is complexly signified by a true enunciation (Aristotle, Metaphysics V: being as the true); (3) most broadly, any significable whatever, true, false, possible or impossible. 'God's being' is not something in sense (1), but is something in senses (2) or (3); hence it is neither substance nor accident, neither God nor creature.",
+    "claims": [
+      "(Opponents) 'God's being' is something only as the being-true of a proposition, not as an entity; so it is neither God nor creature."
+    ],
+    "concepts": [
+      "senses of ens",
+      "ens ut verum",
+      "complexe significabile",
+      "Aristotle Metaphysics V"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e241"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e355": {
+    "summary": "First argument against the opponents' reply: the proofs of the first conclusion of the previous question, and especially the revoked article ('what is signified by \"God and creature are distinguished\" is nothing'), where 'nothing' cannot be opposed to sense (2) or (3), since no one held that proposition false. The article therefore condemns denying that such a significabile is an entity, so 'God's being' is an entity.",
+    "claims": [
+      "The revoked article condemns the view that complexe significabilia are not entities."
+    ],
+    "concepts": [
+      "condemned articles",
+      "senses of nihil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e276",
+        "D78nca-de1712-d1e160"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e390": {
+    "summary": "Further argument: every intelligible that is actual, positive, per se one, not fabricated by the soul, and intellectually seen as present somewhere is an entity demonstrable by the intellect; 'God's being' fits this description.",
+    "claims": [
+      "Actual positive mind-independent intelligibles intellectually seen as present are entities."
+    ],
+    "concepts": [
+      "intellectual vision",
+      "positive being",
+      "mind-independence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e276"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e404": {
+    "summary": "Confirmation by the substance/accident division: such an intelligible either inheres (and so is an accidental entity) or subsists (and so is a substantial entity, corporeal or incorporeal). Hence it must fall under the categories the opponents deny it.",
+    "claims": [
+      "Every positive intelligible is either an inhering accident or a subsisting substance."
+    ],
+    "concepts": [
+      "substance and accident",
+      "inherence",
+      "subsistence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e390"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e420": {
+    "summary": "Second confirmation: 'God's being a substance' is 'being a substance', and being a substance is something substantial; hence it is a substance.",
+    "claims": [
+      "'God's being a substance' is itself substantial."
+    ],
+    "concepts": [
+      "substance",
+      "esse substantiale"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e404"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e427": {
+    "summary": "Argument from the two modes of being: if God is being in the first sense and 'God's being' is being in the second, are they intelligibles of the same or of different rationale? If the same, both or neither is God; if different, one is essentially nobler than the other (which cannot be specified), and the creation of one being (an angel) would entail the creation of two beings of distinct rationale (the angel and the angel's being).",
+    "claims": [
+      "Positing two kinds of being, God and 'God's being', leads to absurd multiplication."
+    ],
+    "concepts": [
+      "univocity",
+      "modes of being",
+      "creation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e276"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e447": {
+    "summary": "Argument from perfection: God and 'God's being' are either equally perfect or not. If unequal, the lesser lacks some pure perfection or includes imperfection, which cannot be specified; if equal, each would equally be called God and worshipped as God, each having infinite power, wisdom, and goodness, and whatever is such is God.",
+    "claims": [
+      "Whatever is as perfect as God without imperfection is God."
+    ],
+    "concepts": [
+      "pure perfection",
+      "divine infinity",
+      "worship"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e427"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e473": {
+    "summary": "Argument from unity and the Trinity: if 'God's being' is per se one, it is God, since otherwise there would be something materially other than God equally infinite; and it would have to be one essentially and personally (and so not common to the persons) or one essentially and plural personally (yielding two trinities). If it is many, one of them is God and the question recurs.",
+    "claims": [
+      "A per se one intelligible as perfect as God would be God, on pain of a second trinity."
+    ],
+    "concepts": [
+      "Trinity",
+      "essential unity",
+      "personal plurality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e447"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e493": {
+    "summary": "Argument by parity against the reply: one could equally invent for every verb, participle, adjective, syncategorematic term, abstract, concrete, and oblique case a distinct intelligible object that is 'being in its own way' but neither substance nor accident. Then states the second conclusion: 'God's being' is God himself by identity and the absolute truth of affirmation. Proof: whatever is a positive actual intelligible no less perfect than God and without imperfection is true God; it must be loved above all and worshipped with latria, and 'God's being' is necessary, eternal, uncreated, wholly simple, pure act, and formally infinite.",
+    "claims": [
+      "Positing sui generis non-entities for complexe significabilia would license the same for every part of speech.",
+      "Second conclusion: 'God's being' is God by identity and absolute truth of affirmation.",
+      "'God's being' is to be loved above all and worshipped with latria."
+    ],
+    "concepts": [
+      "identity of God and his being",
+      "latria",
+      "pure act",
+      "divine infinity",
+      "semantic ontology of parts of speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e276"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e577": {
+    "summary": "Rebuts the reply that 'God's being' is not to be worshipped because it is only complexly signifiable: complex signifiability does not derogate from perfection, and is if anything a mark of nobility (needing a complete, not a diminished, sign). Also, positing many equally noble intelligibles of which one is God and the others not is worse than polytheism. And if 'God's being' is lovable, it must be loved for itself as ultimate end (and so as God) or used for something else, which is false since it is not inferior to God.",
+    "claims": [
+      "Being only complexly signifiable does not diminish an object's nobility.",
+      "Positing equally noble non-divine intelligibles is worse than positing many gods.",
+      "'God's being' must be loved as ultimate end, hence as God."
+    ],
+    "concepts": [
+      "latria",
+      "idolatry",
+      "frui and uti",
+      "ultimate end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e493"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e636": {
+    "summary": "Second principal argument for the second conclusion: if 'God's being' (call it B) is not God but a distinct intelligible, then either B formally includes God or it does not. If not, they are materially distinct intelligibles, against which several arguments follow.",
+    "claims": [],
+    "concepts": [
+      "formal inclusion",
+      "material distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e493"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e652": {
+    "summary": "First argument against the non-inclusion horn: B could then be understood without understanding God without contradiction, since B is not per se relative and every relative intelligible presupposes an absolute prior concept.",
+    "claims": [
+      "If 'God's being' were distinct from God without including him, it could be understood without God."
+    ],
+    "concepts": [
+      "relative and absolute concepts",
+      "conceivability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e636"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e661": {
+    "summary": "Second argument: God could then posit God without B (and an angel without 'the angel's being') without contradiction, since a positive absolute distinct from and independent of A can be posited or removed without A; inseparability arises only from identity, inclusion, dependence, or relation.",
+    "claims": [
+      "Inseparability arises only from identity, inclusion, dependence, or relation."
+    ],
+    "concepts": [
+      "separability",
+      "divine power",
+      "identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e636"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e679": {
+    "summary": "Third argument: the total complexe significabile of a proposition, if it is not just the things signified by the extremes, must include the subject's or predicate's significate, else it is not the complete significate; applied to 'God is God', it includes God.",
+    "claims": [
+      "The total significabile of a proposition must include what its extremes signify."
+    ],
+    "concepts": [
+      "total significate",
+      "inclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e636"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e697": {
+    "summary": "Fourth argument: 'this whiteness's being here' either is or includes this whiteness, since in pointing to or willing precisely that, the whiteness is designated.",
+    "claims": [
+      "A significabile about a thing either is or includes that thing."
+    ],
+    "concepts": [
+      "demonstration",
+      "inclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e636"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e709": {
+    "summary": "Fifth argument: one believing that God is the highest good would then not believe God, nor God's word, nor in God, since God would be neither the total nor a partial object of that belief; likewise mathematics would know nothing about numbers and figures.",
+    "claims": [
+      "If complexe significabilia excluded their subjects, faith would not be about God and science not about its subjects."
+    ],
+    "concepts": [
+      "object of faith",
+      "credere deum/deo/in deum",
+      "object of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e636"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e731": {
+    "summary": "Sixth argument: no complexe significabile could share any incomplexly signifiable item with another, since sharing of complex signs in a common term would not entail sharing in its intelligible.",
+    "claims": [
+      "On the opponents' view complex significabilia could share no incomplex content."
+    ],
+    "concepts": [
+      "shared signification",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e636"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e744": {
+    "summary": "Transitional sentence turning to the other horn: that B formally includes God.",
+    "claims": [],
+    "concepts": [
+      "formal inclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e636"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e749": {
+    "summary": "First argument against the inclusion horn: God could be posited without 'God's being' (and an angel without 'the angel's being'), though not conversely, since they are not correlatives but one is absolute.",
+    "claims": [
+      "(Against inclusion) Containing God without being God implies God could exist without it."
+    ],
+    "concepts": [
+      "absolute vs. relative",
+      "separability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e744"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e760": {
+    "summary": "Second argument: 'God's being' would then depend on God as a container that is not God depends on the included God.",
+    "claims": [
+      "(Against inclusion) Such a container would be dependent on God."
+    ],
+    "concepts": [
+      "dependence",
+      "inclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e744"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e767": {
+    "summary": "Third argument: whatever positive non-divine thing exists God can annihilate; if B is not God but includes God, God could annihilate it at least in some part of itself.",
+    "claims": [
+      "(Against inclusion) A non-divine includer of God would be partially annihilable."
+    ],
+    "concepts": [
+      "annihilation",
+      "divine power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e744"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e781": {
+    "summary": "Fourth argument: if B is not God but formally includes God, it must include something else wholly distinct from God (else it would just be God), call it E. E is either incomplexly signifiable (and so God or creature, reducing 'God's being' to two entities) or complexly signifiable (which leads to regress). Considers the reply that B includes only God and adds nothing, standing to its constituents as a whole to all its parts together, which is not the parts yet adds nothing beyond them.",
+    "claims": [
+      "What includes A and is not A must include something wholly distinct from A.",
+      "(Opponents) The complexe significabile relates to the significates of the extremes as a whole to all its parts together."
+    ],
+    "concepts": [
+      "formal inclusion",
+      "whole and parts",
+      "regress"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e744"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e851": {
+    "summary": "Rebuts the whole/parts reply: a whole includes its parts only because part is added to part, so if B includes simple A and is not A, it adds something or A is internally plural; hence 'God's being' would be composite and imperfect (and by parity God could include deity without being it). Then a third principal argument from simplicity: what formally has something that is not itself is not supremely simple; God has 'being God', 'being intelligent', 'being infinitely good'; by Lombard (d.8) and Augustine (De fide ad Petrum; De Trinitate XV) whatever is in God is God and the divine nature is what it has.",
+    "claims": [
+      "A whole that includes simple A without being A implies composition.",
+      "Divine simplicity requires that whatever God formally has (including his being) is God."
+    ],
+    "concepts": [
+      "divine simplicity",
+      "whole and parts",
+      "Augustine De Trinitate",
+      "Lombard d.8"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e781",
+        "D78nca-de1712-d1e493"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e944": {
+    "summary": "Fourth general argument: for any being, its being is itself; otherwise positing any simple being would posit infinitely many really distinct intelligibles, since if A's being is B distinct from A, B's being would be another, and so on.",
+    "claims": [
+      "For any being, its being is identical with it, on pain of infinite regress."
+    ],
+    "concepts": [
+      "esse and ens",
+      "infinite regress",
+      "identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e493"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e966": {
+    "summary": "Confirmation of the regress: if B is distinct from A, then 'A and B are distinct' is true and its significabile C is a third intelligible, then a fourth, and so on without end.",
+    "claims": [
+      "Distinct propositions yield distinct significabilia, generating an infinite series."
+    ],
+    "concepts": [
+      "infinite regress",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e944"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e992": {
+    "summary": "Further: the distinction between a being and its being is either merely of reason (which does not impede the absolute truth of identity), or real (infinitely many things), or formal (which should not be posited except perhaps in the divine).",
+    "claims": [
+      "The distinction between a thing and its being is only one of reason."
+    ],
+    "concepts": [
+      "distinction of reason",
+      "real distinction",
+      "formal distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e944"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1003": {
+    "summary": "First objection against the conclusions: let A be a purely incomplex cognition corresponding to 'God' and B a complex apprehension corresponding to 'God is'. God is formally signified by A, but 'God's being' is not (no being is signified without a verb; else A would be a mental proposition sufficient for assent, and every proposition with 'Peter', even 'Peter is not', would signify Peter's being). So 'God's being' is not God.",
+    "claims": [
+      "(Objection) God is signified by an incomplex concept that does not signify 'God's being', so they differ."
+    ],
+    "concepts": [
+      "mental language",
+      "incomplex vs. complex cognition",
+      "verbal concept"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e493"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1054": {
+    "summary": "Second objection: you judge that God is and doubt that Peter is, but you do not judge God or doubt Peter; what is formally judged or doubted differs from what is not.",
+    "claims": [
+      "(Objection) Objects of judgment and doubt are not the things themselves."
+    ],
+    "concepts": [
+      "object of judgment",
+      "doubt"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e493"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1063": {
+    "summary": "Confirmation: you believe and assent that the devil exists and is the devil, but you do not believe or assent to the devil; so these intelligibles differ.",
+    "claims": [
+      "(Objection) Assenting that the devil is does not assent to the devil."
+    ],
+    "concepts": [
+      "assent",
+      "belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1054"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1072": {
+    "summary": "Third objection: 'sin's being sin' is not sin (since sin is irrational, but sin's being sin is rational and conforms to right reason); so by parity 'God's being God' is not God.",
+    "claims": [
+      "(Objection) 'Sin's being sin' is conformable to reason, unlike sin."
+    ],
+    "concepts": [
+      "sin",
+      "right reason",
+      "parity argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e493"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1085": {
+    "summary": "Confirmation: 'this evil's being' is not this evil, since (Augustine, Enchiridion; Hugh of St Victor; Lombard d.46) for evils to exist is good, though evil is not good; so 'God's being' is not God.",
+    "claims": [
+      "(Objection) Augustine says it is good that evils exist, though evil is not good."
+    ],
+    "concepts": [
+      "evil",
+      "Augustine Enchiridion",
+      "providence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1072"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1098": {
+    "summary": "Fourth objection: 'the false's being false' is not false but true. Begins the reply to the first: by parity 'Peter's moving quickly' would not be 'Peter's moving' and 'God's being infinitely good' would not be 'God's being good', since 'Peter runs' does not formally signify Peter's running quickly; and the dictum 'Peter's being' would not be what 'Peter is' signifies, since a dictum is not a proposition.",
+    "claims": [
+      "(Objection) 'The false's being false' is true.",
+      "The first objection proves too much by parity."
+    ],
+    "concepts": [
+      "truth and falsity",
+      "parity argument",
+      "dictum vs. proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e493",
+        "D78nca-de1712-d1e1003"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1124": {
+    "summary": "Reply to the first objection: the minor has two senses. If it means the intelligible that is 'God's being' is not formally apprehended by A, it is denied. If it means that concept A does not signify God by attaching being verbally, affirming it, and being true or false accordingly, it is granted; but then only a distinction of signs follows. Similarly 'philosophers knew the Trinity to be' vs. 'philosophers knew the Trinity': more is required for the truth of one than the other.",
+    "claims": [
+      "Incomplex and complex concepts can apprehend the same intelligible while differing as signs.",
+      "The objection concludes only a distinction of signs, not of things."
+    ],
+    "concepts": [
+      "formal signification",
+      "distinction of signs",
+      "mental proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1003"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1164": {
+    "summary": "Reply to the second objection: by parity moving quickly would not be moving. What follows is not that 'God's being' is not God but that judging that God is is not judging God, i.e. a difference between acts. Distinguishes the minor: if it means the intelligible terminating the act of judging is not God, it is denied; if it means the judgment is a complex act presupposing an affirmation, it is granted, but then only a distinction of concepts follows.",
+    "claims": [
+      "Differences between judging-that and apprehending show distinct acts, not distinct objects."
+    ],
+    "concepts": [
+      "object of judgment",
+      "complex vs. incomplex acts",
+      "distinction of concepts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1054"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1206": {
+    "summary": "Reply to the confirmation about the devil: what follows is only that this believing is not that assenting, i.e. different assents; deferred to later.",
+    "claims": [
+      "Different acts of assent do not imply different objects."
+    ],
+    "concepts": [
+      "assent",
+      "belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1063"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1215": {
+    "summary": "Reply to the third objection: 'sin's being sin is sin' can note the identity of the predicate with what sin's being is, and then it is true (an essential, identical predication: this sin's being sin includes the malice of fault). Or it can note the difformity of sin's being from reason, law, and divine ordination (that it is prohibited), in which quasi-denominative sense it is denied.",
+    "claims": [
+      "'Sin's being sin' is sin in the sense of identity, but not in the sense of what is ordained or forbidden."
+    ],
+    "concepts": [
+      "sin",
+      "identical vs. denominative predication",
+      "divine law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1072"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1263": {
+    "summary": "Reply to the confirmation: the antecedent is denied if identity is meant, since 'this being evil' includes as much malice as this evil being. Augustine and Hugh mean that evils' occurring in the universe is good extrinsically, from God's permitting and governing them and drawing good from them; evils' being good is only secundum quid, extrinsic, per accidens, and indirect (Enchiridion 7, 9).",
+    "claims": [
+      "Evils' existing is good only extrinsically and per accidens, through divine providence."
+    ],
+    "concepts": [
+      "evil",
+      "providence",
+      "per accidens goodness",
+      "Augustine Enchiridion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1085"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1305": {
+    "summary": "Reply to the fourth objection: 'the false's being false is not false' may deny identity (then false) or deny conformity of the proposition to how things are (then granted). Then the third conclusion: 'God's being the special helper of the faithful student of theology' is 'God's being', and 'God's being God', by identity, because actually helping is not a distracting or diminishing determination: what really and actually helps must really and actually exist.",
+    "claims": [
+      "Third conclusion: 'God's being the special helper of the student of theology' is 'God's being'.",
+      "'Actually helping' is not a diminishing determination."
+    ],
+    "concepts": [
+      "identity",
+      "determinatio distrahens",
+      "divine assistance",
+      "truth and falsity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1098"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1347": {
+    "summary": "Confirmation (using 'creating' for brevity): otherwise 'God's being creating' would not be 'God's being creating', since by the opponent it is not 'God's being', and what is not 'God's being' is not 'God's being creating' (locus from the superior negatively).",
+    "claims": [
+      "Denying that 'God's being creating' is 'God's being' leads to self-contradiction."
+    ],
+    "concepts": [
+      "topical inference",
+      "locus a superiori"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1368": {
+    "summary": "Second confirmation: 'this God's being God creating' is 'this God's being creating' (as 'this man's being a white man' is 'this man's being white'), so it is 'this God's being God'; a complexe significabile is no less identical with what the subject stands for than with what the predicate stands for.",
+    "claims": [
+      "A complexe significabile is identical with what both subject and predicate stand for."
+    ],
+    "concepts": [
+      "supposition",
+      "identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1388": {
+    "summary": "Third confirmation from Christology: 'the Son of God's being true God and man' is both 'the Son's being God' and 'the Son's being man', so 'the Son's being man' is 'the Son's being God'; likewise in the case at hand.",
+    "claims": [
+      "Christological predication shows that distinct dicta about one subject can be identical."
+    ],
+    "concepts": [
+      "Christology",
+      "communicatio idiomatum",
+      "identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1399": {
+    "summary": "Further: 'God's being a creating substance' is 'God's being a substance that creates', which is 'God's being a certain substance'.",
+    "claims": [
+      "'God's being creating' reduces to 'God's being a substance'."
+    ],
+    "concepts": [
+      "substance",
+      "identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1410": {
+    "summary": "Further: 'God's being creating' is 'God's being the same as the creator', which, since nothing creates but God, is 'God's being the same as God', i.e. 'God's being God'; affirmation signifies identity.",
+    "claims": [
+      "Affirmation signifies identity.",
+      "Only God creates."
+    ],
+    "concepts": [
+      "identity theory of predication",
+      "creation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1423": {
+    "summary": "Further: 'God's coexisting with angel B' is God really existing together with B, which is God really existing, i.e. 'God's being'; the same reasoning applies to 'God's being creating'.",
+    "claims": [
+      "'God's coexisting with an angel' is God's existing."
+    ],
+    "concepts": [
+      "coexistence",
+      "relation",
+      "identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1439": {
+    "summary": "Further: 'angel B's being created' is 'B's being' (newly and from nothing); so by parity 'God's creating' is 'God's being'.",
+    "claims": [
+      "'The angel's being created' is the angel's being."
+    ],
+    "concepts": [
+      "creation",
+      "passive and active creation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1453": {
+    "summary": "Further: God's producing B is God's willing B to be (Augustine, 83 Questions), which is God's willing, which is God's being (Lombard d.45: in God to will and to be are the same).",
+    "claims": [
+      "In God, to will and to be are the same."
+    ],
+    "concepts": [
+      "divine will",
+      "Augustine 83 Questions",
+      "Lombard d.45"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1473": {
+    "summary": "Further, by proportion: as 'creating being' is to 'lord being', so 'being creating' is to 'being God'; and creating being and lord being are convertible.",
+    "claims": [
+      "Proportionality supports the identity of 'being creating' and 'being God'."
+    ],
+    "concepts": [
+      "proportional argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1482": {
+    "summary": "Further: 'God's being' is either apt to be predicated contingently of something or not. If so, then of 'God's being creating'; if not, this is refuted since something is predicated contingently of it (it is understood by me) and every predicable can be predicated contingently once an accidental determination is added.",
+    "claims": [
+      "Every predicable is apt to be predicated contingently of something."
+    ],
+    "concepts": [
+      "contingent predication",
+      "necessity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1508": {
+    "summary": "Rebuts reasons for denying the identity (that God's being can stand without God's being creating; that one is eternal and the other temporal; that they differ as objects of creation or doubt): by these, a man's moving quickly would not be his moving, living well would be not living, adultery would not be sinning, and Peter's being would not be a man's being, which would imply that, pointing to Peter, no man exists.",
+    "claims": [
+      "Arguments from modal or temporal differences prove too much."
+    ],
+    "concepts": [
+      "parity argument",
+      "contingency vs. necessity",
+      "quantification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1554": {
+    "summary": "Authority: Augustine (De Trinitate VI, ch. 4 and 7): for God, to be is to be strong, just, wise; in God being good is not other than being great or being itself.",
+    "claims": [
+      "In God, being and every attribute are the same."
+    ],
+    "concepts": [
+      "divine simplicity",
+      "Augustine De Trinitate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1571": {
+    "summary": "Authority: Augustine (De Trinitate VII, ch. 9): for God, to be and to be a person are not different, just as to be is to be great and good.",
+    "claims": [
+      "In God, to be and to be a person are identical."
+    ],
+    "concepts": [
+      "divine simplicity",
+      "divine persons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1584": {
+    "summary": "Authority: Lombard (d.45, c.1): God's willing is God's being, and God's willing to help is God's willing. One cannot evade this by taking 'velle' and 'esse' nominally: taken simply the propositions are false, taken personally the phrasing would be incongruous; one should have said 'God's will is God's being'.",
+    "claims": [
+      "Lombard's 'God's willing is God's being' must be read of the dicta, not nominally."
+    ],
+    "concepts": [
+      "divine will",
+      "Lombard d.45",
+      "nominal vs. verbal reading"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1607": {
+    "summary": "Fourth conclusion: the intelligible 'God's being the special helper of the faithful student of theology' is God himself, since it is 'God's being' (third conclusion) and 'God's being' is God (second conclusion).",
+    "claims": [
+      "Fourth conclusion: 'God's being the special helper of the student of theology' is God himself."
+    ],
+    "concepts": [
+      "identity",
+      "divine assistance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e493",
+        "D78nca-de1712-d1e1305"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1620": {
+    "summary": "Further: 'God's being supernaturally influencing' is 'being supernaturally influencing', which is the same as God, since it is attributed to God as a perfection (like being able to create) and is of supreme infinite power.",
+    "claims": [
+      "Supernatural influence is a divine perfection and hence God."
+    ],
+    "concepts": [
+      "supernatural influence",
+      "pure perfection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1607"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1631": {
+    "summary": "Further: what is positive, actual, and not created or creatable is God; 'God's creating' is such, since it depends on nothing and is the cause by which the angel is (as with Anselm, the angel had perseverance because God gave it).",
+    "claims": [
+      "'God's creating' is uncreated and the cause of the creature's being."
+    ],
+    "concepts": [
+      "creation",
+      "uncreatedness",
+      "Anselm De casu diaboli"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1607"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1649": {
+    "summary": "Further: 'God's creating angel B' is God, or angel B, or the aggregate of both; clearly not B alone, and it is more fittingly identified with God, to whom creating belongs; the aggregate option is refuted next.",
+    "claims": [
+      "'God's creating B' is either God, B, or their aggregate."
+    ],
+    "concepts": [
+      "aggregate",
+      "creation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1607"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1662": {
+    "summary": "First argument against the aggregate: 'God's creating' is the cause by which B exists, but the aggregate presupposes B as a part and is posterior to it.",
+    "claims": [
+      "An aggregate including the creature cannot be the cause of the creature."
+    ],
+    "concepts": [
+      "causal priority",
+      "aggregate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1649"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1683": {
+    "summary": "Second: 'God's being the same as God' is not an aggregate; but 'God's being creator of B' is 'God's being the same as the creator' (Metaphysics V, IX), i.e. 'the same as God'.",
+    "claims": [
+      "'Being creator' is 'being the same as the creator', hence the same as God."
+    ],
+    "concepts": [
+      "identity",
+      "aggregate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1649"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1699": {
+    "summary": "Third: the aggregate formally includes imperfection, but 'God's creating' does not: being able to create is a pure perfection; being creator is being the same as God; it belongs only to God; and co-signifying a creature does not import imperfection (else 'creator of an angel' would too).",
+    "claims": [
+      "Creating is a pure perfection and includes no imperfection."
+    ],
+    "concepts": [
+      "pure perfection",
+      "co-signification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1649"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1738": {
+    "summary": "Fourth: by parity 'God's understanding B' would be an aggregate of B and God; but it is necessary and eternal while the aggregate is temporal; and 'God's understanding evils' would be an aggregate including sin, hence evil, odious, and better not to exist.",
+    "claims": [
+      "Treating divine acts as aggregates would make God's knowing evil itself evil."
+    ],
+    "concepts": [
+      "divine knowledge",
+      "evil",
+      "aggregate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1649"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1767": {
+    "summary": "Fifth: then 'God's creating B' and 'B's being created by God' would be the same (both precisely the aggregate); the falsity of this is shown next.",
+    "claims": [
+      "(Against aggregate) It would identify active and passive creation."
+    ],
+    "concepts": [
+      "active and passive creation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1649"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1776": {
+    "summary": "First proof: one is the cause of the other, since B is produced because God produces.",
+    "claims": [
+      "God's creating is the cause of the creature's being created."
+    ],
+    "concepts": [
+      "causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1767"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1783": {
+    "summary": "Second proof: they belong to different subjects and cannot belong to the same one, which would be the case if they were identical.",
+    "claims": [
+      "Active and passive creation belong to different subjects."
+    ],
+    "concepts": [
+      "attribution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1767"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1789": {
+    "summary": "Third proof: if being creating and being created were the same, being the same as the creator would be being the same as the created.",
+    "claims": [],
+    "concepts": [
+      "identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1767"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1798": {
+    "summary": "Fourth proof: then the angel's being would be God's being, since 'God's being creating' is 'God's being' and also 'the angel's being created', which is 'the angel's being'.",
+    "claims": [
+      "(Against aggregate) The angel's being would collapse into God's being."
+    ],
+    "concepts": [
+      "identity",
+      "creature and creator"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1767"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1805": {
+    "summary": "Fifth proof: depending and terminating dependence, ruling and being subject, acting and being acted upon, moving and being moved would be the same, contrary to Aristotle (Physics III) and to the difference between perfection and imperfection.",
+    "claims": [
+      "Acting and being acted upon are not the same (Physics III)."
+    ],
+    "concepts": [
+      "action and passion",
+      "Aristotle Physics III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1767"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1824": {
+    "summary": "Confirmation: this's being distant from that and that's being distant from this would be the same, contrary to Aristotle, who says the path from here to there and from there to here is not the same, though the space is one.",
+    "claims": [
+      "Converse relations are not identical."
+    ],
+    "concepts": [
+      "converse relations",
+      "distance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1805"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1837": {
+    "summary": "Sixth: by proportion, as God ruling is to the creature subject, so God's ruling is to the creature's being subject; God ruling is not the creature subject, so they are not the same and not the aggregate.",
+    "claims": [],
+    "concepts": [
+      "proportional argument",
+      "relation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1649"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1850": {
+    "summary": "Considers the evasion that 'God's creating B' is neither God, nor the angel, nor both, but a complexe significabile.",
+    "claims": [],
+    "concepts": [
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1649"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1858": {
+    "summary": "Refutes the evasion: such an intelligible either formally includes God and the angel or not; if not, it could exist without them; if precisely them, it is the aggregate; if it adds something beyond them, that addition would be neither God nor creature nor a significabile, or regress follows.",
+    "claims": [
+      "A complexe significabile distinct from both God and creature cannot be coherently posited."
+    ],
+    "concepts": [
+      "formal inclusion",
+      "regress"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1850"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1880": {
+    "summary": "First objection against the last two conclusions: God or 'God's being' is not opposed to 'God's not creating' (they are compatible), but 'God's creating' is opposed to it; as affirmation is to negation, so what underlies the affirmation is to what underlies the negation (Aristotle).",
+    "claims": [
+      "(Objection) 'God's creating' is opposed to 'God's not creating', but God's being is not."
+    ],
+    "concepts": [
+      "contradiction",
+      "opposition of significabilia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1305",
+        "D78nca-de1712-d1e1607"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1904": {
+    "summary": "Second objection: 'God's being' does not suffice for the truth of 'God is lord of creatures', but 'God's being lord of creatures' does; likewise creatures are required for the latter but not for God's being.",
+    "claims": [
+      "(Objection) Different sufficiency and requirement conditions imply non-identity."
+    ],
+    "concepts": [
+      "truth conditions",
+      "requirement and sufficiency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1928": {
+    "summary": "Third objection: one is per se an object of doubt and the other is not.",
+    "claims": [
+      "(Objection) One can doubt 'God's being lord' but not God."
+    ],
+    "concepts": [
+      "object of doubt"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1935": {
+    "summary": "Fourth objection: what would not exist if God alone were posited is not God; 'God's being lord of an angel' would not exist with God alone.",
+    "claims": [
+      "(Objection) God's lordship requires more than God."
+    ],
+    "concepts": [
+      "divine lordship",
+      "relation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1944": {
+    "summary": "Fifth objection: God is not new, does not begin, and is not contingent; 'God's being lord of an angel' is.",
+    "claims": [
+      "(Objection) God's lordship is new and contingent."
+    ],
+    "concepts": [
+      "novelty",
+      "contingency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1952": {
+    "summary": "Confirmation: God ceases to create or conserve B and to be its lord, but does not cease to be God.",
+    "claims": [],
+    "concepts": [
+      "cessation",
+      "conservation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1944"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1959": {
+    "summary": "Second confirmation: nothing possibly non-existent is God; 'God's being lord of creatures' could fail to be, otherwise creatures would exist necessarily.",
+    "claims": [
+      "(Objection) If God's lordship were necessary, creatures would be necessary."
+    ],
+    "concepts": [
+      "necessity",
+      "possibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1944"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1970": {
+    "summary": "Third confirmation: God is not causable, but 'God's being lord' is causable, being positive, possibly being and not being, and new.",
+    "claims": [],
+    "concepts": [
+      "causability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1944"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1979": {
+    "summary": "Fourth confirmation: 'God's creating B' exists and ceases simultaneously with 'B's being created' and is not naturally prior to it.",
+    "claims": [],
+    "concepts": [
+      "simultaneity",
+      "natural priority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1944"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e1986": {
+    "summary": "Fifth confirmation: creating is not a pure perfection, else God would sometimes lack one; and whatever is God always was God, but 'God's creating B' was not always.",
+    "claims": [
+      "(Objection) Whatever is God was always God."
+    ],
+    "concepts": [
+      "pure perfection",
+      "eternity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1944"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2002": {
+    "summary": "Further confirmation: whatever was God from eternity was necessarily God; so if 'God's willing B to be' was eternally God, God necessarily willed it and could not not will it.",
+    "claims": [
+      "(Objection) Identifying divine volitions with God makes them necessary."
+    ],
+    "concepts": [
+      "necessity",
+      "divine freedom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1944"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2014": {
+    "summary": "Sixth objection: God and 'God's being' are lovable above all, even above oneself; but 'God's creating B' or 'willing B to be' is not, since I must love my own being more than B's being, which is convertible with God's willing it; likewise 'God's reprobating Socrates'.",
+    "claims": [
+      "(Objection) Not every divine act-significabile is lovable above all."
+    ],
+    "concepts": [
+      "love of God above all",
+      "order of charity",
+      "reprobation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2034": {
+    "summary": "Seventh objection: 'God's being hated and dishonored by the impious' is not God, so neither is 'God's being lord'; for the same thing cannot be supremely lovable and hateful and displeasing to God.",
+    "claims": [
+      "(Objection) 'God's being hated' is displeasing to God and so not God."
+    ],
+    "concepts": [
+      "hatred of God",
+      "parity argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2052": {
+    "summary": "Confirmation: otherwise 'God's being loved' and 'God's being hated', 'God's being honored' and 'despised', 'beatifying Peter' and 'condemning Antichrist', 'creating an angel from nothing' and 'producing a stone from matter' would all be the same, since each would be identical with God.",
+    "claims": [
+      "(Objection) Identifying all such significabilia with God collapses contraries."
+    ],
+    "concepts": [
+      "transitivity of identity",
+      "contraries"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2034"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2087": {
+    "summary": "Eighth objection: if 'God's understanding B' is God understanding B, then 'B's being understood by God' would be B understood; but 'sin's being understood by God' is not sin, since it is just and not blameworthy (and sinners dislike it).",
+    "claims": [
+      "(Objection) 'Sin's being known by God' is not sin."
+    ],
+    "concepts": [
+      "divine knowledge",
+      "esse cognitum",
+      "sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2109": {
+    "summary": "By the same reasoning, 'evil's being prohibited or punished by God' is not sin, so 'God's prohibiting or punishing evil' would not be God.",
+    "claims": [],
+    "concepts": [
+      "divine punishment",
+      "parity argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2087"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2118": {
+    "summary": "Ninth objection: if 'God's understanding' is God and 'God's willing' is God, then God's understanding is God's willing, and so God's understanding evils would be God's willing evils.",
+    "claims": [
+      "(Objection) Identity of divine intellect and will would make God will the evils he knows."
+    ],
+    "concepts": [
+      "divine intellect and will",
+      "evil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2130": {
+    "summary": "First proof of that consequence: if A is the same as B, the aggregate of A and C is the same as the aggregate of B and C.",
+    "claims": [],
+    "concepts": [
+      "aggregate",
+      "substitution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2118"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2137": {
+    "summary": "Second proof: things differing only as understanding and willing differ no more than these; 'understanding evils' and 'willing evils' differ only so, and you hold understanding and willing identical.",
+    "claims": [],
+    "concepts": [
+      "identity",
+      "substitution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2118"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2153": {
+    "summary": "Similarly, if 'God's understanding' is 'God's being', then 'God's understanding a creature' would be 'God's being a creature'.",
+    "claims": [],
+    "concepts": [
+      "substitution",
+      "creature and creator"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2118"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2160": {
+    "summary": "Tenth objection: if 'God's creating B' is God, then 'B's being created by God' is angel B; since God and B are wholly diverse, the two would be wholly diverse in reality, which is shown false next.",
+    "claims": [
+      "(Objection) Active and passive creation cannot be wholly diverse."
+    ],
+    "concepts": [
+      "active and passive creation",
+      "diversity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2176": {
+    "summary": "First proof: they seem to differ only in the mode of enunciation, as the road from Athens to Thebes and back is one (Physics III).",
+    "claims": [],
+    "concepts": [
+      "mode of enunciation",
+      "Aristotle Physics III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2160"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2183": {
+    "summary": "Second proof: it is contradictory for one to be posited without the other, so they are not wholly diverse.",
+    "claims": [],
+    "concepts": [
+      "inseparability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2160"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2191": {
+    "summary": "Third proof: 'God's understanding B' and 'B's being understood by God' are the same (Metaphysics V: being understood signifies that there is an understanding of it), as my loving B and B's being loved by me are both the love's being in my will.",
+    "claims": [],
+    "concepts": [
+      "esse cognitum",
+      "Aristotle Metaphysics V"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2160"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2202": {
+    "summary": "Fourth proof: 'God's being able to produce B' and 'B's being able to be produced' are the same, as 'a book can be written by me' and 'I can write a book', since (Anselm) one is expounded by the other.",
+    "claims": [],
+    "concepts": [
+      "possibility",
+      "Anselm De casu diaboli"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2160"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2213": {
+    "summary": "Fifth proof: 'God's being distinguished from A' and 'A's being distinguished from God' are the same, both being 'God and A's being distinguished'.",
+    "claims": [],
+    "concepts": [
+      "distinction",
+      "converse relations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2160"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2222": {
+    "summary": "Eleventh objection: 'God's co-causing with a secondary cause' is not God, since it is God and the secondary cause causing together, i.e. God and creature together; so neither is 'God's creating an angel'.",
+    "claims": [
+      "(Objection) Concurrence is God and creature together, not God."
+    ],
+    "concepts": [
+      "concurrence",
+      "secondary causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2242": {
+    "summary": "By the same reasoning 'God's being distinguished from creatures' would not be God, though the opponent says it is, since it is God and creatures being distinguished, i.e. God and creature together.",
+    "claims": [],
+    "concepts": [
+      "distinction",
+      "aggregate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2222"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2258": {
+    "summary": "It would further follow that 'God and creature's being distinguished' is God and creature together, so not something, and hence nothing, contrary to the article cited above.",
+    "claims": [
+      "(Objection) The identity thesis would make God-and-creature's distinction nothing, contrary to the article."
+    ],
+    "concepts": [
+      "condemned articles",
+      "aggregate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2242",
+        "D78nca-de1712-d1e160"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2270": {
+    "summary": "Twelfth objection: 'Peter's being newly and for the first time at instant A' is not Peter's being, since Peter's being is reiterable but being-for-the-first-time is not, even by divine power; hence God's creating newly is not God's being. Further, 'Peter's being now first' would be an entity God could not restore, so God could once do what he now cannot, against Lombard (d.42, d.44) that God can always do whatever he once could.",
+    "claims": [
+      "(Objection) First-time being is unrepeatable and so not identical with the being.",
+      "God can always do what he once could (Lombard)."
+    ],
+    "concepts": [
+      "reiteration",
+      "divine power",
+      "novelty",
+      "Lombard d.42-44"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2309": {
+    "summary": "Thirteenth objection: 'Peter's being evil and acting badly' is not 'Peter's being', since the latter is simply willed by God and the former is not (Parisian article: God does not will man to sin); so by parity 'God's being creating' is not 'God's being'.",
+    "claims": [
+      "(Objection) God wills Peter's being but not Peter's being evil."
+    ],
+    "concepts": [
+      "divine will",
+      "sin",
+      "Parisian articles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2328": {
+    "summary": "Confirmation: when God wills Peter's being and not his being evil, this is due to a distinction either in the act of willing (no) or in the object (the point). Then begins the replies with the first objection: by parity moving quickly would not be moving. Taking the dicta personally and speaking properly of contradictory opposition, the minor is denied: contradictory opposition holds properly between propositions, not between extra-mental things, except by transference; at most it follows that God is not necessarily 'God's being creating' (to be treated in d.36).",
+    "claims": [
+      "Contradictory opposition properly belongs to propositions, not to the things signified.",
+      "At most it follows that God is not necessarily 'God's being creating'."
+    ],
+    "concepts": [
+      "contradiction",
+      "signs vs. things",
+      "necessity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2309",
+        "D78nca-de1712-d1e1880"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2361": {
+    "summary": "Reply to the second objection by parity: by it moving quickly would not be moving, being Peter would not be being a man, and Peter son of Plato would not be Peter, since something is required for one that is not for the other.",
+    "claims": [
+      "Differing requirements do not prove non-identity."
+    ],
+    "concepts": [
+      "parity argument",
+      "requirement"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1904"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2372": {
+    "summary": "Main reply: propositions about requirement and sufficiency, though apparently de inesse, are implicitly modal ('A is required for B' means B cannot be without A). The minor is distinguished: in the divided sense (with that intelligible alone posited the proposition would be true) false; in the composite sense true, but then the inference is from modal premises and yields only that God's being is not necessarily 'God's being lord', i.e. that God can fail to be lord.",
+    "claims": [
+      "Statements of requirement and sufficiency are implicitly modal.",
+      "The argument yields only that God is not necessarily 'God's being lord'."
+    ],
+    "concepts": [
+      "implicit modality",
+      "composite and divided sense",
+      "requirement and sufficiency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1904"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2427": {
+    "summary": "If 'suffices' is taken as a term of second intention, it makes terms and propositions stand simply (materially) and the propositions are about the signs (de actu signato); then only a distinction of signs follows, one sign being antecedent to a consequent and the other not.",
+    "claims": [
+      "Taken as second intention, 'suffices' concerns signs, yielding only a distinction of signs."
+    ],
+    "concepts": [
+      "second intention",
+      "simple supposition",
+      "actus signatus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2372"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2448": {
+    "summary": "Reply to the second form: by parity God would not be lord of the angel. The proper conclusion is not 'God's being lord is not God's being', since the syllogism drops parts of the extremes; it is only that what is required for God's being lord is not required for God's being, which is granted. If argued that what requires an angel differs from what does not, the minor is false in the divided sense and true in the composite, and then there is a fallacy of figure of speech unless the conclusion is modal.",
+    "claims": [
+      "The argument from requirement commits a fallacy of figure of speech unless concluded modally."
+    ],
+    "concepts": [
+      "syllogistic form",
+      "composite and divided sense",
+      "fallacy of figure of speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1904"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2490": {
+    "summary": "Reply to the third objection (object of doubt): refers to the earlier discussion and to Distinction 2.",
+    "claims": [],
+    "concepts": [
+      "object of doubt"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1928"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2495": {
+    "summary": "Reply to the fourth objection: the minor is false in the divided sense (as 'God producing B would not exist with God alone posited' or 'Peter the son would not exist with Peter alone'); in the composite sense the inference changes category (quid to ad aliquid) and commits the fallacy of figure of speech.",
+    "claims": [
+      "The objection from 'God alone posited' equivocates between composite and divided senses."
+    ],
+    "concepts": [
+      "composite and divided sense",
+      "fallacy of figure of speech",
+      "categories"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1935"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2513": {
+    "summary": "Reply to the fifth objection and its confirmations: distinguish as before. That 'God's being lord' is causable is denied. It is positive, but whether it is 'new' must be distinguished: 'this ruler is new' equals 'God ruling exists' plus 'God ruling did not exist before', false in the divided sense; in the composite sense one only concludes that God was not always 'God's being lord'. Strictly it is not something new, but someone newly lord.",
+    "claims": [
+      "'God's being lord' is not causable.",
+      "It is not a new thing, but God newly lord."
+    ],
+    "concepts": [
+      "novelty",
+      "causability",
+      "composite and divided sense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e1944"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2539": {
+    "summary": "Reply to the sixth objection: by parity my having charity here would not be my having charity, and my being a white man would not be my being a man. The minor has two senses: that what is now, contingently, God's willing B is not lovable above all (false); or that it is not lovable above all under this description, i.e. the love by which I will God to make B is not to be preferred to every other love, even of myself (true, and the principal sense). In that sense the syllogism is invalid or concludes only a distinction between acts of love.",
+    "claims": [
+      "God's willing B, which is God, is lovable above all, though not under the description 'willing B'.",
+      "The order of charity concerns acts of love under descriptions."
+    ],
+    "concepts": [
+      "order of charity",
+      "de re vs. de dicto",
+      "love of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2014"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2591": {
+    "summary": "Reply to the seventh objection: by parity Peter's being a man acting badly would not be Peter's being a man. 'God's being hated' properly expounds as 'hatred of God exists' (as being understood signifies that there is an understanding), so in that proper sense the antecedent is true and the consequence denied. If it signifies identity of 'God's being the thing hated' with God, it is the supreme good; what is displeasing to God is the hatred, not that which is God's being the object of hatred.",
+    "claims": [
+      "'God's being hated' is properly expounded as 'there is hatred of God'.",
+      "What displeases God is the hatred, not God as its object."
+    ],
+    "concepts": [
+      "exposition of propositions",
+      "esse cognitum",
+      "hatred of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2034"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2655": {
+    "summary": "Reply to the confirmation: properly and in the principal sense, both consequence and consequent are denied, since they import that contempt and honor of God are the same acts. If only identity of 'God's being the object of hatred' and 'of love' is meant, it is granted, but the phrasing sounds badly, so the first reply is preferable. The other additions are granted, but contingently, improperly, and in respect of diverse things, as God beatifying is God condemning.",
+    "claims": [
+      "God beatifying is God condemning, but only contingently and with respect to different objects."
+    ],
+    "concepts": [
+      "identity",
+      "proper vs. improper predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2052"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2681": {
+    "summary": "Reply to the eighth objection: from 'B is understood' it does not follow that B is something, though from 'A understands B' it follows that A and its cognition are something. So 'God's understanding' is God's being, while B's being known is not B's being, being merely accidental to it.",
+    "claims": [
+      "Being known is extrinsic to the thing known; knowing is intrinsic to the knower."
+    ],
+    "concepts": [
+      "esse cognitum",
+      "asymmetry of knower and known"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2087"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2697": {
+    "summary": "Reply to the ninth objection: both consequents are granted, but it does not follow that God understanding evils is God willing evils. The substitution principle is denied for terms (Peter knowing evil is not Peter willing evil; Peter father is Peter son, but not father and son of the same), though granted for aggregates of things. 'God willing evils' imports God as defective cause of evil, so it is nothing; the two dicta differ materially only in the terms 'will' and 'understand'.",
+    "claims": [
+      "God's understanding is God's willing, yet God's understanding evils is not God's willing evils.",
+      "Substitutivity fails for terms with added determinations."
+    ],
+    "concepts": [
+      "divine intellect and will",
+      "substitutivity",
+      "evil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2118"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2775": {
+    "summary": "Reply to the tenth objection: the consequent ('B's being created' is B) is granted, as is the consequent of the disproof (that the two are really diverse).",
+    "claims": [
+      "'Angel B's being created by God' is angel B."
+    ],
+    "concepts": [
+      "passive creation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2160"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2780": {
+    "summary": "To the first disproof: they differ really, as Aristotle says moving and being moved differ though the motion is one, and distance from here to there differs from there to here; so with ruling and being subject, punishing and being punished, creating and being created. They can be called the same by equivalence, since the dicta convert, signify the same things equally, have the same truth-conditions, and knowing one suffices for the other; yet the intelligibles are not the same.",
+    "claims": [
+      "Active and passive creation are really distinct but equivalent.",
+      "Equivalence (mutual entailment, same truth-conditions) is not identity."
+    ],
+    "concepts": [
+      "equivalence vs. identity",
+      "action and passion",
+      "Aristotle Physics III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2176"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2824": {
+    "summary": "To the second disproof: 'B's being created cannot be posited without God's creating' is true in both senses; but 'God's creating cannot be posited without B's being created' is true in the composite and false in the divided sense, and the composite yields only that God is not necessarily 'God's creating'.",
+    "claims": [
+      "God's creating can be without the creature's being created in the divided sense."
+    ],
+    "concepts": [
+      "composite and divided sense",
+      "asymmetric dependence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2183"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2849": {
+    "summary": "To the third disproof: the consequence is denied, since 'B is understood' is an improper, indirect predication to be expounded by the direct one. If it signified identity of B with the object of divine cognition, the antecedent would be denied, supposing B exists.",
+    "claims": [
+      "Predications of being-known are indirect and must be resolved into direct ones."
+    ],
+    "concepts": [
+      "indirect predication",
+      "esse cognitum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2191"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2871": {
+    "summary": "To the fourth disproof: the antecedent is denied; one is prior and quasi-causal relative to the other. Anselm means the producible has no real positive power by which it can be produced; it is producible by an objective, quasi-passive, imperfect potency, not God's infinite active potency (to be treated in d.38, q.3).",
+    "claims": [
+      "The producible's potency is objective and passive, distinct from God's active potency."
+    ],
+    "concepts": [
+      "objective potency",
+      "active and passive potency",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2202"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2895": {
+    "summary": "To the fifth disproof: answered as the first.",
+    "claims": [],
+    "concepts": [
+      "equivalence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2213",
+        "D78nca-de1712-d1e2780"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2900": {
+    "summary": "Reply to the eleventh objection: the antecedent is denied; the items are the same only by equivalence. Formally, 'God's co-causing' is God co-causing; 'God and secondary cause causing together' is God and the cause together; 'God and creature's being distinguished' is God and creature distinct from each other, and this is not nothing, any more than the world, the city of Paris, paradise, or hell are nothing, but something having some (if not per se) unity.",
+    "claims": [
+      "'God's co-causing' is God co-causing.",
+      "Aggregates such as God-and-creature, a city, or the world are something with some unity, not nothing."
+    ],
+    "concepts": [
+      "concurrence",
+      "aggregate unity",
+      "equivalence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2222",
+        "D78nca-de1712-d1e2258"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2933": {
+    "summary": "Reply to the twelfth objection: 'Peter's being newly and for the first time' is distinguished like 'Peter existing for the first time cannot be reiterated': false in the divided sense, true in the composite, but then the inference does not yield a negative de inesse conclusion. The added argument backfires, positing an intelligible God could once create and not later; it commits a figure of speech fallacy.",
+    "claims": [
+      "God can always do what he could; 'first time' only blocks a composite-sense description."
+    ],
+    "concepts": [
+      "reiteration",
+      "divine power",
+      "fallacy of figure of speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2270"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e2964": {
+    "summary": "Reply to the thirteenth objection: by parity Peter's acting intensely would not be his acting. 'Peter's being evil is not willed by God' is distinguished: materially (that intelligible which is now in fact Peter's being evil is not an object of divine will) false; formally (God does not will Peter to be evil as such) true. In the formal sense the enunciation is improper and the argument shows only a difference between willing 'Peter to be' and willing 'Peter to be evil'.",
+    "claims": [
+      "God wills the thing that is Peter's being evil materially, but not under the formality of evil."
+    ],
+    "concepts": [
+      "divine will",
+      "material vs. formal object",
+      "sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2309"
+      ]
+    }
+  },
+  "D78nca-de1712-d1e3013": {
+    "summary": "Reply to the confirmation: the difference arises not from distinct objects or acts but from the illimitation, perfection, and rectitude of the divine will, which wills nothing except rightly and is equivalent to infinite limited acts for purposes of verifying diverse formal denominations; parity shows the argument fails (willing A without willing its curvature). Similarly God understands evil without willing it. The opening argument is answered as the fifth objection against the fourth conclusion.",
+    "claims": [
+      "Diverse denominations of God's single will arise from its illimitation and rectitude, not from distinct objects.",
+      "God understands evil without willing it."
+    ],
+    "concepts": [
+      "divine will",
+      "illimitation",
+      "formal denominations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de1712-Hd1e111",
+        "D78nca-de1712-d1e2328",
+        "D78nca-de1712-d1e130"
+      ]
+    }
+  },
+  "D78nca-de1712": {
+    "summary": "Second question of the prologue, testing whether a contingent, relational complexe significabile, 'God's being the special helper of the faithful student of theology', is something per se one and identical with God. After clarifying that 'aliquid' is taken properly for a positive existing essence (aggregates such as God-and-creature counted as something, with support from revoked articles), Andreas sets out four conclusions: (1) 'God's being' is a thing and per se one essence; (2) 'God's being' is God by identity; (3) 'God's being the special helper' is 'God's being', since actually helping is not a diminishing determination; (4) therefore it is God himself. Against the opponents' reply that 'God's being' is 'being' only as the true (ens ut verum) and neither God nor creature, he argues from the revoked article, from perfection and worship (what is as perfect as God must be adored with latria, and positing equally perfect non-divine objects is worse than polytheism), from the Trinity, from divine simplicity (Lombard d.8, Augustine), from the dilemma of inclusion versus non-inclusion of God, and from an infinite regress of beings and their being. He also shows that 'God's creating B' is neither the angel nor an aggregate of God and angel. A long series of thirteen objections (contradictory opposition, sufficiency for truth, novelty and contingency, love above all, God's being hated, divine knowledge of evil, intellect and will, active and passive creation, concurrence, reiteration, God's will regarding sin) is answered by sense distinctions (composite/divided, material/formal, proper/improper predication), the claim that requirement and sufficiency claims are implicitly modal, the exposition of 'being known' and 'being hated' as statements about acts in the knower or hater, and a distinction between real identity and mere equivalence (e.g. active and passive creation are really distinct but equivalent). The upshot is that contingent divine relations to creatures are God himself as newly or contingently so denominated, with no novelty or composition in God.",
+    "claims": [
+      "'God's being' is a per se one thing and is God himself by identity.",
+      "'God's being the special helper of the student of theology' is 'God's being' and therefore God.",
+      "Complexe significabilia cannot be a sui generis kind of being, neither God nor creature, without offending divine simplicity, worship, and parsimony.",
+      "'God's creating' is God, not an aggregate of God and creature; active and passive creation are really distinct but equivalent.",
+      "Contingent and new divine denominations (creating, being lord, willing B) involve no novelty or composition in God, but at most show that God is not necessarily so denominated.",
+      "'Being known' and 'being hated' are to be expounded as statements about the knower's or hater's act."
+    ],
+    "concepts": [
+      "identity of God and his being",
+      "divine simplicity",
+      "ens ut verum",
+      "aggregate",
+      "equivalence vs. identity",
+      "composite and divided sense",
+      "divine relations to creatures",
+      "latria"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "D78nca-de1712-d1e114",
+        "D78nca-de1712-d1e130",
+        "D78nca-de1712-d1e139",
+        "D78nca-de1712-d1e160",
+        "D78nca-de1712-d1e221",
+        "D78nca-de1712-d1e241",
+        "D78nca-de1712-d1e276",
+        "D78nca-de1712-d1e355",
+        "D78nca-de1712-d1e390",
+        "D78nca-de1712-d1e404",
+        "D78nca-de1712-d1e420",
+        "D78nca-de1712-d1e427",
+        "D78nca-de1712-d1e447",
+        "D78nca-de1712-d1e473",
+        "D78nca-de1712-d1e493",
+        "D78nca-de1712-d1e577",
+        "D78nca-de1712-d1e636",
+        "D78nca-de1712-d1e652",
+        "D78nca-de1712-d1e661",
+        "D78nca-de1712-d1e679",
+        "D78nca-de1712-d1e697",
+        "D78nca-de1712-d1e709",
+        "D78nca-de1712-d1e731",
+        "D78nca-de1712-d1e744",
+        "D78nca-de1712-d1e749",
+        "D78nca-de1712-d1e760",
+        "D78nca-de1712-d1e767",
+        "D78nca-de1712-d1e781",
+        "D78nca-de1712-d1e851",
+        "D78nca-de1712-d1e944",
+        "D78nca-de1712-d1e966",
+        "D78nca-de1712-d1e992",
+        "D78nca-de1712-d1e1003",
+        "D78nca-de1712-d1e1054",
+        "D78nca-de1712-d1e1063",
+        "D78nca-de1712-d1e1072",
+        "D78nca-de1712-d1e1085",
+        "D78nca-de1712-d1e1098",
+        "D78nca-de1712-d1e1124",
+        "D78nca-de1712-d1e1164",
+        "D78nca-de1712-d1e1206",
+        "D78nca-de1712-d1e1215",
+        "D78nca-de1712-d1e1263",
+        "D78nca-de1712-d1e1305",
+        "D78nca-de1712-d1e1347",
+        "D78nca-de1712-d1e1368",
+        "D78nca-de1712-d1e1388",
+        "D78nca-de1712-d1e1399",
+        "D78nca-de1712-d1e1410",
+        "D78nca-de1712-d1e1423",
+        "D78nca-de1712-d1e1439",
+        "D78nca-de1712-d1e1453",
+        "D78nca-de1712-d1e1473",
+        "D78nca-de1712-d1e1482",
+        "D78nca-de1712-d1e1508",
+        "D78nca-de1712-d1e1554",
+        "D78nca-de1712-d1e1571",
+        "D78nca-de1712-d1e1584",
+        "D78nca-de1712-d1e1607",
+        "D78nca-de1712-d1e1620",
+        "D78nca-de1712-d1e1631",
+        "D78nca-de1712-d1e1649",
+        "D78nca-de1712-d1e1662",
+        "D78nca-de1712-d1e1683",
+        "D78nca-de1712-d1e1699",
+        "D78nca-de1712-d1e1738",
+        "D78nca-de1712-d1e1767",
+        "D78nca-de1712-d1e1776",
+        "D78nca-de1712-d1e1783",
+        "D78nca-de1712-d1e1789",
+        "D78nca-de1712-d1e1798",
+        "D78nca-de1712-d1e1805",
+        "D78nca-de1712-d1e1824",
+        "D78nca-de1712-d1e1837",
+        "D78nca-de1712-d1e1850",
+        "D78nca-de1712-d1e1858",
+        "D78nca-de1712-d1e1880",
+        "D78nca-de1712-d1e1904",
+        "D78nca-de1712-d1e1928",
+        "D78nca-de1712-d1e1935",
+        "D78nca-de1712-d1e1944",
+        "D78nca-de1712-d1e1952",
+        "D78nca-de1712-d1e1959",
+        "D78nca-de1712-d1e1970",
+        "D78nca-de1712-d1e1979",
+        "D78nca-de1712-d1e1986",
+        "D78nca-de1712-d1e2002",
+        "D78nca-de1712-d1e2014",
+        "D78nca-de1712-d1e2034",
+        "D78nca-de1712-d1e2052",
+        "D78nca-de1712-d1e2087",
+        "D78nca-de1712-d1e2109",
+        "D78nca-de1712-d1e2118",
+        "D78nca-de1712-d1e2130",
+        "D78nca-de1712-d1e2137",
+        "D78nca-de1712-d1e2153",
+        "D78nca-de1712-d1e2160",
+        "D78nca-de1712-d1e2176",
+        "D78nca-de1712-d1e2183",
+        "D78nca-de1712-d1e2191",
+        "D78nca-de1712-d1e2202",
+        "D78nca-de1712-d1e2213",
+        "D78nca-de1712-d1e2222",
+        "D78nca-de1712-d1e2242",
+        "D78nca-de1712-d1e2258",
+        "D78nca-de1712-d1e2270",
+        "D78nca-de1712-d1e2309",
+        "D78nca-de1712-d1e2328",
+        "D78nca-de1712-d1e2361",
+        "D78nca-de1712-d1e2372",
+        "D78nca-de1712-d1e2427",
+        "D78nca-de1712-d1e2448",
+        "D78nca-de1712-d1e2490",
+        "D78nca-de1712-d1e2495",
+        "D78nca-de1712-d1e2513",
+        "D78nca-de1712-d1e2539",
+        "D78nca-de1712-d1e2591",
+        "D78nca-de1712-d1e2655",
+        "D78nca-de1712-d1e2681",
+        "D78nca-de1712-d1e2697",
+        "D78nca-de1712-d1e2775",
+        "D78nca-de1712-d1e2780",
+        "D78nca-de1712-d1e2824",
+        "D78nca-de1712-d1e2849",
+        "D78nca-de1712-d1e2871",
+        "D78nca-de1712-d1e2895",
+        "D78nca-de1712-d1e2900",
+        "D78nca-de1712-d1e2933",
+        "D78nca-de1712-d1e2964",
+        "D78nca-de1712-d1e3013"
+      ]
+    }
+  }
+}

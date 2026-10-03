@@ -1,0 +1,1893 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-03T14:12:10Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "63a5161b9a0ca53cffbfd53aab18c5fadc32871c",
+    "generation_method": "hierarchical"
+  },
+  "D78nca-de4659-d1e114": {
+    "summary": "Restates the third and last question on the prologue.",
+    "claims": [],
+    "concepts": [
+      "complexe significabile",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e130": {
+    "summary": "Opening argument for the affirmative: the intelligible is necessary, so it is not a creature (creatures are contingent), nor an aggregate of God and creature, nor precisely God; hence it is distinct from all things.",
+    "claims": [
+      "(Objection) A necessary past-tense significabile is neither creature, aggregate, nor God."
+    ],
+    "concepts": [
+      "necessity of the past",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e141": {
+    "summary": "Sed contra: what neither is nor can be a creature, God, or their aggregate is a figment, being uncaused, uncausable, and no cause, and so wholly nothing in act and potency.",
+    "claims": [
+      "Whatever is neither God, creature, nor their aggregate is a figment."
+    ],
+    "concepts": [
+      "figmentum",
+      "causality",
+      "nihil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e153": {
+    "summary": "Sets out the plan: to inquire whether every true or false proposition complexly signifies an intelligible distinct from all actually or potentially existing incomplexly demonstrable entities, in six articles: necessary propositions about non-necessary things ('Peter is not Paul'); impossible propositions about possible things ('Peter is Paul'); past-tense propositions; future-tense propositions; contingently true de inesse propositions; and propositions de possibili.",
+    "claims": [],
+    "concepts": [
+      "complexe significabile",
+      "modal propositions",
+      "tensed propositions",
+      "division of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e194": {
+    "summary": "First article, conclusion: a necessary de inesse truth about contingent things such as 'Peter is not Paul' does not complexly signify any intelligible distinct from all actual or potential entities. Proof: call its significate B. B is wholly positive (then something positive, actual, and necessary would exist outside God, unproducible and indestructible by him), or wholly privative (but it includes Peter and Paul), or partly positive and partly privative (then the privative part C would be the privation of 'Peter's being Paul', making that a positive intelligible, which is false).",
+    "claims": [
+      "Necessary truths about contingents do not signify a distinct necessary intelligible.",
+      "Nothing positive, actual, and necessary exists outside God."
+    ],
+    "concepts": [
+      "necessary truth",
+      "complexe significabile",
+      "positive vs. privative",
+      "divine power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e153"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e246": {
+    "summary": "Confirmation: either B includes some intelligible beyond the incomplexly signifiable entities the proposition signifies or not. If not, it is just those entities (no extra-mental unity arises from them, any more than from stones in a heap). If so, the addition C would be neither positive nor privative, nor an incomplex entity, nor a complexe significabile (since the only one signified is 'Peter's not being Paul', which includes the incomplex significates).",
+    "claims": [
+      "Without an added intelligible, a significabile is just the things signified, like stones in a heap."
+    ],
+    "concepts": [
+      "aggregate",
+      "heap",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e194"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e294": {
+    "summary": "Argument from location: with Peter here and Paul there, 'Peter's not being Paul' is either partly here and partly there or not. If not, it includes neither Peter nor Paul and is wholly disparate from them. If wholly here and there, it is just Peter and Paul. If some residue is elsewhere, that residue is a positive entity; if nowhere, it is a figment, and it is unimaginable that it be contained in B beyond the incomplex entities.",
+    "claims": [
+      "A significabile's location must be that of the things it includes, or else it is a figment."
+    ],
+    "concepts": [
+      "location",
+      "figmentum",
+      "inclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e194"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e346": {
+    "summary": "Argument from parsimony: plurality should not be posited without necessity, and no extra intelligible is needed for 'Peter's not being Paul', since such a dictum signifies nothing to be posited, though it signifies an intelligible (B) to be posited.",
+    "claims": [
+      "Plurality is not to be posited without necessity."
+    ],
+    "concepts": [
+      "parsimony",
+      "negation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e194"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e360": {
+    "summary": "Objection against the first article: the necessary and immutable is distinct from everything contingent; 'Peter is not Paul' (spoken or mental) formally signifies and apprehends a necessary, immutable intelligible (Peter's not being Paul, which is necessary, else Peter could be Paul), but none of the incomplex entities it imports is necessary except God; so it signifies a distinct intelligible.",
+    "claims": [
+      "(Objection) Necessary propositions require a necessary, immutable intelligible as their object."
+    ],
+    "concepts": [
+      "necessity",
+      "immutability",
+      "object of apprehension"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e194"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e404": {
+    "summary": "Confirmation: every necessary proposition has a necessary intelligible as its significate, since a proposition is not necessary by intrinsic denomination (being a contingent accident) but extrinsically, by correspondence to a necessary intelligible; necessity and contingency of truth derive from those of what is signified.",
+    "claims": [
+      "(Objection) A proposition's necessity is an extrinsic denomination from the necessity of what it signifies."
+    ],
+    "concepts": [
+      "extrinsic denomination",
+      "modal truth",
+      "truthmakers"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e360"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e448": {
+    "summary": "Counter-arguments for the conclusion: (1) on the philosophers' assumption of eternal species, 'some ass exists' is always true and necessary, though no ass exists necessarily; if a necessary intelligible 'some ass's being' corresponded, it would be eternal outside the mind, yet each singular is contingent; so necessary truths need not have necessary significabilia. (2) 'Peter's being not-Paul' is not such an intelligible (from the previous question), so neither is 'Peter's not being Paul', since the opponents' arguments apply equally.",
+    "claims": [
+      "A necessary particular proposition can be verified by contingent singulars without a necessary significate."
+    ],
+    "concepts": [
+      "eternity of species",
+      "particular propositions",
+      "necessity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e194"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e498": {
+    "summary": "The same reasoning applies to necessary propositions de possibili such as 'Peter can be' or 'Peter can be white': they are necessary though no incomplex entity they import is necessary.",
+    "claims": [
+      "Necessary modal propositions do not require necessary significabilia."
+    ],
+    "concepts": [
+      "de possibili",
+      "necessity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e448"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e507": {
+    "summary": "Likewise for necessary conditionals with contingent or impossible components ('if Peter runs, Peter moves'; 'if an ass flies, it has wings'): the argument would posit an intelligible corresponding to the whole conditional distinct from those of its categorical parts. Begins the reply: the first part of the minor is denied.",
+    "claims": [
+      "Necessary conditionals do not require a distinct intelligible beyond their parts."
+    ],
+    "concepts": [
+      "conditionals",
+      "consequence",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e448",
+        "D78nca-de4659-d1e360"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e525": {
+    "summary": "Reply to the proof: that 'Peter's not being Paul' is apprehended is granted. That it is necessary is a truncated proposition: completed as 'Peter's not being Paul is a necessary being/intelligible', it is false, as it is false that Peter not being Paul is a necessary intelligible; it is posited when Peter exists and removed when he does not. And its total significate includes Peter or Paul, which are contingent.",
+    "claims": [
+      "'Peter's not being Paul is necessary' is truncated and, completed, false.",
+      "A significate that includes contingents is not necessary."
+    ],
+    "concepts": [
+      "truncated propositions",
+      "necessity",
+      "contingency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e360"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e565": {
+    "summary": "Reply to the disproof (that the opposite, 'Peter's being Paul', is impossible): taking dicta personally, no intelligible is opposed to 'Peter's not being Paul', since opposition holds between propositions, not extra-mental intelligibles; nor is 'Peter's being Paul' an intelligible formally impossible in itself. Alternatively, 'Peter's not being Paul is necessary' means either that some object is formally necessary in itself (denied) or that Peter cannot be Paul, i.e. that the corresponding proposition is necessarily true (granted), which denotes not the positing of a necessary object but the impossibility of an object that would be Peter-being-Paul.",
+    "claims": [
+      "Opposition belongs properly to propositions, not to extra-mental intelligibles.",
+      "Necessity of a negative truth signifies the impossibility of a contrary object, not a necessary object."
+    ],
+    "concepts": [
+      "opposition",
+      "necessity as denial of possibility",
+      "personal supposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e360"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e626": {
+    "summary": "Reply to the confirmation: the major is denied unless the proposition is simply affirmative, de inesse, present, and singular. Under the eternity of species 'some man is actually living and awake' would be necessary, yet it is verified by contingent singulars, not by a necessary significabile.",
+    "claims": [
+      "Only singular present affirmative de inesse necessary propositions require a necessary significate."
+    ],
+    "concepts": [
+      "necessity",
+      "particular propositions",
+      "verification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e404"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e655": {
+    "summary": "Reply to the proof of the major: propositions are not necessary by intrinsic formal necessity, nor always because a formally necessary object corresponds to them. Necessary propositions may signify something not to be, or to have been, or to be able to be. Several causes of necessary truth are distinguished: correspondence to a necessary object (for singular present affirmatives); self-verification (e.g. 'some accident exists'); verifiability by any of an infinite succession that cannot wholly fail; or the subject's inability not to be as signified. None of these posits a necessary intelligible; rather they remove the possibility of a contrary. Hence necessary modal propositions do not tell against the conclusion, and it is unreasonable to posit a special object for a necessary conditional (or for a whole syllogism) beyond what its categorical parts signify.",
+    "claims": [
+      "There are several distinct grounds of necessary truth, none of which requires a necessary complex object.",
+      "Necessary conditionals and syllogisms do not have special objects beyond their parts."
+    ],
+    "concepts": [
+      "grounds of necessary truth",
+      "self-verifying propositions",
+      "conditionals",
+      "syllogistic consequence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e404",
+        "D78nca-de4659-d1e507"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e762": {
+    "summary": "Concludes: necessity of consequence does not require positing an extra-mental intelligible necessary in itself, since a necessary conditional signifies not that something is posited but that if one intelligible is thus, it or another is or is not thus.",
+    "claims": [
+      "Necessity of consequence requires no necessary extra-mental object."
+    ],
+    "concepts": [
+      "necessity of consequence",
+      "conditionals"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e655"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e778": {
+    "summary": "Note: through all such necessary propositions something is signified and apprehended as if a necessary complexly signifiable intelligible corresponded, by the form of speaking and understanding; but this is not so in truth, just as universal concepts apprehend as if a universal existed outside the mind.",
+    "claims": [
+      "The appearance of a necessary complex object is an artifact of the mode of understanding, like the appearance of extra-mental universals."
+    ],
+    "concepts": [
+      "mode of understanding",
+      "universals",
+      "appearance vs. reality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e762"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e809": {
+    "summary": "Second article, conclusion: an impossible proposition (spoken or mental) such as 'Peter is Paul' signifies no complexly signifiable intelligible distinct from all actual or potential incomplex entities. Proof: if its object B is wholly distinct from Peter and Paul, it is a simple intelligible understandable without them (and could not be a relation, since relations are their extremes or incomplex entities, and per Augustine, De Trinitate VII, whatever is said relatively is something besides the relative); and it would not be impossible, since only what is conceived through incompossibles is impossible. If it adds something C beyond the incomplex significates, C would be wholly distinct from them.",
+    "claims": [
+      "Impossible propositions signify no distinct complex object.",
+      "Nothing is impossible except what is conceived through incompossibles."
+    ],
+    "concepts": [
+      "impossible propositions",
+      "incompossibility",
+      "relation",
+      "Augustine De Trinitate VII"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e153"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e874": {
+    "summary": "Against the added C: it would be neither positive nor the privation of anything positive; nor complexly signifiable (it includes neither Peter nor Paul and is not Peter's being Paul but a part of it); nor a simple incomplexly signifiable intelligible, since none such is impossible.",
+    "claims": [
+      "The supposed added element of an impossible significabile cannot be classified."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "impossibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e809"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e892": {
+    "summary": "Argument from parsimony and regress: there is no need to posit such an intelligible beyond the terms' significates; otherwise infinitely many intelligibles would exist outside the mind (B's being Peter, D's being B, etc.); and since B neither is nor can be posited, it is a figment, so positing such objects as terminating cognition is fiction.",
+    "claims": [
+      "Positing impossible complex objects yields infinite regress and is fiction."
+    ],
+    "concepts": [
+      "parsimony",
+      "regress",
+      "figmentum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e809"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e914": {
+    "summary": "Argument from truth: 'Peter is Paul' either signifies B as it is (and so is true) or not as it is; if not, then its contradictory signifies B as it is, and so 'Peter is not Paul' would be true because Peter is Paul, since a proposition is true when its total significate is as the proposition signifies.",
+    "claims": [
+      "Positing a complex object for a false proposition makes its truth or falsity incoherent."
+    ],
+    "concepts": [
+      "correspondence theory of truth",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e809"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e932": {
+    "summary": "Confirmation: 'Peter is Paul' either conforms to its significate B (then it is true) or is difform (then its contradictory conforms to B, i.e. to Peter's being Paul, and is true because Peter is Paul; or else 'Peter is Paul' is false by conforming to a true significabile posited in reality). Then the objection to the second article: an intelligible that neither is nor can be posited is distinct from all posited or possible entities; but proposition A formally signifies such an intelligible ('Peter's being Paul', which is formally impossible), while every incomplex entity it imports is posited or possible.",
+    "claims": [
+      "(Objection) Impossible propositions formally signify an impossible intelligible distinct from all possible entities."
+    ],
+    "concepts": [
+      "conformity and difformity",
+      "truth",
+      "impossible intelligible"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e809"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e991": {
+    "summary": "Confirmations of the objection: (1) impossible propositions are impossible not intrinsically but by reason of an impossible significate; (2) in the true 'Peter's being Paul is impossible' the subject stands for some intelligible, not Peter, Paul, or both (which are possible), so for a distinct complexe significabile; (3) the total significate of a true necessary proposition differs from that of a false impossible one even when they signify exactly the same incomplex things (e.g. 'Peter is Paul'/'Peter is not Paul', 'every man is an animal'/'no man is an animal', 'God understands evils'/'God wills evils'); so at least one has a distinct significate.",
+    "claims": [
+      "(Objection) Contradictories share all incomplex significates but differ in total significate, so a distinct complex significate exists."
+    ],
+    "concepts": [
+      "total significate",
+      "supposition",
+      "contradictories",
+      "extrinsic denomination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e932"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1094": {
+    "summary": "The same argument applies universally to contradictory propositions: they share every incomplexly signifiable thing yet do not share every intelligible signified.",
+    "claims": [
+      "(Objection) Contradictories differ in some signified intelligible."
+    ],
+    "concepts": [
+      "contradictories",
+      "signification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e991"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1105": {
+    "summary": "Further confirmation: 'Peter is not Paul' denies some intelligible to be posited, which is neither Peter nor Paul nor any incomplex entity, so it is the impossible significabile of 'Peter is Paul'. Fourth: on the denial, every false proposition would be true, since everything it signifies (only incomplex entities) is actually posited. The anticipated reply: the whole significate is posited, but not as the proposition signifies.",
+    "claims": [
+      "(Objection) If only incomplex things are signified, every false proposition about existing things would be true."
+    ],
+    "concepts": [
+      "negation",
+      "falsity",
+      "correspondence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e932"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1153": {
+    "summary": "Against that reply: 'these things' being otherwise than they are' is signified by the false proposition D, but it is not identical with the things (else, as they are posited, their being otherwise would be posited), nor with any other incomplex entities; so D signifies something distinct.",
+    "claims": [
+      "(Objection) 'Things' being otherwise than they are' cannot be identical with the things."
+    ],
+    "concepts": [
+      "modes of being",
+      "falsity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1105"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1186": {
+    "summary": "Confirmation: if A and B are not contiguous and the false D signifies them as contiguous, 'these things' being contiguous' is signified by D but is not identical with the things (else they would be contiguous); so D signifies a non-identical intelligible that is no incomplex entity. The argument recurs for any 'mode of being disposed'.",
+    "claims": [
+      "(Objection) A false proposition signifies a mode of being disposed that is not identical with the things."
+    ],
+    "concepts": [
+      "contiguity",
+      "modes of being",
+      "falsity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1153"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1208": {
+    "summary": "Further confirmation: 'these things' being as they are' is a complexe significabile but not the same as the things so disposed, since it is not signified by the false D while the things are; so it is distinct from all incomplex things.",
+    "claims": [
+      "(Objection) A true state of affairs is not identical with the things so disposed."
+    ],
+    "concepts": [
+      "state of affairs",
+      "identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1153"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1228": {
+    "summary": "Further: the modes of being signified by D and by its contradictory E either belong only to the sign or to the significate. If to the significate, each is a complexe significabile signified by one and not the other, though both import the same incomplex entities. Not only to the sign, since they are what the proposition is verified or falsified for. Fifth: a name of a figment (e.g. 'goat-stag', Perihermeneias I) signifies something distinct from all possible entities, since what it signifies is impossible; so a fortiori an impossible proposition does.",
+    "claims": [
+      "(Objection) Modes of being belong to the significate since they are truthmakers.",
+      "(Objection) Names of figments signify impossible intelligibles."
+    ],
+    "concepts": [
+      "modes of being",
+      "truthmakers",
+      "figmentum",
+      "hircocervus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1153"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1303": {
+    "summary": "Replies. To the first, by parity the subject of 'an intelligible possible to be posited is not possible to be posited' would signify something not apprehended by the subject concept. The first part of the minor is denied. 'Peter's being Paul is an intelligible apprehended by me' is distinguished: that an object 'Peter's being Paul' truly terminates the intellection (false), or that there is an apprehension formally of Peter and Paul attributing one to the other, whose truth would require and suffice that Peter be Paul (granted). 'Peter's being Paul is impossible' likewise is false if it posits an object formally impossible in itself, true if it denies the possibility of any intelligible being Peter-being-Paul. Impossible apprehensions only appear to have a proper impossible object, by likeness and in the figure of understanding, as with universals and with mathematical abstraction.",
+    "claims": [
+      "Impossible apprehensions have no impossible object; they apprehend possibles combined in a way whose truth would require an impossibility.",
+      "The apparent object of impossible conceptions is a figure of understanding, like universals and mathematical abstractions."
+    ],
+    "concepts": [
+      "impossible objects",
+      "intentionality",
+      "mathematical abstraction",
+      "universals"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e932"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1412": {
+    "summary": "Reply to the second confirmation: by parity, 'an unintelligible object is not intelligible' would signify an object that is unintelligible. The minor is denied: the subject of a true proposition need not stand for a single intelligible of which it is truly affirmed; a negative proposition like 'an intelligible and insignifiable object is not intelligible' is true precisely because there is no intelligible for which the predicate could be verified, even though the subject signifies some intelligibles.",
+    "claims": [
+      "The subject of a true negative proposition need not stand for anything of which it is truly affirmed."
+    ],
+    "concepts": [
+      "supposition",
+      "negative propositions",
+      "empty terms"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e991"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1458": {
+    "summary": "Reply to the third confirmation by parity: the same reasoning would show that 'the intelligible is intelligible' and 'the intelligible is not intelligible' understand different objects.",
+    "claims": [
+      "The argument from contradictories proves too much."
+    ],
+    "concepts": [
+      "parity argument",
+      "contradictories"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e991"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1469": {
+    "summary": "First of five senses of 'total significate': the collection of all intelligibles the proposition signifies. In this sense the premise that a necessary and an impossible proposition's total significates do not differ is denied, and it is false that 'Peter's being a man' is the total significate of 'Peter is a man', or 'Peter's not being Paul' of 'Peter is not Paul'.",
+    "claims": [
+      "In the collective sense, a dictum is not the total significate of its proposition."
+    ],
+    "concepts": [
+      "total significate",
+      "collective signification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e991"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1491": {
+    "summary": "Second sense: what the subject stands for together with what the predicate stands for. Again the premise is denied, as with 'Peter is Paul' and 'Peter is not Paul'; and 'Peter's not being Paul' is not the total significate of 'Peter is not Paul', since it is Peter not being Paul and does not formally include Paul.",
+    "claims": [
+      "'Peter's not being Paul' is Peter-not-being-Paul and does not formally include Paul."
+    ],
+    "concepts": [
+      "total significate",
+      "supposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1469"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1511": {
+    "summary": "Third sense: the intelligible as disposed in the way that suffices to verify the proposition's formal signification. In this sense it is granted that the total significates of a true necessary and an impossible proposition differ, but not that two distinct intelligibles exist, since an impossible proposition has no total significate at all; 'Peter's being Paul' is not an object terminating intellection. From non-identity it does not follow that there are distinct objects: Peter sitting is not the same as Peter not sitting, yet there are not two things. The argument concludes only that 'Peter's being Paul' is not 'Peter's not being Paul', which is granted, without multiplying objects except by likeness, as with universals.",
+    "claims": [
+      "Impossible propositions have no total significate in the verifying sense.",
+      "Non-identity of descriptions does not imply distinct objects."
+    ],
+    "concepts": [
+      "total significate",
+      "verification",
+      "non-identity vs. distinctness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1469"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1595": {
+    "summary": "Fourth sense: the intelligible for which the proposition is verified (if true) or falsified (if false). Again the premise is denied, since the same intelligible(s) verify one contradictory and falsify the other; the total significate of 'Peter is Paul' is Peter and Paul, which are not 'Peter's being Paul'.",
+    "claims": [
+      "Contradictories are verified and falsified by the same intelligibles."
+    ],
+    "concepts": [
+      "truthmakers",
+      "contradictories",
+      "falsification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1469"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1615": {
+    "summary": "Fifth, improper sense: the significate taken together with an equivalent signification for full explanation, e.g. 'Peter's being Paul' as the total significate of 'Peter is Paul'. Resolved, this means the proposition signifies Peter and Paul and does so by affirming Paul of Peter, in which its complete formal signification consists; this yields only a distinction of significations or signs.",
+    "claims": [
+      "Talk of a dictum as total significate resolves into talk about how the proposition signifies.",
+      "The argument yields only a distinction of significations or signs."
+    ],
+    "concepts": [
+      "formal signification",
+      "dictum",
+      "distinction of signs"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1469"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1646": {
+    "summary": "Reply to the second form by parity: it would prove that 'the intelligible is intelligible' and 'the intelligible is not intelligible' signify different objects, or 'intelligible' and 'not intelligible', or that complexe significabilia differ by incomplex objects. Distinguishes 'signs share every intelligible signified by either': that nothing truly intelligible is signified by one but not the other (granted, and the minor denied), or that both are verified for the same intelligibles and the same dispositions suffice for both (denied). Some signs signify things for which they cannot stand or be verified, like 'non-man', 'irrational man', or 'the intelligible is not intelligible'.",
+    "claims": [
+      "Signs can share all signified intelligibles while differing in verification conditions.",
+      "Some signs signify things for which they cannot be verified."
+    ],
+    "concepts": [
+      "verification",
+      "infinite terms",
+      "signification vs. supposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e991"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1714": {
+    "summary": "Reply to the proof of the first part of the minor: the assumption is denied, speaking truly and according to the property of things.",
+    "claims": [],
+    "concepts": [
+      "proper speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1646"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1719": {
+    "summary": "Objection that this implies contradictories signify exactly the same thing, contrary to the cardinal's article. Reply: the consequence is denied; the article's concern is that an intelligible disposed as required for the truth of one contradictory would be the same as that required for the other, and that the same intelligible verifies both, which is false since it would make B's being such identical with B's not being such.",
+    "claims": [
+      "Contradictories do not have the same verifying intelligible, consistent with the cardinal's article."
+    ],
+    "concepts": [
+      "condemned articles",
+      "contradictories",
+      "truthmakers"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1646"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1752": {
+    "summary": "Reply to the added confirmation: properly speaking, 'Peter is not Paul' does not signify some intelligible not to be posited except by likeness; it signifies that some intelligible is not identical with Paul. Similarly 'the unintelligible is unintelligible' signifies no intelligible object, and 'a chimera is not anything' signifies nothing removed.",
+    "claims": [
+      "Negative propositions do not signify a removed object, but the non-identity of posited things."
+    ],
+    "concepts": [
+      "negation",
+      "chimera",
+      "non-identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1105"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1779": {
+    "summary": "Reply to the fourth argument (that every false proposition would be true): the consequence is denied. That 'A's being B' is signified by D is false of the words' force if it is impossible, since no intelligible that is A-being-B is exhibited by D; it is true only that D signifies A and B affirmatively and that the dictum is equivalent to D, but then the argument commits a figure-of-speech fallacy, sliding from what is signified to how it is signified. Though every intelligible D signifies is posited, it is not posited as D's truth would require. For possible but false cases ('Peter is contiguous to Paul'), 'these things' being contiguous' is a potential intelligible that can be identical with the things but is not distinct from them, as Peter sitting is neither identical with nor distinct from Peter not sitting. Three senses of 'this disposition is signified by D' are distinguished; only the formal-signification sense is true, and then the inference is invalid.",
+    "claims": [
+      "A false proposition signifies existing things but not as they are; its falsity lies in how it signifies.",
+      "'Things' being otherwise' is a potential intelligible, neither identical with nor distinct from the things in act.",
+      "Arguments sliding from what is signified to how it is signified commit the fallacy of figure of speech."
+    ],
+    "concepts": [
+      "falsity",
+      "fallacy of figure of speech",
+      "non-identity without distinction",
+      "potential intelligibles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1105",
+        "D78nca-de4659-d1e1153",
+        "D78nca-de4659-d1e1186"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1961": {
+    "summary": "Replies to further confirmations: the first by the same reasoning; another by denying the minor, with reference to the previous question's reply to the first objection against its first and second conclusions.",
+    "claims": [],
+    "concepts": [
+      "cross-reference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1186",
+        "D78nca-de4659-d1e1208"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e1970": {
+    "summary": "Reply to the confirmation about modes of being: such modes do belong to the objective significate, since if things are so, 'these things' being so' is these things so disposed. But it follows only that some complexe significabile is not now identical with the existing things, though it can be, not that it is distinct from all actual or potential entities. Whether a mode is signified by D and not E must be distinguished: materially both signify it; formally only D's signification consists in affirming it. This yields only a distinction of signs or the non-identity of a thing so disposed and not so disposed, as Peter sitting and not sitting.",
+    "claims": [
+      "Modes of being are on the side of the significate but are just the things so disposed.",
+      "Contradictories differ formally in signification, not in signified objects."
+    ],
+    "concepts": [
+      "modes of being",
+      "material vs. formal signification",
+      "non-identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1228"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2033": {
+    "summary": "Reply to the fifth argument (names of figments): the antecedent is denied. A figment-name or an internally repugnant phrase signifies several intelligibles in such a way that it can be verified of none and can stand for none, as 'the unintelligible is intelligible'. 'Goat-stag' does not properly signify any impossible object except by likeness and the figure of speech, as if signifying something composed of incompossibles; it is called the name of an impossible object because no intelligible can correspond to it, so that it negates rather than posits correspondence. True statements about it are true by the denial of a corresponding object. The paragraph ends by introducing a counter-case: God actually sees an infinite line.",
+    "claims": [
+      "Figment-names signify possible intelligibles in a way that no object can verify them.",
+      "Truths about figments are true by the absence of a corresponding object."
+    ],
+    "concepts": [
+      "figmentum",
+      "hircocervus",
+      "empty names",
+      "negative truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e1228"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2111": {
+    "summary": "Objection: God sees an infinite fire (double, quadruple the size of A, etc.), which is impossible; so an intellection has an object formally impossible in itself. Replies: (1) God sees fires ever larger without end but not one infinite fire, as with numbers and figures, whose rationale involves termination; (2) God knows an infinite fire not as a per se object incomplexly present, but by way of negation (fire as not finite), without judging it possible; (3) or God sees an infinite fire because infinity is compatible with fire in successive actuality mixed with potency, as with future motion, so that fire can be increased indefinitely by addition, whereas circular or triangular figures exclude infinity per se because their rationale includes termination, and triangles are not composed of triangles. Even if figments had special objects, true or possible propositions still would not require objects beyond actual and possible entities.",
+    "claims": [
+      "God knows potential infinity of fire without seeing an actually infinite fire as a per se object.",
+      "Infinity is excluded per se from figures and numbers but not from quantity or fire in successive actuality.",
+      "Even granting objects for figments, true and possible propositions need no objects beyond actual and possible entities."
+    ],
+    "concepts": [
+      "divine knowledge",
+      "actual vs. potential infinite",
+      "augmentation",
+      "figure and number"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e2033"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2303": {
+    "summary": "Third article, first proposition: a true past-tense proposition such as 'Adam was' does not signify an intelligible distinct from all present, past, future, or possible incomplex entities. Proof: 'Adam's having been' (B) includes Adam (since a total significate is not disparate from the terms' significates); if it adds nothing beyond Adam and past time D (which is just things so disposed), the point follows; any added C would be neither complex nor incomplex. Moreover B is positive and actual (then an actual positive outside God which God could not remove, against omnipotence, and necessary not by reason of contingent Adam), merely potential (then Adam's having been would begin now, or be eternal in potency), or neither (a figment, a pure privation, or mixed). A privation would be the removal of something pre-existing (but with only God and a newly created Adam it would soon be true that Adam was), would be removable by God, and could not be the privation of Adam's being or of time D (since if past time returned it would still be true that Adam was, and 'Adam will be in D' would be the same aggregate).",
+    "claims": [
+      "Past-tense truths do not signify a distinct intelligible.",
+      "An actual necessary positive outside God that God could not remove would contradict omnipotence.",
+      "Adam's having been is not an aggregate of Adam and the negation of past time."
+    ],
+    "concepts": [
+      "past-tense propositions",
+      "necessity of the past",
+      "omnipotence",
+      "privation",
+      "time"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e153"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2453": {
+    "summary": "Second proposition: 'Adam's having been' is Adam past, i.e. Adam who was. As 'Adam's being' is Adam present (just as 'God's being' is God, from the preceding question), so 'Adam's having been' is Adam past and 'Adam's going to be' is Adam future.",
+    "claims": [
+      "'Adam's having been' is Adam past.",
+      "Tensed dicta are the thing under a temporal mode."
+    ],
+    "concepts": [
+      "past-tense significabilia",
+      "identity of significabile and thing",
+      "tense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e2303"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2466": {
+    "summary": "Further proofs of the second proposition: as Adam present relates to Adam past and future, so 'Adam's being' to 'Adam's having been' and 'will be'; the same intelligible is Adam who is, was, and will be. Alternatives fail: if 'Adam's having been' were past time D, it would not include Adam more than Peter; if an aggregate of Adam and past time, it would be impossible rather than necessary, God could create B with no time and it would immediately have been, and 'A's being' is not an aggregate with present time (God's being is eternal). If 'A's having been in D' were such an aggregate, 'A will be', 'A is', and 'A was' would be the same object successively, which tells against the opponents and indeed for Andreas, since nothing but A is first future, then present, then past. Conclusion: if 'Adam is Adam' is true when Adam no longer exists, 'Adam's having been' is always Adam; otherwise it is Adam past, Adam who was.",
+    "claims": [
+      "The same intelligible is first future, then present, then past.",
+      "'Adam's having been' is not past time nor an aggregate of Adam and time.",
+      "If 'Adam is Adam' holds after Adam's death, 'Adam's having been' is Adam simply; otherwise Adam past."
+    ],
+    "concepts": [
+      "tense",
+      "identity through time",
+      "aggregate",
+      "eternity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e2453"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2577": {
+    "summary": "Objection to the third article: the necessary and immutable is distinct from the contingent and mutable; Adam is contingent and mutable, but 'Adam's having been' is necessary (it is impossible that Adam not have been), and every incomplex entity other than God is contingent.",
+    "claims": [
+      "(Objection) The necessity of the past requires a necessary past-tense object distinct from contingent Adam."
+    ],
+    "concepts": [
+      "necessity of the past",
+      "immutability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e2303"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2597": {
+    "summary": "Confirmation: an intelligible that passes from possible to impossible and from non-necessary to necessary is distinct from all that do not; 'Adam's having been' is now necessary but was not, and 'Adam's not having been' is now impossible but was possible, while no incomplex entity so passes. The paragraph breaks off as the reply begins.",
+    "claims": [
+      "(Objection) Past-tense significabilia change modal status, unlike any entity."
+    ],
+    "concepts": [
+      "modal change",
+      "necessity of the past"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e2577"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2617": {
+    "summary": "Reply: that 'Adam's having been' is an intelligible is granted; that it is necessary rebounds on the opponents (is Adam past a necessary intelligible? if so, this man would be necessary). 'Adam's having been is necessary' is distinguished: that some intelligible is formally necessary in itself (denied, the divided sense), or that Adam cannot not have been, so that a past-tense enunciation about him cannot be false (granted, the composite sense). This denotes not a necessity of the object but the impossibility of any intelligible being Adam-who-was-not, or a necessity secundum quid, of the copula rather than the extreme, like 'a chimera necessarily is not', or like God's being 'newly creating' without anything new in God.",
+    "claims": [
+      "The necessity of the past is a necessity of the copula, not of an object.",
+      "'Adam's having been is necessary' is false in the divided sense and true in the composite sense."
+    ],
+    "concepts": [
+      "necessity of the past",
+      "necessity of the copula",
+      "composite and divided sense",
+      "chimera"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e2577"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2692": {
+    "summary": "Reply to the confirmation: properly no intelligible passes from non-necessary to necessary (as impossible as Adam's passing from non-necessary to necessary being); rather Adam passes from not necessarily having been to necessarily having been, which is no formal necessity of an object. Nor does an intelligible become impossible, which would contradict divine power; it is a quasi-logical impossibility of the copula. Necessity may be taken logically (as a mode of affirmation or negation, in which sense 'Peter necessarily was' is necessarily true) or metaphysically: properly as real necessity of being (false of 'A's having been'), or broadly and secundum quid, as 'a chimera necessarily is not' (granted, but only metaphorically and by proportion to true necessities of being). This answers the question.",
+    "claims": [
+      "Logical necessity (of enunciations) differs from metaphysical necessity of being.",
+      "The necessity of the past is only metaphorical, by proportion to real necessity."
+    ],
+    "concepts": [
+      "logical vs. metaphysical necessity",
+      "necessity secundum quid",
+      "modal change"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e2597"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2766": {
+    "summary": "Fourth article, first proposition: 'the Antichrist's going to be' is not an intelligible terminating apprehension distinct from all present and future incomplex entities. Proof: its intelligible B is either merely potential and future (then it is just the future Antichrist), or already present (then since it was present yesterday, it is now necessary that it was, and so necessary that Antichrist will be), or neither. The analogous argument does not apply to the proposition's present truth, since that is just the proposition. Also: if B could be removed (since Antichrist might not come) it would be with or without change; with change it would be actual; without, it was nothing but the future Antichrist. Nor can B be a privation: not of Antichrist, nor of his being (A's being and A's future being coexist), nor of time D.",
+    "claims": [
+      "Future-tense truths do not signify a distinct intelligible.",
+      "If a present future-tense object existed, future contingents would become necessary."
+    ],
+    "concepts": [
+      "future contingents",
+      "Antichrist",
+      "necessity of the past",
+      "privation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e153"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2888": {
+    "summary": "Adds that the arguments from the preceding article also apply.",
+    "claims": [],
+    "concepts": [
+      "cross-reference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e2766",
+        "D78nca-de4659-d1e2303"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2893": {
+    "summary": "Second proposition: the intelligible 'the Antichrist's going to be' is the future Antichrist himself, proportionally to the past case. Otherwise A's first being future, then present, then past would be distinct objects, contrary to Lombard (d.42): God's knowing a man to be born and later knowing him born is not knowing different things; as the fathers believed Christ would be born and we believe he is born, we do not believe different things, only signify them by tomorrow, today, yesterday. Lombard also rejects 'God could be incarnate and now cannot, so he could what he cannot'.",
+    "claims": [
+      "'The Antichrist's going to be' is the future Antichrist himself.",
+      "Knowing or believing something as future and as past is knowing or believing the same thing (Lombard)."
+    ],
+    "concepts": [
+      "future-tense significabilia",
+      "divine knowledge",
+      "Lombard d.42",
+      "faith of the fathers"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e2766",
+        "D78nca-de4659-d1e2453"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e2950": {
+    "summary": "Continues Lombard: God always knows, wills, and can whatever he once knew, willed, or could; as he could be incarnate, so he can now have been incarnate, the same power being shown. If tensed significabilia were distinct objects, the opponents' arguments would show God once knew what he now does not and could what he now cannot. Objection to the fourth article: 'Antichrist's going to be' is contingent and immutable (falsity cannot succeed truth in a future-tense proposition before the event), but no incomplex entity is both, since an immutable entity is necessary like God and a contingent one mutable like a creature.",
+    "claims": [
+      "God always knows, wills, and can what he once knew, willed, or could.",
+      "(Objection) Future-tense significabilia are contingent yet immutable, unlike any entity."
+    ],
+    "concepts": [
+      "divine immutability",
+      "Lombard",
+      "future contingents",
+      "contingency and immutability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e2893"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3016": {
+    "summary": "Confirmation: no created entity differs from another as contingent from necessary, but 'A will be' and 'A was' differ so. Also, the second proposition would make 'A is', 'A will be', and 'A was' the same intelligible, which is false: Christ's having been incarnate is not his being going to be incarnate, and Peter's going to be was eternal a parte ante but not post, his having been will be eternal a parte post but not ante. Begins the reply: it is granted that the Antichrist's going to be is contingent.",
+    "claims": [
+      "(Objection) Identity of tensed significabilia would collapse past, present, and future."
+    ],
+    "concepts": [
+      "eternity a parte ante/post",
+      "incarnation",
+      "tense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e2950"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3053": {
+    "summary": "Reply to the first objection: 'the Antichrist's going to be' is contingent, neither formally necessary nor impossible, with contingency both of the extreme (the object) and of the copula. Its immutability must be distinguished as with 'A's having been is necessary', just as one would distinguish 'the divine will or acceptance is mutable'.",
+    "claims": [
+      "Future contingents involve contingency of both object and copula.",
+      "Immutability of future truths is a matter of the copula, not the object."
+    ],
+    "concepts": [
+      "future contingents",
+      "contingency of copula",
+      "divine will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e2950"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3075": {
+    "summary": "Reply to the confirmation and the second objection: if A exists now and was and will be, 'A will be', 'A is', and 'A was' are the same, as the same A is past, present, and future. If A was and is not and will not be, they are not the same, but neither are they distinct intelligibles; they are potentially the same, as Peter sitting and Peter not sitting. Thus 'Christ's having been incarnate' is not 'Christ's going to be incarnate' (Christ to-be-incarnate is nothing now), yet the intelligible that is now Christ's having been incarnate is the same as what once was Christ's going to be incarnate, as 'Peter the boy' and 'Peter the old man'.",
+    "claims": [
+      "Tensed significabilia of an existing thing are the same intelligible.",
+      "What was once 'Christ's going to be incarnate' is now 'Christ's having been incarnate'."
+    ],
+    "concepts": [
+      "identity through time",
+      "incarnation",
+      "non-identity without distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3016"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3149": {
+    "summary": "Fifth article (contingent de inesse truths): the answer and proof parallel those for necessary and impossible propositions, with fuller treatment in Distinction 2.",
+    "claims": [
+      "Contingent de inesse truths do not signify distinct complex intelligibles."
+    ],
+    "concepts": [
+      "contingent propositions",
+      "cross-reference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e153"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3162": {
+    "summary": "Objection to the fifth article: what God knows eternally and necessarily differs from what he does not; every incomplex entity, actual or potential, is so known; but 'A's being really and presently white at instant A' is not known by God eternally and necessarily, else A would be white from eternity, or, since God's knowing it entails it, the consequent would be absolutely true.",
+    "claims": [
+      "(Objection) Contingent present-tense truths are not eternally and necessarily known by God, unlike entities."
+    ],
+    "concepts": [
+      "divine foreknowledge",
+      "contingency",
+      "eternity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3149"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3200": {
+    "summary": "Confirmations: (1) what is naturally and necessarily represented in the divine essence differs from what is represented freely; incomplex entities are necessarily represented, but some contingent complexe significabilia only by the free determination of the divine will. (2) The divine intellect now judges A to be at instant B, formerly judged A to be future, and later will judge it past; either it judges different objects or judges differently, which would introduce variation into the divine intellection; so the objects differ.",
+    "claims": [
+      "(Objection) Variation in God's tensed judgments requires distinct objects, since God's cognition cannot vary."
+    ],
+    "concepts": [
+      "divine immutability",
+      "free determination of the will",
+      "tensed knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3162"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3257": {
+    "summary": "Further confirmation: 'A's being', 'A's going to be', and 'A's having been' at instant B are either the same object or not; if not, God judges different objects but not different incomplex entities, so they are distinct from A; and they cannot be the same since each implies the negation of the others and they are incompossible.",
+    "claims": [
+      "(Objection) Incompossible tensed significabilia cannot be the same object."
+    ],
+    "concepts": [
+      "incompossibility",
+      "tense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3200"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3279": {
+    "summary": "Reply by parity to the first objection: it would prove Peter existing at instant A is not Peter, since Peter is eternally and necessarily known and represented in the divine essence, but Peter actually existing at A is not.",
+    "claims": [
+      "The objection proves too much by parity."
+    ],
+    "concepts": [
+      "parity argument",
+      "divine knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3162"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3292": {
+    "summary": "By the same reasoning, Peter's moving quickly would not be Peter's moving, since God knows Peter moves all day but quickly only for an hour.",
+    "claims": [],
+    "concepts": [
+      "parity argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3162"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3303": {
+    "summary": "Likewise, this white thing that is similar to B or square would not be the same as the white similar or square thing, since I may see the white for an hour but not the similar or square, which within the hour becomes dissimilar or not square.",
+    "claims": [],
+    "concepts": [
+      "parity argument",
+      "relations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3162"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3316": {
+    "summary": "Main reply: the second part of the minor is denied. 'A's being white at B is not known by God necessarily from eternity' means either that the intelligible which in fact is A's being white at B is not eternally known (denied: every intelligible, complex or incomplex, future or not, is eternally and necessarily represented to the divine intellect, nothing escapes it) or that God did not eternally judge A to be actually at B (granted, in the composite sense): God contingently and newly judges A to be, as he contingently wills and gives being to A. This does not mean God knows a new intelligible, but that what he judged future he now judges present (Lombard d.41, 44); taken so, the argument commits the figure-of-speech fallacy.",
+    "claims": [
+      "Every intelligible is eternally and necessarily represented to God.",
+      "God's judgments about the present are contingent and new, like his giving being, without a new object or change in God."
+    ],
+    "concepts": [
+      "divine knowledge",
+      "contingent divine judgment",
+      "composite and divided sense",
+      "fallacy of figure of speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3162"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3391": {
+    "summary": "Applies the reply to a reformulation: from 'Peter is known by God necessarily from eternity' and 'Peter's being now at B is not so known' it does not follow that 'Peter's being now at B' is not Peter, but only that Peter is not necessarily and eternally 'Peter's being at B'.",
+    "claims": [
+      "The argument yields only a modal conclusion."
+    ],
+    "concepts": [
+      "modal inference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3316"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3404": {
+    "summary": "Reply to the first confirmation by the same reasoning. The second confirmation is retorted: if B is the complexe significabile of 'Peter exists at D', God now knows B to be posited, which he formerly did not (only that it would be); so the opponents must also distinguish 'B will be' from 'B is', and the regress follows (B's being, B's future, etc., without end). The minor is denied: it suffices that God knows the intelligible to be disposed otherwise than before, with neither diversity of objects nor of cognition, only the non-identity by which a being so is not the same as a being not so, though the thing now so is the same as what formerly was not.",
+    "claims": [
+      "God's tensed knowledge involves neither diverse objects nor diverse cognitions, only non-identity of dispositions.",
+      "Positing distinct tensed objects generates an infinite regress."
+    ],
+    "concepts": [
+      "divine knowledge",
+      "regress",
+      "non-identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3200"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3469": {
+    "summary": "Reply to the further confirmation: pastness and futurity are said by relation to the present. If 'A will be at B', 'A is at B', and 'A was at B' are taken relative to the same present, they are not the same intelligible but neither are they diverse objects, since they cannot be simultaneously verified (as with Peter sitting and not sitting), and God does not know another intelligible. If referred to different times, they are wholly the same intelligible, given A is now at B: what is now A's being at B was earlier A's going to be and will later be A's having been.",
+    "claims": [
+      "Tensed significabilia relative to the same present are non-identical but not diverse; relative to different times they are the same intelligible."
+    ],
+    "concepts": [
+      "tense",
+      "indexical present",
+      "non-identity without distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3257"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3513": {
+    "summary": "Note: if 'A is A' is true when A does not exist, then 'A's having been' and 'A's going to be' are A, whether A exists or not. If self-affirmation is false of a non-existent, then 'A will be' and 'A was' are simply A only if A was, is, and will be; if A does not exist but was or will be, 'A will be' is A future and 'A was' is A past, not A simply.",
+    "claims": [
+      "Whether tensed significabilia are A simply depends on whether 'A is A' holds of non-existents."
+    ],
+    "concepts": [
+      "existential import",
+      "tense",
+      "self-predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3469",
+        "D78nca-de4659-d1e2466"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3533": {
+    "summary": "Sixth article (propositions de possibili): the answer parallels the first two articles. 'The angel's being able to be' is nothing but the possible angel, since 'the angel's being' is the angel existing (from the preceding question and d.2), and as being relates to the existing angel, so being-able-to-be to the possible angel.",
+    "claims": [
+      "'The angel's being able to be' is the possible angel."
+    ],
+    "concepts": [
+      "possibility",
+      "de possibili propositions",
+      "identity of significabile and thing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e153"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3560": {
+    "summary": "Further proofs: if 'the angel's being able to be' were a distinct intelligible B, it is either actual and positive (then necessary positives would exist outside God from eternity, against divine freedom and omnipotence, and it would include the non-actual angel), or merely possible (then it is just the possible angel, or else the angel would begin to be able to be, and 'an angel can be' would be only potentially true), or neither (a figment). An objection that the same argument shows the proposition false on Andreas's view is answered: it is true because it signifies not that something is posited but that it can be. Nor is it a privative intelligible, since then 'the angel to be produced' would be the same privation. Finally, 'God's being able to create' is God able to create (an infinite power and pure perfection, not an aggregate with creatures), so 'the angel's being able to be created' is the possible angel.",
+    "claims": [
+      "Possibility-propositions are true because they signify that something can be posited, not that something is posited.",
+      "'God's being able to create' is God as able to create, a pure perfection."
+    ],
+    "concepts": [
+      "possibility",
+      "omnipotence",
+      "divine freedom",
+      "truth of modal propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3533"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3669": {
+    "summary": "Confirmation as before for 'God's being able to create'. Then objections that 'the angel's being able to be' is not the possible angel: first, it is nothing but 'God's being able to produce the angel'; otherwise the angel to be created would be possible by its own intrinsic potency and not only by extrinsic denomination from divine power, against Anselm (De casu diaboli 12), who says the world before creation was possible by another's power and impossible by its own.",
+    "claims": [
+      "(Objection) Creatures' possibility is only extrinsic, from divine power (Anselm)."
+    ],
+    "concepts": [
+      "extrinsic denomination",
+      "objective potency",
+      "Anselm De casu diaboli"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3560"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3709": {
+    "summary": "Second objection: the possible angel is an intelligible posited only in potency, but 'the angel's being able to be' is posited in act; otherwise 'angel B can be' would not be actually true, since a proposition is actually true only if things are actually as it signifies.",
+    "claims": [
+      "(Objection) Possibility must be actual for possibility-claims to be actually true."
+    ],
+    "concepts": [
+      "actuality of possibility",
+      "truth conditions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3669"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3731": {
+    "summary": "Further: otherwise B's being able to be would be in potency, and there would be a potency to possibility as to act.",
+    "claims": [
+      "(Objection) A regress of potencies to possibilities would follow."
+    ],
+    "concepts": [
+      "potency",
+      "regress"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3709"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3738": {
+    "summary": "Third: if not posited in act but posited later, 'the angel's being able to be' would begin, and what was impossible would become possible; but if it is now true that B can be, it was true from eternity.",
+    "claims": [
+      "(Objection) Possibility cannot begin."
+    ],
+    "concepts": [
+      "eternity of possibility",
+      "beginning"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3709"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3749": {
+    "summary": "Third principal objection: 'God's being able to create B' is not God able to create, so 'B's being able to be created' is not B. Proofs: (1) when the angel is actually created, God's being able to create it is removed, since potency yields to act (Averroes, Physics I; Metaphysics IX), implying change in God; (2) God's being able to heat and to chill would be the same, hence heating and chilling (against Physics III: being able to be healed and to be ill differ); (3) 'God's not being able to create a chimera' would be God, but that is no pure perfection since it belongs to a stone.",
+    "claims": [
+      "(Objection) Identifying God's possibilities with God introduces change and conflates contraries."
+    ],
+    "concepts": [
+      "potency and act",
+      "divine immutability",
+      "Aristotle Physics III",
+      "pure perfection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3533"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3792": {
+    "summary": "Fourth principal objection: the possible angel is the angel ('an angel is an angel' is necessary, like 'man is an animal', which the cardinal's article holds necessary), but 'the angel's being able to be' is not the angel, since it remains when the angel is annihilated (being necessary and eternal), and Peter's being able to be is not Peter's being.",
+    "claims": [
+      "(Objection) The angel's possibility survives its annihilation and so is not the angel."
+    ],
+    "concepts": [
+      "annihilation",
+      "necessity of essential predication",
+      "condemned articles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3533"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3824": {
+    "summary": "Reply to the first objection: the antecedent is denied and the consequent of the proof granted: the angel to be created is formally and intrinsically possible by objective potency, and nothing is effectively possible by extrinsic power unless intrinsically possible by its own passive or objective potency, for these are correlatives; else God could make a chimera. Anselm means only that the uncreated world had no possibility through some power other than God or inhering in a real subject, as a pre-existing subject has potency to change; before creation there was nothing underlying except God.",
+    "claims": [
+      "Extrinsic (active) possibility presupposes intrinsic objective possibility; God can make only what is intrinsically possible.",
+      "Anselm denies only a subjective potency in a pre-existing subject."
+    ],
+    "concepts": [
+      "objective potency",
+      "active and passive potency",
+      "Anselm",
+      "chimera"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3669"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3879": {
+    "summary": "Reply to the second objection: the minor is denied.",
+    "claims": [],
+    "concepts": [
+      "actuality of possibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3709"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3884": {
+    "summary": "Reply to the first proof: if a proposition signifies things to be so and they are not, it is false; but a possibility-proposition signifies only that things can be so, and is actually true though its verifying intelligible is not posited, just as 'A was' is true because things were as it signifies they were. Taken broadly, things are actually as the proposition signifies, since it signifies its significate as able to be.",
+    "claims": [
+      "Modal and tensed propositions are true by things' being able to be or having been as signified, not by present actuality."
+    ],
+    "concepts": [
+      "truth conditions",
+      "modal propositions",
+      "tense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3709"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3921": {
+    "summary": "Reply to the second proof: 'B's being able to be is in potency' has two senses: that the intelligible imported by 'B can be' (by objective potency) can be actual though it is not (granted; it amounts to 'what can be can be', no more awkward than act being sometimes actual and sometimes not); or that it is not actually true that B can be, but only possibly true (denied).",
+    "claims": [
+      "It is actually true that a possible angel can be."
+    ],
+    "concepts": [
+      "objective potency",
+      "modal iteration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3731"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e3952": {
+    "summary": "Reply to the third proof: positing this intelligible in act is positing angel B in act, not making B newly able to be; so it is denied that 'B's being able to be' begins, as a possible future angel's being posited does not mean it begins to be possible. 'Posited only in potency' is granted in the sense of the potency by which B can be, denied for a potency to be able. 'Actual positive' is denied in the sense of real act of being, granted in the sense that it is in fact true that B can be. Reply to the third principal objection: taking potency as non-repugnance to act, abstracting from act and its negation, the assumption is denied (God's being is possible in this sense); taking it as negation of act with non-repugnance, 'God's being able to create is removed by actual creation' is false in the divided sense, true in the composite, yielding only that God is not always 'God's being able to create B'.",
+    "claims": [
+      "The actualization of a possible is not the beginning of its possibility.",
+      "Potency as non-repugnance to act is not removed by act."
+    ],
+    "concepts": [
+      "potency as non-repugnance",
+      "composite and divided sense",
+      "actualization"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3738",
+        "D78nca-de4659-d1e3749"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e4029": {
+    "summary": "Reply to the second proof: both consequents are granted (if God in fact heats one thing and chills another, they are the same by accident, contingently, and with respect to different things). Aristotle's point concerns passive, subjective potency: if being able to be healed and to be ill were terminatively the same as they are subjectively, healing and illness would be the same; or no subject can have potency to both together; or they differ in rationale, not quidditatively, as Aristotle says motion is the act of bronze not as bronze but as potential.",
+    "claims": [
+      "God's powers to produce contraries are the same per accidens and with respect to different effects.",
+      "Aristotle's distinction concerns passive potencies differing in rationale."
+    ],
+    "concepts": [
+      "active and passive potency",
+      "contraries",
+      "Aristotle Physics III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3749"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e4086": {
+    "summary": "Reply to the third proof: the consequent is granted. If the subject is taken simply, 'not being able to produce a chimera' is not a predicable that per se signifies a pure perfection, which yields only a distinction of predicables; taken personally, some not-being-able-to-produce-a-chimera (God's) is a pure perfection and some (a stone's) is not.",
+    "claims": [
+      "God's inability to produce a chimera is a pure perfection, while a stone's is not."
+    ],
+    "concepts": [
+      "pure perfection",
+      "personal vs. simple supposition",
+      "chimera"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3749"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e4110": {
+    "summary": "Reply to the fourth principal objection: if 'angel is angel' is true when the angel does not exist, the minor is denied. By parity the possible angel would not be the angel. 'When B is removed, B's being able to be is not removed' means either that the intelligible imported by it is not removed from actual existence (denied, it is removed as is B's being possible) or that B does not cease to be able to be (granted, but on that view neither does it cease to be an angel). Similarly 'sin's being able to be is sin' depends on taking 'able' for the subjective or effective potency (to sin, and then the negative is granted) or the objective potency of sin itself. If 'B is angel' is false when B does not exist, the principal major is to be denied.",
+    "claims": [
+      "The angel's possibility and the angel stand or fall together, depending on the treatment of non-existents.",
+      "Subjective/effective potency to sin is distinct from the objective possibility of sin."
+    ],
+    "concepts": [
+      "annihilation",
+      "existential import",
+      "subjective vs. objective potency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3792"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e4171": {
+    "summary": "Reply to the proof from the article: the cardinal's article condemns denying that 'man is an animal' is necessary according to faith, since the risen Christ cannot die, and it is necessary by the necessary connection of terms, opposed to the contingency by which something could be a man and not an animal. Anselm (De concordia 2) states this necessity: a thing is not necessarily present, but a present thing is necessarily present; wood is not necessarily white, but white wood is necessarily white; 'every man is a man' is necessary because nothing can simultaneously be and not be. This is the necessity of the connection of terms, not of the thing's existence.",
+    "claims": [
+      "The necessity of 'man is an animal' is a necessity of connection of terms, not of existence.",
+      "A present thing is necessarily present, though not necessarily existent (Anselm)."
+    ],
+    "concepts": [
+      "necessity of connection of terms",
+      "conditional necessity",
+      "Anselm De concordia",
+      "condemned articles",
+      "resurrection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e3792"
+      ]
+    }
+  },
+  "D78nca-de4659-d1e4234": {
+    "summary": "Concluding diagnosis: just as some, observing that we form individual, specific, and general concepts of singulars, imagined corresponding distinct universal objects outside the mind and asked what and where they are, so others, observing that we form complex and incomplex, affirmative and negative, true and false, contingent, necessary, impossible, present and future apprehensions, imagined a corresponding diversity of complexly signifiable objects, since the diversity could not be located in incomplex things. But this holds only by likeness and our mode of understanding, as some also imagine simple forms corresponding to every concrete predicate. Further treatment in d.2, d.3, and d.30.",
+    "claims": [
+      "The theory of complexe significabilia projects the diversity of our apprehensions onto reality, as realism about universals does.",
+      "The diversity belongs to our modes of understanding, not to distinct objects."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "universals",
+      "projection of mental structure",
+      "mode of understanding"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "D78nca-de4659-Hd1e111",
+        "D78nca-de4659-d1e153"
+      ]
+    }
+  },
+  "D78nca-de4659": {
+    "summary": "Final question of the prologue, asking whether 'some faithful person's having merited through study of theology' is an intelligible distinct from all things existing in act or potency. Andreas generalizes the inquiry into six articles, covering propositions that are necessary about contingents ('Peter is not Paul'), impossible ('Peter is Paul'), past-tense ('Adam was'), future-tense ('Antichrist will be'), contingent de inesse, and de possibili, and in each case denies that they signify a complexe significabile distinct from all actual or possible incomplex entities. His recurring arguments are: a trilemma (positive, privative, or mixed) for any such object; the absurdity of an actual necessary positive outside God that God could not remove; inclusion of the terms' significates; location; parsimony and regress; and the coherence of truth and falsity. On the positive side, he explains the necessity of 'Peter is not Paul' or of the past as a necessity of the copula or connection of terms, not of an object (necessity secundum quid, like 'a chimera necessarily is not'); identifies tensed dicta with the thing under a temporal mode ('Adam's having been' is Adam past; 'Antichrist's going to be' is the future Antichrist), with support from Lombard's teaching that God knows and can always what he once knew and could; holds that impossible propositions and figment-names (hircocervus) have no object at all and are true or false by the denial of a corresponding object; distinguishes five senses of a proposition's 'total significate'; and explains God's contingent, tensed knowledge as involving neither new objects nor variation in the divine intellect but only non-identity of dispositions (like Peter sitting and Peter not sitting, which are neither identical nor distinct). Possibility claims are true because their objects can be posited, and creatures are intrinsically possible by objective potency. Discussions of God's knowledge of an infinite fire and of Anselm's views on necessity and possibility are worked in along the way. The question closes by diagnosing the theory of complexe significabilia as a projection of the diversity of our apprehensions onto reality, parallel to realism about universals.",
+    "claims": [
+      "No true, false, necessary, impossible, past, future, contingent, or modal proposition signifies a complexe significabile distinct from all actual or possible incomplex entities.",
+      "The necessity of negative truths about contingents and of the past is a necessity of the copula or of term-connection, not of any object.",
+      "Tensed significabilia are the thing itself as past or future ('Adam's having been' is Adam past).",
+      "Impossible propositions and figment-names have no corresponding object.",
+      "God's contingent and tensed knowledge involves no new objects and no change in the divine intellect.",
+      "The theory of complexe significabilia mistakes features of our modes of apprehension for features of reality, as realism about universals does."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "necessity of the past",
+      "future contingents",
+      "impossible objects",
+      "total significate",
+      "objective potency",
+      "divine foreknowledge",
+      "non-identity without distinction",
+      "nominalist parsimony"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "D78nca-de4659-d1e114",
+        "D78nca-de4659-d1e130",
+        "D78nca-de4659-d1e141",
+        "D78nca-de4659-d1e153",
+        "D78nca-de4659-d1e194",
+        "D78nca-de4659-d1e246",
+        "D78nca-de4659-d1e294",
+        "D78nca-de4659-d1e346",
+        "D78nca-de4659-d1e360",
+        "D78nca-de4659-d1e404",
+        "D78nca-de4659-d1e448",
+        "D78nca-de4659-d1e498",
+        "D78nca-de4659-d1e507",
+        "D78nca-de4659-d1e525",
+        "D78nca-de4659-d1e565",
+        "D78nca-de4659-d1e626",
+        "D78nca-de4659-d1e655",
+        "D78nca-de4659-d1e762",
+        "D78nca-de4659-d1e778",
+        "D78nca-de4659-d1e809",
+        "D78nca-de4659-d1e874",
+        "D78nca-de4659-d1e892",
+        "D78nca-de4659-d1e914",
+        "D78nca-de4659-d1e932",
+        "D78nca-de4659-d1e991",
+        "D78nca-de4659-d1e1094",
+        "D78nca-de4659-d1e1105",
+        "D78nca-de4659-d1e1153",
+        "D78nca-de4659-d1e1186",
+        "D78nca-de4659-d1e1208",
+        "D78nca-de4659-d1e1228",
+        "D78nca-de4659-d1e1303",
+        "D78nca-de4659-d1e1412",
+        "D78nca-de4659-d1e1458",
+        "D78nca-de4659-d1e1469",
+        "D78nca-de4659-d1e1491",
+        "D78nca-de4659-d1e1511",
+        "D78nca-de4659-d1e1595",
+        "D78nca-de4659-d1e1615",
+        "D78nca-de4659-d1e1646",
+        "D78nca-de4659-d1e1714",
+        "D78nca-de4659-d1e1719",
+        "D78nca-de4659-d1e1752",
+        "D78nca-de4659-d1e1779",
+        "D78nca-de4659-d1e1961",
+        "D78nca-de4659-d1e1970",
+        "D78nca-de4659-d1e2033",
+        "D78nca-de4659-d1e2111",
+        "D78nca-de4659-d1e2303",
+        "D78nca-de4659-d1e2453",
+        "D78nca-de4659-d1e2466",
+        "D78nca-de4659-d1e2577",
+        "D78nca-de4659-d1e2597",
+        "D78nca-de4659-d1e2617",
+        "D78nca-de4659-d1e2692",
+        "D78nca-de4659-d1e2766",
+        "D78nca-de4659-d1e2888",
+        "D78nca-de4659-d1e2893",
+        "D78nca-de4659-d1e2950",
+        "D78nca-de4659-d1e3016",
+        "D78nca-de4659-d1e3053",
+        "D78nca-de4659-d1e3075",
+        "D78nca-de4659-d1e3149",
+        "D78nca-de4659-d1e3162",
+        "D78nca-de4659-d1e3200",
+        "D78nca-de4659-d1e3257",
+        "D78nca-de4659-d1e3279",
+        "D78nca-de4659-d1e3292",
+        "D78nca-de4659-d1e3303",
+        "D78nca-de4659-d1e3316",
+        "D78nca-de4659-d1e3391",
+        "D78nca-de4659-d1e3404",
+        "D78nca-de4659-d1e3469",
+        "D78nca-de4659-d1e3513",
+        "D78nca-de4659-d1e3533",
+        "D78nca-de4659-d1e3560",
+        "D78nca-de4659-d1e3669",
+        "D78nca-de4659-d1e3709",
+        "D78nca-de4659-d1e3731",
+        "D78nca-de4659-d1e3738",
+        "D78nca-de4659-d1e3749",
+        "D78nca-de4659-d1e3792",
+        "D78nca-de4659-d1e3824",
+        "D78nca-de4659-d1e3879",
+        "D78nca-de4659-d1e3884",
+        "D78nca-de4659-d1e3921",
+        "D78nca-de4659-d1e3952",
+        "D78nca-de4659-d1e4029",
+        "D78nca-de4659-d1e4086",
+        "D78nca-de4659-d1e4110",
+        "D78nca-de4659-d1e4171",
+        "D78nca-de4659-d1e4234"
+      ]
+    }
+  }
+}
